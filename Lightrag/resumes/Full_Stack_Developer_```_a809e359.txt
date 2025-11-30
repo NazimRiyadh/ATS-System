@@ -1,0 +1,49 @@
+```
+Johnathan Techwell
+Email: johny.techwell@email.com | Phone: (555) 987-6543 | LinkedIn: linkedin.com/in/johnathan-techwell | GitHub: github.com/johntechwell
+
+Summary
+Passionate Full Stack Developer with over 5 years of experience in building robust web applications and driving projects from concept to deployment. Proficient in both front-end and back-end technologies with a strong foundation in user experience and responsive design. Adept at collaborating with cross-functional teams to deliver innovative solutions that meet user needs and enhance productivity.
+
+Experience
+
+Senior Full Stack Developer
+Innovatech Solutions, San Francisco, CA
+March 2021 - Present
+- Lead the development of a scalable e-commerce platform using React and Node.js, resulting in a 30% increase in user engagement.
+- Collaborated with UX/UI designers to implement responsive designs and a seamless user experience.
+- Mentored junior developers and conducted code reviews that improved the team's coding standards and reduced bugs by 25%.
+
+Full Stack Developer
+TechFusion Inc., Austin, TX
+January 2019 - February 2021
+- Developed and maintained multiple web applications using Angular, Express, and MongoDB, reducing load times by 40%.
+- Integrated third-party APIs to enhance application functionalities, including payment gateways and social media services.
+- Participated in Agile development processes, contributing to sprint planning and retrospectives to improve team efficiency.
+
+Junior Web Developer
+CreativeWeb Agency, Boston, MA
+June 2017 - December 2018
+- Assisted in the design and development of client websites using HTML, CSS, and JavaScript, ensuring cross-browser compatibility.
+- Worked closely with clients to gather requirements and provided technical support, maintaining a high customer satisfaction rate.
+- Conducted thorough testing and debugging to ensure optimal performance of web applications.
+
+Skills
+Technical Skills:
+- Languages: JavaScript, Python, HTML5, CSS3
+- Frameworks: React, Angular, Node.js, Express
+- Databases: MongoDB, MySQL
+- Tools: Git, Docker, Webpack, Jenkins
+- Cloud Services: AWS, Heroku
+
+Soft Skills:
+- Strong problem-solving abilities
+- Excellent communication and collaboration
+- Adaptable and quick to learn new technologies
+- Detail-oriented with a focus on user experience
+
+Education
+Bachelor of Science in Computer Science
+University of California, Los Angeles (UCLA)
+Graduated: May 2017
+```

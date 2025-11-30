@@ -1,0 +1,76 @@
+**Jason C. Devlin**  
+[Phone: (555) 123-4567]  
+[Email: jason.devlin@email.com]  
+[LinkedIn: linkedin.com/in/jasoncdevlin]  
+[Location: San Francisco, CA]
+
+---
+
+**Summary**  
+Dedicated and innovative DevOps Engineer with over 6 years of experience in automating, optimizing processes, and improving system reliability. Proven track record of collaboration with development and operations teams to enhance development workflows and streamline deployments. Strong advocate for continuous integration/continuous deployment (CI/CD) practices and cloud infrastructure management. Passionate about leveraging technology to drive operational excellence and provide seamless user experiences.
+
+---
+
+**Experience**
+
+**Senior DevOps Engineer**  
+TechSolutions Inc. | San Francisco, CA  
+March 2021 – Present  
+- Spearheaded the adoption of CI/CD pipelines using Jenkins and GitLab CI, reducing deployment times by 40%.  
+- Implemented container orchestration with Kubernetes, enhancing application scalability and availability.  
+- Collaborated with development teams to design infrastructure as code (IaC) solutions using Terraform and AWS CloudFormation, leading to more consistent environments.  
+- Established monitoring and alerting through Prometheus and Grafana, resulting in a 30% decrease in downtime incidents.
+
+**DevOps Engineer**  
+Innovatech Labs | Austin, TX  
+January 2019 – February 2021  
+- Developed automated deployment scripts using Ansible, increasing deployment efficiency and reducing manual errors by 60%.  
+- Actively participated in Agile methodologies, facilitating sprint meetings and ensuring cross-functional team alignment.  
+- Managed cloud infrastructure on AWS, optimizing resource utilization and cost management through effective tagging and reporting.  
+- Conducted training sessions on DevOps best practices for junior engineers, fostering a culture of continuous improvement.
+
+**Systems Administrator**  
+Global IT Services | Dallas, TX  
+June 2016 – December 2018  
+- Maintained and monitored Linux and Windows servers, ensuring system integrity and uptime of over 99.5%.  
+- Automated routine tasks with shell scripts, improving operational efficiency by freeing up 20 hours of manual work per week.  
+- Provided technical support and troubleshooting for over 300 end-users, enhancing overall customer satisfaction.  
+- Assisted in capacity planning and performance tuning to support growing infrastructure needs.
+
+---
+
+**Skills**
+
+*Technical Skills:*  
+- CI/CD Tools: Jenkins, GitLab CI  
+- Containerization: Docker, Kubernetes  
+- Scripting Languages: Bash, Python, Groovy  
+- Configuration Management: Ansible, Puppet  
+- Cloud Platforms: AWS, Azure, Google Cloud  
+- Infrastructure as Code: Terraform, AWS CloudFormation  
+- Version Control: Git, GitHub, Bitbucket  
+- Monitoring Tools: Prometheus, Grafana, ELK Stack  
+
+*Soft Skills:*  
+- Effective communication and collaboration  
+- Problem-solving and critical thinking  
+- Time management and organizational skills  
+- Adaptability in fast-paced environments  
+- Strong leadership and team-building capabilities  
+
+---
+
+**Education**
+
+**Bachelor of Science in Computer Science**  
+University of California, Berkeley | Berkeley, CA  
+Graduated: May 2016  
+
+**Certifications**  
+- AWS Certified Solutions Architect – Associate  
+- Certified Kubernetes Administrator (CKA)  
+- HashiCorp Certified: Terraform Associate  
+
+--- 
+
+[References available upon request]

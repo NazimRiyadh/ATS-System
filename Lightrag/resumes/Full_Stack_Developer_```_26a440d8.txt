@@ -1,0 +1,63 @@
+```
+Johnathan "J.J." Blaze
+Location: San Francisco, CA
+Email: jjblaze@email.com
+Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/jjblaze
+
+------------------------------
+SUMMARY
+------------------------------
+Passionate Full Stack Developer with over 5 years of experience in designing, developing, and implementing web applications. Proficient in both front-end and back-end technologies, with a strong focus on user-friendly interfaces and robust server-side performance. Adept at collaborating with clients and cross-functional teams to deliver optimal solutions that drive business success.
+
+------------------------------
+EXPERIENCE
+------------------------------
+
+Full Stack Developer  
+Tech Innovations Inc. – San Francisco, CA  
+June 2021 – Present  
+- Developed and maintained scalable web applications using React, Node.js, and MongoDB.
+- Collaborated with UX/UI designers to optimize application performance and user experience, resulting in a 20% increase in user engagement.
+- Implemented RESTful APIs to enhance data communication between front-end and back-end services.
+- Led a team of 3 developers in an agile environment, improving project delivery timelines by 15%.
+
+Software Engineer  
+Digital Solutions Group – New York, NY  
+August 2018 – May 2021  
+- Engineered responsive web applications with Angular and ASP.NET, delivering project milestones on time and within budget.
+- Streamlined code review and deployment processes, which enhanced software quality and reduced bug rates by 30%.
+- Developed automated testing scripts to ensure high-quality releases, contributing to the team's adoption of CI/CD practices.
+- Conducted workshops and training sessions for junior developers, fostering a culture of continuous learning.
+
+Junior Web Developer  
+Creative Coders Co. – Austin, TX  
+January 2017 – July 2018  
+- Assisted in the development of e-commerce platforms using PHP, MySQL, and JavaScript, contributing to a 40% increase in sales for clients.
+- Collaborated closely with graphic designers to translate mockups into fully functional web applications.
+- Supported website maintenance tasks and optimized database queries to improve load times.
+
+------------------------------
+SKILLS
+------------------------------
+Technical Skills:
+- Programming Languages: JavaScript, Python, PHP, Java, HTML, CSS
+- Frameworks: React, Angular, Node.js, Express.js, ASP.NET
+- Databases: MongoDB, MySQL, PostgreSQL
+- Development Tools: Git, Docker, Jenkins, Visual Studio Code
+- Other: RESTful APIs, GraphQL, Agile/Scrum methodologies
+
+Soft Skills:
+- Effective Communication
+- Problem Solving
+- Team Collaboration
+- Adaptability
+- Time Management
+
+------------------------------
+EDUCATION
+------------------------------
+Bachelor of Science in Computer Science  
+University of California, Berkeley – Berkeley, CA  
+Graduated: May 2016
+```

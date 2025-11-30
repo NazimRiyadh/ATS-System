@@ -1,0 +1,10 @@
+lightrag-hku
+neo4j
+sentence-transformers
+openai
+python-dotenv
+pytest
+pypdf
+python-docx
+faiss-cpu
+rich

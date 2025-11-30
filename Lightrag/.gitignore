@@ -1,0 +1,31 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# LightRAG Storage
+rag_storage/
+kv_store/
+doc_status/
+graph_data/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+debug_output.txt
+rerank_debug.txt
+
+# Temporary Scripts
+test_*.py
+inspect_*.py
