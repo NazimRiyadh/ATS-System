@@ -1,21 +1,6 @@
 # LightRAG ATS (Applicant Tracking System)
 
 A powerful, local-first Applicant Tracking System built with **LightRAG**, **Neo4j**, and **Local LLMs**. This system ingests resumes, builds a knowledge graph, and allows for semantic search and ranking of candidates based on complex queries.
-
-## 🚀 Features
-
-*   **Local Embeddings**: Uses `BAAI/bge-m3` for high-performance, free, and private vector embeddings.
-*   **Local Reranking**: Uses `BAAI/bge-reranker-v2-m3` to refine search results and improve accuracy.
-*   **Knowledge Graph**: Leverages **Neo4j** to store relationships between candidates, skills, and experience.
-*   **Hybrid Search**: Combines vector similarity with graph traversal for deep understanding.
-*   **Cost-Effective**: Designed to run with minimal API costs (supports local LLMs like Qwen).
-
-## 🛠️ Prerequisites
-
-*   **Python**: 3.10+
-*   **Neo4j**: Desktop or Server (running locally)
-*   **Hardware**:
-    *   RAM: 8GB+ (16GB recommended)
     *   GPU: Optional but recommended for faster ingestion/inference.
 
 ## 📦 Installation
