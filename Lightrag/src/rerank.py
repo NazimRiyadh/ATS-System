@@ -14,42 +14,47 @@ def get_rerank_model(model_name: str):
         logger.info("Reranking model loaded successfully.")
     return _rerank_model
 
-def local_rerank_func(query: str, nodes: List[str]) -> List[str]:
+async def local_rerank_func(query: str, documents: List[str], **kwargs) -> List[str]:
     """
     Reranks a list of text chunks based on the query using a local CrossEncoder.
     Matches the signature expected by LightRAG's rerank_model_func.
     
     Args:
         query (str): The search query.
-        nodes (List[str]): A list of text chunks to be reranked.
+        documents (List[str]): A list of text chunks to be reranked.
+        top_n (int): Number of top chunks to return.
         
     Returns:
         List[str]: The reranked list of text chunks.
     """
-    if not nodes:
+    if not documents:
         return []
         
     try:
         model = get_rerank_model(Config.RERANK_MODEL)
         
         # Prepare pairs for the CrossEncoder
-        pairs = [[query, node] for node in nodes]
+        pairs = [[query, doc] for doc in documents]
         
         # Predict scores
         scores = model.predict(pairs)
         
-        # Combine nodes with scores
-        scored_nodes = list(zip(nodes, scores))
+        # Combine documents with scores
+        scored_docs = list(zip(documents, scores))
         
         # Sort by score in descending order
-        scored_nodes.sort(key=lambda x: x[1], reverse=True)
+        scored_docs.sort(key=lambda x: x[1], reverse=True)
         
         # Return only the text chunks, sorted
-        sorted_nodes = [node for node, score in scored_nodes]
+        sorted_docs = [doc for doc, score in scored_docs]
         
-        return sorted_nodes
+        # Handle top_n if passed in kwargs, otherwise return all
+        top_n = kwargs.get('top_n', len(sorted_docs))
+        
+        # Wrap in dicts to satisfy LightRAG expectation
+        return [{"content": doc} for doc in sorted_docs[:top_n]]
         
     except Exception as e:
         logger.error(f"Error during reranking: {e}")
-        # Fallback: return original nodes if reranking fails
-        return nodes
+        # Fallback: return original documents if reranking fails
+        return documents

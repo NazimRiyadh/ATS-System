@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 from lightrag import LightRAG
 from lightrag.utils import EmbeddingFunc
-from lightrag.llm.openai import gpt_4o_mini_complete
+from lightrag.llm.openai import gpt_4o_complete
 from lightrag.kg.shared_storage import initialize_share_data, initialize_pipeline_status
 from .embeddings import local_embedding_func
 from .rerank import local_rerank_func
@@ -31,7 +31,7 @@ async def initialize_rag(working_dir: str = Config.RAG_DIR) -> LightRAG:
     rag = LightRAG(
         working_dir=working_dir,
         embedding_func=embedding_func,
-        llm_model_func=gpt_4o_mini_complete,
+        llm_model_func=gpt_4o_complete,
         graph_storage="Neo4JStorage",
         vector_storage="FaissVectorDBStorage",
         chunk_token_size=Config.CHUNK_SIZE,

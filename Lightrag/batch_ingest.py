@@ -56,6 +56,7 @@ async def batch_ingest(resumes_dir: str):
             success_count += 1
             
         except Exception as e:
+            print(f"DEBUG ERROR: {e}")
             logger.error(f"  Failed to ingest {filename}: {e}")
             fail_count += 1
 

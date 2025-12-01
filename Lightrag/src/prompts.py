@@ -21,14 +21,14 @@ Format each relationship as ("relationship" <|{tuple_delimiter}|> <source_entity
 
 4. When covering the content, please use the following guidelines:
 - **Person**: The candidate's name.
-- **Skill**: Technical skills, tools, languages (e.g., Python, AWS, React).
+- **Skill**: Technical skills, tools, languages (e.g., Python, AWS, React). **IMPORTANT**: Extract EACH skill from comma-separated lists or bullet points as a SEPARATE entity. Do not group them.
 - **Company**: Employers or organizations.
 - **Role**: Job titles (e.g., Software Engineer, Intern).
 - **School**: Educational institutions.
 - **Degree**: Degrees or certifications.
 - **Location**: Cities or countries.
 - **Relationships**:
-    - Person -> HAS_SKILL -> Skill
+    - Person -> HAS_SKILL -> Skill (IMPORTANT: Ensure EVERY extracted Skill entity is linked to the Person entity with a HAS_SKILL relationship. Pay special attention to "Programming Languages" and "Technical Skills" sections.)
     - Person -> WORKED_AT -> Company
     - Person -> HAS_ROLE -> Role
     - Person -> STUDIED_AT -> School
@@ -62,12 +62,24 @@ Output:
 ("relationship" <|{tuple_delimiter}|> "Google" <|{tuple_delimiter}|> "New York" <|{tuple_delimiter}|> "Google is located in New York" <|{tuple_delimiter}|> "LOCATED_IN" <|{tuple_delimiter}|> 10)
 {record_delimiter}
 ("relationship" <|{tuple_delimiter}|> "John Doe" <|{tuple_delimiter}|> "Python" <|{tuple_delimiter}|> "John Doe knows Python" <|{tuple_delimiter}|> "HAS_SKILL" <|{tuple_delimiter}|> 10)
+
 {record_delimiter}
-("relationship" <|{tuple_delimiter}|> "John Doe" <|{tuple_delimiter}|> "Java" <|{tuple_delimiter}|> "John Doe knows Java" <|{tuple_delimiter}|> "HAS_SKILL" <|{tuple_delimiter}|> 10)
+######################
+Text:
+Skills: C++, Go, Rust.
+Output:
+("entity" <|{tuple_delimiter}|> "C++" <|{tuple_delimiter}|> "Skill" <|{tuple_delimiter}|> "Programming language C++")
 {record_delimiter}
-("relationship" <|{tuple_delimiter}|> "John Doe" <|{tuple_delimiter}|> "MIT" <|{tuple_delimiter}|> "John Doe studied at MIT" <|{tuple_delimiter}|> "STUDIED_AT" <|{tuple_delimiter}|> 10)
+("entity" <|{tuple_delimiter}|> "Go" <|{tuple_delimiter}|> "Skill" <|{tuple_delimiter}|> "Programming language Go")
 {record_delimiter}
-("relationship" <|{tuple_delimiter}|> "John Doe" <|{tuple_delimiter}|> "Computer Science" <|{tuple_delimiter}|> "John Doe studied Computer Science" <|{tuple_delimiter}|> "HAS_DEGREE" <|{tuple_delimiter}|> 10)
+("entity" <|{tuple_delimiter}|> "Rust" <|{tuple_delimiter}|> "Skill" <|{tuple_delimiter}|> "Programming language Rust")
+{record_delimiter}
+("relationship" <|{tuple_delimiter}|> "Candidate" <|{tuple_delimiter}|> "C++" <|{tuple_delimiter}|> "Candidate knows C++" <|{tuple_delimiter}|> "HAS_SKILL" <|{tuple_delimiter}|> 10)
+{record_delimiter}
+("relationship" <|{tuple_delimiter}|> "Candidate" <|{tuple_delimiter}|> "Go" <|{tuple_delimiter}|> "Candidate knows Go" <|{tuple_delimiter}|> "HAS_SKILL" <|{tuple_delimiter}|> 10)
+{record_delimiter}
+("relationship" <|{tuple_delimiter}|> "Candidate" <|{tuple_delimiter}|> "Rust" <|{tuple_delimiter}|> "Candidate knows Rust" <|{tuple_delimiter}|> "HAS_SKILL" <|{tuple_delimiter}|> 10)
+{record_delimiter}
 ######################
 -Real Data-
 Text:

@@ -12,15 +12,18 @@ Input Text:
 
 Instructions:
 1. Identify the Job Role (e.g., "Senior Python Developer").
-2. Identify the Top 3-5 Hard Skills (e.g., "Python", "Flask", "AWS").
-3. Ignore generic terms like "responsibilities", "collaborate", "team player".
+2. Identify the Top 3-5 Hard Skills.
+3. **EXPAND** these skills with common synonyms, acronyms, or related terms to improve search recall.
+   - Example: "React" -> "React, React.js, ReactJS"
+   - Example: "AWS" -> "AWS, Amazon Web Services, Cloud"
+   - Example: "CI/CD" -> "CI/CD, Jenkins, DevOps"
 4. Output a single line string in this format:
-   "[Role] with [Skill 1], [Skill 2], [Skill 3]"
+   "[Role] with [Skill 1, Synonyms], [Skill 2, Synonyms]..."
 
 Example Input:
 "We need a frontend dev who knows React and Redux. Must have 3 years exp."
 Example Output:
-"Frontend Developer with React, Redux"
+"Frontend Developer with React, React.js, ReactJS, Redux, State Management"
 
 Output only the search string.
 """
@@ -30,8 +33,8 @@ async def extract_keywords(text: str) -> str:
     Extracts a concise search query from a long text using an LLM.
     """
     # If text is short, just return it
-    if len(text.split()) < 10:
-        return text
+    # if len(text.split()) < 10:
+    #     return text
 
     try:
         response = await client.chat.completions.create(
