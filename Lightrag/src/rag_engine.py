@@ -36,7 +36,7 @@ async def initialize_rag(working_dir: str = Config.RAG_DIR) -> LightRAG:
         vector_storage="FaissVectorDBStorage",
         chunk_token_size=Config.CHUNK_SIZE,
         chunk_overlap_token_size=Config.CHUNK_OVERLAP,
-        rerank_model_func=local_rerank_func,
+        # rerank_model_func=local_rerank_func,
         addon_params={"entity_extract_template": ATS_ENTITY_EXTRACTION_PROMPT}
     )
     await rag.initialize_storages()
