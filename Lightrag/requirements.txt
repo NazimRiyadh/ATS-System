@@ -8,3 +8,5 @@ pypdf
 python-docx
 faiss-cpu
 rich
+flask[async]
+flask-cors
