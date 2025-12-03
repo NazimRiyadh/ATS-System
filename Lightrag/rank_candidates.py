@@ -10,48 +10,54 @@ from rich.table import Table
 from rich.panel import Panel
 from rich import print as rprint
 
-async def get_ranked_candidates(query: str, top_k: int = 5):
+async def get_ranked_candidates(query: str, top_k: int = 5, rag_instance=None):
     """
     Rank candidates based on a job description or query using LightRAG.
     Returns a list of candidate dictionaries.
     """
-    print("Initializing LightRAG...")
-    rag = await initialize_rag()
+    should_finalize = False
+    if rag_instance:
+        rag = rag_instance
+    else:
+        print("Initializing LightRAG...")
+        rag = await initialize_rag()
+        should_finalize = True
 
-    # Pre-process query
-    print(f"Original Query Length: {len(query)} chars")
-    refined_query = await extract_keywords(query)
-    print(f"Refined Search Query: '{refined_query}'")
-    print(f"Searching for candidates matching: {refined_query}...")
-    
-    # Augmented query to enforce JSON format
-    structured_query = f"""
-    {refined_query}
-    
-    IMPORTANT: Return the result ONLY as a JSON list of objects. 
-    
-    RULES:
-    1. You must ONLY use the information explicitly provided in the retrieved context.
-    2. DO NOT hallucinate or make up candidate names. Use the EXACT name found in the resume text.
-    3. DO NOT mix up details between different candidates.
-    4. You MUST extract the 'email' for each candidate to verify their identity. If you cannot find an email, be very careful about the name.
-    5. If a candidate is a partial match or lacks a specific skill, YOU MAY INCLUDE THEM but must lower their 'match_score' significantly (e.g., < 60) and clearly state the missing skills in the summary.
-    6. Aim to return exactly {top_k} candidates if sufficient relevant context is available.
-    7. EXTRACT THE SOURCE FILENAME provided in the context (e.g., "Source: BUSINESS-DEVELOPMENT_123.txt") and include it in the output.
-
-    Each object must have the following keys:
-    - "rank": (integer) 1, 2, 3...
-    - "name": (string) Candidate Name (EXACTLY as in the document)
-    - "email": (string) Candidate Email (to verify identity)
-    - "source_file": (string) The filename where this candidate was found (e.g., "BUSINESS-DEVELOPMENT_123.txt")
-    - "match_score": (integer) 0-100 estimate based on skills and experience match
-    - "skills_matched": (list of strings) Key skills found in resume that match query
-    - "evidence": (string) Exact quote from the text that proves the candidate has the skills. If the skill is not explicitly mentioned in the text, return "N/A". DO NOT FABRICATE EVIDENCE.
-    - "summary": (string) Brief justification (max 20 words). Mention if a key skill is missing.
-    
-    Do not include any markdown formatting (like ```json). Just the raw JSON string.
-    """
     try:
+        # Pre-process query
+        print(f"Original Query Length: {len(query)} chars")
+        refined_query = await extract_keywords(query)
+        print(f"Refined Search Query: '{refined_query}'")
+        print(f"Searching for candidates matching: {refined_query}...")
+        
+        # Augmented query to enforce JSON format
+        structured_query = f"""
+        {refined_query}
+        
+        IMPORTANT: Return the result ONLY as a JSON list of objects. 
+        
+        RULES:
+        1. You must ONLY use the information explicitly provided in the retrieved context.
+        2. DO NOT hallucinate or make up candidate names. Use the EXACT name found in the resume text.
+        3. DO NOT mix up details between different candidates.
+        4. You MUST extract the 'email' for each candidate to verify their identity. If you cannot find an email, be very careful about the name.
+        5. If a candidate is a partial match or lacks a specific skill, YOU MAY INCLUDE THEM but must lower their 'match_score' significantly (e.g., < 60) and clearly state the missing skills in the summary.
+        6. Aim to return exactly {top_k} candidates if sufficient relevant context is available.
+        7. EXTRACT THE SOURCE FILENAME provided in the context (e.g., "Source: BUSINESS-DEVELOPMENT_123.txt") and include it in the output.
+    
+        Each object must have the following keys:
+        - "rank": (integer) 1, 2, 3...
+        - "name": (string) Candidate Name (EXACTLY as in the document)
+        - "email": (string) Candidate Email (to verify identity)
+        - "source_file": (string) The filename where this candidate was found (e.g., "BUSINESS-DEVELOPMENT_123.txt")
+        - "match_score": (integer) 0-100 estimate based on skills and experience match
+        - "skills_matched": (list of strings) Key skills found in resume that match query
+        - "evidence": (string) Exact quote from the text that proves the candidate has the skills. If the skill is not explicitly mentioned in the text, return "N/A". DO NOT FABRICATE EVIDENCE.
+        - "summary": (string) Brief justification (max 20 words). Mention if a key skill is missing.
+        
+        Do not include any markdown formatting (like ```json). Just the raw JSON string.
+        """
+        
         # Custom Retrieval Pipeline to inject filenames
         # 1. Search Vector DB for chunks (query handles embedding internally)
         retrieval_k = max(60, top_k * 5)
@@ -126,7 +132,8 @@ async def get_ranked_candidates(query: str, top_k: int = 5):
             return []
 
     finally:
-        await rag.finalize_storages()
+        if should_finalize:
+            await rag.finalize_storages()
 
 async def rank_candidates(query: str, top_k: int = 5):
     candidates = await get_ranked_candidates(query, top_k)
