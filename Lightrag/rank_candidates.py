@@ -5,141 +5,192 @@ import re
 from lightrag import LightRAG, QueryParam
 from src.rag_engine import initialize_rag
 from src.query_processor import extract_keywords
+from src.rerank import local_rerank_func  # New import for Cross-Encoder
 from rich.console import Console
 from rich.table import Table
-from rich.panel import Panel
 from rich import print as rprint
 
-async def get_ranked_candidates(query: str, top_k: int = 5, rag_instance=None):
-    """
-    Rank candidates based on a job description or query using LightRAG.
-    Returns a list of candidate dictionaries.
-    """
-    should_finalize = False
-    if rag_instance:
-        rag = rag_instance
-    else:
-        print("Initializing LightRAG...")
-        rag = await initialize_rag()
-        should_finalize = True
 
-    try:
-        # Pre-process query
-        print(f"Original Query Length: {len(query)} chars")
-        refined_query = await extract_keywords(query)
-        print(f"Refined Search Query: '{refined_query}'")
-        print(f"Searching for candidates matching: {refined_query}...")
-        
-        # Augmented query to enforce JSON format
-        structured_query = f"""
-        {refined_query}
-        
-        IMPORTANT: Return the result ONLY as a JSON list of objects. 
-        
-        RULES:
-        1. You must ONLY use the information explicitly provided in the retrieved context.
-        2. DO NOT hallucinate or make up candidate names. Use the EXACT name found in the resume text.
-        3. DO NOT mix up details between different candidates.
-        4. You MUST extract the 'email' for each candidate to verify their identity. If you cannot find an email, be very careful about the name.
-        5. If a candidate is a partial match or lacks a specific skill, YOU MAY INCLUDE THEM but must lower their 'match_score' significantly (e.g., < 60) and clearly state the missing skills in the summary.
-        6. Aim to return exactly {top_k} candidates if sufficient relevant context is available.
-        7. EXTRACT THE SOURCE FILENAME provided in the context (e.g., "Source: BUSINESS-DEVELOPMENT_123.txt") and include it in the output.
+# Domain Guard Configuration
+DOMAIN_NEGATIVES = {
+    "engineer": ["media planner", "journalism", "advertising", "sales associate", "creative director", "traffic coordinator", "marketing strategy"],
+    "developer": ["media planner", "journalism", "advertising", "sales associate", "creative director"],
+    "data": ["sales associate", "customer service", "receptionist"],
+}
+
+def apply_domain_guard(query: str, candidates: list) -> list:
+    """
+    Penalizes candidates who have high frequency of negative keywords for the specific query domain.
+    """
+    query_lower = query.lower()
+    negative_terms = []
     
-        Each object must have the following keys:
-        - "rank": (integer) 1, 2, 3...
-        - "name": (string) Candidate Name (EXACTLY as in the document)
-        - "email": (string) Candidate Email (to verify identity)
-        - "source_file": (string) The filename where this candidate was found (e.g., "BUSINESS-DEVELOPMENT_123.txt")
-        - "match_score": (integer) 0-100 estimate based on skills and experience match
-        - "skills_matched": (list of strings) Key skills found in resume that match query
-        - "evidence": (string) Exact quote from the text that proves the candidate has the skills. If the skill is not explicitly mentioned in the text, return "N/A". DO NOT FABRICATE EVIDENCE.
-        - "summary": (string) Brief justification (max 20 words). Mention if a key skill is missing.
-        
-        Do not include any markdown formatting (like ```json). Just the raw JSON string.
-        """
-        
-        # Custom Retrieval Pipeline to inject filenames
-        # 1. Search Vector DB for chunks (query handles embedding internally)
-        retrieval_k = max(60, top_k * 5)
-        results = await rag.chunks_vdb.query(refined_query, top_k=retrieval_k)
-        
-        # 3. Retrieve chunk content and filenames
-        context_parts = []
-        seen_files = set()
-        
-        # Handle potential batch results (though query usually returns list of dicts)
-        if results and isinstance(results[0], list):
-            results = results[0]
+    # Identify relevant negative filters
+    for domain, terms in DOMAIN_NEGATIVES.items():
+        if domain in query_lower:
+            negative_terms.extend(terms)
             
-        for res in results:
-            chunk_id = res.get('id') or res.get('node_id')
-            if not chunk_id:
-                continue
-                
-            chunk_data = await rag.text_chunks.get_by_id(chunk_id)
-            if not chunk_data:
-                continue
-                
-            content = chunk_data.get('content', '')
-            file_path = chunk_data.get('file_path', 'Unknown File')
-            filename = file_path.split('/')[-1].split('\\')[-1] # Extract basename
+    if not negative_terms:
+        return candidates
+
+    print(f"Domain Guard Active: Blocking {negative_terms[:3]}...")
+    
+    filtered_candidates = []
+    for cand in candidates:
+        text = cand['resume_text'].lower()
+        penalty_score = 0
+        
+        # Check for presence of negative terms
+        matches = [term for term in negative_terms if term in text]
+        
+        # If specific "kill words" are found, heavily penalize
+        if len(matches) > 0:
+             print(f"  > Penalizing {cand['source_file']} due to forbidden terms: {matches[:2]}")
+             # Add a penalty flag or artificially lower score if we had one.
+             # Since we are pre-rerank (or post-retrieval), we can just exclude them 
+             # or mark them to be skipped.
+             cand['is_penalized'] = True
+             cand['penalty_reason'] = f"Forbidden terms: {', '.join(matches[:2])}"
+        else:
+             cand['is_penalized'] = False
+             
+        filtered_candidates.append(cand)
+        
+    # Filter out penalized candidates entirely or push to bottom
+    # Here we exclude them to ensure "Top 5" are clean
+    clean_candidates = [c for c in filtered_candidates if not c.get('is_penalized')]
+    
+    if len(clean_candidates) < len(candidates):
+        print(f"Domain Guard removed {len(candidates) - len(clean_candidates)} candidates.")
+        
+    return clean_candidates
+
+def get_ranked_candidates(query: str, top_k: int = 5):
+    """
+    Retrieve & Re-Rank Architecture with Domain Guard.
+    """
+    print("Initializing LightRAG...")
+    
+    # Get or create a loop
+    try:
+        loop = asyncio.get_event_loop()
+    except RuntimeError:
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+
+    # 1. Initialize RAG (Async)
+    rag = loop.run_until_complete(initialize_rag())
+
+    # 2. Stage 1: HyDE (Hypothetical Document Embedding)
+    print(f"User Query: {query}")
+    print("Stage 1: Generating HyDE (Hypothetical Perfect Resume)...")
+    hyde_resume = loop.run_until_complete(extract_keywords(query))
+    print(f"HyDE Generated (Truncated): '{hyde_resume[:150]}...'")
+    
+    # 3. Hybrid Search (Retrieval)
+    structured_query = f"""
+    Find candidates who match this production-ready resume:
+    {hyde_resume}
+    
+    Return a list of candidates.
+    """
+    
+    print("Stage 2: Hybrid Retrieval (Vector + Graph) for Top 30 Candidates...")
+    retrieved_chunks = loop.run_until_complete(
+        rag.chunks_vdb.query(hyde_resume, top_k=30)
+    )
+    
+    candidates_pool = []
+    seen_files = set()
+    
+    if retrieved_chunks and isinstance(retrieved_chunks[0], list):
+        retrieved_chunks = retrieved_chunks[0]
+
+    for chunk in retrieved_chunks:
+        chunk_data = loop.run_until_complete(rag.text_chunks.get_by_id(chunk['id']))
+        if not chunk_data:
+            continue
             
-            context_parts.append(f"Source: {filename}\nContent:\n{content}\n")
+        content = chunk_data.get('content', '')
+        file_path = chunk_data.get('file_path', 'Unknown File')
+        filename = file_path.split('/')[-1].split('\\')[-1]
+        
+        if filename not in seen_files:
+            candidates_pool.append({
+                "source_file": filename,
+                "resume_text": content,
+                "original_score": chunk.get('score', 0)
+            })
             seen_files.add(filename)
             
-        context_str = "\n---\n".join(context_parts)
+    print(f"Retrieved {len(candidates_pool)} unique candidates from Vector Search.")
+    
+    if not candidates_pool:
+        return []
+
+    # --- DOMAIN GUARD APPLICATION ---
+    print("Stage 2.5: Applying Domain Guard (Negative Filtering)...")
+    candidates_pool = apply_domain_guard(query, candidates_pool)
+    
+    if not candidates_pool:
+        print("All candidates filtered by Domain Guard.")
+        return []
+    # --------------------------------
+
+    # 4. Stage 2: Re-Ranking (The "Smart Filter")
+    print("Stage 3: Cross-Encoder Re-Ranking (The Smart Filter)...")
+    
+    resume_texts = [c['resume_text'] for c in candidates_pool]
+    
+    reranked_results = loop.run_until_complete(
+        local_rerank_func(query, resume_texts, top_n=top_k)
+    )
+    
+    final_top_candidates = []
+    for rank_idx, result_doc in enumerate(reranked_results):
+        for cand in candidates_pool:
+            if cand['resume_text'] == result_doc['content']:
+                cand['rank'] = rank_idx + 1
+                final_top_candidates.append(cand)
+                break
+    
+    # 5. Stage 3: Insight (LLM Explanation)
+    print("Stage 4: Generating Insight & Evidence via LLM...")
+    
+    llm_prompt = "You are an expert AI Recruiter. I did the heavy lifting and found these best candidates.\n"
+    llm_prompt += f"JOB DESCRIPTION: {query}\n\n"
+    llm_prompt += "Explain specificially WHY each candidate matches. Quote evidence.\n"
+    llm_prompt += "Return ONLY a JSON list of objects: [{'rank': 1, 'name': '...', 'email': '...', 'evidence': '...'}]\n"
+    
+    for c in final_top_candidates:
+        llm_prompt += f"Rank {c['rank']}: (File: {c['source_file']})\n{c['resume_text'][:2000]}\n\n"
         
-        print(f"DEBUG: Retrieved {len(context_parts)} chunks from {len(seen_files)} files.")
-
-        # 4. Generate Answer using LLM
-        prompt = f"""
-        Query: {structured_query}
+    llm_prompt += "Example Output: [{'rank': 1, 'name': 'John', 'email': 'john@doe.com', 'evidence': 'Has 5 years Python...'}]"
+    
+    llm_response = loop.run_until_complete(rag.llm_model_func(llm_prompt))
+    
+    json_str = llm_response
+    if "```json" in json_str:
+        json_str = re.search(r'```json\n(.*?)\n```', json_str, re.DOTALL).group(1)
+    elif "```" in json_str:
+        json_str = re.search(r'```\n(.*?)\n```', json_str, re.DOTALL).group(1)
         
-        Retrieved Context:
-        {context_str}
-        """
-        
-        result = await rag.llm_model_func(prompt)
-        
-        if result is None:
-            print("ERROR: LLM returned None.")
-            return []
+    try:
+        final_list = json.loads(json_str)
+        for i, item in enumerate(final_list):
+            if i < len(final_top_candidates):
+                item['source_file'] = final_top_candidates[i]['source_file']
+                item['match_score'] = max(99 - (i * 2), 60) 
+        return final_list
+    except Exception as e:
+        print(f"JSON Parsing Failed: {e}")
+        return []
 
-        # Clean result to ensure valid JSON
-        json_str = result
-        if "```json" in json_str:
-            json_str = re.search(r'```json\n(.*?)\n```', json_str, re.DOTALL).group(1)
-        elif "```" in json_str:
-            json_str = re.search(r'```\n(.*?)\n```', json_str, re.DOTALL).group(1)
-            
-        try:
-            candidates = json.loads(json_str)
-            
-            if not candidates:
-                print("No candidates found.")
-                return []
-            else:
-                # Limit to top_k
-                candidates = candidates[:top_k]
-                return candidates
-
-        except json.JSONDecodeError:
-            print("Failed to parse structured output. Showing raw result:")
-            print(result)
-            return []
-        except Exception as e:
-            print(f"An error occurred: {e}")
-            return []
-
-    finally:
-        if should_finalize:
-            await rag.finalize_storages()
-
-async def rank_candidates(query: str, top_k: int = 5):
-    candidates = await get_ranked_candidates(query, top_k)
+def rank_candidates(query: str, top_k: int = 5):
+    candidates = get_ranked_candidates(query, top_k)
     
     print("\n" + "="*80)
-    print(f"RANKING RESULTS FOR: {query}")
+    print(f"RETRIEVE & RE-RANK RESULTS FOR: {query}")
     print("="*80 + "\n")
 
     if not candidates:
@@ -147,23 +198,20 @@ async def rank_candidates(query: str, top_k: int = 5):
         return
 
     console = Console()
-    table = Table(title=f"Ranking Results for: {query}", show_lines=True)
+    table = Table(title=f"Results: {query}", show_lines=True)
 
     table.add_column("Rank", style="cyan", no_wrap=True)
     table.add_column("Score", style="magenta")
     table.add_column("Name", style="green")
-    table.add_column("Source File", style="blue", overflow="fold", min_width=30)
-    table.add_column("Keywords Hit", style="yellow")
-    table.add_column("Evidence", style="white", overflow="fold")
+    table.add_column("Source File", style="blue", overflow="fold")
+    table.add_column("Insight / Evidence", style="white", overflow="fold")
 
     for cand in candidates:
-        skills_hit = ", ".join(cand.get('skills_matched', []))
         table.add_row(
-            str(cand['rank']),
-            f"{cand['match_score']}%",
-            cand['name'],
+            str(cand.get('rank', '-')),
+            f"{cand.get('match_score', 0)}%",
+            cand.get('name', 'Unknown'),
             cand.get('source_file', 'N/A'),
-            skills_hit,
             cand.get('evidence', 'N/A')
         )
     
@@ -171,9 +219,9 @@ async def rank_candidates(query: str, top_k: int = 5):
     print("\n")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Rank candidates using LightRAG.")
+    parser = argparse.ArgumentParser(description="Rank candidates using LightRAG (Retrieve & Re-Rank).")
     parser.add_argument("--query", type=str, required=True, help="Job description or query string")
     parser.add_argument("--top_k", type=int, default=5, help="Number of top results to consider")
     args = parser.parse_args()
 
-    asyncio.run(rank_candidates(args.query, args.top_k))
+    rank_candidates(args.query, args.top_k)

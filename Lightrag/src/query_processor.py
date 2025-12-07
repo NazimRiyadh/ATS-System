@@ -4,28 +4,22 @@ from .config import Config
 client = AsyncOpenAI(api_key=Config.OPENAI_API_KEY)
 
 QUERY_PROCESSING_PROMPT = """
-You are an expert Recruiter and Search Specialist.
-Your task is to extract the most important search keywords from a Job Description.
+You are an expert Resume Writer and Recruiter.
+Your task is to write a HYPOTHETICAL PERFECT RESUME snippet based on the Job Description provided.
 
-Input Text:
+Input Job Description:
 {text}
 
 Instructions:
-1. Identify the Job Role (e.g., "Senior Python Developer").
-2. Identify the Top 3-5 Hard Skills.
-3. **EXPAND** these skills with common synonyms, acronyms, or related terms to improve search recall.
-   - Example: "React" -> "React, React.js, ReactJS"
-   - Example: "AWS" -> "AWS, Amazon Web Services, Cloud"
-   - Example: "CI/CD" -> "CI/CD, Jenkins, DevOps"
-4. Output a single line string in this format:
-   "[Role] with [Skill 1, Synonyms], [Skill 2, Synonyms]..."
+1. Analyze the job requirements (Role, Skills, Experience).
+2. Write a short, first-person resume summary (about 5-8 sentences) that an ideal candidate would have.
+3. Include specific technical keywords, tools, and achievements that match the JD perfectly.
+4. Do NOT add filler text. Focus on "I have experience in..." and "I built..." statements.
 
-Example Input:
-"We need a frontend dev who knows React and Redux. Must have 3 years exp."
 Example Output:
-"Frontend Developer with React, React.js, ReactJS, Redux, State Management"
+"I am a Senior Python Developer with 5 years of experience building scalable APIs using Django and FastAPI. I have deep knowledge of AWS services like Lambda and S3. I successfully migrated a monolith to microservices using Docker and Kubernetes. I am proficient in PostgreSQL and Redis for data caching."
 
-Output only the search string.
+Output only the hypothetical resume text.
 """
 
 async def extract_keywords(text: str) -> str:

@@ -19,7 +19,7 @@ class Config:
     # Model Settings
     # Using specific models ensures consistency
     EMBEDDING_MODEL = "BAAI/bge-m3"
-    RERANK_MODEL = "BAAI/bge-reranker-v2-m3"
+    RERANK_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
     EMBEDDING_DIM = 1024 
     LLM_MODEL = "gpt-4o-mini"
     
