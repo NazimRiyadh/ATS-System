@@ -1,68 +1,102 @@
-# LightRAG ATS (Applicant Tracking System)
+# AI-Powered ATS Implementation 🚀
 
-A powerful, local-first Applicant Tracking System built with **LightRAG**, **Neo4j**, and **Local LLMs**. This system ingests resumes, builds a knowledge graph, and allows for semantic search and ranking of candidates based on complex queries.
-    *   GPU: Optional but recommended for faster ingestion/inference.
+A next-generation Applicant Tracking System (ATS) powered by **LightRAG**, **PostgreSQL (pgvector)**, **Neo4j**, and **Local LLMs**. This system goes beyond keyword matching to understand candidate profiles deeply using Knowledge Graphs and Vector Retrieval with Cross-Encoder Re-ranking.
 
-## 📦 Installation
+## 🌟 Key Features
 
-1.  **Clone the repository:**
-    ```bash
-    git clone <repository-url>
-    cd lightRAG
-    ```
+- **Hybrid Retrieval**: Combines **Vector Search** (Semantic Similarity) with **Knowledge Graph** interactions (Deep Relations).
+- **High Precision**: Uses a **Cross-Encoder Re-ranker** to filter unrelated candidates (Threshold: 0.15).
+- **Auto-Ingestion**: Automatically indexes resumes upon upload.
+- **Explainable AI**: Provides reasoning for why a candidate was selected or rejected.
+- **Local Privacy**: Runs fully local with **Ollama** (LLM) and **Local Embeddings** (BAAI/bge-m3).
 
-2.  **Install dependencies:**
+## 🛠️ Tech Stack
+
+- **Backend**: Python, FastAPI
+- **RAG Engine**: [LightRAG-HKU](https://github.com/HKUDS/LightRAG)
+- **Vector DB**: PostgreSQL + `pgvector`
+- **Graph DB**: Neo4j
+- **LLM**: Qwen 2.5 (via Ollama)
+- **Embeddings**: BAAI/bge-m3
+- **Reranker**: Cross-Encoder (`ms-marco-MiniLM-L-6-v2`)
+
+## ⚡ Prerequisites
+
+1.  **Python 3.10+**
+2.  **PostgreSQL 16+** (running on port `5433` or mapped in `.env`)
+    - Extension enabled: `CREATE EXTENSION vector;`
+3.  **Neo4j Desktop/Server** (running on port `7687`)
+4.  **Ollama** (running locally)
+    - Pull model: `ollama pull qwen2.5:7b`
+
+## 🚀 Installation
+
+1.  **Clone & Install Dependencies**:
+
     ```bash
     pip install -r requirements.txt
     ```
 
-3.  **Configure Environment:**
-    *   Copy `.env.example` to `.env` (if available) or create a `.env` file.
-    *   Set your API keys (if using OpenAI) and Neo4j credentials:
-        ```env
-        OPENAI_API_KEY=sk-...
-        NEO4J_URI=bolt://localhost:7687
-        NEO4J_USERNAME=neo4j
-        NEO4J_PASSWORD=your_password
-        ```
+2.  **Configure Environment**:
+    Copy `.env.example` to `.env` and update credentials:
 
-4.  **Verify Configuration:**
-    *   Check `src/config.py` to ensure `EMBEDDING_MODEL` and `RERANK_MODEL` are set correctly.
+    ```ini
+    POSTGRES_URI=postgresql+asyncpg://postgres:password@localhost:5433/postgres
+    NEO4J_URI=bolt://localhost:7687
+    NEO4J_USERNAME=neo4j
+    NEO4J_PASSWORD=password
+    ```
 
-## 🏃 Usage
+3.  **Start the API Server**:
+    ```bash
+    uvicorn main:app --reload
+    ```
+    _API running at: `http://localhost:8000`_
+
+## 📚 Usage Guide
 
 ### 1. Ingest Resumes
-Place your resume text files in the `resumes/` directory.
-```bash
-python batch_ingest.py
-```
-This will:
-*   Read all `.txt` files in `resumes/`.
-*   Generate embeddings and graph nodes.
-*   Store data in Neo4j and local vector indices.
 
-### 2. Rank Candidates
-Run a query to find the best candidates.
-```bash
-python rank_candidates.py --query "Machine Learning Engineer with Python and TensorFlow"
-```
-*   **--query**: The job description or search terms.
-*   **--top_k**: (Optional) Number of results to return (default: 5).
+Upload resumes (PDF/TXT) via the API to automatically index them.
 
-## 🧠 Models Used
+- **POST** `/ingest` (multipart/form-data)
 
-| Component | Model | Type | Source |
-| :--- | :--- | :--- | :--- |
-| **Embeddings** | `BAAI/bge-m3` | Local | HuggingFace |
-| **Reranking** | `BAAI/bge-reranker-v2-m3` | Local | HuggingFace |
-| **LLM** | `gpt-4o-mini` (or Local Qwen) | API/Local | OpenAI/Ollama |
+### 2. Search Candidates
+
+Run a job description query to find the best 20 matches.
+
+- **POST** `/analyze_job`
+  ```json
+  {
+    "job_id": "JOB_001",
+    "query": "Senior DevOps Engineer with Kubernetes and AWS",
+    "top_k": 20
+  }
+  ```
+
+### 3. Ask Questions
+
+Chat with the AI about the shortlisted candidates.
+
+- **POST** `/chat_job`
+  ```json
+  {
+    "job_id": "JOB_001",
+    "message": "Which candidate has the most leadership experience?"
+  }
+  ```
 
 ## 📂 Project Structure
 
-*   `src/`: Core source code.
-    *   `rag_engine.py`: Main LightRAG integration.
-    *   `embeddings.py`: Local embedding logic.
-    *   `rerank.py`: Local reranking logic.
-    *   `config.py`: Configuration settings.
-*   `resumes/`: Directory for input resume files.
-*   `rag_storage/`: Local storage for vector indices and KV stores.
+- `main.py`: Main FastAPI application.
+- `src/`: Core logic (RAG engine, Embeddings, Reranker).
+- `resumes/`: Directory where uploaded resumes are stored.
+- `batch_ingest.py`: Utility to bulk ingest existing files.
+- `reset_full_system.py`: **CAUTION**. Wipes Database to start fresh.
+
+## 🛡️ Reranking Logic
+
+The system uses a 2-stage retrieval:
+
+1.  **Vector Search**: Retrieves top `K` candidates.
+2.  **Re-ranker**: Scores candidates (0-1) and filters out those below `RERANK_THRESHOLD` (Configurable in `src/config.py`).
