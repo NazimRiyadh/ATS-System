@@ -100,3 +100,12 @@ The system uses a 2-stage retrieval:
 
 1.  **Vector Search**: Retrieves top `K` candidates.
 2.  **Re-ranker**: Scores candidates (0-1) and filters out those below `RERANK_THRESHOLD` (Configurable in `src/config.py`).
+
+## 🧠 Hybrid Architecture Explained
+
+Why use both **Vector DB** and **Knowledge Graph**?
+
+- **Vector DB (Speed)**: Used for the initial "Broad Search". It quickly finds candidates who are _semantically similar_ to the job description (e.g., "Python" ≈ "Django").
+- **Knowledge Graph (Depth)**: Used for **Ingestion & Reasoning**.
+  - **Ingestion**: Extracts entities and maps relationships (e.g., `(Candidate)-[:HAS_SKILL]->(Kubernetes)`).
+  - **Context**: Provides structured data to the LLM, ensuring it understands _how_ a candidate knows a skill (e.g., used in "Project X" vs just listed in "Skills").
