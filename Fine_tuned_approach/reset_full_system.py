@@ -1,64 +1,71 @@
 
 import asyncio
-from neo4j import GraphDatabase
 import os
 import shutil
-import asyncpg
-from dotenv import load_dotenv
 from src.config import Config
+from src.job_manager import get_global_rag
+from neo4j import GraphDatabase
+import asyncpg
 
-load_dotenv()
-
-async def reset_all():
-    print("⚠️  WARNING: This will DELETE ALL DATA in Neo4j, Postgres (LightRAG tables), and local storage. ⚠️")
-    confirm = input("Type 'yes' to confirm: ")
-    if confirm.lower() != "yes":
-        print("Aborted.")
-        return
-
-    # 1. Reset Neo4j
-    print("\n[1/3] Clearing Neo4j...")
+async def wipe_postgres():
+    print("🧹 Wiping Postgres Tables...")
+    uri = Config.POSTGRES_URI.replace("postgresql+asyncpg://", "postgresql://")
     try:
-        driver = GraphDatabase.driver(Config.NEO4J_URI, auth=(Config.NEO4J_USERNAME, Config.NEO4J_PASSWORD))
-        with driver.session() as session:
-            session.run("MATCH (n) DETACH DELETE n")
-        driver.close()
-        print("✅ Neo4j cleared.")
-    except Exception as e:
-        print(f"❌ Neo4j reset failed: {e}")
-
-    # 2. Reset Postgres
-    print("\n[2/3] Clearing Postgres Tables...")
-    try:
-        # Handle asyncpg uri
-        dsn = Config.POSTGRES_URI.replace("postgresql+asyncpg://", "postgresql://")
-        if "@localhost" in dsn: # IPv4 Fix
-             dsn = dsn.replace("@localhost", "@127.0.0.1")
-
-        conn = await asyncpg.connect(dsn)
+        conn = await asyncpg.connect(uri)
         tables = [
-            "LIGHTRAG_DOC_STATUS", "LIGHTRAG_DOC_CHUNKS", "LIGHTRAG_DOC_FULL",
-            "LIGHTRAG_VDB_CHUNKS", "LIGHTRAG_VDB_ENTITY", "LIGHTRAG_VDB_RELATION",
-            "LIGHTRAG_TENSOR_STORE", "LIGHTRAG_LLM_CACHE"
+             "LIGHTRAG_VDB_CHUNKS", 
+             "LIGHTRAG_VDB_ENTITY", 
+             "LIGHTRAG_VDB_RELATION",
+             "LIGHTRAG_DOC_STATUS",
+             "LIGHTRAG_LLM_CACHE"
         ]
-        for table in tables:
-            await conn.execute(f"DROP TABLE IF EXISTS {table} CASCADE")
-        
+        for t in tables:
+            try:
+                await conn.execute(f"DROP TABLE IF EXISTS {t} CASCADE")
+                print(f"   - Dropped {t}")
+            except Exception as e:
+                print(f"   - Error dropping {t}: {e}")
         await conn.close()
-        print("✅ Postgres tables dropped.")
     except Exception as e:
-        print(f"❌ Postgres reset failed: {e}")
+        print(f"❌ Postgres Wipe Failed: {e}")
 
-    # 3. Clear Local Storage
-    print("\n[3/3] Removing Local Storage...")
-    storage_dir = Config.RAG_DIR
-    if os.path.exists(storage_dir):
-        shutil.rmtree(storage_dir)
-        print("✅ Local storage removed.")
-    else:
-        print("ℹ️  Local storage not found.")
+async def wipe_neo4j():
+    print("🧹 Wiping Neo4j Database...")
+    uri = Config.NEO4J_URI
+    user = Config.NEO4J_USERNAME
+    password = Config.NEO4J_PASSWORD
+    
+    try:
+        driver = GraphDatabase.driver(uri, auth=(user, password))
+        with driver.session(database="neo4j") as session:
+            session.run("MATCH (n) DETACH DELETE n")
+            print("   - All nodes/relationships deleted.")
+        driver.close()
+    except Exception as e:
+         # Fallback to default DB if 'neo4j' fails?
+         try:
+            driver = GraphDatabase.driver(uri, auth=(user, password))
+            with driver.session() as session:
+                session.run("MATCH (n) DETACH DELETE n")
+                print("   - All nodes/relationships deleted (Default DB).")
+            driver.close()
+         except Exception as e2:
+             print(f"❌ Neo4j Wipe Failed: {e2}")
 
-    print("\n✨ System Full Reset Complete. You are ready to ingest real data.")
+async def main():
+    await wipe_postgres()
+    await wipe_neo4j()
+    
+    # Also clear local file storage if any
+    rag_dir = "./rag_storage"
+    if os.path.exists(rag_dir):
+        try:
+             shutil.rmtree(rag_dir) 
+             print(f"   - Deleted local storage: {rag_dir}")
+        except Exception as e:
+             print(f"Error clearing dir: {e}")
+    
+    print("\n✨ System Wiped. Ready for Fresh Ingestion.")
 
 if __name__ == "__main__":
-    asyncio.run(reset_all())
+    asyncio.run(main())

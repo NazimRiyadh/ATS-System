@@ -62,13 +62,14 @@ async def chat_with_shortlist(job_id: str, user_question: str) -> str:
         context_prompt = ""
     else:
         # Build a robust context block
-        context_prompt = "You are an ATS Assistant. Answer strictly based on the following candidate profiles:\n\n"
+        context_prompt = "You are an ATS Assistant. Answer strictly based on the following profiles and any retrieved context. Cite which source you used.\n\n"
+        context_prompt += "=== INJECTED PROFILES ===\n"
         for c in candidates:
             # Clean text slightly to save tokens if needed
-            clean_text = c['text'].replace('\n\n', '\n')[:2000] # Cap at 2k chars per cand to fit context
-            context_prompt += f"--- PROFILE: {c['name']} ---\n{clean_text}\n\n"
+            clean_text = c['text'].replace('\n\n', '\n')[:1000] # Cap at 1000 chars per cand for hybrid mode
+            context_prompt += f"[Source: Injected Profile] NAME: {c['name']}\n{clean_text}\n\n"
         
-        context_prompt += "--- END OF PROFILES ---\n"
+        context_prompt += "=== END OF INJECTED PROFILES ===\n"
         context_prompt += f"Question: {user_question}\n"
         context_prompt += "Answer:"
 
@@ -80,12 +81,14 @@ async def chat_with_shortlist(job_id: str, user_question: str) -> str:
     # Let's use 'naive' mode which relies mostly on the prompt we verify?
     # Or just prepend the context to the query and let it run.
     
-    print(f"Querying with Injected Context ({len(context_prompt)} chars)...")
+    # Use 'mix' mode which combines knowledge graph + vector retrieval
+    # Unlike 'hybrid', 'mix' doesn't require global community summaries
+    print(f"Querying with Injected Context ({len(context_prompt)} chars) using Mix Mode (Graph + Vector)...")
+    response = await rag.aquery(context_prompt, param=QueryParam(mode="mix"))
     
-    # We send the MASSIVE prompt as the "query". 
-    # LightRAG might try to retrieve *more* context, which is fine.
-    response = await rag.aquery(context_prompt, param=QueryParam(mode="naive"))
-    
+    if response is None:
+        return "System Warning: No response generated. This typically happens if the database is empty. Please run ingestion to populate the Knowledge Graph."
+        
     return response
 
 

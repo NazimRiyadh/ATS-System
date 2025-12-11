@@ -38,6 +38,13 @@ async def initialize_rag(working_dir: str = Config.RAG_DIR) -> LightRAG:
     
     # Fallback only if explicitly requested or if we want to be very safe, 
     # but strictly following user intent: "I have configured neo4j credential".
+    
+    # Explicitly set Neo4j Env Vars for LightRAG
+    os.environ["NEO4J_URI"] = Config.NEO4J_URI
+    os.environ["NEO4J_USERNAME"] = Config.NEO4J_USERNAME
+    if Config.NEO4J_PASSWORD:
+        os.environ["NEO4J_PASSWORD"] = Config.NEO4J_PASSWORD
+    os.environ["NEO4J_DATABASE"] = "neo4j" # Default for Desktop/Enterprise, fixes DatabaseNotFound
 
     # Setup ENV for PGVectorStorage (it reads from os.environ)
     if "postgres" in Config.POSTGRES_URI:
@@ -58,7 +65,7 @@ async def initialize_rag(working_dir: str = Config.RAG_DIR) -> LightRAG:
     rag = LightRAG(
         working_dir=working_dir,
         embedding_func=embedding_func,
-        llm_model_func=ollama_model_complete, # Switched to Local Flan-T5
+        llm_model_func=functools.partial(ollama_model_complete, model_name=Config.LLM_MODEL),
         graph_storage=graph_storage_type,
 
         vector_storage="PGVectorStorage",

@@ -26,6 +26,10 @@ async def get_rag():
         rag_instance = await initialize_rag()
     return rag_instance
 
+@app.route('/', methods=['GET'])
+def index():
+    return jsonify({"message": "Welcome to LightRAG ATS API"}), 200
+
 @app.route('/health', methods=['GET'])
 def health_check():
     return jsonify({"status": "healthy", "service": "LightRAG ATS API"}), 200

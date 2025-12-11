@@ -159,16 +159,10 @@ async def retrieve_candidates_vector_only(query: str, top_k: int = 20) -> list:
     return final_candidates
 
 def run_full_pipeline(query: str, top_k: int = 5):
-    # This preserves the original logic for the CLI tool
-    # Re-implementing the original flow using the new async structure or just wrapping it
-    # For minimal disruption, I'll allow the original CLI to use the original synchronous wrapper style
-    # but re-using the components.
-    
-    # ... (Actual implementation of the full flow if needed, 
-    # but for the API we will explicitly call stages 1, 2, 3)
-    # For now, let's keep the original get_ranked_candidates logic essentially 
-    # but refactored. 
-    pass # Replaced by the implementation below
+    """
+    Wrapper to run the async pipeline synchronously.
+    """
+    return asyncio.run(get_ranked_candidates_async(query, top_k))
 
 async def get_ranked_candidates_async(query: str, top_k: int = 5):
     # Original logic adapted

@@ -50,9 +50,13 @@ async def local_rerank_func(query: str, documents: List[str], **kwargs) -> List[
         scored_docs.sort(key=lambda x: x[1], reverse=True)
 
         # DEBUG: Log top 5 scores to see what we are dealing with
+        # DEBUG: Log top candidates to verify retrieval quality
         if scored_docs:
-             top_scores = [f"{score:.4f}" for _, score in scored_docs[:5]]
-             logger.info(f"Top 5 Raw Scores: {top_scores}")
+             logger.info("--- RERANKER TOP CANDIDATES ---")
+             for i, (text, score) in enumerate(scored_docs[:3]):
+                 snippet = text[:100].replace('\n', ' ')
+                 logger.info(f"Rank {i+1}: Score={score:.4f} | Content='{snippet}...'")
+             logger.info("-------------------------------")
         
         # FILTER: Keep only documents with score > THRESHOLD
         # This prevents returning irrelevant results even if top_k is high

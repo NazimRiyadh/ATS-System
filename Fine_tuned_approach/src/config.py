@@ -5,12 +5,12 @@ load_dotenv()
 
 class Config:
     # Neo4j
-    NEO4J_URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
+    NEO4J_URI = os.getenv("NEO4J_URI", "bolt://127.0.0.1:7687")
     NEO4J_USERNAME = os.getenv("NEO4J_USERNAME", "neo4j")
     NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 
     # Postgres (pgvector)
-    POSTGRES_URI = os.getenv("POSTGRES_URI", "postgresql+asyncpg://postgres:password@localhost:5432/postgres")
+    POSTGRES_URI = os.getenv("POSTGRES_URI", "postgresql+asyncpg://postgres:password@127.0.0.1:5432/postgres")
 
     # OpenAI
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
@@ -24,7 +24,7 @@ class Config:
     EMBEDDING_MODEL = "BAAI/bge-m3"
     RERANK_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
     EMBEDDING_DIM = 1024 
-    LLM_MODEL = "qwen2.5:7b"
+    LLM_MODEL = os.getenv("LLM_MODEL", "qwen2.5:7b")
 
 
     
@@ -35,4 +35,4 @@ class Config:
 
 
     TOP_K = 5
-    RERANK_THRESHOLD = 0.15 # Lowered to allow partial matches
+    RERANK_THRESHOLD = 0.2 # Increased to 0.2 to filter noise in hybrid mode
