@@ -24,6 +24,7 @@ class JobAnalysisRequest(BaseModel):
 class JobChatRequest(BaseModel):
     job_id: str
     message: str
+    mode: Optional[str] = "mix"  # Options: naive, local, global, hybrid, mix
 
 class Candidate(BaseModel):
     source_file: str
@@ -86,9 +87,14 @@ async def analyze_job(request: JobAnalysisRequest, background_tasks: BackgroundT
 async def chat_job(request: JobChatRequest):
     """
     Stage 3: Chat Interface (Reasoning)
+    Supports multiple retrieval modes: naive, local, global, hybrid, mix
     """
     try:
-        response = await chat_with_shortlist(request.job_id, request.message)
+        response = await chat_with_shortlist(
+            job_id=request.job_id, 
+            user_question=request.message,
+            mode=request.mode
+        )
         return {"response": response}
     except Exception as e:
         logger.error(f"Error in chat_job: {e}")
