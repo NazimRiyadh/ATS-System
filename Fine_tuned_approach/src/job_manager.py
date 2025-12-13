@@ -49,10 +49,18 @@ async def process_top_candidates(job_id: str, top_20_texts: List[str]):
     
     return "Context Set"
 
-async def chat_with_shortlist(job_id: str, user_question: str) -> str:
+async def chat_with_shortlist(job_id: str, user_question: str, mode: str = "mix") -> str:
     """
     Stage 3: The "Chat Interface".
-    Injects FULL RESUME TEXT into the prompt to force grounded answers.
+    Supports multiple retrieval modes with automatic fallback to naive mode.
+    
+    Args:
+        job_id: Unique identifier for the job
+        user_question: User's question/query
+        mode: Retrieval mode (naive, local, global, hybrid, mix)
+        
+    Returns:
+        LLM-generated response based on retrieved context
     """
     rag = await get_global_rag()
     
@@ -61,35 +69,57 @@ async def chat_with_shortlist(job_id: str, user_question: str) -> str:
         print(f"Warning: No shortlist found for Job {job_id}.")
         context_prompt = ""
     else:
-        # Build a robust context block
+        # Build a robust context block with injected profiles
         context_prompt = "You are an ATS Assistant. Answer strictly based on the following profiles and any retrieved context. Cite which source you used.\n\n"
         context_prompt += "=== INJECTED PROFILES ===\n"
         for c in candidates:
-            # Clean text slightly to save tokens if needed
-            clean_text = c['text'].replace('\n\n', '\n')[:1000] # Cap at 1000 chars per cand for hybrid mode
+            # Clean text slightly to save tokens
+            clean_text = c['text'].replace('\n\n', '\n')[:1000]  # Cap at 1000 chars per candidate
             context_prompt += f"[Source: Injected Profile] NAME: {c['name']}\n{clean_text}\n\n"
         
         context_prompt += "=== END OF INJECTED PROFILES ===\n"
         context_prompt += f"Question: {user_question}\n"
         context_prompt += "Answer:"
 
-    # We bypass the 'hybrid' search for the context part because we INJECTED it.
-    # But we still use RAG query to let it use the LLM.
-    # Actually, if we inject context, we just need a direct LLM call?
-    # No, keep using rag.aquery because it handles the LLM connection nicely, 
-    # but we might want 'local' mode or just direct prompt.
-    # Let's use 'naive' mode which relies mostly on the prompt we verify?
-    # Or just prepend the context to the query and let it run.
+    # Validate mode
+    valid_modes = ["naive", "local", "global", "hybrid", "mix"]
+    if mode not in valid_modes:
+        print(f"⚠️  Invalid mode '{mode}', defaulting to 'mix'")
+        mode = "mix"
     
-    # Use 'mix' mode which combines knowledge graph + vector retrieval
-    # Unlike 'hybrid', 'mix' doesn't require global community summaries
-    print(f"Querying with Injected Context ({len(context_prompt)} chars) using Mix Mode (Graph + Vector)...")
-    response = await rag.aquery(context_prompt, param=QueryParam(mode="mix"))
+    print(f"🔍 Querying with mode='{mode}' ({len(context_prompt)} chars context)...")
     
-    if response is None:
-        return "System Warning: No response generated. This typically happens if the database is empty. Please run ingestion to populate the Knowledge Graph."
+    try:
+        # Attempt query with specified mode
+        response = await rag.aquery(context_prompt, param=QueryParam(mode=mode))
         
-    return response
+        if response is None:
+            raise ValueError("Query returned None response")
+        
+        print(f"✅ Query succeeded with mode='{mode}'")
+        return response
+        
+    except Exception as e:
+        print(f"⚠️  Mode '{mode}' failed: {e}")
+        
+        # Automatic fallback to naive mode if mix/hybrid/local/global fails
+        if mode != "naive":
+            print(f"🔄 Falling back to mode='naive'...")
+            try:
+                response = await rag.aquery(context_prompt, param=QueryParam(mode="naive"))
+                
+                if response is None:
+                    raise ValueError("Naive mode also returned None")
+                
+                print(f"✅ Fallback to naive mode succeeded")
+                return response
+                
+            except Exception as fallback_error:
+                print(f"❌ Naive mode fallback also failed: {fallback_error}")
+                return f"System Error: Unable to generate response. Both {mode} and naive modes failed. Please check the database and ensure data has been ingested."
+        else:
+            # Even naive mode failed
+            return "System Warning: No response generated. This typically happens if the database is empty. Please run ingestion to populate the Knowledge Graph."
 
 
 async def clear_job_data(job_id: str):
