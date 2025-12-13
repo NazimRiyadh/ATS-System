@@ -111,9 +111,23 @@ Ask questions about the _specific candidates_ identified in step 2.
 ```json
 {
   "job_id": "JOB_12345",
-  "message": "Who has the best experience with AWS Lambda and why?"
+  "message": "Who has the best experience with AWS Lambda and why?",
+  "mode": "mix"
 }
 ```
+
+**Parameters:**
+
+- `job_id` (required): The job ID from the analyze_job step
+- `message` (required): Your question about the candidates
+- `mode` (optional): Retrieval mode to use. Options:
+  - `"naive"` - Vector search only (fast, reliable)
+  - `"local"` - Knowledge graph local search
+  - `"global"` - Knowledge graph global search
+  - `"hybrid"` - Combined local + global graph search
+  - `"mix"` - Combined graph + vector search (default, most comprehensive)
+
+**Default**: `"mix"` (automatically falls back to `"naive"` if mix mode fails)
 
 **Response:**
 
