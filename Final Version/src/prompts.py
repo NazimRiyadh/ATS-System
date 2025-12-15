@@ -4,41 +4,36 @@ Custom prompts for ATS domain entity extraction.
 
 # Entity extraction prompt for resume documents
 ATS_ENTITY_EXTRACTION_PROMPT = """
-You are an expert resume parser. Extract entities and relationships from the resume text below.
+-Goal-
+Extract entities and relationships from the resume text. 
+Return the output as a simple list of tuples using the "|" delimiter.
 
-## ENTITIES to extract:
-- **PERSON**: Candidate's full name
-- **SKILL**: Programming languages, frameworks, tools, soft skills
-- **TECHNOLOGY**: Specific technologies, platforms, databases, cloud services
-- **COMPANY**: Organizations, companies worked at
-- **ROLE**: Job titles, positions held
-- **PROJECT**: Named projects or significant work
-- **CERTIFICATION**: Degrees, certifications, licenses
-- **EDUCATION**: Universities, schools, educational institutions
-- **LOCATION**: Cities, countries, regions
+-Entity Types-
+1. PERSON (Name)
+2. SKILL (e.g., Python, SQL)
+3. ROLE (e.g., Data Analyst)
+4. COMPANY (e.g., Microsoft)
+5. CERTIFICATION
+6. LOCATION
 
-## RELATIONSHIPS to extract:
-- PERSON **HAS_SKILL** SKILL (with proficiency: expert/advanced/intermediate/beginner)
-- PERSON **WORKED_AT** COMPANY (with duration if mentioned)
-- PERSON **HELD_ROLE** ROLE (with dates if mentioned)
-- PERSON **WORKED_ON** PROJECT
-- PERSON **HAS_CERTIFICATION** CERTIFICATION
-- PERSON **STUDIED_AT** EDUCATION
-- PERSON **USES** TECHNOLOGY
-- SKILL **RELATED_TO** TECHNOLOGY
-- ROLE **REQUIRES** SKILL
+-Output Format-
+("entity"|name|type|description)
+("relationship"|source|relationship_type|target|description)
 
-## Output Format:
-For each entity, output:
-ENTITY: {{name}}~{{type}}~{{description}}
+-Examples-
+("entity"|John Doe|PERSON|Candidate name)
+("entity"|Python|SKILL|Programming language)
+("relationship"|John Doe|HAS_SKILL|Python|Expert proficiency)
 
-For each relationship, output:
-RELATION: {{source_entity}}~{{relationship_type}}~{{target_entity}}~{{description}}
+-Constraints-
+1. Do NOT add quotes " around values unless they are part of the name.
+2. Do NOT add markdown code blocks.
+3. Output specific tuples only.
 
-## Resume Text:
+-Text-
 {input_text}
 
-## Extracted Entities and Relationships:
+-Output-
 """
 
 # Query enhancement prompt for better retrieval

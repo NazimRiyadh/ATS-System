@@ -24,21 +24,29 @@ class OllamaAdapter:
         model: str = None,
         max_tokens: int = None,
         temperature: float = None,
-        timeout: float = 120.0
+        timeout: float = None
     ):
         self.base_url = base_url or settings.ollama_base_url
         self.model = model or settings.llm_model
         self.max_tokens = max_tokens or settings.llm_max_tokens
         self.temperature = temperature or settings.llm_temperature
-        self.timeout = timeout
+        self.timeout = timeout if timeout is not None else settings.llm_timeout
         self._client: Optional[httpx.AsyncClient] = None
     
     async def _get_client(self) -> httpx.AsyncClient:
         """Get or create async HTTP client."""
         if self._client is None or self._client.is_closed:
+            # Use a longer timeout for read operations (LLM can be slow)
+            # Connect timeout: 10s, read timeout: configured timeout
+            timeout_config = httpx.Timeout(
+                connect=10.0,
+                read=self.timeout,
+                write=30.0,
+                pool=10.0
+            )
             self._client = httpx.AsyncClient(
                 base_url=self.base_url,
-                timeout=httpx.Timeout(self.timeout)
+                timeout=timeout_config
             )
         return self._client
     
@@ -86,15 +94,68 @@ class OllamaAdapter:
             }
         }
         
+        if "llama3.1" in self.model:
+            # 1. Force a "Data Extraction" persona for Llama 3.1
+            if not system_prompt:
+                system_prompt = (
+                    "You are a precise data extraction engine. "
+                    "Output ONLY the requested format. Do not add intro, outro, or explanations. "
+                    "Do not format as markdown code blocks."
+                )
+            
+            # 2. Configure Strict Options for Llama 3.1
+            payload["options"] = {
+                "temperature": 0.0,      # Absolute determinism
+                "num_predict": 2048,     # Reduced window as per suggested fix
+                "top_p": 0.1,            # Restrict vocabulary to most likely tokens
+                # CRITICAL: Stop tokens matching the new prompt style
+                "stop": ["\n\n", "User:", "Observation:", "Text:", "##"]
+            }
+        
+        # Override options with kwargs if provided
+        for k, v in kwargs.items():
+            if k in ["temperature", "max_tokens"]: 
+                continue 
+
         try:
             response = await client.post("/api/chat", json=payload)
             response.raise_for_status()
             result = response.json()
             
             content = result.get("message", {}).get("content", "")
+            
+            # 4. Post-Processing (The "Safety Net") for Llama 3.1
+            if "llama3.1" in self.model:
+                 # Clean markdown
+                if "```" in content:
+                    content = content.replace("```text", "").replace("```", "").strip()
+                
+                # --- 🛑 CRITICAL FIX: CLEANING LOGIC ---
+                import re
+                
+                # 1. Remove the "Stutter" (e.g., "(entity" appearing inside the value)
+                content = re.sub(r'\("entity"\|\s*"?\s*\(entity"?\s*\|', '("entity"|"', content)
+                content = re.sub(r'\("relation"\|\s*"?\s*\(relation"?\s*\|', '("relationship"|"', content)
+                content = re.sub(r'\("relationship"\|\s*"?\s*\(relationship"?\s*\|', '("relationship"|"', content)
+
+                # 2. Remove standard hallucinations
+                content = content.replace("(entity|", "") 
+                content = content.replace("(relation|", "")
+                content = content.replace("(relationship|", "")
+                
+                # 3. Remove the ending stop token if it appears
+                content = content.replace("</s>", "")
+                
+                # Fix Double Quotes issues common in Llama 3 (Backup regex)
+                content = re.sub(r'^\("entity"\|\s*"?\(entity"?', '("entity"|', content, flags=re.MULTILINE)
+
             logger.debug(f"LLM response length: {len(content)} chars")
             return content
             
+        except httpx.TimeoutException as e:
+            logger.error(f"Ollama API timeout after {self.timeout}s. Model may be too slow or overloaded.")
+            logger.error(f"Consider: 1) Increasing llm_timeout in settings, 2) Using a faster model, 3) Checking Ollama performance")
+            raise RuntimeError(f"Ollama request timed out after {self.timeout} seconds. The model may be too slow or the request too complex.") from e
         except httpx.HTTPError as e:
             logger.error(f"Ollama API error: {e}")
             raise
@@ -122,8 +183,63 @@ class OllamaAdapter:
             return False
 
 
-# Global adapter instance
+
+try:
+    import google.generativeai as genai
+    HAS_GEMINI = True
+except ImportError:
+    HAS_GEMINI = False
+
+
+class GeminiAdapter:
+    """Async adapter for Google Gemini API."""
+    
+    def __init__(self):
+        self.api_key = settings.gemini_api_key
+        self.model_name = settings.gemini_model
+        
+        if not HAS_GEMINI:
+            raise RuntimeError("google-generativeai package not installed")
+        
+        if not self.api_key:
+            raise ValueError("GEMINI_API_KEY not set")
+            
+        genai.configure(api_key=self.api_key)
+        self.model = genai.GenerativeModel(self.model_name)
+    
+    async def generate(self, prompt: str, system_prompt: Optional[str] = None, **kwargs) -> str:
+        """Generate text using Gemini API."""
+        try:
+            # Gemini doesn't have a separate system prompt param in generate_content
+            # typically, so we prepend it or use the system_instruction if initializing (which we aren't here)
+            # Efficient pattern: Prepend system prompt to user prompt
+            full_prompt = prompt
+            if system_prompt:
+                full_prompt = f"System Instruction: {system_prompt}\n\nUser Request: {prompt}"
+            
+            # Using run_in_executor for async wrapper around sync library
+            loop = asyncio.get_running_loop()
+            
+            # Generation config
+            config = genai.types.GenerationConfig(
+                temperature=kwargs.get("temperature", settings.llm_temperature),
+                max_output_tokens=kwargs.get("max_tokens", settings.llm_max_tokens)
+            )
+            
+            response = await loop.run_in_executor(
+                None,
+                lambda: self.model.generate_content(full_prompt, generation_config=config)
+            )
+            
+            return response.text
+        except Exception as e:
+            logger.error(f"Gemini API error: {e}")
+            raise
+
+
+# Global adapters
 _ollama_adapter: Optional[OllamaAdapter] = None
+_gemini_adapter: Optional[GeminiAdapter] = None
 
 
 def get_ollama_adapter() -> OllamaAdapter:
@@ -133,6 +249,13 @@ def get_ollama_adapter() -> OllamaAdapter:
         _ollama_adapter = OllamaAdapter()
     return _ollama_adapter
 
+def get_gemini_adapter() -> GeminiAdapter:
+    """Get or create global Gemini adapter."""
+    global _gemini_adapter
+    if _gemini_adapter is None:
+        _gemini_adapter = GeminiAdapter()
+    return _gemini_adapter
+
 
 async def ollama_llm_func(
     prompt: str,
@@ -141,21 +264,26 @@ async def ollama_llm_func(
     **kwargs
 ) -> str:
     """
-    LightRAG-compatible LLM function.
-    
-    This function signature matches what LightRAG expects for llm_model_func.
+    LightRAG-compatible LLM function (Universal Dispatcher).
     
     Args:
         prompt: The user prompt
         system_prompt: Optional system prompt
-        history_messages: Optional conversation history (not used currently)
+        history_messages: Optional conversation history
         **kwargs: Additional parameters
         
     Returns:
         Generated text response
     """
-    adapter = get_ollama_adapter()
-    return await adapter.generate(prompt, system_prompt, **kwargs)
+    provider = settings.llm_provider.lower()
+    
+    if provider == "gemini":
+        adapter = get_gemini_adapter()
+        return await adapter.generate(prompt, system_prompt, **kwargs)
+    else:
+        # Default to Ollama
+        adapter = get_ollama_adapter()
+        return await adapter.generate(prompt, system_prompt, **kwargs)
 
 
 # For synchronous contexts

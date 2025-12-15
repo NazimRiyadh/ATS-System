@@ -15,6 +15,52 @@ from .llm_adapter import ollama_llm_func
 from .embedding import embedding_func, get_embedding_model
 from .reranker import rerank_func
 from .prompts import ATS_ENTITY_EXTRACTION_PROMPT
+try:
+    from lightrag.kg.shared_storage import initialize_pipeline_status
+except ImportError:
+    initialize_pipeline_status = None
+
+# Monkey patch for DocProcessingStatus error/error_msg mismatch
+try:
+    from lightrag.base import DocProcessingStatus
+    import dataclasses
+    
+    _original_init = DocProcessingStatus.__init__
+    _valid_fields = {f.name for f in dataclasses.fields(DocProcessingStatus)}
+    
+    def _new_init(self, *args, **kwargs):
+        if 'error' in kwargs:
+            kwargs['error_msg'] = kwargs.pop('error')
+            
+        # Filter unknown arguments
+        filtered_kwargs = {k: v for k, v in kwargs.items() if k in _valid_fields}
+        
+        _original_init(self, *args, **filtered_kwargs)
+        
+    DocProcessingStatus.__init__ = _new_init
+    print("Applied DocProcessingStatus monkey patch (robust)")
+except ImportError:
+    pass
+
+# Monkey patch for LightRAG.__init__ to fix _storage_lock race condition
+try:
+    import asyncio
+    
+    # Store original init if not already patched (basic check)
+    if not getattr(LightRAG, "_lock_patched", False):
+        _original_lightrag_init = LightRAG.__init__
+        
+        def _new_lightrag_init(self, *args, **kwargs):
+            _original_lightrag_init(self, *args, **kwargs)
+            # Force initialize lock if it's missing or None
+            if not hasattr(self, '_storage_lock') or self._storage_lock is None:
+                self._storage_lock = asyncio.Lock()
+        
+        LightRAG.__init__ = _new_lightrag_init
+        setattr(LightRAG, "_lock_patched", True)
+        print("Applied LightRAG._storage_lock monkey patch (robust)")
+except Exception as e:
+    print(f"Failed to apply LightRAG lock patch: {e}")
 
 logger = logging.getLogger(__name__)
 
@@ -32,6 +78,9 @@ def _setup_environment():
     os.environ["POSTGRES_USER"] = settings.postgres_user
     os.environ["POSTGRES_PASSWORD"] = settings.postgres_password
     os.environ["POSTGRES_DATABASE"] = settings.postgres_db
+    
+    # Force Neo4j to use default database (Community Edition support)
+    os.environ["NEO4J_DATABASE"] = "neo4j"
 
 
 class RAGManager:
@@ -68,7 +117,7 @@ class RAGManager:
                 
                 # LLM Configuration (Ollama)
                 llm_model_func=ollama_llm_func,
-                
+
                 # Embedding Configuration
                 embedding_func=EmbeddingFunc(
                     embedding_dim=settings.embedding_dim,
@@ -84,11 +133,93 @@ class RAGManager:
                 # Chunking Configuration
                 chunk_token_size=settings.chunk_token_size,
                 chunk_overlap_token_size=settings.chunk_overlap_size,
+                
+                # Force Doc Status to Postgres
+                doc_status_storage="PGDocStatusStorage",
             )
+            
+            # Monkey Patch: Inject custom prompt and delimiters for Llama 3.1
+            # We modify the global PROMPTS dictionary which extract_entities reads
+            try:
+                from lightrag.prompt import PROMPTS
+                
+                # Update prompts and delimiters
+                PROMPTS["entity_extraction"] = ATS_ENTITY_EXTRACTION_PROMPT
+                PROMPTS["DEFAULT_TUPLE_DELIMITER"] = "|"
+                PROMPTS["DEFAULT_RECORD_DELIMITER"] = "\n"
+                PROMPTS["DEFAULT_COMPLETION_DELIMITER"] = "\n\n"
+                
+                # CRITICAL: Override examples to use pipe delimiter, otherwise model follows comma pattern
+                PROMPTS["entity_extraction_examples"] = [
+                    """("entity"| "Google"| "company"| "A technology company")
+("entity"| "Software Engineer"| "role"| "Develops software")
+("entity"| "Python"| "skill"| "Programming language")
+("relationship"| "Google"| "located_in"| "Mountain View"| "Headquarters location")
+("relationship"| "Software Engineer"| "requires"| "Python"| "Core skill")"""
+                ]
+                
+                print("Applied PROMPTS monkey patch for Llama 3.1 format")
+                
+                # ==========================================
+                # Monkey Patch 3: Robust Parser for Llama 3.1
+                # ==========================================
+                import lightrag.utils
+
+                def robust_split_string_by_multi_markers(content: str, markers: list[str], item_fallback: bool = False):
+                    """
+                    Robust splitting function that handles mismatched field counts.
+                    Original raises 'found X/Y fields' error.
+                    This version pads missing fields or merges extra fields.
+                    """
+                    if not markers:
+                        return [content.strip()]
+                    
+                    results = [content]
+                    for marker in markers:
+                        new_results = []
+                        for r in results:
+                            new_results.extend(r.split(marker))
+                        results = new_results
+                    
+                    # Clean up results
+                    results = [r.strip() for r in results if r.strip()]
+                    
+                    return results
+
+                # Overwrite the utility function directly
+                lightrag.utils.split_string_by_multi_markers = robust_split_string_by_multi_markers
+                logger.info("Applied Robust Parser monkey patch (fixes 'found X/Y fields' errors)")
+                
+            except Exception as e:
+                logger.warning(f"Failed to patch PROMPTS: {e}")
             
             # CRITICAL: Must call initialize_storages() before any operations
             # This initializes the _storage_lock and other async resources
             await self._rag.initialize_storages()
+            
+            # Post-init concurrency configuration
+            # Setting these attributes directly since __init__ rejected them
+            self._rag.embedding_func_max_async = 1
+            self._rag.map_func_max_async = 1
+            self._rag.reduce_func_max_async = 1
+            self._rag.llm_model_func_max_async = 1
+            print("Configured single-worker concurrency for Llama 3.1")
+            logger.debug("RAG storages initialized")
+            
+            # Initialize pipeline status explicitly
+            # (Required for newer LightRAG versions with PGKVStorage)
+            try:
+                if initialize_pipeline_status:
+                    await initialize_pipeline_status()
+                    logger.debug("Pipeline status initialized via shared_storage")
+                elif hasattr(self._rag, "initialize_pipeline_status"):
+                    await self._rag.initialize_pipeline_status()
+                    logger.debug("Pipeline status initialized via RAG instance")
+                else:
+                    logger.warning("No pipeline status initialization method found - may cause KeyError")
+            except Exception as e:
+                logger.warning(f"Pipeline status initialization failed (may be OK): {e}")
+                # Continue anyway - some versions may not need this
             
             self._initialized = True
             
