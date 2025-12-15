@@ -112,4 +112,17 @@ CREATE INDEX IF NOT EXISTS idx_lightrag_doc_chunks_vector ON LIGHTRAG_DOC_CHUNKS
 CREATE INDEX IF NOT EXISTS idx_lightrag_vdb_entity_vector ON LIGHTRAG_VDB_ENTITY USING ivfflat (content_vector vector_cosine_ops);
 CREATE INDEX IF NOT EXISTS idx_lightrag_vdb_relation_vector ON LIGHTRAG_VDB_RELATION USING ivfflat (content_vector vector_cosine_ops);
 
+
+-- 7. Key-Value Storage (General purpose, including pipeline status)
+CREATE TABLE IF NOT EXISTS LIGHTRAG_KV_STORE (
+    workspace VARCHAR(255) NOT NULL,
+    key VARCHAR(255) NOT NULL,
+    value TEXT,
+    create_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    update_time TIMESTAMP,
+    CONSTRAINT LIGHTRAG_KV_STORE_PK PRIMARY KEY (workspace, key)
+);
+
+CREATE INDEX IF NOT EXISTS idx_lightrag_kv_store_key ON LIGHTRAG_KV_STORE(key);
+
 SELECT 'LightRAG schema created successfully!' AS result;

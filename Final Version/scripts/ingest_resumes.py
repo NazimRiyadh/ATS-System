@@ -82,8 +82,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--batch-size", "-b",
         type=int,
-        default=5,
-        help="Batch size for concurrent processing (default: 5)"
+        default=1,
+        help="Batch size for concurrent processing (default: 1)"
     )
     
     args = parser.parse_args()
