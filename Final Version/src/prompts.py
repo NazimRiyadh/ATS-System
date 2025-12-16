@@ -9,59 +9,60 @@ Optimized for LLM-based Knowledge Graph construction with strict schema enforcem
 ATS_ENTITY_EXTRACTION_PROMPT = """
 -Goal-
 You are a precise Knowledge Graph extraction engine for an ATS (Applicant Tracking System).
-Extract ONLY entities and relationships that are explicitly stated in the text.
-Output ONLY valid tuples using the "|" delimiter.
-Do NOT infer, assume, or add any information not present in the text.
-Do NOT include explanations, markdown, code blocks, or extra text.
-Use ASCII characters only.
-
--Entity Types (ONLY THESE)-
-PERSON       : Candidate full name exactly as written
-SKILL        : Technical or professional skill (singular, canonical form)
-ROLE         : Job title or role (singular)
-COMPANY      : Organization name
-CERTIFICATION: Formal certification or license
-LOCATION     : City, state, or country
-
--Relationship Types (DIRECTIONAL)- 
-PERSON ──HAS_SKILL────────▶ SKILL
-PERSON ──HAS_ROLE─────────▶ ROLE
-PERSON ──WORKED_AT────────▶ COMPANY
-PERSON ──HAS_CERTIFICATION▶ CERTIFICATION
-PERSON ──LOCATED_IN───────▶ LOCATION
-ROLE   ──REQUIRES_SKILL───▶ SKILL
-COMPANY──LOCATED_IN───────▶ LOCATION
-
--Canonicalization Rules-
-1. Use singular nouns only (e.g., "Data Analyst", not "Data Analysts")
-2. Normalize skills to standard industry names (e.g., "PyTorch", not "pytorch framework")
-3. Use consistent capitalization for entity names
-4. Resolve aliases where obvious (e.g., "ML" → "Machine Learning")
-5. Use the same PERSON name consistently across all tuples
-6. If the candidate name is NOT explicitly stated, use: PERSON = "UNKNOWN_CANDIDATE"
-
--Output Format (STRICT)-
-Entity tuple:     ("entity"|<canonical_name>|<ENTITY_TYPE>|<brief description>)
-Relationship tuple: ("relationship"|<source>|<RELATIONSHIP_TYPE>|<target>|<evidence phrase>)
-
--Examples-
-("entity"|John Doe|PERSON|Candidate name)
-("entity"|Python|SKILL|Programming language)
-("entity"|Senior Data Analyst|ROLE|Job title)
-("entity"|Google|COMPANY|Technology company)
-("relationship"|John Doe|HAS_SKILL|Python|Listed in skills section)
-("relationship"|John Doe|HAS_ROLE|Senior Data Analyst|Current position)
-("relationship"|John Doe|WORKED_AT|Google|Employment history)
-
--Constraints-
-1. Do NOT add quotes around values unless part of the name
-2. Do NOT add markdown, code blocks, or extra text
-3. Output specific tuples only
-4. Every relationship MUST reference entities that are explicitly extracted
-5. PERSON must be the source for all resume-derived facts
-6. If a tuple is incomplete or cannot be extracted, output NOTHING for that tuple
-7. Do NOT split tuples across lines or chunks; ensure each tuple is complete
-8. Use only "|" as the delimiter; do not replace it with any other character
+    Extract ONLY entities and relationships that are explicitly stated in the text.
+    Output ONLY valid tuples using the "###" delimiter.
+    Do NOT infer, assume, or add any information not present in the text.
+    Do NOT include explanations, markdown, code blocks, or extra text.
+    Use ASCII characters only.
+    
+    -Entity Types (ONLY THESE)-
+    PERSON       : Candidate full name exactly as written
+    SKILL        : Technical or professional skill (singular, canonical form)
+    ROLE         : Job title or role (singular)
+    COMPANY      : Organization name
+    CERTIFICATION: Formal certification or license
+    LOCATION     : City, state, or country
+    
+    -Relationship Types (DIRECTIONAL)- 
+    PERSON ──HAS_SKILL────────▶ SKILL
+    PERSON ──HAS_ROLE─────────▶ ROLE
+    PERSON ──WORKED_AT────────▶ COMPANY
+    PERSON ──HAS_CERTIFICATION▶ CERTIFICATION
+    PERSON ──LOCATED_IN───────▶ LOCATION
+    ROLE   ──REQUIRES_SKILL───▶ SKILL
+    COMPANY──LOCATED_IN───────▶ LOCATION
+    
+    -Canonicalization Rules-
+    1. Use singular nouns only (e.g., "Data Analyst", not "Data Analysts")
+    2. Normalize skills to standard industry names (e.g., "PyTorch", not "pytorch framework")
+    3. Use consistent capitalization for entity names
+    4. Resolve aliases where obvious (e.g., "ML" → "Machine Learning")
+    5. Use the same PERSON name consistently across all tuples
+    6. If the candidate name is NOT explicitly stated, use: PERSON = "UNKNOWN_CANDIDATE"
+    
+    -Output Format (STRICT)-
+    Entity tuple:     ("entity"###<canonical_name>###<ENTITY_TYPE>###<brief description>)
+    Relationship tuple: ("relationship"###<source>###<RELATIONSHIP_TYPE>###<target>###<evidence phrase>)
+    
+    -Examples-
+    ("entity"###John Doe###PERSON###Candidate name)
+    ("entity"###Python###SKILL###Programming language)
+    ("relationship"###John Doe###HAS_SKILL###Python###Listed in skills section)
+    ("relationship"###John Doe###WORKED_AT###Google###Employment history)
+    
+    -Constraints-
+    1. Do NOT add quotes around values unless part of the name
+    2. Do NOT add markdown, code blocks, or extra text
+    3. Output specific tuples only
+    4. Every relationship MUST reference entities that are explicitly extracted
+    5. PERSON must be the source for all resume-derived facts
+    6. If a tuple is incomplete or cannot be extracted, output NOTHING for that tuple
+    7. Do NOT split tuples across lines or chunks; ensure each tuple is complete
+    8. Use only "###" as the delimiter.
+    9. **CRITICAL**: Do NOT label relationships as "entity". 
+       WRONG: ("entity"###John Doe###HAS_SKILL###Python###...)
+       RIGHT: ("relationship"###John Doe###HAS_SKILL###Python###...)
+    10. Output NOTHING if no valid entities or relationships exist in the text
 9. Output NOTHING if no valid entities or relationships exist in the text
 
 -Text-
