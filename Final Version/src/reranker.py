@@ -105,21 +105,26 @@ def get_reranker_model() -> RerankerModel:
 async def rerank_func(
     query: str,
     documents: List[str],
-    top_k: int = 10
-) -> List[Tuple[int, float, str]]:
+    top_n: int = 10,
+    **kwargs
+) -> List[dict]:
     """
     LightRAG-compatible reranking function.
     
     Args:
         query: Search query
         documents: Documents to rerank
-        top_k: Number of top results
+        top_n: Number of top results (LightRAG's parameter name)
+        **kwargs: Accept any additional parameters from LightRAG
         
     Returns:
-        List of (index, score, document) tuples
+        List of dicts with 'content' and 'score' keys (LightRAG format)
     """
     model = get_reranker_model()
-    return await model.arerank(query, documents, top_k=top_k)
+    results = await model.arerank(query, documents, top_k=top_n)
+    
+    # Convert tuples to dictionaries for LightRAG compatibility
+    return [{"content": r[2], "relevance_score": r[1], "index": r[0]} for r in results]
 
 
 def rerank_func_sync(

@@ -48,11 +48,13 @@ class DirectQueryRequest(BaseModel):
 # ============== Response Models ==============
 
 class CandidatePreview(BaseModel):
-    """Brief candidate information for listings."""
-    name: str
-    score: float
-    highlights: List[str] = Field(default_factory=list)
-    file_path: Optional[str] = None
+    """Brief candidate information with matching evidence."""
+    name: str = Field(..., description="Candidate name")
+    score: float = Field(..., description="Match score (0-1)")
+    match_reason: str = Field(default="", description="Why this candidate matches")
+    skills_matched: List[str] = Field(default_factory=list, description="Skills matching JD")
+    experience_summary: str = Field(default="", description="Brief experience summary")
+
 
 
 class CandidateDetail(BaseModel):

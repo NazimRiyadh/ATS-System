@@ -33,6 +33,12 @@ class Settings(BaseSettings):
     llm_model: str = Field(default="qwen2.5:7b")
     llm_max_tokens: int = Field(default=4096)
     llm_temperature: float = Field(default=0.1)
+    llm_timeout: float = Field(default=300.0, description="LLM request timeout in seconds (default: 5 minutes)")
+    
+    # Provider Selection
+    llm_provider: str = Field(default="ollama", description="LLM provider: 'ollama' or 'gemini'")
+    gemini_api_key: str = Field(default="", description="Google Gemini API Key")
+    gemini_model: str = Field(default="gemini-flash-latest", description="Gemini model name")
     
     # Embedding Configuration
     embedding_model: str = Field(default="BAAI/bge-m3")

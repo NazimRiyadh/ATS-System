@@ -95,22 +95,36 @@ class OllamaAdapter:
         }
         
         if "llama3.1" in self.model:
-            # 1. Force a "Data Extraction" persona for Llama 3.1
-            if not system_prompt:
-                system_prompt = (
-                    "You are a precise data extraction engine. "
-                    "Output ONLY the requested format. Do not add intro, outro, or explanations. "
-                    "Do not format as markdown code blocks."
-                )
+            # Detect if this is an entity extraction prompt (needs strict settings)
+            is_entity_extraction = any(kw in prompt.lower() for kw in ["entity", "extract", "tuple", "relationship"])
             
-            # 2. Configure Strict Options for Llama 3.1
-            payload["options"] = {
-                "temperature": 0.0,      # Absolute determinism
-                "num_predict": 2048,     # Reduced window as per suggested fix
-                "top_p": 0.1,            # Restrict vocabulary to most likely tokens
-                # CRITICAL: Stop tokens matching the new prompt style
-                "stop": ["\n\n", "User:", "Observation:", "Text:", "##"]
-            }
+            if is_entity_extraction:
+                # 1. Force an "ATS Knowledge Graph Extraction" persona for Llama 3.1
+                if not system_prompt:
+                    system_prompt = (
+                        "You are a precise ATS knowledge graph extraction engine. "
+                        "Extract entities and relationships EXACTLY as specified in the schema. "
+                        "Output ONLY valid tuples with | delimiter. "
+                        "Do NOT add markdown, explanations, or inferred information."
+                    )
+                
+                # 2. Configure Strict Options for entity extraction
+                payload["options"] = {
+                    "temperature": 0.0,      # Absolute determinism
+                    "num_predict": 2048,     # Reduced window for extraction
+                    "top_p": 0.1,            # Restrict vocabulary to most likely tokens
+                    # CRITICAL: Stop tokens for extraction (NOT for chat)
+                    "stop": ["\n\n\n", "User:", "Observation:", "Text:"]
+                }
+            else:
+                # For chat/QA prompts - use more relaxed settings
+                payload["options"] = {
+                    "temperature": 0.1,       # Slight creativity allowed
+                    "num_predict": 4096,      # Full response length for chat
+                    "top_p": 0.9,             # Allow more varied vocabulary
+                    # Minimal stop tokens for chat - let the model complete naturally
+                    "stop": ["\n\n\n\n", "<|end|>", "</s>"]
+                }
         
         # Override options with kwargs if provided
         for k, v in kwargs.items():
@@ -123,6 +137,14 @@ class OllamaAdapter:
             result = response.json()
             
             content = result.get("message", {}).get("content", "")
+            
+            # 🔍 DEBUG: Print raw LLM output for entity extraction (to diagnose format errors)
+            if "entity" in prompt.lower() or "extract" in prompt.lower():
+                print(f"\n{'='*60}")
+                print("🔍 DEBUG: RAW LLM OUTPUT (BEFORE POST-PROCESSING)")
+                print(f"{'='*60}")
+                print(content[:2000] if len(content) > 2000 else content)
+                print(f"{'='*60}\n")
             
             # 4. Post-Processing (The "Safety Net") for Llama 3.1
             if "llama3.1" in self.model:
@@ -148,6 +170,14 @@ class OllamaAdapter:
                 
                 # Fix Double Quotes issues common in Llama 3 (Backup regex)
                 content = re.sub(r'^\("entity"\|\s*"?\(entity"?', '("entity"|', content, flags=re.MULTILINE)
+                
+                # 🔍 DEBUG: Print AFTER post-processing
+                if "entity" in prompt.lower() or "extract" in prompt.lower():
+                    print(f"\n{'='*60}")
+                    print("🔍 DEBUG: LLM OUTPUT (AFTER POST-PROCESSING)")
+                    print(f"{'='*60}")
+                    print(content[:2000] if len(content) > 2000 else content)
+                    print(f"{'='*60}\n")
 
             logger.debug(f"LLM response length: {len(content)} chars")
             return content

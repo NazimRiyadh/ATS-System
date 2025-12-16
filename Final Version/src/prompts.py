@@ -1,56 +1,94 @@
 """
 Custom prompts for ATS domain entity extraction.
+Optimized for LLM-based Knowledge Graph construction with strict schema enforcement.
 """
 
-# Entity extraction prompt for resume documents
+# =============================================================================
+# ENTITY EXTRACTION PROMPT
+# =============================================================================
 ATS_ENTITY_EXTRACTION_PROMPT = """
 -Goal-
-Extract entities and relationships from the resume text. 
-Return the output as a simple list of tuples using the "|" delimiter.
+You are a precise Knowledge Graph extraction engine for an ATS (Applicant Tracking System).
+Extract ONLY entities and relationships that are explicitly stated in the text.
+Output ONLY valid tuples using the "|" delimiter.
+Do NOT infer, assume, or add any information not present in the text.
+Do NOT include explanations, markdown, code blocks, or extra text.
+Use ASCII characters only.
 
--Entity Types-
-1. PERSON (Name)
-2. SKILL (e.g., Python, SQL)
-3. ROLE (e.g., Data Analyst)
-4. COMPANY (e.g., Microsoft)
-5. CERTIFICATION
-6. LOCATION
+-Entity Types (ONLY THESE)-
+PERSON       : Candidate full name exactly as written
+SKILL        : Technical or professional skill (singular, canonical form)
+ROLE         : Job title or role (singular)
+COMPANY      : Organization name
+CERTIFICATION: Formal certification or license
+LOCATION     : City, state, or country
 
--Output Format-
-("entity"|name|type|description)
-("relationship"|source|relationship_type|target|description)
+-Relationship Types (DIRECTIONAL)- 
+PERSON ──HAS_SKILL────────▶ SKILL
+PERSON ──HAS_ROLE─────────▶ ROLE
+PERSON ──WORKED_AT────────▶ COMPANY
+PERSON ──HAS_CERTIFICATION▶ CERTIFICATION
+PERSON ──LOCATED_IN───────▶ LOCATION
+ROLE   ──REQUIRES_SKILL───▶ SKILL
+COMPANY──LOCATED_IN───────▶ LOCATION
+
+-Canonicalization Rules-
+1. Use singular nouns only (e.g., "Data Analyst", not "Data Analysts")
+2. Normalize skills to standard industry names (e.g., "PyTorch", not "pytorch framework")
+3. Use consistent capitalization for entity names
+4. Resolve aliases where obvious (e.g., "ML" → "Machine Learning")
+5. Use the same PERSON name consistently across all tuples
+6. If the candidate name is NOT explicitly stated, use: PERSON = "UNKNOWN_CANDIDATE"
+
+-Output Format (STRICT)-
+Entity tuple:     ("entity"|<canonical_name>|<ENTITY_TYPE>|<brief description>)
+Relationship tuple: ("relationship"|<source>|<RELATIONSHIP_TYPE>|<target>|<evidence phrase>)
 
 -Examples-
 ("entity"|John Doe|PERSON|Candidate name)
 ("entity"|Python|SKILL|Programming language)
-("relationship"|John Doe|HAS_SKILL|Python|Expert proficiency)
+("entity"|Senior Data Analyst|ROLE|Job title)
+("entity"|Google|COMPANY|Technology company)
+("relationship"|John Doe|HAS_SKILL|Python|Listed in skills section)
+("relationship"|John Doe|HAS_ROLE|Senior Data Analyst|Current position)
+("relationship"|John Doe|WORKED_AT|Google|Employment history)
 
 -Constraints-
-1. Do NOT add quotes " around values unless they are part of the name.
-2. Do NOT add markdown code blocks.
-3. Output specific tuples only.
+1. Do NOT add quotes around values unless part of the name
+2. Do NOT add markdown, code blocks, or extra text
+3. Output specific tuples only
+4. Every relationship MUST reference entities that are explicitly extracted
+5. PERSON must be the source for all resume-derived facts
+6. If a tuple is incomplete or cannot be extracted, output NOTHING for that tuple
+7. Do NOT split tuples across lines or chunks; ensure each tuple is complete
+8. Use only "|" as the delimiter; do not replace it with any other character
+9. Output NOTHING if no valid entities or relationships exist in the text
 
 -Text-
 {input_text}
 
 -Output-
+
 """
 
-# Query enhancement prompt for better retrieval
+# =============================================================================
+# QUERY ENHANCEMENT PROMPT
+# =============================================================================
 QUERY_ENHANCEMENT_PROMPT = """
-You are an ATS query optimizer. Given a job description or search query, extract the key requirements.
+You are an ATS query parser. Parse the job query and extract ONLY explicitly mentioned requirements.
+Be conservative—do NOT infer skills or requirements not clearly stated.
 
 ## Input Query:
 {query}
 
 ## Extract:
-1. Required skills (must-have)
-2. Preferred skills (nice-to-have)
-3. Experience level (years, seniority)
+1. Required skills (must-have, explicitly stated)
+2. Preferred skills (nice-to-have, explicitly stated)
+3. Experience level (years, seniority if mentioned)
 4. Industry/domain keywords
 5. Role-specific terms
 
-## Output (JSON format):
+## Output Format (JSON ONLY, no markdown):
 {{
   "required_skills": [],
   "preferred_skills": [],
@@ -58,9 +96,16 @@ You are an ATS query optimizer. Given a job description or search query, extract
   "industry_keywords": [],
   "role_terms": []
 }}
+
+## IMPORTANT:
+- Return valid JSON only. No markdown code blocks.
+- Leave arrays empty if no matching requirements found.
+- Do NOT infer or assume requirements not explicitly stated.
 """
 
-# Candidate summary prompt
+# =============================================================================
+# CANDIDATE SUMMARY PROMPT
+# =============================================================================
 CANDIDATE_SUMMARY_PROMPT = """
 Based on the following candidate information, provide a concise professional summary.
 
@@ -70,16 +115,21 @@ Based on the following candidate information, provide a concise professional sum
 ## Job Context:
 {job_context}
 
-## Generate:
-A 2-3 sentence summary highlighting the candidate's fit for the role, including:
-1. Relevant experience
+## Instructions:
+Write EXACTLY 2-3 sentences. Use ONLY information from the provided context.
+Do NOT invent experience, skills, or achievements not explicitly mentioned.
+
+Highlight:
+1. Relevant experience matching the job
 2. Key matching skills
-3. Notable achievements
+3. Notable achievements (if mentioned)
 
 ## Summary:
 """
 
-# Chat response prompt with source attribution
+# =============================================================================
+# CHAT RESPONSE PROMPT
+# =============================================================================
 CHAT_RESPONSE_PROMPT = """
 You are an intelligent ATS assistant helping recruiters find and evaluate candidates.
 
@@ -89,17 +139,19 @@ You are an intelligent ATS assistant helping recruiters find and evaluate candid
 ## User Question:
 {query}
 
-## Instructions:
-1. Answer the question based ONLY on the provided information
-2. If information is not available, clearly state that
-3. Cite specific candidates, skills, or data points when relevant
-4. Be concise but thorough
-5. Format lists and comparisons clearly
+## CRITICAL RULES:
+1. Answer ONLY from the provided information—never fabricate or assume
+2. If information is not available, explicitly state: "This information is not available in the provided data."
+3. When citing candidates, use format: "[Candidate Name] has [skill/experience]"
+4. Be concise—avoid filler phrases and unnecessary elaboration
+5. Format lists and comparisons clearly using bullet points
 
 ## Response:
 """
 
-# Ranking explanation prompt
+# =============================================================================
+# RANKING EXPLANATION PROMPT
+# =============================================================================
 RANKING_EXPLANATION_PROMPT = """
 Explain why the following candidates are ranked in this order for the given job.
 
@@ -109,11 +161,16 @@ Explain why the following candidates are ranked in this order for the given job.
 ## Ranked Candidates:
 {ranked_candidates}
 
-## For each candidate, explain:
-1. Key matching qualifications
-2. Relevant experience highlights
-3. Any gaps or considerations
-4. Overall fit score justification
+## Output Format (for EACH candidate):
+**[Rank]. [Candidate Name]** (Fit Score: X/100)
+- ✅ Matching: [list matching qualifications from the resume]
+- ⚠️ Gaps: [list missing requirements, or "None" if fully qualified]
+- 📝 Summary: [one sentence justification]
+
+## IMPORTANT:
+- Base your assessment ONLY on provided candidate data
+- Do NOT assume or infer qualifications not explicitly stated
+- Be specific—cite exact skills, roles, or experience from the data
 
 ## Ranking Explanation:
 """

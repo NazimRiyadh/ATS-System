@@ -1,0 +1,136 @@
+{
+  "queries_tested": 5,
+  "queries_passed": 3,
+  "queries_failed": 2,
+  "query_results": [
+    {
+      "query_id": "Q1",
+      "query": "Python developer with 5+ years experience, must have Docker and PostgreSQL, must NOT be frontend-focused",
+      "expected_matches": [
+        "JD-001"
+      ],
+      "actual_matches": [
+        {
+          "jd_id": "JD-001",
+          "candidates_found": 9,
+          "shared_terms": [
+            "python",
+            "docker",
+            "postgresql",
+            "sql"
+          ]
+        },
+        {
+          "jd_id": "JD-002",
+          "candidates_found": 6,
+          "shared_terms": [
+            "python",
+            "sql"
+          ]
+        },
+        {
+          "jd_id": "JD-003",
+          "candidates_found": 5,
+          "shared_terms": [
+            "python",
+            "sql"
+          ]
+        },
+        {
+          "jd_id": "JD-004",
+          "candidates_found": 2,
+          "shared_terms": [
+            "python",
+            "postgresql",
+            "sql"
+          ]
+        }
+      ],
+      "false_positives": [
+        "JD-004"
+      ],
+      "false_negatives": [],
+      "verdict": "FAIL",
+      "failure_reason": "False positives: ['JD-004']"
+    },
+    {
+      "query_id": "Q2",
+      "query": "Machine Learning engineer with production deployment experience and TensorFlow, NOT research-only",
+      "expected_matches": [
+        "JD-002"
+      ],
+      "actual_matches": [],
+      "false_positives": [],
+      "false_negatives": [
+        "JD-002"
+      ],
+      "verdict": "FAIL",
+      "failure_reason": "False negatives: ['JD-002']"
+    },
+    {
+      "query_id": "Q3",
+      "query": "Java developer with Spring Boot and microservices, must have Kafka experience",
+      "expected_matches": [
+        "JD-004"
+      ],
+      "actual_matches": [
+        {
+          "jd_id": "JD-004",
+          "candidates_found": 2,
+          "shared_terms": [
+            "java",
+            "spring"
+          ]
+        }
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "verdict": "PASS"
+    },
+    {
+      "query_id": "Q4",
+      "query": "Kubernetes expert with Terraform and cloud infrastructure, NOT a developer role",
+      "expected_matches": [
+        "JD-005"
+      ],
+      "actual_matches": [
+        {
+          "jd_id": "JD-005",
+          "candidates_found": 5,
+          "shared_terms": [
+            "kubernetes",
+            "terraform"
+          ]
+        }
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "verdict": "PASS"
+    },
+    {
+      "query_id": "Q5",
+      "query": "Data professional with SQL and statistical modeling experience, must have Tableau or visualization skills",
+      "expected_matches": [
+        "JD-003"
+      ],
+      "actual_matches": [
+        {
+          "jd_id": "JD-003",
+          "candidates_found": 5,
+          "shared_terms": [
+            "sql",
+            "tableau"
+          ]
+        }
+      ],
+      "false_positives": [],
+      "false_negatives": [],
+      "verdict": "PASS"
+    }
+  ],
+  "critical_weaknesses": [
+    "Query Q1: System matched prohibited JDs ['JD-004']",
+    "Query Q2: System missed required JDs ['JD-002']"
+  ],
+  "overall_verdict": "NOT INDUSTRY-READY"
+}

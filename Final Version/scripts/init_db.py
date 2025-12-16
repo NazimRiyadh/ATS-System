@@ -18,7 +18,7 @@ async def check_postgres():
     """Check PostgreSQL connection and pgvector extension."""
     from src.config import settings
     
-    print("🔍 Checking PostgreSQL...")
+    print("Checking PostgreSQL...")
     
     try:
         # Parse connection string
@@ -55,7 +55,7 @@ async def check_neo4j():
     """Check Neo4j connection."""
     from src.config import settings
     
-    print("🔍 Checking Neo4j...")
+    print("Checking Neo4j...")
     
     try:
         driver = AsyncGraphDatabase.driver(
@@ -82,7 +82,7 @@ async def check_ollama():
     """Check Ollama availability."""
     from src.llm_adapter import get_ollama_adapter
     
-    print("🔍 Checking Ollama...")
+    print("Checking Ollama...")
     
     try:
         adapter = get_ollama_adapter()
@@ -104,7 +104,7 @@ async def initialize_rag():
     """Initialize LightRAG storages."""
     from src.rag_config import get_rag_manager
     
-    print("🔍 Initializing LightRAG...")
+    print("Initializing LightRAG...")
     
     try:
         manager = get_rag_manager()
@@ -120,7 +120,7 @@ async def initialize_rag():
 async def main():
     """Run all initialization checks."""
     print("\n" + "="*50)
-    print("🚀 LightRAG ATS - Database Initialization")
+    print("LightRAG ATS - Database Initialization")
     print("="*50 + "\n")
     
     results = {
@@ -133,20 +133,20 @@ async def main():
     if results["PostgreSQL"] and results["Neo4j"]:
         results["LightRAG"] = await initialize_rag()
     else:
-        print("\n⚠️ Skipping LightRAG init - databases not ready")
+        print("\nWARNING: Skipping LightRAG init - databases not ready")
         results["LightRAG"] = False
     
     # Summary
     print("\n" + "="*50)
-    print("📊 Initialization Summary")
+    print("Initialization Summary")
     print("="*50)
     
     for component, status in results.items():
-        icon = "✅" if status else "❌"
-        print(f"  {icon} {component}")
+        icon = "OK" if status else "FAIL"
+        print(f"  {icon} - {component}")
     
     all_healthy = all(results.values())
-    print("\n" + ("🎉 All systems ready!" if all_healthy else "⚠️ Some components need attention"))
+    print("\n" + ("All systems ready!" if all_healthy else "Some components need attention"))
     
     return all_healthy
 

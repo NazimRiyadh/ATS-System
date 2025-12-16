@@ -60,7 +60,17 @@ async def ingest_single_resume(
         logger.info(f"Saved upload: {file_path}")
         
         # Ingest the resume
-        result = await ingest_resume(str(file_path))
+        try:
+            result = await ingest_resume(str(file_path))
+        except Exception as e:
+            logger.error(f"Ingestion exception: {e}", exc_info=True)
+            # Cleanup on failure
+            if file_path.exists():
+                file_path.unlink()
+            raise HTTPException(
+                status_code=500,
+                detail=f"Ingestion failed with exception: {str(e)}"
+            )
         
         processing_time = (datetime.now() - start_time).total_seconds()
         
@@ -73,6 +83,9 @@ async def ingest_single_resume(
                 processing_time=processing_time
             )
         else:
+            # Cleanup on failure
+            if file_path.exists():
+                file_path.unlink()
             raise HTTPException(
                 status_code=500,
                 detail=f"Ingestion failed: {result.error}"

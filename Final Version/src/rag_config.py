@@ -125,6 +125,9 @@ class RAGManager:
                     func=_embedding_func
                 ),
                 
+                # Reranking Configuration
+                rerank_model_func=rerank_func,
+                
                 # Storage Configuration - Use PostgreSQL and Neo4j
                 kv_storage="PGKVStorage",                    # PostgreSQL for key-value
                 vector_storage="PGVectorStorage",            # PostgreSQL + pgvector for vectors
@@ -149,13 +152,19 @@ class RAGManager:
                 PROMPTS["DEFAULT_RECORD_DELIMITER"] = "\n"
                 PROMPTS["DEFAULT_COMPLETION_DELIMITER"] = "\n\n"
                 
-                # CRITICAL: Override examples to use pipe delimiter, otherwise model follows comma pattern
+                # CRITICAL: Override examples to use pipe delimiter with PERSON-centric relationships
                 PROMPTS["entity_extraction_examples"] = [
-                    """("entity"| "Google"| "company"| "A technology company")
-("entity"| "Software Engineer"| "role"| "Develops software")
-("entity"| "Python"| "skill"| "Programming language")
-("relationship"| "Google"| "located_in"| "Mountain View"| "Headquarters location")
-("relationship"| "Software Engineer"| "requires"| "Python"| "Core skill")"""
+                    """("entity"|John Doe|PERSON|Candidate name)
+("entity"|Python|SKILL|Programming language)
+("entity"|Senior Data Analyst|ROLE|Job title)
+("entity"|Google|COMPANY|Technology company)
+("entity"|San Francisco|LOCATION|City in California)
+("entity"|AWS Certified|CERTIFICATION|Cloud certification)
+("relationship"|John Doe|HAS_SKILL|Python|Listed in skills section)
+("relationship"|John Doe|HAS_ROLE|Senior Data Analyst|Current position)
+("relationship"|John Doe|WORKED_AT|Google|Employment history)
+("relationship"|John Doe|LOCATED_IN|San Francisco|Resume header)
+("relationship"|John Doe|HAS_CERTIFICATION|AWS Certified|Certifications section)"""
                 ]
                 
                 print("Applied PROMPTS monkey patch for Llama 3.1 format")

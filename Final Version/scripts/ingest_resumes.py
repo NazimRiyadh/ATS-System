@@ -17,7 +17,7 @@ async def main(args):
     from src.rag_config import get_rag_manager
     
     print("\n" + "="*50)
-    print("📄 LightRAG ATS - Resume Ingestion")
+    print("LightRAG ATS - Resume Ingestion")
     print("="*50 + "\n")
     
     # Validate directory
@@ -26,22 +26,22 @@ async def main(args):
         print(f"❌ Directory not found: {directory}")
         return False
     
-    print(f"📁 Source: {directory}")
-    print(f"📦 Batch size: {args.batch_size}")
+    print(f"Source directory: {directory}")
+    print(f"Batch size: {args.batch_size}")
     print()
     
     # Initialize RAG first
-    print("🔧 Initializing RAG system...")
+    print("Initializing RAG system...")
     try:
         manager = get_rag_manager()
         await manager.initialize()
-        print("✅ RAG initialized\n")
+        print("RAG initialized\n")
     except Exception as e:
-        print(f"❌ RAG initialization failed: {e}")
+        print(f"RAG initialization failed: {e}")
         return False
     
     # Run ingestion
-    print("🚀 Starting ingestion...\n")
+    print("Starting ingestion...\n")
     
     result = await ingest_resumes_from_directory(
         directory=str(directory),
@@ -50,19 +50,19 @@ async def main(args):
     
     # Print summary
     print("\n" + "="*50)
-    print("📊 Ingestion Complete")
+    print("Ingestion Complete")
     print("="*50)
-    print(f"  📁 Total files: {result.total_files}")
-    print(f"  ✅ Successful: {result.successful}")
-    print(f"  ❌ Failed: {result.failed}")
-    print(f"  ⏱️ Time: {result.total_time:.2f}s")
+    print(f"  Total files: {result.total_files}")
+    print(f"  Successful: {result.successful}")
+    print(f"  Failed: {result.failed}")
+    print(f"  Time: {result.total_time:.2f}s")
     
     if result.total_files > 0:
         rate = result.total_files / result.total_time
-        print(f"  📈 Rate: {rate:.2f} files/sec")
+        print(f"  Rate: {rate:.2f} files/sec")
     
     if result.failed > 0:
-        print("\n⚠️ Failed files:")
+        print("\nFailed files:")
         for r in result.results:
             if not r.success:
                 print(f"  - {r.file_path}: {r.error}")

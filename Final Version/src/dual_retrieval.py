@@ -204,6 +204,26 @@ class DualLevelRetrieval:
         )
 
 
+# Grounding wrapper prompt to prevent LLM hallucination
+GROUNDING_PROMPT = """You are an ATS (Applicant Tracking System) assistant answering questions about candidate resumes.
+
+⚠️ CRITICAL RULES:
+1. Answer ONLY using the RESUME DATA below - nothing else
+2. DO NOT talk about yourself or your capabilities
+3. List candidates as bullet points with their qualifications
+4. If data is not available, say "This information is not in the resume data."
+5. ALWAYS provide a complete answer - don't end with colons or incomplete sentences
+
+## RESUME DATA:
+{context}
+
+## USER QUESTION:
+{query}
+
+## YOUR COMPLETE ANSWER (list matching candidates as bullet points):
+"""
+
+
 async def chat_with_dual_retrieval(
     rag: LightRAG,
     query: str,
@@ -212,6 +232,10 @@ async def chat_with_dual_retrieval(
 ) -> Dict[str, Any]:
     """
     High-level function for chat with dual-level retrieval.
+    Uses grounded approach: retrieve raw context first, then LLM with strict grounding.
+    
+    PRODUCTION HARDENED:
+    - AUDIT FIX 3: Validates LLM response references actual context
     
     Args:
         rag: LightRAG instance
@@ -222,7 +246,57 @@ async def chat_with_dual_retrieval(
     Returns:
         Dict with response and metadata
     """
+    from .llm_adapter import ollama_llm_func
+    
     retrieval = DualLevelRetrieval(rag)
+    
+    # Step 1: Get raw context using only_need_context parameter
+    # This bypasses LightRAG's internal LLM call and returns raw chunks
+    try:
+        raw_context = await rag.aquery(
+            query,
+            param=QueryParam(mode="naive", only_need_context=True)
+        )
+        logger.info(f"📄 Retrieved {len(raw_context) if raw_context else 0} chars of raw context")
+    except Exception as e:
+        logger.warning(f"Raw context retrieval failed: {e}, falling back to standard mode")
+        raw_context = None
+    
+    # Step 2: If raw context retrieval worked, use grounded LLM call
+    if raw_context:
+        grounded_prompt = GROUNDING_PROMPT.format(
+            context=raw_context,
+            query=query
+        )
+        
+        try:
+            grounded_response = await ollama_llm_func(grounded_prompt)
+            
+            # AUDIT FIX 3: Validate LLM response references actual context
+            validation_result = validate_grounded_response(grounded_response, raw_context)
+            
+            if validation_result["valid"]:
+                logger.info("✅ Generated validated grounded response")
+                return {
+                    "response": grounded_response,
+                    "mode_used": "naive (grounded, validated)",
+                    "fallback_used": False,
+                    "sources": {"rag": len(raw_context), "total": len(raw_context)}
+                }
+            else:
+                logger.warning(f"⚠️ LLM response failed validation: {validation_result['reason']}")
+                # Return a safe response instead of potentially hallucinated content
+                return {
+                    "response": f"Based on the resume data, I found relevant candidates but cannot provide specific details. {validation_result['reason']}",
+                    "mode_used": "naive (grounded, validation failed)",
+                    "fallback_used": True,
+                    "sources": {"rag": len(raw_context), "total": len(raw_context)}
+                }
+                
+        except Exception as e:
+            logger.warning(f"Grounded LLM call failed: {e}")
+    
+    # Step 3: Fallback to standard dual-level retrieval if grounding fails
     result = await retrieval.dual_level_query(query, candidates, mode)
     
     return {
@@ -231,3 +305,75 @@ async def chat_with_dual_retrieval(
         "fallback_used": result.fallback_used,
         "sources": result.sources.get("context_lengths", {})
     }
+
+
+def validate_grounded_response(response: str, context: str) -> Dict[str, Any]:
+    """
+    AUDIT FIX 3: Validate that LLM response is grounded in actual context.
+    
+    Checks:
+    1. Response is not empty or just filler
+    2. Response contains specific terms from context
+    3. Response doesn't make claims not in context
+    
+    Returns:
+        Dict with 'valid' boolean and 'reason' string
+    """
+    import re
+    
+    # Check 1: Response is not empty or too short
+    if not response or len(response.strip()) < 50:
+        return {"valid": False, "reason": "Response too short to be meaningful"}
+    
+    # Check 2: Response doesn't end with incomplete sentence
+    response_stripped = response.strip()
+    if response_stripped.endswith(':') or response_stripped.endswith('following'):
+        return {"valid": False, "reason": "Response appears truncated"}
+    
+    # Check 3: Extract potential names from context and check if any appear in response
+    # Look for capitalized names (2-3 words)
+    name_pattern = r'\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,2})\b'
+    context_names = set(re.findall(name_pattern, context))
+    response_names = set(re.findall(name_pattern, response))
+    
+    # If context has names, response should reference at least one
+    if context_names:
+        names_in_response = context_names & response_names
+        if not names_in_response and "no candidate" not in response.lower() and "not find" not in response.lower():
+            # Response has names but they're not from context - possible hallucination
+            if response_names:
+                return {"valid": False, "reason": "Response contains names not found in resume data"}
+    
+    # Check 4: Response shouldn't contain self-referential statements
+    hallucination_markers = [
+        "i have been trained",
+        "as an ai",
+        "i don't have access",
+        "i cannot access",
+        "my knowledge",
+        "my training"
+    ]
+    response_lower = response.lower()
+    for marker in hallucination_markers:
+        if marker in response_lower:
+            return {"valid": False, "reason": "Response contains self-referential AI statements"}
+    
+    return {"valid": True, "reason": ""}
+
+
+
+async def grounded_query(rag: LightRAG, query: str) -> str:
+    """
+    Simple grounded query - prevents hallucination by enforcing context usage.
+    
+    This is a convenience wrapper around chat_with_dual_retrieval for simple queries.
+    
+    Args:
+        rag: LightRAG instance
+        query: User question
+        
+    Returns:
+        Grounded response string
+    """
+    result = await chat_with_dual_retrieval(rag, query)
+    return result["response"]

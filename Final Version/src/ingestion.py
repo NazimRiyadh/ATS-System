@@ -47,7 +47,19 @@ class ResumeIngestion:
     async def _ensure_rag(self):
         """Ensure RAG is initialized."""
         if self._rag is None:
-            self._rag = await get_rag()
+            try:
+                self._rag = await get_rag()
+                # Verify RAG is properly initialized
+                if self._rag is None:
+                    raise RuntimeError("RAG instance is None after initialization")
+                # Verify storages are initialized
+                if not hasattr(self._rag, '_storage_lock') or self._rag._storage_lock is None:
+                    logger.warning("RAG storages may not be initialized, re-initializing...")
+                    await self._rag.initialize_storages()
+                logger.debug("RAG instance verified and ready")
+            except Exception as e:
+                logger.error(f"Failed to initialize RAG: {e}")
+                raise RuntimeError(f"RAG initialization failed: {e}") from e
         return self._rag
     
     async def ingest_single(
@@ -88,8 +100,27 @@ class ResumeIngestion:
             # Get RAG instance
             rag = await self._ensure_rag()
             
+            # Verify RAG is ready
+            if rag is None:
+                raise RuntimeError("RAG instance is None")
+            
+            logger.debug(f"Ingesting document for {candidate_name} (length: {len(doc_content)} chars)")
+            
             # Ingest into LightRAG (just pass the text content)
-            await rag.ainsert(doc_content)
+            try:
+                await rag.ainsert(doc_content)
+                logger.debug(f"Successfully called ainsert for {candidate_name}")
+            except KeyError as e:
+                if 'history_messages' in str(e):
+                    logger.error("LightRAG history_messages KeyError - pipeline status not initialized")
+                    raise RuntimeError(
+                        "LightRAG pipeline status not properly initialized. "
+                        "This may indicate a bug in LightRAG or missing initialization step."
+                    ) from e
+                raise
+            except Exception as e:
+                logger.error(f"Error during ainsert: {type(e).__name__}: {e}")
+                raise
             
             processing_time = (datetime.now() - start_time).total_seconds()
             
