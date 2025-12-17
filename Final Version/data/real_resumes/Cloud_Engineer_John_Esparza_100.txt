@@ -1,0 +1,59 @@
+Here's a sample resume for John Esparza:
+
+John Esparza
+Cloud Engineer
+
+Contact Information:
+
+* Email: [john.esparza@email.com](mailto:john.esparza@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/johnesparza
+
+Professional Summary:
+
+Highly motivated and experienced cloud engineer with a strong background in cloud migration, cost optimization, and networking. Proven track record of successfully migrating complex workloads to the cloud, reducing costs by up to 30%, and improving network performance by up to 40%. Skilled in scripting languages such as Python, PowerShell, and Bash, with expertise in cloud-based automation and orchestration.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud Platform
+* Cloud Services: EC2, Lambda, S3, CloudWatch, CloudFormation
+* Scripting Languages: Python, PowerShell, Bash
+* Cloud Networking: VPC, Subnets, Routing, Security Groups
+* Cloud Cost Optimization: Cost Explorer, Reserved Instances, Spot Instances
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Cloud Engineer, ABC Corporation (2018-Present)
+
+* Migrated 20 complex workloads to the cloud, resulting in a 25% reduction in costs and a 30% improvement in network performance
+* Designed and implemented a cloud-based automation framework using Python and AWS CloudFormation, reducing manual errors by 90%
+* Collaborated with cross-functional teams to develop and deploy cloud-native applications, resulting in a 20% increase in customer satisfaction
+* Conducted regular cloud cost optimization and security audits, resulting in a $500,000 reduction in annual costs
+
+Senior Systems Administrator, DEF Company (2015-2018)
+
+* Managed and maintained a fleet of 500 servers, ensuring 99.9% uptime and a 95% reduction in downtime
+* Implemented a cloud-based monitoring and logging system using Splunk and AWS CloudWatch, resulting in a 50% reduction in mean time to detect (MTTD) and mean time to resolve (MTTR)
+* Collaborated with the development team to design and implement a cloud-based CI/CD pipeline using Jenkins and AWS CodePipeline
+* Provided technical guidance and support to junior engineers, resulting in a 25% increase in team productivity
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified Cloud Practitioner - Professional
+* AWS Certified Solutions Architect - Associate
+* CompTIA Cloud+ Certification
+
+Achievements:
+
+* Winner of the 2020 ABC Corporation Innovation Award for outstanding contributions to cloud migration and cost optimization
+* Recipient of the 2019 DEF Company Leadership Award for exceptional leadership and technical expertise
+* Published author of "Cloud Migration Best Practices" in the 2020 edition of the Cloud Computing Journal
+
+References:
+
+Available upon request.

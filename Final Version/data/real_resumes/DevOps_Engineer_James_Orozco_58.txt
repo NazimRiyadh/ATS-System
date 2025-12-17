@@ -1,0 +1,59 @@
+Here's a sample resume for James Orozco, a DevOps Engineer:
+
+James Orozco
+Contact Information:
+
+* Email: [james.orozco@email.com](mailto:james.orozco@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/jamesorozco
+
+Summary:
+
+Highly motivated and experienced DevOps Engineer with expertise in Continuous Integration/Continuous Deployment (CI/CD), Ansible, Infrastructure as Code, and Monitoring Tools. Proven track record of improving deployment efficiency, reducing errors, and enhancing overall system reliability. Possesses strong problem-solving skills, attention to detail, and excellent communication skills.
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD
+* Infrastructure as Code: Ansible, Terraform, CloudFormation
+* Monitoring Tools: Prometheus, Grafana, ELK Stack
+* Operating Systems: Linux, Windows
+* Scripting Languages: Python, Bash
+* Cloud Platforms: AWS, Azure, Google Cloud
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented CI/CD pipelines using Jenkins and GitLab CI/CD, resulting in 90% reduction in deployment time and 80% reduction in errors.
+* Deployed Ansible for infrastructure automation, reducing manual errors and improving deployment consistency.
+* Developed and maintained monitoring tools using Prometheus, Grafana, and ELK Stack, resulting in 95% uptime and 99% error detection rate.
+* Collaborated with cross-functional teams to design and implement cloud infrastructure using AWS, Azure, and Google Cloud.
+* Participated in on-call rotation, ensuring 24/7 system availability and responding to production issues promptly.
+
+Automation Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented automation scripts using Python and Bash, reducing manual errors and improving deployment efficiency.
+* Developed and maintained infrastructure as code using Terraform and CloudFormation, resulting in 95% reduction in deployment time.
+* Collaborated with development teams to integrate monitoring tools into the application, resulting in 99% error detection rate.
+* Participated in code reviews and ensured compliance with coding standards.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified DevOps Engineer, DevOps Institute (2019)
+* Certified Ansible Automation Professional, Red Hat (2018)
+
+Achievements:
+
+* DevOps Engineer of the Year, ABC Corporation (2020)
+* Member, DevOps Institute (2019)
+* Speaker, DevOps Days Conference (2018)
+
+References:
+
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experience and the job you're applying for. Good luck with your job search!

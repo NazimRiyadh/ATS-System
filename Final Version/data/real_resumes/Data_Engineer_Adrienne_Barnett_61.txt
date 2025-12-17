@@ -1,0 +1,67 @@
+Adrienne Barnett
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [adrienne.barnett@email.com](mailto:adrienne.barnett@email.com)
+* LinkedIn: linkedin.com/in/adriennebarnett
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with expertise in designing, developing, and deploying scalable data pipelines and architectures. Proficient in a range of technologies including Big Data Frameworks, Databases, Cloud Platforms, and Python.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop
+	+ Apache Spark
+	+ Apache Flink
+* Data Pipelines:
+	+ Apache Beam
+	+ Apache NiFi
+	+ AWS Glue
+* Databases:
+	+ Relational databases (MySQL, PostgreSQL)
+	+ NoSQL databases (MongoDB, Cassandra)
+	+ Cloud-native databases (Google Bigtable, Amazon DynamoDB)
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud Platform (GCP)
+* Programming Languages:
+	+ Python (core and data science libraries)
+	+ Java (core and Spring frameworks)
+* Data Warehousing:
+	+ Amazon Redshift
+	+ Google BigQuery
+	+ Apache Hive
+* CI/CD Tools:
+	+ Jenkins
+	+ GitLab CI/CD
+	+ CircleCI
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed scalable data pipelines using Apache Beam, Apache NiFi, and AWS Glue to process large datasets.
+* Collaborated with data scientists to build and deploy machine learning models using Python and Apache Spark.
+* Managed and maintained a large dataset in a cloud-native database (Google Bigtable) and ensured data quality and integrity.
+* Implemented CI/CD pipeline using Jenkins and GitLab CI/CD to automate deployment and testing of data engineering projects.
+
+Data Engineer, DEF Startup (2015-2018)
+
+* Built and deployed data pipelines using Apache Hadoop and Apache Spark to process large datasets.
+* Worked with the data science team to build and deploy predictive models using Python and scikit-learn.
+* Designed and implemented data warehouses using Amazon Redshift and Apache Hive.
+* Implemented data governance using Apache Ranger and Apache Sentry.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (DASCA)
+* Certified Cloud Practitioner, Amazon Web Services (AWS)
+
+References:
+Available upon request.

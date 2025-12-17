@@ -1,0 +1,60 @@
+Here is a professional resume for Amanda Brandt:
+
+Amanda Brandt
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [amanda.brandt@email.com](mailto:amanda.brandt@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/amandabrandt
+* GitHub: github.com/amandabrandt
+
+Professional Summary:
+Highly motivated and experienced Machine Learning Engineer with a strong foundation in data science and engineering principles. Proven expertise in developing and deploying scalable machine learning models using Scikit-learn, TensorFlow, and PyTorch. Skilled in feature engineering, hyperparameter tuning, and model optimization. Passionate about building intelligent systems that drive business value.
+
+Technical Skills:
+
+* Programming Languages: Python, R
+* Machine Learning Frameworks: Scikit-learn, TensorFlow, PyTorch
+* Feature Engineering: Dimensionality reduction, feature selection, and generation
+* Hyperparameter Tuning: Grid search, random search, Bayesian optimization
+* Model Optimization: Model pruning, knowledge distillation, and ensemble methods
+* Data Preprocessing: Data cleaning, data transformation, and data visualization
+* Operating Systems: Linux, Windows
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed scalable machine learning models using Scikit-learn, TensorFlow, and PyTorch to predict customer churn and improve marketing campaigns
+* Collaborated with cross-functional teams to integrate machine learning models into production systems, resulting in a 25% increase in conversion rates
+* Developed and maintained a suite of machine learning models for predicting demand and optimizing inventory levels, resulting in a 15% reduction in inventory costs
+* Conducted hyperparameter tuning and model optimization experiments using Bayesian optimization and model pruning, resulting in a 30% improvement in model accuracy
+
+Data Scientist, DEF Startups (2015-2018)
+
+* Worked on a range of machine learning projects, including image classification, natural language processing, and recommender systems
+* Developed and deployed a real-time recommender system using PyTorch and TensorFlow, resulting in a 25% increase in user engagement
+* Collaborated with the product team to design and implement A/B testing experiments, resulting in a 20% increase in conversion rates
+* Built and maintained a data pipeline using Apache Beam and Apache Spark, resulting in a 50% reduction in data processing time
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015)
+* Bachelor of Science in Computer Science, ABC University (2013)
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2018)
+* Certified Scrum Master, Scrum Alliance (2016)
+
+Achievements:
+
+* Winner, Kaggle Machine Learning Competition (2019)
+* Finalist, Data Science Bowl (2018)
+* Published research paper on "Deep Learning for Image Classification" in the Journal of Machine Learning Research (2020)
+
+References:
+Available upon request.

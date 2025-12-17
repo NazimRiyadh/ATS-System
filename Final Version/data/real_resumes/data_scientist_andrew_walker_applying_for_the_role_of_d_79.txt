@@ -1,0 +1,55 @@
+here's a sample resume for andrew walker applying for the role of data scientist:
+
+andrew walker
+contact information:
+
+* email: [andrew.walker@email.com](mailto:andrew.walker@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/andrewwalker
+* github: github.com/andrewwalker
+
+summary:
+highly motivated and detail-oriented data scientist with a strong foundation in statistics and deep learning. proven ability to extract insights from complex data sets using sql, python, and r. skilled in developing and deploying predictive models to drive business decisions.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning: deep learning (tensorflow, keras), supervised and unsupervised learning (scikit-learn)
+* statistics: hypothesis testing, confidence intervals, regression analysis
+* data visualization: tableau, matplotlib, seaborn
+* databases: mysql, postgresql
+* operating systems: windows, linux
+
+professional experience:
+
+data scientist, abc corporation (2020-present)
+
+* developed and deployed predictive models using deep learning techniques to forecast customer churn and improve marketing campaigns
+* collaborated with cross-functional teams to design and implement data-driven solutions to business problems
+* built and maintained complex databases using sql to store and analyze large datasets
+* created data visualizations using tableau to communicate insights to stakeholders
+
+data analyst, def startups (2018-2020)
+
+* conducted statistical analysis and data visualization to identify trends and patterns in customer behavior
+* built and maintained datasets using r and python to support business decisions
+* developed and deployed predictive models using supervised learning techniques to predict customer engagement
+* collaborated with product development team to design and implement data-driven product features
+
+education:
+
+* master of science in statistics, xyz university (2018)
+* bachelor of science in mathematics, abc university (2016)
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+projects:
+
+* predictive modeling of customer churn: developed a deep learning model using tensorflow to predict customer churn and improve marketing campaigns
+* anomaly detection in iot sensor data: developed a statistical model using r to detect anomalies in iot sensor data and improve equipment maintenance
+* customer segmentation using clustering: developed a clustering model using scikit-learn to segment customers based on their behavior and improve marketing campaigns
+
+i hope this sample resume helps! remember to customize your resume to the specific job you're applying for and highlight your unique skills and experiences.

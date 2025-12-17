@@ -1,0 +1,70 @@
+Here's a sample resume for Shawn Wise:
+
+Shawn Wise
+Cloud Architect
+
+Contact Information:
+
+* Email: [swise@email.com](mailto:swise@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/shawnwise
+* GitHub: github.com/swise
+
+Summary:
+
+Highly motivated and experienced Cloud Architect with a strong background in designing, implementing, and managing cloud-based infrastructure using AWS, Azure, and Terraform. Proven track record of delivering scalable, secure, and cost-effective cloud solutions that meet business objectives. Skilled in cloud migration, cloud security, and DevOps practices.
+
+Technical Skills:
+
+* Cloud Platforms: AWS (EC2, S3, Lambda, CloudFormation), Azure (Virtual Machines, Storage, Networking)
+* Infrastructure as Code (IaC): Terraform, AWS CloudFormation, Azure Resource Manager (ARM)
+* Cloud Security: Identity and Access Management (IAM), Network Security Groups (NSGs), CloudTrail
+* DevOps: CI/CD pipelines, Docker, Kubernetes
+* Programming Languages: Python, Java, C#, PowerShell
+
+Professional Experience:
+
+Cloud Architect, ABC Company (2018-Present)
+
+* Design and implement cloud-based infrastructure using AWS and Azure to support business growth
+* Develop and maintain Terraform configurations to automate infrastructure provisioning
+* Collaborate with development teams to design and implement CI/CD pipelines using AWS CodePipeline and Azure DevOps
+* Ensure cloud security and compliance with industry standards and regulations
+* Provide technical guidance and support to internal stakeholders on cloud-related matters
+
+Senior Cloud Engineer, DEF Company (2015-2018)
+
+* Designed and implemented cloud-based infrastructure using AWS and Azure for multiple clients
+* Developed and maintained AWS CloudFormation templates to automate infrastructure provisioning
+* Collaborated with development teams to design and implement CI/CD pipelines using Jenkins and Azure DevOps
+* Ensured cloud security and compliance with industry standards and regulations
+* Provided technical guidance and support to internal stakeholders on cloud-related matters
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Associate
+* Microsoft Certified Azure Solutions Architect Expert
+* HashiCorp Certified Terraform Associate
+
+Achievements:
+
+* Successfully migrated a large on-premises infrastructure to AWS, resulting in 30% cost savings and 40% reduction in provisioning time
+* Designed and implemented a cloud-based CI/CD pipeline using AWS CodePipeline and Terraform, reducing deployment time by 70%
+* Collaborated with development teams to design and implement a cloud-based security architecture using AWS IAM and Azure AD, resulting in 90% reduction in security breaches
+* Developed and maintained a Terraform configuration that automated infrastructure provisioning for 20+ applications, resulting in 95% reduction in provisioning time
+
+Professional Memberships:
+
+* AWS Community Builder
+* Microsoft Azure MVP
+* HashiCorp Ambassador
+
+References:
+
+Available upon request.
+
+Note that this is just a sample resume, and you should customize it to fit your specific experience and qualifications. Also, proofread your resume multiple times to ensure there are no errors in spelling, grammar, or formatting.

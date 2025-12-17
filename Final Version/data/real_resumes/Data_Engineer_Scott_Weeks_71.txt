@@ -1,0 +1,52 @@
+Scott Weeks
+Contact Information:
+
+* Email: [sweeks@email.com](mailto:sweeks@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/scottweeks
+
+Summary:
+Highly motivated and experienced Data Engineer with expertise in designing, developing, and deploying scalable data pipelines and architectures using Big Data Frameworks, Cloud Platforms, and Python. Proven track record of delivering high-quality data solutions that drive business insights and growth.
+
+Technical Skills:
+
+* Big Data Frameworks: Apache Hadoop, Apache Spark, Apache Flink
+* Data Pipelines: Apache Beam, Apache NiFi
+* Cloud Platforms: Amazon Web Services (AWS), Microsoft Azure
+* Programming Languages: Python ( expertise in Python 3.x), SQL
+* Data Warehousing: Amazon Redshift, Google BigQuery
+* Operating Systems: Linux, Windows
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior Data Engineer, Data Insights Inc. (2018-Present)
+
+* Designed and developed scalable data pipelines using Apache Beam and Apache NiFi to process and analyze large datasets for clients across industries
+* Built and maintained data warehouses on Amazon Redshift and Google BigQuery to support business intelligence and data science initiatives
+* Collaborated with cross-functional teams to implement data-driven solutions that improved business outcomes
+* Mentored junior engineers to improve team knowledge and skills in data engineering and cloud computing
+
+Data Engineer, Data Analytics Co. (2015-2018)
+
+* Developed and deployed data pipelines using Apache Spark and Apache Flink to process and analyze large datasets for clients
+* Designed and implemented data warehouses on Amazon Redshift and Google BigQuery to support business intelligence and data science initiatives
+* Worked with data scientists to develop and deploy machine learning models using Python and scikit-learn
+* Participated in Agile development methodologies to deliver high-quality data solutions quickly and efficiently
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (DASCA)
+* Certified Scrum Master, Scrum Alliance
+
+Projects:
+
+* Developed a scalable data pipeline using Apache Beam to process and analyze large datasets for a client in the finance industry (link to project on GitHub)
+* Built a data warehouse on Amazon Redshift to support business intelligence and data science initiatives for a client in the retail industry (link to project on GitHub)
+
+References:
+Available upon request.

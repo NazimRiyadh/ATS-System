@@ -1,0 +1,53 @@
+Here is a resume for Isabella applying for a Data Scientist position that may lead to rejection:
+
+Isabella
+Contact Information:
+Email: [isabella@email.com](mailto:isabella@email.com)
+Phone: 555-555-5555
+LinkedIn: linkedin.com/in/isabella
+
+Education:
+- Bachelor of Science in Statistics, XYZ University (2020-2024)
+  - GPA: 3.0/4.0
+  - Relevant Coursework: Data Structures, Algorithms, Statistics, Probability, Linear Algebra
+
+Experience:
+- Data Analyst, ABC Company (Summer Internship, 2022)
+  - Responsibilities:
+    * Assisted in data cleaning and preprocessing
+    * Created visualizations using Tableau
+    * Helped in building a basic predictive model
+    * Worked on a team to present insights to stakeholders
+  - Achievements:
+    * Improved data cleaning efficiency by 20%
+    * Created 10 visualizations for stakeholder presentations
+    * Contributed to building a model with a moderate accuracy of 70%
+
+Competitions:
+- Kaggle Competitions:
+  - **Rank 50/10,000** in the Titanic: Machine Learning from Disaster competition (2022)
+    * Evaluated on accuracy, precision, recall, and F1 score
+    * Used ensemble techniques and feature engineering to improve model performance
+  - **Rank 30/5,000** in the House Prices: Advanced Regression Techniques competition (2021)
+    * Evaluated on mean squared error, R-squared, and mean absolute error
+    * Built models using linear regression, decision trees, and random forests
+
+Skills:
+- Programming languages: Python, R, SQL
+- Data analysis and manipulation: Pandas, NumPy, Matplotlib, Seaborn
+- Machine learning: Scikit-learn, TensorFlow, Keras
+- Data visualization: Tableau, Matplotlib, Seaborn
+- Operating Systems: Windows, Linux
+
+Certifications:
+- Certified Data Analyst, Data Science Council of America (2023)
+- Certified Data Scientist, Data Science Council of America (in progress)
+
+Projects:
+- **Credit Risk Assessment**
+  * Built a binary classification model using logistic regression and random forests to predict credit risk
+  * Evaluated model performance using AUC-ROC, precision, recall, and F1 score
+  * Used feature engineering and hyperparameter tuning to improve model performance
+
+References:
+Available upon request.

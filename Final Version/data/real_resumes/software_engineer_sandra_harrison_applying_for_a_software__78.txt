@@ -1,0 +1,59 @@
+here's a sample resume for sandra harrison applying for a software engineer role:
+
+sandra harrison
+contact information:
+
+* phone: (123) 456-7890
+* email: [sandra.harrison@email.com](mailto:sandra.harrison@email.com)
+* linkedin: linkedin.com/in/sandraharrison
+* github: github.com/sandraharrison
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable and efficient software solutions using java, python, and algorithms. proficient in object-oriented programming, data structures, and problem-solving. strong passion for staying up-to-date with the latest technologies and trends in the industry.
+
+technical skills:
+
+* programming languages: java, python, c++
+* development frameworks: spring, django, flask
+* databases: mysql, postgresql, mongodb
+* operating systems: windows, linux, macos
+* algorithms: data structures (arrays, linked lists, stacks, queues), sorting and searching algorithms, dynamic programming
+* agile methodologies: scrum, kanban
+* version control systems: git, svn
+* cloud platforms: aws, azure
+
+professional experience:
+
+software engineer, abc company (jan 2020 - present)
+
+* designed and developed multiple features for a cloud-based e-commerce platform using java and spring
+* collaborated with cross-functional teams to deploy and maintain the platform
+* implemented algorithms for optimized product recommendation and user profiling
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+software engineer, def startup (jun 2018 - dec 2019)
+
+* built a data analytics platform using python and django, which processed and visualized large datasets
+* developed a machine learning model to predict customer churn using python and scikit-learn
+* worked closely with data scientists to integrate machine learning models into the platform
+* contributed to the development of a scalable and efficient data pipeline using apache beam
+
+education:
+
+* bachelor of science in computer science, xyz university (2014-2018)
+* master of science in computer science, abc university (2018-2020)
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (2020)
+* certified java developer (ocpjp), oracle corporation (2019)
+
+projects:
+
+* personal project: chatbot development using python and natural language processing, [github.com/sandraharrison/chatbot](github.com/sandraharrison/chatbot)
+* personal project: web scraper using python and beautifulsoup, [github.com/sandraharrison/web_scraper](github.com/sandraharrison/web_scraper)
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your specific experience and the job you're applying for. also, be sure to proofread your resume multiple times for any grammar or formatting errors.

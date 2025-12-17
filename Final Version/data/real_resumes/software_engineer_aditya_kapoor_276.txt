@@ -1,0 +1,53 @@
+aditya kapoor
+contact information:
+
+* email: [adityakapoor@email.com](mailto:adityakapoor@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/adityakapoor
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable software systems. proficient in multiple programming languages, including java, python, and javascript, with expertise in system design, algorithms, and data structures. proven track record of delivering high-quality software solutions using agile methodologies and ci/cd pipelines.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, restful apis, web services
+* algorithms and data structures: arrays, linked lists, stacks, queues, trees, graphs
+* development tools: git, jenkins, docker, kubernetes
+* agile methodologies: scrum, kanban
+* cloud platforms: aws, azure
+* databases: mysql, mongodb, cassandra
+
+professional experience:
+
+software engineer, abc corporation (2019-present)
+
+* designed and developed multiple microservices using java, python, and javascript, resulting in a 30% reduction in development time and a 25% increase in system scalability.
+* implemented restful apis using spring boot, node.js, and django, with a focus on security, performance, and reliability.
+* collaborated with cross-functional teams to design and implement ci/cd pipelines using jenkins, docker, and kubernetes.
+* participated in code reviews, ensured code quality, and mentored junior engineers to improve overall team performance.
+
+software development intern, def startups (summer 2018)
+
+* contributed to the development of a web application using python, flask, and mysql, which was deployed on aws and received millions of users.
+* assisted in the design and implementation of algorithms and data structures for a machine learning model, resulting in a 20% improvement in model accuracy.
+* collaborated with the development team to identify and resolve technical issues, ensuring timely delivery of the project.
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+* master of science in computer science, pqr university (2019-2021)
+
+achievements:
+
+* project winner, abc corporation's hackathon (2020)
+* best paper award, international conference on computer science and engineering (2019)
+* recipient of the university's best thesis award (2019)
+
+certifications:
+
+* certified scrum master, scrum alliance (2020)
+* certified java developer, oracle corporation (2019)
+
+references:
+available upon request.

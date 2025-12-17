@@ -1,0 +1,60 @@
+Claudia Brown
+Contact Information:
+
+* Email: [claudia.brown@email.com](mailto:claudia.brown@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/claudia-brown
+
+Summary:
+Highly motivated and detail-driven Data Engineer with extensive experience in designing, developing, and maintaining large-scale data processing systems. Skilled in Big Data Frameworks, ETL Tools, Databases, Python, and Data Warehousing. Proficient in CI/CD Tools and committed to delivering high-quality solutions.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Spark
+	+ Apache Hadoop
+	+ Apache Flink
+* ETL Tools:
+	+ Apache Beam
+	+ Talend
+	+ Informatica PowerCenter
+* Databases:
+	+ Relational databases (MySQL, PostgreSQL)
+	+ NoSQL databases (Cassandra, MongoDB)
+* Programming Languages:
+	+ Python (PySpark, Pandas, NumPy)
+	+ Scala
+	+ Java
+* Data Warehousing:
+	+ Data modeling and design
+	+ Data ingestion and processing
+	+ Data visualization (Tableau, Power BI)
+* CI/CD Tools:
+	+ Jenkins
+	+ Git
+	+ Docker
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2020-Present)
+
+* Designed and developed a data pipeline to process and analyze large-scale customer data using Apache Spark and Python
+* Implemented a data warehousing solution using Amazon Redshift and Apache Beam
+* Collaborated with cross-functional teams to integrate data solutions with business applications
+* Developed and maintained CI/CD pipelines using Jenkins and Docker
+
+Data Engineer, DEF Startups (2018-2020)
+
+* Built and maintained a data processing system using Apache Hadoop and Python
+* Designed and implemented a data visualization dashboard using Tableau
+* Worked with data scientists to develop and deploy machine learning models
+* Implemented data security and access control measures using Apache Ranger
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2018)
+
+Certifications:
+
+* Certified Data Engineer, Certified Analytics Professional (CAP)
+* Certified Scrum Master, Scrum Alliance

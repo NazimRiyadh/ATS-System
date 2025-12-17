@@ -1,0 +1,58 @@
+Here's a professional resume for Savannah Thompson, a DevOps Engineer candidate:
+
+Savannah Thompson
+DevOps Engineer
+
+Contact Information:
+
+* Email: [savannah.thompson@email.com](mailto:savannah.thompson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/savannahthompson
+
+Professional Summary:
+
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Docker, and Infrastructure as Code. Proven track record of improving software delivery pipelines, ensuring high-quality deployments, and optimizing infrastructure for scalability and reliability. Proficient in monitoring tools and passionate about implementing automation and continuous improvement in the software development lifecycle.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, AWS CloudFormation
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Operating Systems: Linux (Ubuntu, CentOS), Windows
+* Scripting Languages: Python, Bash
+* Cloud Platforms: AWS, Azure, Google Cloud
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2020-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Docker to automate the deployment of microservices, resulting in a 30% reduction in deployment time and a 25% increase in deployment frequency.
+* Collaborated with the development team to implement Infrastructure as Code using Terraform, resulting in a 40% reduction in infrastructure provisioning time and a 20% reduction in errors.
+* Implemented monitoring and logging using Prometheus, Grafana, and New Relic, resulting in a 90% reduction in mean time to detect (MTTD) and a 50% reduction in mean time to resolve (MTTR).
+* Developed and maintained a Dockerized CI/CD pipeline for a cloud-native application, resulting in a 10x reduction in build time and a 5x reduction in deployment time.
+
+DevOps Engineer, DEF Startups (2018-2020)
+
+* Designed and implemented a CI/CD pipeline using GitLab CI/CD and Docker to automate the deployment of a cloud-native application, resulting in a 20% increase in deployment frequency and a 15% reduction in deployment time.
+* Collaborated with the development team to implement Infrastructure as Code using AWS CloudFormation, resulting in a 25% reduction in infrastructure provisioning time and a 10% reduction in errors.
+* Implemented monitoring and logging using Prometheus and Grafana, resulting in a 60% reduction in MTTD and a 30% reduction in MTTR.
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2018)
+
+Certifications:
+
+* Certified DevOps Engineer, DevOps Institute (2020)
+* Certified Cloud Practitioner, AWS (2019)
+
+Achievements:
+
+* Winner of the ABC Corporation Hackathon (2020) for developing a CI/CD pipeline using Jenkins and Docker.
+* Finalist in the DEF Startups Hackathon (2019) for developing a cloud-native application using Infrastructure as Code.
+* Published a blog post on "Implementing CI/CD Pipelines using Jenkins and Docker" on Medium (2020).
+
+References:
+
+Available upon request.

@@ -1,0 +1,58 @@
+here's a sample resume for cody mccall:
+
+cody mccall
+contact information:
+
+* email: [cody.mccall@email.com](mailto:cody.mccall@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/codymccall
+* github: github.com/codymccall
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in java, c++, python, and strong understanding of algorithms and system design principles. proficient in designing, developing, and testing software applications. seeking a challenging role that utilizes my skills and experience to drive innovation and growth.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, hash tables
+* system design: microservices, apis, database design, load balancing, scalability
+* development frameworks: spring, hibernate, react
+* databases: mysql, mongodb, postgresql
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc company (2018-present)
+
+* designed and developed multiple software applications using java, c++, and python
+* implemented algorithms and data structures to optimize system performance and scalability
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* conducted unit testing, integration testing, and debugging to ensure high-quality software releases
+* participated in code reviews to enforce coding standards and best practices
+
+software development intern, def company (summer 2017)
+
+* assisted in the development of a web application using python and react
+* implemented api endpoints and database queries to retrieve and store user data
+* collaborated with the qa team to identify and fix bugs
+* participated in code reviews to improve code quality and readability
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, computer networks, database systems
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified c++ developer, codeproject (2018)
+
+projects:
+
+* personal project: developed a machine learning-based chatbot using python and natural language processing (nlp) techniques
+* open-source contribution: contributed to the development of an open-source java framework for building restful apis
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and style. remember to proofread your resume multiple times for grammar, spelling, and formatting errors before submitting it to potential employers.

@@ -1,0 +1,60 @@
+James Buchanan
+Data Scientist
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [jbuchanan@email.com](mailto:jbuchanan@email.com)
+* LinkedIn: linkedin.com/in/jamesbuchanan
+
+Summary:
+Highly motivated and detail-oriented Data Scientist with expertise in Data Manipulation, Machine Learning, Statistics and Probability, NLP, Deep Learning, and Data Visualization. Proven track record of delivering high-quality models and insights that drive business growth.
+
+Technical Skills:
+
+* Programming languages: Python, R, SQL
+* Data Manipulation: Pandas, NumPy, Matplotlib, Seaborn
+* Machine Learning: scikit-learn, TensorFlow, Keras
+* NLP: NLTK, spaCy, gensim
+* Deep Learning: PyTorch, CNTK
+* Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
+* Statistics and Probability: Hypothesis testing, confidence intervals, Bayes' theorem
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Data Scientist, ABC Company (2018-Present)
+
+* Developed and deployed predictive models to forecast customer churn, resulting in a 25% reduction in churn rate
+* Collaborated with cross-functional teams to design and implement data-driven solutions, increasing revenue by 15%
+* Built and maintained large-scale databases using SQL and NoSQL databases
+* Created interactive dashboards using Tableau to visualize key business metrics
+
+Data Analyst, DEF Start-up (2015-2018)
+
+* Analyzed customer behavior and preferences to inform product development and marketing strategies
+* Built machine learning models to predict customer segments and optimize marketing campaigns
+* Developed and maintained data pipelines using Python and R
+* Created reports and visualizations using Power BI and Excel to present findings to stakeholders
+
+Education:
+
+* Master of Science in Data Science, XYZ University (2015)
+	+ Coursework: Machine Learning, Statistics, NLP, Data Visualization
+	+ Thesis: "Applying Deep Learning to Image Classification"
+* Bachelor of Science in Mathematics, ABC University (2010-2014)
+	+ Coursework: Probability, Statistics, Linear Algebra, Calculus
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2018)
+
+Projects:
+
+* Deep Learning for Image Classification: Developed a convolutional neural network using PyTorch to classify images into different categories
+* Natural Language Processing for Sentiment Analysis: Built a sentiment analysis model using NLTK and scikit-learn to classify text as positive, negative, or neutral
+* Time Series Forecasting: Developed a seasonal ARIMA model using R to forecast sales trends for a retail company
+
+References:
+Available upon request.

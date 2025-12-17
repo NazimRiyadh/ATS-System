@@ -1,0 +1,58 @@
+Here's a professional resume for Dana Hardy:
+
+Dana Hardy
+Cloud Engineer
+
+Contact Information:
+
+* Email: [dhardy@email.com](mailto:dhardy@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/danahardy
+
+Professional Summary:
+Highly skilled Cloud Engineer with 5+ years of experience in designing, deploying, and managing cloud-based systems. Proven expertise in Cloud Cost Optimization, Serverless Architecture, and DevOps practices. Proficient in leading teams and collaborating with cross-functional stakeholders to deliver high-quality solutions. Seeking a challenging Cloud Engineer role that leverages my skills and expertise to drive innovation and growth.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Programming Languages: Python, Java, Node.js
+* Cloud Services: EC2, Lambda, S3, CloudFormation, Kubernetes
+* DevOps Tools: Terraform, Ansible, Docker, Jenkins
+* Monitoring and Logging: Prometheus, Grafana, ELK Stack
+* Cloud Cost Optimization Tools: AWS Cost Explorer, Azure Cost Estimator
+
+Professional Experience:
+
+Cloud Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a cloud-first architecture for a large-scale e-commerce platform, resulting in 30% reduction in costs and 25% improvement in performance
+* Led a team of engineers to migrate a legacy on-premises application to a serverless architecture on AWS, achieving 90% reduction in infrastructure costs and 80% reduction in maintenance time
+* Collaborated with cross-functional teams to develop and deploy cloud-based services, including API gateways, message queues, and data lakes
+* Implemented automated deployment and testing pipelines using Jenkins and Docker, reducing deployment time by 70% and increasing quality by 25%
+
+Senior Cloud Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented a cloud-based infrastructure for a startup, resulting in 50% reduction in costs and 30% improvement in scalability
+* Migrated a legacy application to a cloud-native architecture on AWS, achieving 80% reduction in infrastructure costs and 60% reduction in maintenance time
+* Developed and deployed serverless applications using AWS Lambda, resulting in 90% reduction in infrastructure costs and 80% reduction in maintenance time
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* AWS Certified Developer - Associate
+* Certified Cloud Architect, Cloud Security Alliance
+
+Achievements:
+
+* Winner of the AWS re:Invent Hackathon (2019)
+* Featured speaker at the AWS re:Invent conference (2020)
+* Published several articles on cloud cost optimization and serverless architecture on industry blogs and websites
+
+References:
+Available upon request.
+
+I hope this helps! Let me know if you need any modifications.

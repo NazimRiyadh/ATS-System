@@ -1,0 +1,56 @@
+here's a sample resume for tina solis applying for the role of data scientist:
+
+tina solis
+contact information:
+
+* email: [tina.solis@email.com](mailto:tina.solis@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/tinasolis
+* github: github.com/tsolis
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in statistics, machine learning, deep learning, and sql. proven track record of delivering data-driven insights and driving business growth through data analysis and modeling. skilled in working with large datasets and developing scalable and efficient solutions.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning libraries: scikit-learn, tensorflow, pytorch
+* deep learning frameworks: keras, theano
+* data visualization tools: matplotlib, seaborn, tableau
+* operating systems: windows, linux, macos
+* familiarity with cloud platforms: aws, google cloud, azure
+
+professional experience:
+
+data scientist, xyz corporation (2020-present)
+
+* worked with large datasets to develop predictive models and drive business growth through data analysis and modeling
+* developed and deployed machine learning models using scikit-learn and tensorflow to predict customer churn and improve customer retention
+* collaborated with cross-functional teams to design and implement data visualizations and dashboards using tableau and power bi
+* built and maintained complex sql queries to extract insights from large datasets
+* presented findings and recommendations to senior leadership and stakeholders to inform business decisions
+
+data analyst, abc startups (2018-2020)
+
+* collected and analyzed data from various sources to identify trends and patterns
+* developed and implemented statistical models to analyze customer behavior and preferences
+* created data visualizations and reports using matplotlib and seaborn to communicate findings to stakeholders
+* worked with the product team to design and implement a/b testing and experimentation frameworks
+* collaborated with the engineering team to develop and deploy data pipelines using apache beam and apache spark
+
+education:
+
+* master of science in statistics, university of california, los angeles (ucla) (2018)
+* bachelor of science in mathematics, university of california, berkeley (2016)
+
+certifications:
+
+* certified data scientist, data science council of america (dasca) (2020)
+* certified analytics professional, institute for operations research and the management sciences (informs) (2019)
+
+projects:
+
+* predicting customer churn using machine learning: developed a predictive model using scikit-learn and tensorflow to predict customer churn for a telecom company. the model achieved an accuracy of 85% and resulted in a 20% reduction in customer churn.
+* recommendation system using deep learning: developed a recommendation system using keras and theano to recommend products to customers based on their purchase history and browsing behavior. the system achieved a click-through rate of 25% and resulted in a 15% increase in sales.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for and highlight your unique skills and experiences.

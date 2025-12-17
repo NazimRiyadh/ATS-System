@@ -1,0 +1,60 @@
+aarav iyer
+contact information:
+
+* email: [a.iyer@email.com](mailto:a.iyer@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/aaraviyer
+* github: github.com/aaraviyer
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and developing cutting-edge user interfaces for web applications. skilled in html, css, javascript, react, ui/ux design, and responsive design. proven track record of delivering high-quality, accessible, and performant ui components.
+
+technical skills:
+
+* frontend frameworks: react
+* markup languages: html5
+* styling languages: css3, sass
+* scripting languages: javascript (es6+)
+* ui/ux design: sketch, figma, adobe xd
+* responsive design: media queries, flexbox, grid
+* web accessibility: wcag 2.1, a11y guidelines
+* version control: git, github
+* frontend testing: jest, enzyme
+* web performance: webpack, babel, code splitting
+
+professional experience:
+
+ui engineer, abc corporation (2020-present)
+
+* designed and developed reusable ui components using react and styled components
+* implemented responsive design patterns for desktop and mobile devices
+* conducted accessibility audits and ensured wcag 2.1 compliance for all ui components
+* collaborated with cross-functional teams to integrate ui components into larger applications
+* utilized jest and enzyme for frontend testing and ensured high code coverage
+* optimized web performance by implementing code splitting and caching mechanisms
+
+frontend developer, def startups (2018-2020)
+
+* developed user interfaces for web applications using html, css, and javascript
+* worked on responsive design projects, ensuring a seamless user experience across devices
+* implemented ui/ux design principles to enhance user engagement and conversion rates
+* implemented web accessibility features to ensure equal access to users with disabilities
+* utilized git for version control and collaboration with team members
+
+education:
+
+* bachelor of science in computer science, xyz university (2018)
+
+achievements:
+
+* ui/ux design award, abc corporation (2020) - awarded for designing and developing an intuitive and visually appealing user interface for a web application
+* code splitting optimization, def startups (2019) - successfully optimized web performance by implementing code splitting and caching mechanisms, resulting in a 30% reduction in page load time
+* frontend testing mastery, abc corporation (2019) - achieved 95% code coverage for all ui components using jest and enzyme
+
+certifications:
+
+* certified web accessibility specialist, webaim (2020)
+* certified ui/ux designer, nielsen norman group (2019)
+
+references:
+available upon request.

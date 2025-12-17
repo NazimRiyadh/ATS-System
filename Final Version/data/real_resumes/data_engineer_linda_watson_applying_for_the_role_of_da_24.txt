@@ -1,0 +1,63 @@
+here's a sample resume for linda watson applying for the role of data engineer:
+
+linda watson
+contact information:
+
+* email: [lwatson@email.com](mailto:lwatson@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/lindawatson
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, etl, cloud platforms, and spark. proven track record of designing, developing, and deploying scalable data pipelines and machine learning models. strong passion for leveraging technology to drive business growth and innovation.
+
+technical skills:
+
+* mlops:
+	+ model training and deployment on cloud platforms (aws, gcp, azure)
+	+ model monitoring and maintenance using tools like prometheus, grafana
+	+ integration with data pipelines using airflow and apache beam
+* airflow:
+	+ workflow orchestration and automation using airflow
+	+ dag design and implementation
+	+ integration with various data sources and sinks
+* etl:
+	+ data extraction, transformation, and loading using tools like spark, hadoop
+	+ data quality and validation using data profiling and data visualization
+	+ integration with data warehousing and business intelligence platforms
+* cloud platforms:
+	+ experience with cloud providers (aws, gcp, azure)
+	+ design and deployment of scalable data architectures
+	+ integration with cloud-native services (lambda, cloud functions, cloud run)
+* spark:
+	+ experience with spark programming model (scala, python)
+	+ data processing and analysis using spark sql, dataframes, and datasets
+	+ integration with other big data technologies (hadoop, hive, pig)
+
+professional experience:
+
+data engineer, xyz corporation (2020-present)
+
+* designed and developed scalable data pipelines using airflow, spark, and cloud platforms (aws)
+* collaborated with data scientists to deploy machine learning models on cloud platforms using mlops tools
+* integrated data from various sources ( databases, apis, files) using etl tools and spark
+* developed and maintained data quality and validation processes using data profiling and data visualization tools
+
+junior data engineer, abc startup (2018-2020)
+
+* worked on data pipeline development using spark, hadoop, and etl tools
+* collaborated with data scientists to analyze and visualize data using spark sql and dataframes
+* integrated data from various sources (databases, apis, files) using etl tools and spark
+* developed and maintained data quality and validation processes using data profiling and data visualization tools
+
+education:
+
+* master of science in computer science, [university name] (2015-2017)
+* bachelor of science in computer science, [university name] (2011-2015)
+
+certifications:
+
+* certified data engineer, [certification name] (2020)
+* certified apache spark developer, [certification name] (2019)
+
+references:
+available upon request.

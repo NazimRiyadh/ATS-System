@@ -1,0 +1,58 @@
+Here's a sample resume for Angelica Ward:
+
+Angelica Ward
+Contact Information:
+
+* Email: [angelicaward@email.com](mailto:angelicaward@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/angelicaward
+* GitHub: github.com/angelicaward
+
+Professional Summary:
+Highly motivated and experienced Data Engineer with a strong background in MLOps, Big Data, and Data Warehousing. Proven track record of delivering scalable and reliable data pipelines, machine learning models, and data warehouses. Proficient in Spark, Hadoop, and other big data technologies. Passionate about leveraging data to drive business insights and growth.
+
+Technical Skills:
+
+* Programming languages: Python, Java, Scala
+* Big Data technologies: Spark, Hadoop, Hive, Pig
+* Data Warehousing: Snowflake, Redshift, Amazon Redshift
+* Data Engineering: Apache Beam, Apache Airflow, Docker
+* Machine Learning: TensorFlow, Scikit-learn, PyTorch
+* Operating Systems: Linux, Windows, macOS
+* Cloud platforms: AWS, GCP, Azure
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2018-Present)
+
+* Designed and implemented a scalable data pipeline using Apache Beam and Apache Airflow, processing over 10TB of data daily
+* Developed and deployed multiple machine learning models using TensorFlow and Scikit-learn, resulting in a 25% increase in customer engagement
+* Led a team of 3 data engineers in designing and implementing a data warehouse using Snowflake, reducing data query time by 90%
+* Collaborated with cross-functional teams to integrate data into business applications, resulting in a 30% increase in sales revenue
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented a big data architecture using Spark and Hadoop, processing over 1TB of data daily
+* Developed and deployed multiple data visualizations using Tableau and Power BI, resulting in a 20% increase in business insights
+* Collaborated with data scientists to develop and deploy machine learning models using Scikit-learn and PyTorch, resulting in a 15% increase in customer retention
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015)
+* Bachelor of Science in Computer Science, ABC University (2010)
+
+Achievements:
+
+* Winner of the ABC Company Hackathon (2020) for developing a predictive model using TensorFlow and Scikit-learn
+* Featured speaker at the DEF Startups Data Engineering Conference (2017) on "Designing Scalable Data Pipelines using Apache Beam"
+* Published a research paper on "Big Data Architecture using Spark and Hadoop" in the Journal of Big Data (2016)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Institute (2019)
+* Certified Big Data Professional, Big Data Institute (2018)
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your own resume to fit your specific experiences and the job you're applying for.

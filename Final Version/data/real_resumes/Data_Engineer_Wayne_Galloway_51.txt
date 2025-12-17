@@ -1,0 +1,52 @@
+Wayne Galloway
+Data Engineer
+
+Contact Information:
+
+* Email: [wgalloway@email.com](mailto:wgalloway@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/wgalloway
+
+Summary:
+
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, implementing, and maintaining large-scale data pipelines and data warehouses. Proficient in a range of Big Data frameworks, ETL tools, and databases. Proven track record of delivering high-quality data solutions that drive business insights and decision-making.
+
+Technical Skills:
+
+* Big Data Frameworks: Apache Hadoop, Apache Spark, Apache Flink
+* Data Pipelines: Apache Beam, Apache NiFi
+* ETL Tools: Informatica, Talend, AWS Glue
+* Databases: MySQL, PostgreSQL, Amazon Redshift, Apache Cassandra
+* Programming Languages: Python, Java, Scala
+* Data Warehousing: Amazon Redshift, Google BigQuery
+* CI/CD Tools: Jenkins, GitLab CI/CD, Docker
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a large-scale data pipeline using Apache Beam and Apache NiFi to process and transform 10 TB of data daily
+* Developed and maintained a data warehouse on Amazon Redshift to support business intelligence and analytics
+* Collaborated with cross-functional teams to design and implement data-driven solutions to drive business insights
+* Utilized Jenkins and Docker to automate deployment and testing of data pipelines and ETL processes
+
+Senior Data Analyst, DEF Startups (2015-2018)
+
+* Designed and implemented data pipelines using Apache Hadoop and Apache Spark to process and analyze large datasets
+* Developed and maintained data visualizations using Tableau and Power BI to support business decision-making
+* Collaborated with data scientists to design and implement machine learning models to drive business insights
+* Utilized Informatica PowerCenter to design and implement ETL processes to integrate data from various sources
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board
+* Certified Scrum Master, Scrum Alliance
+
+References:
+
+Available upon request.

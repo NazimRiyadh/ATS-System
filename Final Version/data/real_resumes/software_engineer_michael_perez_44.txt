@@ -1,0 +1,56 @@
+here's a sample resume for michael perez:
+
+michael perez
+contact information:
+
+* email: [mperez@email.com](mailto:mperez@email.com)
+* phone: (555) 555-5555
+* linkedin: linkedin.com/in/michaelperezsoftware
+* github: github.com/michaelperez
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable software applications using java, python, and other programming languages. skilled in algorithms, data structures, and software design patterns. strong passion for problem-solving, learning, and collaboration.
+
+technical skills:
+
+* programming languages: java, python, c++, javascript
+* development frameworks: spring boot, django, flask
+* databases: mysql, postgresql, mongodb
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+* version control systems: git, svn
+
+professional experience:
+
+software engineer, abc company (2020-present)
+
+* design, develop, and deploy scalable software applications using java and spring boot
+* collaborate with cross-functional teams to identify and prioritize project requirements
+* implement and optimize algorithms and data structures to improve code efficiency and performance
+* participate in code reviews and contribute to the improvement of the codebase
+* work with qa team to identify and resolve bugs and issues
+
+software development intern, def startups (summer 2018)
+
+* contributed to the development of a python-based web application using django and flask
+* assisted in the design and implementation of data structures and algorithms to improve application performance
+* collaborated with the team to identify and resolve technical issues
+* participated in code reviews and learned from experienced engineers
+
+education:
+
+* bachelor of science in computer science, xyz university (2018)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+projects:
+
+* personal project: developed a python-based chatbot using natural language processing (nlp) techniques and machine learning algorithms. (github: github.com/michaelperez/chatbot)
+* group project: designed and implemented a java-based e-commerce platform using spring boot and mongodb. (github: github.com/michaelperez/ecommerce)
+
+certifications:
+
+* certified java developer, oracle corporation (2020)
+* certified python developer, python institute (2019)
+
+references:
+available upon request.

@@ -1,0 +1,60 @@
+kabir joshi
+software engineer
+
+contact information:
+
+* email: [kabir.joshi@email.com](mailto:kabir.joshi@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/kabirjoshi
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software systems using java, python, javascript, and other technologies. skilled in system design, algorithms, data structures, and cloud-based architectures. proficient in agile development methodologies and experienced in leading cross-functional teams.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, rest apis, service-oriented architecture (soa)
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs
+* version control: git
+* continuous integration and delivery: jenkins, docker
+* cloud platforms: aws, azure
+* database management: mysql, mongodb
+* operating systems: windows, linux
+
+professional experience:
+
+senior software engineer, abc corporation (2020-present)
+
+* design and develop scalable software systems using java, python, and javascript
+* lead cross-functional teams in agile development methodologies
+* implement rest apis and microservices-based architectures
+* collaborate with qa engineers to ensure high-quality software releases
+* mentor junior engineers and provide technical guidance
+* participate in code reviews and ensure adherence to coding standards
+
+software engineer, def startups (2018-2020)
+
+* designed and developed multiple web applications using python, javascript, and node.js
+* implemented ci/cd pipelines using jenkins and docker
+* collaborated with designers to create user-friendly interfaces
+* worked with devops engineers to deploy applications on aws and azure
+* participated in code reviews and ensured adherence to coding standards
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer networks, database systems, operating systems
+
+achievements:
+
+* contributed to an open-source project, node.js, as a maintainer and contributor
+* participated in hackathons and won prizes for innovative software solutions
+* received the "best engineer" award at abc corporation for outstanding performance and contributions
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (2019)
+* certified java developer (ocpjp), oracle corporation (2018)
+
+references:
+available upon request.

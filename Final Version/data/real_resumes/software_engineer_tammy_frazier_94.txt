@@ -1,0 +1,55 @@
+here's a sample resume for tammy frazier, a software engineer candidate:
+
+tammy frazier
+contact information:
+
+* phone: (555) 123-4567
+* email: [tammy.frazier@email.com](mailto:tammy.frazier@email.com)
+* linkedin: linkedin.com/in/tammyfrazier
+* github: github.com/tammyfrazier
+
+summary:
+highly skilled and motivated software engineer with expertise in java, python, and algorithms. proficient in designing and developing scalable, efficient, and reliable software solutions. passionate about problem-solving and committed to delivering high-quality results.
+
+technical skills:
+
+* programming languages: java, python, c++
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, graph algorithms, dynamic programming
+* development frameworks: spring, django
+* databases: mysql, postgresql
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+* version control: git, svn
+
+professional experience:
+
+* software engineer, abc corporation (2018-present)
+	+ designed and developed multiple features for a large-scale e-commerce platform using java, spring boot, and mysql.
+	+ implemented efficient algorithms for data processing and optimization, resulting in a 30% reduction in processing time.
+	+ collaborated with cross-functional teams to resolve complex technical issues and improve system reliability.
+* junior software engineer, def startups (2015-2018)
+	+ contributed to the development of a machine learning-based recommendation system using python, scikit-learn, and tensorflow.
+	+ developed and maintained multiple apis using django and restful architecture.
+	+ participated in code reviews and ensured adherence to coding standards and best practices.
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+certifications/awards:
+
+* certified java developer, oracle corporation (2016)
+* winner, abc competition (2018) - awarded for outstanding performance in a coding competition
+
+projects:
+
+* personal projects, github (2015-present)
+	+ developed and maintained multiple open-source projects, including a python-based web scraper and a java-based chatbot.
+	+ utilized github to showcase skills and collaborate with other developers.
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and style. remember to proofread carefully and tailor your resume to the specific job you're applying for.

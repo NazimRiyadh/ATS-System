@@ -1,0 +1,56 @@
+Here's a sample resume for Kelsey Chavez:
+
+Kelsey Chavez
+Contact Information:
+
+* Email: [kchavez@email.com](mailto:kchavez@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/kelsey-chavez
+* GitHub: github.com/kchavez
+
+Summary:
+Results-driven QA Engineer with 4+ years of experience in software testing, specializing in automation using Selenium and performance testing. Proven track record of delivering high-quality software products through test case development, execution, and defect reporting. Seeking a challenging role that leverages my technical expertise and passion for delivering exceptional quality.
+
+Technical Skills:
+
+* Programming languages: Java, Python
+* Automation frameworks: Selenium (WebDriver, Grid), TestNG
+* Performance testing tools: JMeter, Gatling
+* Test management tools: TestRail, JIRA
+* Operating Systems: Windows, Linux
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+QA Engineer, ABC Corporation (2020-Present)
+
+* Developed and executed automated test cases using Selenium WebDriver for web applications, resulting in 30% reduction in manual testing time
+* Collaborated with cross-functional teams to design and implement performance testing scenarios using JMeter, improving system throughput by 25%
+* Created and maintained comprehensive test plans, test cases, and test scripts using TestRail and JIRA
+* Identified and reported defects to development teams, ensuring timely resolution and reducing overall project timelines
+* Participated in code reviews and provided feedback to improve code quality and maintainability
+
+QA Test Engineer, DEF Startups (2018-2020)
+
+* Designed and implemented test cases for mobile and web applications using TestNG and Selenium WebDriver
+* Conducted performance testing using Gatling and JMeter, optimizing system performance by 40%
+* Collaborated with QA team to develop and maintain test automation frameworks, resulting in 50% reduction in testing time
+* Provided training and guidance to junior QA engineers on testing methodologies and tools
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2018)
+
+Certifications:
+
+* Certified Scrum Master (CSM), Scrum Alliance (2020)
+* Certified Associate in Software Testing (CAST), ISQF (2019)
+
+Achievements:
+
+* Recipient of the "Most Valuable Player" award for outstanding contributions to the QA team at ABC Corporation (2022)
+* Published a blog post on "Automated Testing with Selenium and TestNG" on the ABC Corporation blog (2021)
+* Participated in the "QA Automation Hackathon" at DEF Startups, where the team developed and showcased an automated testing framework using Selenium and TestNG (2019)
+
+References:
+Available upon request.

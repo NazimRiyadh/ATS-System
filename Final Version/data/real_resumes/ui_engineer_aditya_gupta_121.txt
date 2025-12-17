@@ -1,0 +1,53 @@
+aditya gupta
+ui engineer
+
+contact information:
+
+* email: [aditya.gupta@email.com](mailto:aditya.gupta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/adityagupta
+* github: github.com/adityagupta
+
+summary:
+highly skilled ui engineer with 5+ years of experience in designing and developing user-centered, responsive, and accessible web applications using html, css, javascript, and react. proven track record of collaborating with cross-functional teams to deliver high-quality products that meet business objectives.
+
+technical skills:
+
+* front-end development: html, css, javascript, react
+* ui/ux design: user-centered design, wireframing, prototyping, usability testing
+* responsive design: mobile-first approach, media queries, responsive grid systems
+* web accessibility: wcag 2.1, section 508, accessibility audits and testing
+* version control: git, github
+* front-end testing: jest, enzyme, react testing library
+* web performance: code splitting, lazy loading, performance optimization
+
+professional experience:
+
+senior ui engineer, abc corporation (2020 - present)
+
+* designed and developed high-performance, responsive, and accessible web applications using react, javascript, and css
+* collaborated with cross-functional teams to deliver multiple high-profile projects on time and within budget
+* conducted accessibility audits and implemented fixes to ensure compliance with wcag 2.1 and section 508 standards
+* mentored junior engineers on ui/ux design principles, responsive design, and web accessibility best practices
+
+ui engineer, def startups (2018 - 2020)
+
+* developed multiple web applications using react, javascript, and css, with a focus on responsive design and web accessibility
+* worked closely with designers to implement ui/ux designs, ensuring a seamless user experience
+* conducted front-end testing using jest and enzyme, ensuring high-quality code and bug-free releases
+* participated in code reviews and contributed to improving the overall quality of the codebase
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015 - 2019)
+
+achievements:
+
+* developed and maintained a personal blog, demonstrating expertise in ui/ux design, responsive design, and web accessibility
+* contributed to open-source projects on github, showcasing skills in front-end development and testing
+* participated in hackathons and coding challenges, winning awards for innovative solutions and outstanding coding skills
+
+certifications:
+
+* certified ui engineer, abc institute (2020)
+* certified accessibility specialist, def institute (2019)

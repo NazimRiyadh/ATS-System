@@ -1,0 +1,59 @@
+rohan mehta
+contact information:
+
+* email: [rohan.mehta@email.com](mailto:rohan.mehta@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/rohanmehta
+* github: github.com/rohanmehta
+
+summary:
+highly motivated and detail-oriented ui engineer with 5+ years of experience in designing and developing user-centered, accessible, and performant web applications. skilled in react, html, css, javascript, and ui/ux design. proficient in responsive design, web accessibility, and frontend testing.
+
+experience:
+
+ui engineer, abc corporation (2020-present)
+
+* designed and developed multiple web applications using react, html, css, and javascript
+* ensured web applications were accessible and followed wcag 2.1 guidelines
+* implemented responsive design for web applications to ensure seamless user experience across various devices
+* utilized frontend testing frameworks (jest, enzyme) to write unit tests and integration tests
+* collaborated with cross-functional teams to deliver high-quality products on time
+* implemented web performance optimization techniques to improve page load times and reduce bounce rates
+
+senior frontend developer, def agency (2018-2020)
+
+* led the development of multiple web applications using react, html, css, and javascript
+* designed and implemented ui/ux components, collaborating with designers to ensure consistency and aesthetic appeal
+* implemented web accessibility features, such as screen reader support and keyboard navigation
+* conducted frontend testing and debugging to ensure high-quality products
+* collaborated with backend developers to integrate apis and ensure seamless data flow
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: web development, data structures, algorithms, computer networks, and database systems
+
+achievements:
+
+* certified ui engineer, google developers certification (2020)
+* published article on web accessibility, "designing accessible web applications" on medium (2019)
+* contributed to open-source project, "react accessibility" on github (2018)
+
+skills:
+
+* programming languages: html, css, javascript
+* frameworks: react
+* ui/ux design
+* responsive design
+* web accessibility (wcag 2.1)
+* version control (git)
+* frontend testing (jest, enzyme)
+* web performance optimization
+
+certifications:
+
+* google developers certification, ui engineer (2020)
+* certified accessibility specialist, w3c (2019)
+
+references:
+available upon request.

@@ -1,0 +1,57 @@
+Here's a sample resume for Karen Mora:
+
+Karen Mora
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [kmora@email.com](mailto:kmora@email.com)
+* LinkedIn: linkedin.com/in/karenmora
+* Phone: (555) 123-4567
+
+Summary:
+Highly motivated and detail-oriented Machine Learning Engineer with 3+ years of experience in designing, developing, and deploying AI models using PyTorch. Proven expertise in feature engineering, hyperparameter tuning, and model optimization. Skilled in working with large datasets, collaborating with cross-functional teams, and delivering high-quality projects on time.
+
+Technical Skills:
+
+* Programming languages: Python, PyTorch
+* Machine Learning frameworks: PyTorch
+* Data preprocessing and feature engineering
+* Hyperparameter tuning and model optimization
+* Deep learning techniques: CNNs, RNNs, Transformers
+* Data visualization and storytelling
+* Experience with cloud-based platforms: AWS, Google Cloud
+
+Professional Experience:
+
+Senior Machine Learning Engineer, ABC Company (2020-Present)
+
+* Designed, developed, and deployed PyTorch-based models for image classification, object detection, and natural language processing tasks
+* Collaborated with data scientists to preprocess and engineer features from large datasets, resulting in 20% increase in model accuracy
+* Conducted hyperparameter tuning using Bayesian optimization and random search, achieving 30% reduction in model training time
+* Worked with cross-functional teams to integrate ML models into production environments, ensuring seamless deployment and monitoring
+* Mentored junior engineers to improve their PyTorch skills and contribute to project success
+
+Machine Learning Engineer, DEF Startup (2018-2020)
+
+* Developed and deployed PyTorch-based models for recommender systems and chatbots
+* Designed and implemented feature engineering pipelines to improve model performance, resulting in 15% increase in user engagement
+* Collaborated with data scientists to design and implement A/B testing experiments, achieving 25% lift in conversion rates
+* Worked closely with product teams to integrate ML models into product roadmaps, ensuring alignment with business goals
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2018)
+	+ Coursework: Machine Learning, Natural Language Processing, Computer Vision
+	+ Thesis: "Deep Learning for Image Recognition: A Comparative Study of CNN Architectures"
+
+Achievements:
+
+* Published research paper on "Transfer Learning for Image Classification" in the International Conference on Machine Learning (ICML)
+* Received a "Best Paper Award" at the Conference on Artificial Intelligence (CAI)
+* Participated in the Google AI Challenge, achieving top 10% ranking in the competition
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (DASCA)
+* Certified Machine Learning Engineer, Machine Learning Council of America (MLCA)

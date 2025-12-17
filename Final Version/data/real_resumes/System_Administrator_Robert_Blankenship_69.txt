@@ -1,0 +1,64 @@
+Here's a professional resume for Robert Blankenship, tailored to the System Administrator role:
+
+Robert Blankenship
+System Administrator
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [robert.blankenship@email.com](mailto:robert.blankenship@email.com)
+* LinkedIn: linkedin.com/in/robertblankenship
+
+Professional Summary:
+
+Highly skilled System Administrator with 8+ years of experience in managing and maintaining Windows Server infrastructures, Active Directory environments, and network systems. Proven track record of implementing and optimizing virtualization solutions, system monitoring tools, and network security protocols to ensure high availability and performance. Possesses excellent problem-solving skills, attention to detail, and excellent communication skills.
+
+Technical Skills:
+
+* Windows Server (2008, 2012, 2016, 2019)
+* Active Directory (AD DS, AD LDS, AD FS)
+* Networking (TCP/IP, DNS, DHCP, VPN)
+* Virtualization (VMware, Hyper-V)
+* System Monitoring (SCOM, Nagios, SolarWinds)
+* Scripting languages (PowerShell, batch scripting)
+* Operating Systems (Windows, Linux)
+
+Professional Experience:
+
+System Administrator, XYZ Corporation (2018-Present)
+
+* Managed and maintained Windows Server 2016 and 2019 environments, including AD DS, DNS, DHCP, and file sharing services.
+* Implemented and optimized virtualization solutions using VMware and Hyper-V, resulting in a 30% reduction in hardware costs.
+* Developed and implemented system monitoring scripts using PowerShell and SCOM, resulting in a 25% reduction in mean time to detect (MTTD) and mean time to resolve (MTTR) issues.
+* Collaborated with network team to design and implement a secure and scalable network infrastructure using Cisco ASA and firewalls.
+* Provided Tier 2 and Tier 3 support for system administrators and business users, resolving complex technical issues in a timely and professional manner.
+
+Senior System Administrator, ABC Company (2015-2018)
+
+* Managed and maintained Windows Server 2008 and 2012 environments, including AD DS, DNS, DHCP, and file sharing services.
+* Implemented and optimized virtualization solutions using VMware, resulting in a 20% reduction in hardware costs.
+* Developed and implemented system monitoring scripts using batch scripting and Nagios, resulting in a 20% reduction in MTTD and MTTR issues.
+* Collaborated with network team to design and implement a secure and scalable network infrastructure using Cisco ASA and firewalls.
+* Provided Tier 2 and Tier 3 support for system administrators and business users, resolving complex technical issues in a timely and professional manner.
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* Microsoft Certified: Windows Server 2016 Administrator (MCSA: Windows Server 2016)
+* CompTIA A+ Certified (CompTIA A+)
+* Cisco Certified Network Associate (CCNA)
+
+Achievements:
+
+* Successfully implemented a disaster recovery plan using Windows Server and SQL Server, resulting in a 99.9% uptime rating.
+* Developed and implemented a system monitoring dashboard using SCOM and Power BI, resulting in a 25% reduction in MTTD and MTTR issues.
+* Collaborated with the IT team to design and implement a cloud-based backup solution using Azure, resulting in a 50% reduction in backup costs.
+
+References:
+
+Available upon request.
+
+This structure provides a clear and concise format for showcasing Robert's technical skills, professional experience, and achievements. The summary at the top highlights his key strengths and qualifications, while the technical skills section lists his relevant technical abilities. The professional experience section provides specific examples of his accomplishments in previous roles, and the achievements section highlights his notable achievements. Finally, the education and certification sections provide evidence of his formal education and certifications.

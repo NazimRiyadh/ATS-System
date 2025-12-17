@@ -1,0 +1,57 @@
+here's a sample resume for james white, a data engineer candidate with expertise in mlops, airflow, and spark:
+
+james white
+contact information:
+
+* email: [james.white@email.com](mailto:james.white@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/jameswhite
+
+summary:
+highly motivated and detail-oriented data engineer with experience in designing, developing, and deploying data pipelines using mlops, airflow, and spark. proven ability to work collaboratively with cross-functional teams to deliver high-quality data solutions.
+
+technical skills:
+
+* programming languages: python, scala
+* data engineering tools:
+	+ mlops (model development and deployment)
+	+ apache airflow (workflow management)
+	+ apache spark (big data processing)
+* databases: mysql, postgresql
+* operating systems: linux, windows
+* cloud platforms: aws, gcp
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* design and develop data pipelines using apache airflow and apache spark to process and transform large datasets
+* collaborate with data scientists to develop and deploy machine learning models using mlops pipeline
+* develop and maintain data quality metrics and monitoring tools to ensure data integrity
+* work with cross-functional teams to design and implement data architecture solutions
+* participate in code reviews and provide feedback to improve overall code quality
+
+data analyst, def startup (2015-2018)
+
+* developed and maintained data visualizations using tableau and power bi
+* analyzed data to identify trends and insights, and presented findings to stakeholders
+* assisted in the design and implementation of data collection and processing systems
+* worked with the development team to integrate data into the company's products
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015)
+
+certifications:
+
+* certified data engineer, data engineering association
+* certified apache spark developer, apache spark foundation
+
+projects:
+
+* mlops pipeline: developed a end-to-end mlops pipeline using tensorflow, keras, and scikit-learn to deploy a machine learning model on a cloud platform. (github: [github.com/jameswhite/mlpipeline](http://github.com/jameswhite/mlpipeline))
+* airflow workflow: designed and developed a complex workflow using apache airflow to process and transform large datasets. (github: [github.com/jameswhite/airflowworkflow](http://github.com/jameswhite/airflowworkflow))
+* spark data processing: developed a spark application to process and transform large datasets using scala and python. (github: [github.com/jameswhite/sparkdataprocessing](http://github.com/jameswhite/sparkdataprocessing))
+
+references:
+available upon request.

@@ -1,0 +1,63 @@
+Here is a professional resume for Eric Poole, a DevOps Engineer candidate:
+
+Eric Poole
+DevOps Engineer
+
+Contact Information:
+
+* Email: [eric.poole@email.com](mailto:eric.poole@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/ericpoole
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Kubernetes, Ansible, Infrastructure as Code, and Monitoring Tools. Proven track record of successfully implementing scalable and efficient infrastructure solutions in cloud platforms. Skilled in automating infrastructure provisioning, deployment, and management using Terraform, Ansible, and other tools. Passionate about delivering high-quality software and providing excellent customer service.
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins, Docker, and Kubernetes to automate the deployment of microservices-based applications.
+* Implemented Infrastructure as Code using Terraform to provision and manage cloud infrastructure on AWS and GCP.
+* Configured and managed monitoring tools such as Prometheus, Grafana, and New Relic to ensure high uptime and performance of applications.
+* Collaborated with cross-functional teams to identify and resolve infrastructure and application issues.
+* Improved the deployment process by reducing deployment time from 2 hours to 15 minutes.
+
+Senior System Administrator, DEF Startups (2015-2018)
+
+* Implemented a fully automated Ansible-based infrastructure provisioning and deployment process for a startup.
+* Designed and implemented a monitoring system using Nagios and Prometheus to ensure high uptime and performance of applications.
+* Managed and maintained a team of junior system administrators to ensure smooth operation of infrastructure and applications.
+* Improved the monitoring process by reducing alert noise by 30% and increasing mean time to detect (MTTD) by 25%.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Skills:
+
+* CI/CD (Jenkins, GitLab CI/CD, CircleCI)
+* Containerization (Docker, Kubernetes)
+* Infrastructure as Code (Terraform, Ansible)
+* Monitoring Tools (Prometheus, Grafana, New Relic, Nagios)
+* Cloud Platforms (AWS, GCP, Azure)
+* Operating Systems (Linux, Windows)
+* Scripting Languages (Python, Bash, PowerShell)
+* Agile Methodologies (Scrum, Kanban)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Administrator (CAA)
+* Certified Cloud Practitioner (AWS, GCP, Azure)
+
+Achievements:
+
+* Successfully deployed a CI/CD pipeline using Jenkins and Kubernetes to automate the deployment of a microservices-based application, resulting in a 50% reduction in deployment time.
+* Improved the monitoring process by reducing alert noise by 30% and increasing mean time to detect (MTTD) by 25%.
+* Designed and implemented a fully automated Ansible-based infrastructure provisioning and deployment process for a startup, resulting in a 90% reduction in manual errors.
+* Collaborated with cross-functional teams to identify and resolve infrastructure and application issues, resulting in a 25% reduction in downtime.
+
+References:
+Available upon request.
+
+Note: This is just a sample resume, and you should customize it to fit your own experiences and style. Also, be sure to proofread your resume multiple times for any grammar or spelling errors before submitting it.

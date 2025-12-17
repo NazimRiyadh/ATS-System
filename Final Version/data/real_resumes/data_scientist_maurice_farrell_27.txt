@@ -1,0 +1,54 @@
+here's a sample resume for maurice farrell:
+
+maurice farrell
+contact information:
+
+* email: [mfarrell@email.com](mailto:mfarrell@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/mfarrell
+* github: github.com/mfarrell
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, and data visualization. proven track record of extracting insights from complex data sets and communicating findings effectively to stakeholders.
+
+technical skills:
+
+* programming languages: python (proficient), r (basic)
+* data analysis and visualization tools: pandas, numpy, matplotlib, seaborn, tableau
+* statistics and machine learning libraries: scikit-learn, statsmodels
+* operating systems: windows, linux
+* familiarity with cloud-based platforms: aws, google cloud
+
+experience:
+
+data analyst, abc company (20xx-20xx)
+
+* analyzed large datasets to identify trends and patterns using python and pandas
+* developed and maintained dashboards to visualize key performance indicators (kpis) using tableau
+* collaborated with cross-functional teams to design and implement data-driven solutions
+* created statistical models to predict customer behavior and improve marketing campaigns
+
+research assistant, xyz university (20xx-20xx)
+
+* assisted in designing and executing experiments to test hypotheses in statistics and machine learning
+* collected and cleaned data using python and pandas
+* analyzed and visualized results using matplotlib and seaborn
+* presented research findings to academic and industry audiences
+
+education:
+
+* bachelor's/master's degree in statistics, xyz university (20xx-20xx)
+	+ coursework: statistical theory, machine learning, data mining, data visualization
+
+certifications:
+
+* certified data scientist, data science council of america (20xx)
+* certified analytics professional, institute for operations research and the management sciences (20xx)
+
+projects:
+
+* predicting customer churn: developed a machine learning model using scikit-learn to predict customer churn for a telecom company. achieved an accuracy of 92% using a random forest classifier.
+* visualizing covid-19 cases: created an interactive dashboard using tableau to visualize covid-19 cases worldwide. utilized data from the world health organization (who) and johns hopkins university.
+
+references:
+available upon request.

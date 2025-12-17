@@ -1,0 +1,58 @@
+here is a sample resume for steven schmidt applying for the role of data engineer:
+
+steven schmidt
+contact information:
+
+* email: [steven.schmidt@email.com](mailto:steven.schmidt@email.com)
+* phone: (555) 555-5555
+* linkedin: linkedin.com/in/steven-schmidt-data-engineer
+* github: github.com/steven-schmidt
+
+summary:
+highly skilled data engineer with expertise in mlops, etl, big data, and cloud platforms. proven track record of designing, developing, and deploying scalable and efficient data pipelines using spark, python, and java. strong understanding of cloud architectures and experience with cloud platforms such as aws and gcp.
+
+technical skills:
+
+* programming languages: python, java, scala
+* big data technologies: apache spark, hadoop, hive
+* data engineering: etl, data warehousing, data lakes
+* cloud platforms: aws (s3, ec2, emr), gcp (cloud storage, cloud functions)
+* mlops: tensorflow, pytorch, scikit-learn
+* data storage: relational databases (mysql, postgresql), nosql databases (mongodb, cassandra)
+* operating systems: linux, windows
+* agile methodologies: scrum, kanban
+* version control: git, svn
+
+professional experience:
+
+data engineer, xyz corporation (2018-present)
+
+* designed and developed multiple etl pipelines using spark, python, and java to process large datasets for business intelligence and data science applications
+* built and deployed scalable data pipelines using cloud platforms such as aws and gcp to reduce latency and improve data freshness
+* collaborated with data scientists to develop and deploy machine learning models using tensorflow and pytorch
+* implemented data quality checks and data validation using apache beam and spark
+* worked with cross-functional teams to design and implement data governance policies and procedures
+
+senior data engineer, abc startups (2015-2018)
+
+* led the development of a big data pipeline using hadoop, hive, and spark to process large datasets for a startup's business intelligence needs
+* designed and implemented a data warehousing solution using amazon redshift to support business intelligence and data analytics
+* developed a cloud-based data lake using aws s3 and glue to store and process large datasets
+* collaborated with data scientists to develop and deploy machine learning models using scikit-learn and tensorflow
+
+education:
+
+* bachelor of science in computer science, [university name] (2010-2014)
+
+certifications:
+
+* certified data engineer, [certification name] (2019)
+* certified cloud practitioner, [certification name] (2018)
+
+projects:
+
+* [project name]: developed a data pipeline using spark and python to process large datasets for a client's business intelligence needs
+* [project name]: built a cloud-based data lake using aws s3 and glue to store and process large datasets for a startup's data analytics needs
+
+references:
+available upon request.

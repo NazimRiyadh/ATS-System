@@ -1,0 +1,74 @@
+Here's a professional resume for Kaitlyn Combs:
+
+Kaitlyn Combs
+Data Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [kcombs@email.com](mailto:kcombs@email.com)
+* LinkedIn: linkedin.com/in/kaitlyncombs
+* GitHub: github.com/kcombs
+
+Professional Summary:
+
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying large-scale data systems. Skilled in Airflow, ETL, Big Data, Cloud Platforms, Spark, and Data Warehousing. Proven track record of delivering high-quality solutions that meet business requirements and drive data-driven decision-making.
+
+Technical Skills:
+
+* Programming languages: Python, Java, Scala
+* Data Engineering tools:
+	+ Apache Airflow
+	+ Apache Spark
+	+ Apache Beam
+	+ Apache Hadoop
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Google Cloud Platform (GCP)
+	+ Microsoft Azure
+* Data Warehousing:
+	+ Amazon Redshift
+	+ Google BigQuery
+	+ Snowflake
+* ETL tools:
+	+ Apache NiFi
+	+ Talend
+	+ Informatica PowerCenter
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2020-Present)
+
+* Designed and developed a data pipeline using Apache Airflow to ingest data from multiple sources and load into a data warehouse
+* Collaborated with cross-functional teams to implement a cloud-based data warehousing solution using Amazon Redshift
+* Developed and maintained a Spark-based ETL process to transform and load data into a data lake
+* Implemented data quality checks and monitoring using Apache Beam and Apache NiFi
+* Mentored junior engineers and provided technical guidance on data engineering best practices
+
+Data Engineer, DEF Startup (2018-2020)
+
+* Developed a scalable data processing framework using Apache Spark and Scala
+* Designed and implemented a data ingestion process using Apache NiFi and Talend
+* Collaborated with the data science team to implement a machine learning model using Apache Spark and Python
+* Implemented data security and access controls using AWS IAM and Google Cloud IAM
+* Participated in code reviews and contributed to the development of best practices for data engineering
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Achievements:
+
+* Successfully implemented a data pipeline using Apache Airflow that reduced data latency by 70%
+* Improved data quality by 90% by implementing data validation and quality checks using Apache Beam
+* Reduced data processing costs by 50% by optimizing Spark jobs and using cloud-based services
+* Received the "Data Engineer of the Year" award at ABC Corporation for outstanding contributions to data engineering
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Institute (2020)
+* Certified Cloud Professional, Cloud Computing Institute (2019)
+
+References:
+
+Available upon request.

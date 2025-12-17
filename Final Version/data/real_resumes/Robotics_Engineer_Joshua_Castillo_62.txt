@@ -1,0 +1,61 @@
+Joshua Castillo
+Contact Information:
+
+* Address: 123 Main St, Anytown, USA 12345
+* Phone: (555) 555-5555
+* Email: [jcastillo@email.com](mailto:jcastillo@email.com)
+* LinkedIn: linkedin.com/in/joshuacastillo
+
+Summary:
+Highly motivated and experienced Robotics Engineer with expertise in ROS, Mechatronics, Sensor Fusion, and Path Planning. Proven track record of delivering innovative solutions and leading cross-functional teams to achieve project goals. Possess a strong passion for robotics and a commitment to staying at the forefront of emerging technologies.
+
+Professional Experience:
+
+Senior Robotics Engineer, XYZ Robotics (2018-Present)
+
+* Led the development of a autonomous mobile robot (AMR) platform using ROS and Mechatronics principles, resulting in a 30% increase in project efficiency and a 25% reduction in development time.
+* Designed and implemented a sensor fusion algorithm using Kalman filter techniques, achieving an average accuracy of 99.5% in object detection and tracking.
+* Collaborated with cross-functional teams to integrate the AMR platform with various sensors and actuators, ensuring seamless communication and operation.
+* Mentored junior engineers and provided guidance on robotics-related projects, promoting knowledge sharing and skill development.
+
+Robotics Engineer, ABC Research Institute (2015-2018)
+
+* Contributed to the development of a robotic arm for industrial applications, utilizing ROS and Mechatronics principles to achieve precise motion control and object manipulation.
+* Designed and implemented a path planning algorithm using A\* and Dijkstra's algorithms, achieving an average speed of 99.8% of the optimal path.
+* Conducted experiments and collected data to evaluate the performance of the robotic arm, identifying areas for improvement and providing recommendations for optimization.
+* Collaborated with researchers to integrate the robotic arm with various sensors and actuators, enhancing its capabilities and versatility.
+
+Education:
+
+* Master of Science in Robotics Engineering, XYZ University (2015)
+	+ Thesis: "Sensor Fusion and Path Planning for Autonomous Mobile Robots"
+	+ Coursework: ROS, Mechatronics, Control Systems, Computer Vision, and Machine Learning
+* Bachelor of Science in Electrical Engineering, ABC University (2010-2014)
+
+Skills:
+
+* Programming languages: C++, Python, ROS (ROS2)
+* Robotics platforms: ROS, ROS2, Gazebo, V-REP
+* Mechatronics: Motor control, sensor integration, actuator control
+* Sensor Fusion: Kalman filter, particle filter, sensor data fusion
+* Path Planning: A\*, Dijkstra's algorithm, potential field method
+* Operating Systems: Windows, Linux, macOS
+
+Achievements:
+
+* Best Paper Award, International Conference on Robotics and Automation (2017)
+* Innovation Award, XYZ Robotics (2019)
+* Mentorship Award, ABC Research Institute (2017)
+
+Professional Memberships:
+
+* IEEE Robotics and Automation Society (RAS)
+* International Federation of Robotics (IFR)
+
+Certifications:
+
+* Certified Robotics Engineer (CRE), XYZ University (2015)
+* Certified Mechatronics Engineer (CME), ABC University (2014)
+
+References:
+Available upon request.

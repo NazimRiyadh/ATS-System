@@ -1,0 +1,74 @@
+Jeffery Tucker
+Data Engineer
+
+Contact Information:
+
+* Email: [jtucker@email.com](mailto:jtucker@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/jefferytucker
+* GitHub: github.com/jefferytucker
+
+Summary:
+
+Highly motivated and detail-oriented Data Engineer with expertise in designing, building, and maintaining large-scale data systems. Proficient in Big Data frameworks, data pipelines, and ETL tools, with experience in cloud platforms, data warehousing, and CI/CD tools.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop
+	+ Apache Spark
+	+ Apache Flink
+* Data Pipelines:
+	+ Apache Beam
+	+ Apache NiFi
+	+ AWS Glue
+* ETL Tools:
+	+ Apache Beam
+	+ Informatica PowerCenter
+	+ Talend
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud Platform (GCP)
+* Programming Languages:
+	+ Python
+	+ Scala
+	+ Java
+* Data Warehousing:
+	+ Amazon Redshift
+	+ Google BigQuery
+	+ Snowflake
+* CI/CD Tools:
+	+ Jenkins
+	+ GitLab CI/CD
+	+ CircleCI
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed large-scale data pipelines using Apache Beam and Apache NiFi to process and transform data from various sources.
+* Implemented ETL processes using Informatica PowerCenter and Talend to load data into Amazon Redshift and Google BigQuery.
+* Developed and maintained CI/CD pipelines using Jenkins and GitLab CI/CD to automate testing and deployment of data pipelines.
+* Collaborated with cross-functional teams to design and implement data warehousing solutions using Amazon Redshift and Snowflake.
+
+Senior Data Analyst, DEF Startups (2015-2018)
+
+* Designed and developed data visualizations using Tableau and Power BI to support business decision-making.
+* Developed and maintained data models using Python and SQL to support data analysis and reporting.
+* Collaborated with data scientists to develop predictive models using machine learning algorithms.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Cloud Practitioner, AWS Certification (2018)
+
+Projects:
+
+* Data Pipeline Automation using Apache Beam and AWS Glue: Designed and developed a data pipeline using Apache Beam and AWS Glue to process and transform data from various sources.
+* Real-time Data Ingestion using Apache NiFi and Kafka: Designed and developed a real-time data ingestion pipeline using Apache NiFi and Kafka to process and transform data from various sources.
+* Data Warehousing using Amazon Redshift and Snowflake: Designed and developed a data warehousing solution using Amazon Redshift and Snowflake to support business decision-making.

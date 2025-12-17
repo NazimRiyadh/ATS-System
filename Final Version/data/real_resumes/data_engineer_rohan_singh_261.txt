@@ -1,0 +1,55 @@
+rohan singh
+contact information:
+
+* email: [rohan.singh@email.com](mailto:rohan.singh@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/rohansingh
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying data pipelines using various technologies such as python, sql, etl, airflow, spark, and aws. proven track record of successfully implementing data warehousing solutions, data modeling, and data governance. possesses expertise in containerization using docker and kubernetes.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: etl, airflow, spark
+* data warehousing: data modeling, star/snowflake schema design
+* cloud platforms: aws (s3, redshift, glue)
+* containerization: docker, kubernetes
+* operating systems: linux
+
+professional experience:
+
+data engineer, abc corporation (2020-present)
+
+* designed, developed, and deployed data pipelines using python, sql, and etl to extract, transform, and load data from various sources into a data warehouse
+* implemented data modeling and data governance frameworks to ensure data quality and consistency
+* utilized airflow for scheduling and monitoring data pipelines, and spark for big data processing
+* collaborated with cross-functional teams to design and implement data analytics solutions
+* migrated data pipelines from on-prem to cloud using aws and docker
+
+senior data analyst, def startup (2018-2020)
+
+* designed and developed data models to support business intelligence and data analytics
+* created data visualizations using tableau and power bi to communicate insights to stakeholders
+* utilized sql and python to analyze and process large datasets
+* developed and maintained data quality checks and data validation rules
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: data mining, machine learning, data warehousing, and business intelligence
+* bachelor of technology in computer science, pqr university (2016)
+
+achievements:
+
+* successfully migrated a large-scale data pipeline from on-prem to cloud using aws, resulting in 30% cost savings and 20% reduction in latency
+* designed and deployed a data warehousing solution using redshift and glue, resulting in 40% increase in data analytics speed
+* developed and maintained a dockerized data pipeline using airflow and spark, resulting in 25% reduction in deployment time
+
+certifications:
+
+* certified data engineer, data science council of america (dasca)
+* certified aws solutions architect - associate, amazon web services
+
+references:
+available upon request.

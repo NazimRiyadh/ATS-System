@@ -1,0 +1,56 @@
+tanvi mehta
+contact information:
+
+* email: [tanvi.mehta@email.com](mailto:tanvi.mehta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/tanvimehta
+
+summary:
+highly motivated and detail-oriented ui engineer with 4+ years of experience in designing and developing user interfaces for web applications. proficient in modern frontend technologies, with a strong focus on ui/ux design, responsive design, and web accessibility. proven ability to work with cross-functional teams to deliver high-quality products.
+
+technical skills:
+
+* programming languages: html, css, javascript
+* frontend frameworks: react
+* ui/ux design tools: figma, sketch
+* responsive design: media queries, flexbox
+* web accessibility: wcag 2.1 guidelines, aria attributes
+* version control: git
+* frontend testing: jest, enzyme
+* web performance: performance optimization techniques
+
+professional experience:
+
+ui engineer, xyz corporation (2020-present)
+
+* designed and developed user interfaces for web applications using react, html, css, and javascript
+* collaborated with designers to implement ui/ux designs and ensure responsive design
+* implemented web accessibility features to ensure compliance with wcag 2.1 guidelines
+* utilized git for version control and jest, enzyme for frontend testing
+* optimized web performance using performance optimization techniques
+* participated in code reviews to ensure high-quality code
+
+junior ui engineer, abc startup (2018-2020)
+
+* developed user interfaces for web applications using react, html, css, and javascript
+* worked with designers to implement ui/ux designs and ensure responsive design
+* implemented web accessibility features to ensure compliance with wcag 2.1 guidelines
+* utilized git for version control and jest, enzyme for frontend testing
+* participated in code reviews to ensure high-quality code
+
+education:
+
+* bachelor of technology in computer science, iit delhi (2015-2019)
+
+achievements:
+
+* completed a personal project, a responsive web application, using react, html, css, and javascript, which was showcased on github
+* participated in a hackathon and won the best frontend award
+* published a blog post on web accessibility best practices, which was featured on a popular tech blog
+
+certifications:
+
+* certified ui engineer, ui engineering certification program (2020)
+
+references:
+available upon request.

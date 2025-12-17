@@ -1,0 +1,56 @@
+aarav mehta
+contact information:
+
+* email: [aarav.mehta@email.com](mailto:aarav.mehta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/aaravmehta
+* github: github.com/aaravmehta
+
+summary:
+highly motivated and detail-oriented data scientist with experience in developing and deploying predictive models using python, machine learning algorithms, and deep learning techniques. proven track record of delivering data-driven insights and solutions to drive business growth.
+
+technical skills:
+
+* programming languages: python
+* machine learning: scikit-learn, tensorflow
+* data analysis: statistics, sql, data visualization (matplotlib, seaborn, tableau)
+* deep learning: tensorflow, keras
+* a/b testing: google optimize, vwo
+* statistical analysis: hypothesis testing, confidence intervals
+* data visualization: dash, plotly
+
+professional experience:
+
+data scientist, xyz corporation (2020-present)
+
+* developed and deployed predictive models using python, scikit-learn, and tensorflow to drive business growth
+* collaborated with cross-functional teams to design and implement a/b testing experiments using google optimize and vwo
+* analyzed and visualized large datasets using sql, tableau, and matplotlib to identify trends and insights
+* implemented deep learning models to improve model accuracy and performance
+* worked with stakeholders to communicate complex data insights and recommendations
+
+data analyst, abc startups (2018-2020)
+
+* collected and analyzed data from various sources using sql and python
+* developed and maintained dashboards using tableau to track key performance indicators
+* conducted statistical analysis and hypothesis testing to identify trends and insights
+* created data visualizations using matplotlib and seaborn to communicate findings to stakeholders
+
+education:
+
+* master of science in computer science, stanford university (2018)
+	+ coursework: machine learning, deep learning, natural language processing, computer vision
+* bachelor of science in computer science, university of california, berkeley (2016)
+	+ coursework: data structures, algorithms, computer systems, database systems
+
+achievements:
+
+* winner, machine learning hackathon (2020)
+	+ developed a predictive model using tensorflow and scikit-learn that achieved a 95% accuracy rate
+* published research paper, international conference on machine learning (2019)
+	+ co-authored a paper on "deep learning for image classification" that was accepted by the conference
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)

@@ -1,0 +1,60 @@
+Here's a sample resume for Yolanda Huerta:
+
+Yolanda Huerta
+Contact Information:
+
+* Email: [yolanda.huerta@email.com](mailto:yolanda.huerta@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/yolandahuerta
+* GitHub: github.com/yolandahuerta
+
+Summary:
+Highly motivated and experienced Cloud Engineer with a strong background in Serverless Architecture, Cloud Networking, and Scripting. Proven track record of designing and deploying scalable, secure, and efficient cloud-based systems. Proficient in a range of cloud platforms, including AWS and Azure.
+
+Professional Experience:
+
+Cloud Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented serverless architectures using AWS Lambda and API Gateway, resulting in 30% reduction in infrastructure costs and 25% increase in application performance
+* Configured and managed cloud networking infrastructure, including VPCs, subnets, and security groups, to ensure secure and reliable connectivity between applications and users
+* Developed and deployed scalable and efficient cloud-based applications using AWS CloudFormation and Azure Resource Manager
+* Collaborated with cross-functional teams to design and implement cloud-based solutions, resulting in improved application delivery and reduced latency
+* Mentored junior engineers on cloud-based technologies and best practices, improving team's overall technical expertise and efficiency
+
+Senior Software Engineer, DEF Startups (2015-2018)
+
+* Designed and developed cloud-based applications using AWS and Azure, resulting in 40% increase in customer engagement and 20% increase in revenue
+* Implemented automated deployment and scaling scripts using AWS CloudFormation and Azure DevOps, reducing deployment time by 50% and improving application availability
+* Collaborated with product managers to design and implement cloud-based solutions, resulting in improved product features and user experience
+* Participated in code reviews and ensured adherence to coding standards and best practices, improving team's overall code quality and maintainability
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Skills:
+
+* Serverless Architecture (AWS Lambda, API Gateway)
+* Cloud Networking (VPCs, subnets, security groups)
+* Scripting (Bash, Python, PowerShell)
+* Cloud Platforms (AWS, Azure)
+* CloudFormation (AWS)
+* Azure Resource Manager (Azure)
+* Cloud Security (IAM, access controls)
+* DevOps (CI/CD pipelines, automated deployment)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Azure Certified Solutions Architect
+
+Achievements:
+
+* Winner of the 2020 AWS Cloud Hackerthon, showcasing expertise in serverless architecture and cloud security
+* Featured speaker at the 2019 Cloud Security Conference, discussing cloud security best practices and industry trends
+* Published articles on cloud-based technologies and best practices in industry publications, including Cloud Computing Magazine and InfoQ
+
+References:
+Available upon request.
+
+Note: This is just a sample resume, and you should customize it to fit your own experiences and qualifications.

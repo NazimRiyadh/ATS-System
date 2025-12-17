@@ -1,0 +1,66 @@
+Here's a sample resume for Yolanda Brown, a Data Engineer candidate:
+
+Yolanda Brown
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [yolanda.brown@email.com](mailto:yolanda.brown@email.com)
+* LinkedIn: linkedin.com/in/yolandabrown
+* GitHub: github.com/yolandabrown
+
+Professional Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, building, and deploying scalable data infrastructure on cloud platforms. Skilled in Airflow, Big Data, Cloud Platforms, Data Warehousing, and data pipelining. Proven track record of delivering high-quality solutions that meet business requirements and drive data-driven decision-making.
+
+Technical Skills:
+
+* Programming languages: Python, SQL, Java
+* Cloud Platforms: AWS, GCP, Azure
+* Data Engineering Tools: Apache Airflow, Apache Beam, Apache Spark
+* Data Warehousing: Amazon Redshift, Google BigQuery
+* Big Data: Hadoop, Spark, NoSQL databases (e.g. Cassandra, MongoDB)
+* Data Pipelining: Apache NiFi, AWS Glue
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2020-Present)
+
+* Designed and developed scalable data pipelines on AWS using Apache Airflow and Apache Beam
+* Built and deployed data warehouses on Amazon Redshift and Google BigQuery to support business intelligence and data analytics
+* Collaborated with cross-functional teams to integrate data from various sources and build data-driven applications
+* Mentored junior engineers and provided technical guidance on data engineering best practices
+* Achievements:
+	+ Improved data pipeline efficiency by 30% through optimization and automation
+	+ Reduced data warehouse query latency by 50% through index tuning and query optimization
+	+ Developed and deployed a data lake on AWS S3 and Apache Hadoop to support big data analytics
+
+Data Engineer, DEF Startups (2018-2020)
+
+* Designed and implemented data pipelines on Apache Airflow and Apache Spark to support machine learning and data analytics
+* Built and deployed data warehouses on Google BigQuery to support business intelligence and data analytics
+* Collaborated with data scientists to integrate data from various sources and build data-driven applications
+* Achievements:
+	+ Improved data pipeline efficiency by 25% through optimization and automation
+	+ Developed and deployed a data visualization platform on Tableau and AWS to support business decision-making
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Data Engineer, Google Cloud (2020)
+* Certified Big Data Engineer, Hadoop (2019)
+
+References:
+Available upon request.
+
+This structure includes:
+
+* A clear and concise professional summary that highlights Yolanda's experience and skills
+* A technical skills section that lists her programming languages, cloud platforms, data engineering tools, and other relevant technical skills
+* A professional experience section that highlights her achievements and responsibilities in her previous roles
+* An education section that lists her degree and relevant certifications
+* A references section that indicates that references are available upon request
+
+Note that this is just a sample, and you should customize your resume to fit your specific experience and the job you're applying for.

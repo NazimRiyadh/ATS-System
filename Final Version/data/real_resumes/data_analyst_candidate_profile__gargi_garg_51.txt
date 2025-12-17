@@ -1,0 +1,39 @@
+**candidate profile: gargi garg**
+
+**role:** data analyst
+
+**key findings:**
+
+gargi garg demonstrated a strong passion for data analysis and a willingness to learn, but several areas of concern emerged during the interview process. key gaps in skills and experience include:
+
+* **data visualization:** gargi lacks proficiency in creating interactive and dynamic visualizations, which is a critical aspect of data analysis. while they have some basic knowledge of chart creation, they struggled to provide examples of complex visualizations and struggled to articulate the importance of visualization in data analysis.
+* **sql:** gargi's sql skills are limited, and they were unable to provide examples of complex queries or demonstrate an understanding of advanced sql concepts. this lack of proficiency raises concerns about their ability to work with large datasets and perform data manipulation tasks.
+* **statistics:** gargi's understanding of statistical concepts, such as hypothesis testing and regression analysis, was limited. they struggled to apply statistical concepts to real-world problems and demonstrated a lack of familiarity with statistical software.
+* **excel/spreadsheet analysis:** while gargi has some basic experience with excel, they lack advanced skills in data analysis, such as pivot tables, macros, and data modeling. this gap in skills limits their ability to perform complex data analysis and visualization tasks.
+* **business intelligence (bi) tools:** gargi is not familiar with popular bi tools such as tableau, power bi, or qlikview. this lack of experience raises concerns about their ability to effectively communicate insights to stakeholders and create interactive dashboards.
+* **machine learning (ml) and artificial intelligence (ai):** gargi's experience with ml and ai is limited, and they struggled to provide examples of how these techniques could be applied to real-world problems. this gap in skills limits their ability to work with complex data sets and identify patterns and trends.
+
+**concerns raised during the interview:**
+
+* gargi had difficulty with tasks that required advanced excel skills, such as creating complex pivot tables and performing data modeling.
+* they were unfamiliar with several popular data visualization tools, such as d3.js and matplotlib.
+* gargi struggled to articulate the importance of data quality and data governance in data analysis.
+* they were unable to provide examples of how they would handle missing or incomplete data.
+
+**potential for growth:**
+
+despite these gaps, gargi demonstrated a strong desire to learn and grow in their role. they are eager to acquire new skills and expand their knowledge in areas such as data visualization, sql, statistics, and business intelligence tools. with further training and exposure, gargi has the potential to become a skilled data analyst.
+
+**recommendations:**
+
+to address the gaps in skills and experience, we recommend that gargi:
+
+* take online courses or attend workshops to improve their data visualization skills, particularly in tools such as tableau and power bi.
+* practice advanced sql concepts and work on building their proficiency in statistical software such as r or python.
+* focus on developing their skills in excel, particularly in advanced data analysis and visualization tasks.
+* familiarize themselves with popular bi tools and explore how they can be applied to real-world problems.
+* seek out opportunities to work with large datasets and practice applying ml and ai techniques to identify patterns and trends.
+
+**final thoughts:**
+
+gargi garg has the potential to become a skilled data analyst with dedication and training. however, the gaps in skills and experience identified during the interview process raise concerns about their ability to perform certain tasks and meet the demands of the role. with constructive feedback and a commitment to growth, gargi can work to address these gaps and become a valuable asset to the team.

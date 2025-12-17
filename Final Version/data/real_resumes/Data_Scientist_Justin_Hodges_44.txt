@@ -1,0 +1,58 @@
+Justin Hodges
+Contact Information:
+
+* Email: [justin.hodges@email.com](mailto:justin.hodges@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/justinhodges
+
+Summary:
+Highly motivated and detail-oriented Data Scientist with 5+ years of experience in developing and deploying predictive models, NLP applications, and data visualization tools. Proven track record of driving business growth through data-driven insights and recommendations.
+
+Technical Skills:
+
+* Programming languages: Python, R, SQL
+* Machine Learning libraries: scikit-learn, TensorFlow, PyTorch
+* Deep Learning frameworks: Keras, Theano
+* NLP libraries: NLTK, spaCy, gensim
+* Data Visualization tools: Matplotlib, Seaborn, Tableau
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Data Scientist, ABC Corporation (2018-Present)
+
+* Developed and deployed predictive models using machine learning algorithms to forecast customer churn, revenue, and sales
+* Collaborated with cross-functional teams to design and implement NLP-powered chatbots for customer support
+* Created data visualization dashboards using Tableau and Matplotlib to communicate insights to stakeholders
+* Worked on a team to design and implement a recommender system using collaborative filtering and matrix factorization
+* Published research papers on deep learning and NLP applications in top-tier conferences
+
+Junior Data Scientist, DEF Startups (2015-2018)
+
+* Built and deployed machine learning models to predict user behavior and improve engagement
+* Developed and maintained large-scale data pipelines using Apache Beam and Apache Spark
+* Conducted exploratory data analysis to identify trends and insights in customer data
+* Created data visualizations to communicate findings to stakeholders
+* Collaborated with data engineers to design and implement data infrastructure
+
+Education:
+
+* Master of Science in Data Science, XYZ University (2015)
+	+ Coursework: machine learning, NLP, data visualization, statistics
+	+ Thesis: "Deep Learning for Text Classification: A Comparative Study"
+* Bachelor of Science in Computer Science, ABC University (2010-2014)
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2018)
+* Certified Scrum Master, Scrum Alliance (2016)
+
+Projects:
+
+* Text Classification using Deep Learning: Developed a text classification model using convolutional neural networks (CNNs) and long short-term memory (LSTM) networks to classify customer reviews.
+* Recommendation System using Matrix Factorization: Built a recommender system using matrix factorization and collaborative filtering to recommend products to users.
+* Chatbot for Customer Support: Designed and implemented a chatbot using NLP and machine learning algorithms to provide customer support.
+
+References:
+Available upon request.

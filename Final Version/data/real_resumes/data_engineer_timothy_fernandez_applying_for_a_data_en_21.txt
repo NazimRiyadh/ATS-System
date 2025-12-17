@@ -1,0 +1,56 @@
+here's a sample resume for timothy fernandez applying for a data engineer role:
+
+timothy fernandez
+contact information:
+
+* email: [timothy.fernandez@email.com](mailto:timothy.fernandez@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/timothyfernandez
+* github: github.com/timothyfernandez
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data pipelines using airflow, big data, and spark. proven track record of delivering high-quality solutions that meet business requirements and improve data-driven decision making.
+
+technical skills:
+
+* airflow: experience with designing, developing, and deploying airflow dags, including pipeline creation, scheduling, and monitoring.
+* big data: strong understanding of data warehousing, data integration, and data governance principles. proficient in working with big data technologies such as hadoop, hive, and impala.
+* spark: skilled in developing and deploying spark applications using scala, python, and java. experience with spark sql, dataframes, and datasets.
+* programming languages: python, java, scala
+* databases: mysql, postgresql, cassandra
+* operating systems: linux, windows
+* tools: git, docker, kubernetes
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* designed, developed, and deployed multiple data pipelines using airflow, including etl processes, data quality checks, and data validation.
+* worked with big data technologies such as hadoop, hive, and impala to design and implement data warehousing solutions.
+* developed and deployed spark applications using scala, python, and java to process large-scale data sets.
+* collaborated with data scientists and analysts to provide data engineering support and ensure data quality.
+* implemented data governance and security best practices to ensure data integrity and compliance.
+
+junior data engineer, def company (2015-2018)
+
+* assisted in designing and developing data pipelines using airflow and big data technologies.
+* worked on data quality checks, data validation, and data transformation tasks.
+* developed and deployed spark applications using python and java.
+* collaborated with data engineers and analysts to ensure data quality and reliability.
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering institute (2019)
+* certified spark developer, spark foundation (2018)
+
+projects:
+
+* airflow pipeline for etl process: designed and developed an airflow pipeline for etl process using python and mysql.
+* big data processing using spark: developed a spark application using scala and python to process large-scale data sets.
+* data governance framework: designed and implemented a data governance framework using apache ranger and apache atlas.
+
+note: this is just a sample resume, and you should customize it to fit your specific experience and qualifications. also, proofread your resume multiple times for any grammar or formatting errors before sharing it with potential employers.

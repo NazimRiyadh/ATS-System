@@ -1,0 +1,53 @@
+kabir mehta
+contact information:
+
+* email: [kabir.mehta@email.com](mailto:kabir.mehta@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/kabirmehta
+* github: github.com/kabirmehta
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in developing and deploying machine learning models, statistical analysis, and data visualization. skilled in python, statistics, machine learning, sql, deep learning, data visualization, a/b testing, and statistical analysis. proficient in using scikit-learn and tensorflow frameworks.
+
+technical skills:
+
+* programming languages: python, r
+* machine learning: scikit-learn, tensorflow
+* deep learning: tensorflow, keras
+* data visualization: matplotlib, seaborn, tableau
+* sql: postgresql, mysql
+* statistical analysis: hypothesis testing, confidence intervals, regression analysis
+* a/b testing: google optimize, vwo
+* data science frameworks: scikit-learn, tensorflow, keras
+
+professional experience:
+
+data scientist, abc corporation (2018-present)
+
+* developed and deployed multiple machine learning models using scikit-learn and tensorflow to predict customer churn, credit risk, and sales forecasting
+* collaborated with cross-functional teams to design and implement a/b testing experiments to optimize website conversion rates and improve customer experience
+* built data visualizations using tableau and matplotlib to communicate insights to stakeholders and drive business decisions
+* conducted statistical analysis and hypothesis testing to identify trends and patterns in large datasets
+* worked with sql to extract and manipulate data from multiple databases to support data-driven decision making
+
+junior data analyst, def agency (2015-2018)
+
+* assisted in data collection, cleaning, and preprocessing for statistical analysis and machine learning model development
+* conducted statistical analysis and created data visualizations to communicate findings to stakeholders
+* collaborated with data engineers to design and implement data pipelines to support data-driven decision making
+* worked with sql to extract and manipulate data from databases to support business intelligence and reporting
+
+education:
+
+* master of science in data science, xyz university (2015)
+	+ coursework: machine learning, deep learning, statistical computing, data visualization, and data mining
+* bachelor of science in statistics, abc university (2013)
+
+achievements:
+
+* winner, abc corporation's hackathon (2019): developed a winning solution using tensorflow and scikit-learn to predict customer churn and improve customer retention
+* published research paper, "predicting credit risk using machine learning" (2018): co-authored a research paper on predicting credit risk using machine learning models and published in a peer-reviewed journal
+* certified data scientist, certified analytics professional (cap) (2017): achieved certification in data science and analytics from a leading professional organization
+
+references:
+available upon request.

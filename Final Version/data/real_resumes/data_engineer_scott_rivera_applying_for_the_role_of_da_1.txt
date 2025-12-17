@@ -1,0 +1,54 @@
+here's a sample resume for scott rivera applying for the role of data engineer:
+
+scott rivera
+contact information:
+
+* phone: (555) 555-5555
+* email: [scott.rivera@email.com](mailto:scott.rivera@email.com)
+* linkedin: linkedin.com/in/scottrivera
+
+summary:
+highly skilled data engineer with expertise in mlops, airflow, and cloud platforms. proven track record of designing, building, and deploying scalable data engineering solutions. proficient in a range of tools and technologies, with a strong passion for innovation and problem-solving.
+
+technical skills:
+
+* programming languages: python, java, sql
+* data engineering tools: apache airflow, apache beam, apache kafka
+* cloud platforms: aws, gcp, azure
+* mlops: tensorflow, pytorch, scikit-learn
+* data storage: mongodb, cassandra, postgresql
+* data processing: spark, hadoop
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and implemented a scalable data pipeline using apache airflow, processing over 1tb of data per day
+* developed and deployed a machine learning model using tensorflow, resulting in a 25% increase in accuracy
+* collaborated with cross-functional teams to implement data-driven solutions, improving business outcomes by 15%
+* maintained and improved the company's data infrastructure, ensuring high availability and performance
+
+data engineer, def startups (2015-2018)
+
+* built and deployed a cloud-based data platform using aws, processing millions of records per day
+* designed and implemented a data warehousing solution using amazon redshift, providing insights to business stakeholders
+* developed and maintained a range of data processing scripts using python and apache spark
+* collaborated with the engineering team to design and implement new features, improving product quality by 20%
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* aws certified developer - associate, amazon web services (2017)
+
+projects:
+
+* mlops platform: developed a cloud-based mlops platform using tensorflow, pytorch, and scikit-learn, allowing data scientists to deploy and manage machine learning models at scale
+* airflow pipeline: designed and implemented a scalable airflow pipeline processing over 1tb of data per day, using apache beam and google cloud storage
+
+references:
+available upon request.

@@ -1,0 +1,60 @@
+Here's a sample resume for Eric Horn Jr. applying for the role of Data Architect:
+
+Eric Horn Jr.
+Contact Information:
+
+* Address: 123 Main St, Anytown, USA 12345
+* Phone: (123) 456-7890
+* Email: [eric.hornjr@email.com](mailto:eric.hornjr@email.com)
+* LinkedIn: linkedin.com/in/erichornjr
+
+Summary:
+Highly accomplished Data Architect with 8+ years of experience in designing, implementing, and managing large-scale data integration and big data solutions. Proven expertise in cloud data solutions, database design, and data warehousing. Skilled in leading cross-functional teams and driving data-driven decision making through data insights. Proficient in a range of technologies, including AWS, Azure, and Google Cloud.
+
+Professional Experience:
+
+Senior Data Architect, ABC Corporation (2018-Present)
+
+* Design and implement large-scale data integration and big data solutions using AWS, Azure, and Google Cloud
+* Lead cross-functional teams to develop data warehouse and business intelligence solutions
+* Develop and maintain data governance policies and procedures
+* Collaborate with stakeholders to identify data requirements and provide data-driven insights
+* Achievements:
+	+ Designed and implemented a cloud-based data warehouse for a Fortune 500 company, resulting in a 30% reduction in data processing time
+	+ Led a team to develop a real-time data integration solution using Apache Kafka and AWS Lambda, resulting in a 25% increase in data freshness
+
+Data Architect, DEF Agency (2015-2018)
+
+* Designed and implemented database solutions using Oracle, SQL Server, and MySQL
+* Developed data warehousing and business intelligence solutions using Tableau and Power BI
+* Collaborated with stakeholders to identify data requirements and provide data-driven insights
+* Achievements:
+	+ Designed and implemented a data warehouse solution for a government agency, resulting in a 40% increase in data accessibility
+	+ Led a team to develop a data governance framework, resulting in a 20% reduction in data quality issues
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Skills:
+
+* Data Integration: AWS Glue, Azure Data Factory, Google Cloud Data Fusion
+* Big Data: Hadoop, Spark, NoSQL databases
+* Cloud Data Solutions: AWS, Azure, Google Cloud
+* Database Design: relational and NoSQL databases
+* Data Warehousing: Kimball and Inmon methodologies
+* Business Intelligence: Tableau, Power BI, QlikView
+
+Certifications:
+
+* Certified Data Architect (CDA), Data Architecture Association
+* Certified Cloud Data Architect (CCDA), AWS
+
+Professional Memberships:
+
+* Data Architecture Association
+* International Institute for Analytics
+* AWS Community Builder
+
+References:
+Available upon request.

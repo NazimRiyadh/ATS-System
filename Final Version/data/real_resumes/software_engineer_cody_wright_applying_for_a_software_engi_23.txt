@@ -1,0 +1,54 @@
+here's a sample resume for cody wright applying for a software engineer role:
+
+cody wright
+contact information:
+
+* phone: (123) 456-7890
+* email: [codywright@email.com](mailto:codywright@email.com)
+* linkedin: linkedin.com/in/codywright
+* github: github.com/codywright
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in python, algorithms, data structures, and system design. proven track record of delivering high-quality software solutions in a timely and efficient manner.
+
+technical skills:
+
+* programming languages: python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, greedy, dynamic programming, recursion
+* system design: design patterns, scalability, performance optimization
+* agile methodologies: scrum, kanban
+* version control: git, github
+* operating systems: windows, linux, macos
+
+professional experience:
+
+* software engineer intern, abc corporation (summer 2022)
+	+ contributed to the development of a recommendation engine using python and scikit-learn
+	+ implemented a autocomplete feature using trie data structure and python
+	+ participated in code reviews and ensured adherence to coding standards
+* personal projects:
+	+ developed a web scraper using python and beautifulsoup to extract data from a popular e-commerce website
+	+ built a chatbot using python and natural language processing (nlp) techniques to answer user queries
+
+education:
+
+* bachelor of science in computer science, xyz university (2020-2024)
+	+ coursework: data structures, algorithms, computer systems, computer networks, database systems
+
+certifications/awards:
+
+* certified python developer, python institute (2022)
+* winner, abc university's hackathon (2022)
+
+personal projects:
+
+* portfolio: [github.com/codywright/portfolio](github.com/codywright/portfolio)
+* blogs:
+	+ [codywright.github.io](codywright.github.io)
+	+ [medium.com/@codywright](medium.com/@codywright)
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your specific experiences and qualifications. also, be sure to proofread your resume multiple times for grammar and spelling errors before submitting it to potential employers.

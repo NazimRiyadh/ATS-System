@@ -1,0 +1,54 @@
+kabir chopra
+contact information:
+
+* email: [kabir.chopra@email.com](mailto:kabir.chopra@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/kabirchopra
+
+summary:
+highly motivated and detail-oriented data engineer with 4+ years of experience in designing, developing, and deploying large-scale data pipelines using python, sql, and etl tools. proven expertise in cloud-native technologies, data warehousing, and big data processing using spark and airflow. proficient in containerization using docker and orchestration using kubernetes.
+
+technical skills:
+
+* programming languages: python
+* databases: sql, nosql
+* data engineering: etl, data modeling, data warehousing
+* cloud platforms: aws
+* big data processing: spark, hadoop
+* data orchestration: airflow
+* containerization: docker
+* orchestration: kubernetes
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* design, develop, and deploy large-scale data pipelines using python, sql, and etl tools to extract data from various sources and load it into data warehouses.
+* developed a data warehousing solution using amazon redshift, which improved data processing time by 30% and reduced costs by 25%.
+* implemented a data quality framework using apache airflow, which improved data quality by 40% and reduced data errors by 20%.
+* collaborated with cross-functional teams to design and implement data-driven solutions, including data visualization and machine learning models.
+
+data engineer, def startups (2018-2020)
+
+* designed, developed, and deployed etl pipelines using python, sql, and etl tools to extract data from various sources and load it into data warehouses.
+* developed a data modeling framework using apache cassandra, which improved data scalability by 50% and reduced data latency by 20%.
+* implemented a data governance framework using apache spark, which improved data security by 40% and reduced data errors by 20%.
+* collaborated with data scientists to develop and deploy machine learning models using python and scikit-learn.
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: data mining, machine learning, data warehousing, data visualization
+* bachelor of technology in computer science, pqr university (2016)
+	+ coursework: data structures, algorithms, computer systems, database management systems
+
+achievements:
+
+* cloud native data engineer certification, aws (2020)
+* certified data scientist, data science council of america (2019)
+* winner, abc corporation's data science competition (2019)
+* published research paper on "efficient data processing using apache spark and apache cassandra" in international journal of data science and analytics (2018)
+
+references:
+available upon request.

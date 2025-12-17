@@ -1,0 +1,56 @@
+Here's a professional resume for Wendy Patterson:
+
+Wendy Patterson
+Data Engineer
+
+Contact Information:
+
+* Email: [wendy.patterson@email.com](mailto:wendy.patterson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/wendypatterson
+
+Summary:
+Highly motivated and experienced Data Engineer with a strong background in MLOps, Airflow, Big Data, and Data Warehousing. Proven track record of delivering scalable and efficient data solutions that drive business growth. Skilled in leading cross-functional teams and collaborating with stakeholders to meet data-driven business objectives.
+
+Technical Skills:
+
+* Programming languages: Python, Java, SQL
+* Big Data technologies: Hadoop, Spark, NoSQL databases
+* Data Warehousing: Snowflake, Amazon Redshift
+* MLOps: Airflow, Kubeflow, TensorFlow
+* Cloud platforms: AWS, GCP, Azure
+* Collaboration tools: Jupyter Notebooks, Git, GitHub
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2018-Present)
+
+* Designed and implemented a data pipeline using Airflow, ETL, and Big Data technologies to process millions of records per day, reducing processing time by 90%
+* Led a team of three data engineers to develop a cloud-based data warehouse using Snowflake, resulting in a 30% reduction in data costs
+* Collaborated with the machine learning team to develop and deploy a predictive model using TensorFlow, Kubeflow, and Airflow, resulting in a 25% increase in sales
+* Mentored junior data engineers and provided technical guidance on data engineering best practices
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed and deployed a real-time data processing system using Apache Kafka, Spark Streaming, and Cassandra, resulting in a 95% reduction in data latency
+* Built and maintained a data warehouse using Amazon Redshift, providing insights to business stakeholders on customer behavior
+* Worked closely with the product team to integrate data-driven features into the product roadmap, resulting in a 20% increase in user engagement
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2010-2012)
+* Bachelor of Science in Computer Science, ABC University (2005-2009)
+
+Certifications:
+
+* Certified Data Engineer, Google Cloud (2019)
+* Certified Big Data Engineer, Hadoop (2017)
+
+Achievements:
+
+* Winner of the ABC Company's Data Science Competition (2019)
+* Featured speaker at the DEF Startups' Data Engineering Summit (2017)
+* Published a research paper on "Real-time Data Processing using Apache Kafka and Spark Streaming" in the Journal of Data Science (2016)
+
+References:
+Available upon request.

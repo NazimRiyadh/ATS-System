@@ -1,0 +1,59 @@
+Here's a sample resume for Hank Johnson:
+
+**Hank Johnson**
+
+**Contact Information:**
+
+* Email: [hankjohnson@email.com](mailto:hankjohnson@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/hankjohnson
+* GitHub: github.com/hankjohnson
+
+**Summary:**
+Highly motivated and analytical Data Scientist with 5+ years of experience in working with large datasets, building predictive models, and communicating insights to both technical and non-technical stakeholders. Proficient in a range of tools and technologies, including Python, R, SQL, and Tableau.
+
+**Technical Skills:**
+
+* Programming languages: Python, R, SQL
+* Data manipulation and analysis: Pandas, NumPy, Matplotlib, Seaborn, ggplot2
+* Machine learning: scikit-learn, TensorFlow, Keras
+* Data visualization: Tableau, Power BI, Matplotlib, Seaborn
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+* Cloud platforms: AWS, Google Cloud, Microsoft Azure
+
+**Professional Experience:**
+
+**Data Scientist, XYZ Corporation (2018-Present)**
+
+* Worked with a team to analyze customer behavior and develop predictive models to improve customer retention
+* Built and deployed machine learning models using scikit-learn and TensorFlow to predict churn probability
+* Collaborated with business stakeholders to understand business needs and develop data-driven solutions
+* Presented findings and recommendations to senior leadership and cross-functional teams
+* Mentored junior team members and contributed to knowledge sharing and skill development
+
+**Data Analyst, ABC Inc. (2015-2018)**
+
+* Collected and analyzed data on sales and customer behavior using SQL and Excel
+* Created reports and dashboards using Tableau to visualize key metrics and trends
+* Developed and maintained databases using MySQL and SQL Server
+* Assisted in data mining and data cleaning efforts to improve data quality and accuracy
+
+**Education:**
+
+* **Master of Science in Data Science, University of Chicago (2015)**
+* **Bachelor of Science in Computer Science, University of Illinois at Urbana-Champaign (2013)**
+
+**Achievements:**
+
+* **Recipient of the "Best Paper Award" at the 2019 International Conference on Data Science and Analytics**
+* **Published a research paper on "Predicting Customer Churn using Machine Learning" in the Journal of Data Science and Analytics (2019)**
+* **Completed a data science project on "Predicting Credit Card Defaults" using Python and scikit-learn, which achieved an accuracy of 95%**
+
+**Projects:**
+
+* **Credit Card Default Prediction**: Built a machine learning model using Python and scikit-learn to predict credit card defaults based on customer behavior and credit history
+* **Customer Segmentation**: Developed a clustering model using R and ggplot2 to segment customers based on purchase behavior and demographics
+* **Time Series Forecasting**: Built a time series forecasting model using Python and statsmodels to predict sales trends for a retail company
+
+Note that this is just a sample resume, and you should customize it to fit your own experiences and qualifications. Also, be sure to proofread your resume multiple times for any errors or typos!

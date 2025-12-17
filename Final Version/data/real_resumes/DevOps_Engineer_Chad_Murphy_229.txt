@@ -1,0 +1,55 @@
+Here's a sample resume for Chad Murphy, a DevOps Engineer candidate:
+
+Chad Murphy
+Contact Information:
+
+* Email: [chad.murphy@email.com](mailto:chad.murphy@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/chadmurphydevops
+* GitHub: github.com/chadmurphy
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, containerization, and cloud platforms. Proven track record of designing and implementing scalable and efficient infrastructure solutions that improve deployment speed and reduce downtime. Skilled in a range of tools and technologies, including Docker, Kubernetes, Ansible, and monitoring tools.
+
+Technical Skills:
+
+* CI/CD tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Configuration Management: Ansible
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Programming languages: Python, Bash, PowerShell
+
+Professional Experience:
+
+* DevOps Engineer, ABC Company (2018-Present)
+	+ Designed and implemented a CI/CD pipeline using Jenkins and Docker, resulting in a 90% reduction in deployment time
+	+ Built and deployed a Kubernetes cluster on AWS, improving application scalability and reliability
+	+ Developed and maintained Ansible playbooks for infrastructure provisioning and configuration management
+	+ Implemented monitoring and logging tools, including Prometheus and Grafana, to improve application performance and troubleshoot issues
+* Senior Systems Administrator, DEF Company (2015-2018)
+	+ Managed and maintained a large-scale infrastructure environment, including servers, storage, and network devices
+	+ Developed and implemented a backup and disaster recovery strategy, resulting in a 99.9% uptime record
+	+ Collaborated with development teams to design and implement scalable solutions using containerization and CI/CD tools
+* Systems Administrator, GHI Company (2012-2015)
+	+ Provided level 1 and level 2 support for a large-scale infrastructure environment
+	+ Assisted in the design and implementation of a new infrastructure architecture, resulting in a 30% reduction in costs
+
+Achievements:
+
+* AWS Certified DevOps Engineer - Professional: Passed the AWS DevOps Engineer - Professional certification exam, demonstrating expertise in designing and implementing scalable and efficient infrastructure solutions on AWS
+* Kubernetes Certified Administrator: Passed the Kubernetes Certified Administrator exam, demonstrating expertise in designing and implementing Kubernetes clusters and applications
+* DevOps Days Speaker: Presented a talk on "Scaling Microservices with Kubernetes and CI/CD" at DevOps Days 2019
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2008-2012)
+
+Certifications:
+
+* AWS Certified DevOps Engineer - Professional
+* Kubernetes Certified Administrator
+* Ansible Certified Engineer
+
+References:
+Available upon request.

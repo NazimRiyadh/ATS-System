@@ -1,0 +1,56 @@
+here's a sample resume for kari brooks applying for the role of data engineer:
+
+kari brooks
+contact information:
+
+* email: [kari.brooks@email.com](mailto:kari.brooks@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/karibrooks
+
+summary:
+highly motivated and detail-oriented data engineer with experience in mlops, cloud platforms, and spark. proven track record of developing and deploying scalable data pipelines, and collaborating with cross-functional teams to drive business growth through data-driven insights.
+
+technical skills:
+
+* programming languages: python, scala
+* data processing frameworks: apache spark, flink
+* cloud platforms: amazon web services (aws), google cloud platform (gcp), microsoft azure
+* mlops: tensorflow, pytorch, scikit-learn
+* data storage: apache cassandra, apache hbase
+* data warehousing: amazon redshift, google bigquery
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc company (2018-present)
+
+* designed and developed scalable data pipelines using apache spark and aws glue to process large datasets for predictive modeling
+* collaborated with data scientists to develop and deploy machine learning models using tensorflow and pytorch
+* deployed and managed data infrastructure on aws, including ec2 instances, s3 buckets, and redshift clusters
+* worked with cross-functional teams to integrate data into business applications, driving growth and revenue through data-driven insights
+
+data engineer, def startups (2015-2018)
+
+* built and maintained data pipelines using apache flink and apache cassandra to process real-time data feeds
+* developed and deployed data visualizations using tableau and power bi to support business decision-making
+* worked with data scientists to develop and deploy machine learning models using scikit-learn and tensorflow
+* collaborated with engineering teams to integrate data into web and mobile applications
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified cloud practitioner, aws certified cloud practitioner (2018)
+
+projects:
+
+* mlops pipeline: developed a scalable mlops pipeline using tensorflow, pytorch, and aws sagemaker to deploy and manage machine learning models in production
+* real-time streaming data pipeline: designed and developed a real-time streaming data pipeline using apache flink and apache cassandra to process and analyze large datasets
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your specific experiences and qualifications. also, proofread your resume multiple times for any grammar or formatting errors before submitting it to potential employers.

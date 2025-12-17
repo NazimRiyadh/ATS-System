@@ -1,0 +1,65 @@
+Here's a professional resume for Noah Shannon:
+
+Noah Shannon
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [noah.shannon@email.com](mailto:noah.shannon@email.com)
+* Phone: 555-123-4567
+* LinkedIn: linkedin.com/in/noahshannonml
+* GitHub: github.com/noahshannonml
+
+Summary:
+Highly motivated and detail-oriented Machine Learning Engineer with 5+ years of experience developing and deploying machine learning models using Python and TensorFlow. Proven track record of successfully applying feature engineering and hyperparameter tuning techniques to improve model accuracy and efficiency. Skilled in collaborating with cross-functional teams to drive business outcomes through data-driven decision making.
+
+Technical Skills:
+
+* Programming languages: Python, R, SQL
+* Machine learning frameworks: TensorFlow, Keras, Scikit-learn
+* Data preprocessing and feature engineering: Pandas, NumPy, Matplotlib, Scikit-learn
+* Hyperparameter tuning and model selection: GridSearchCV, RandomizedSearchCV, Hyperopt
+* Data storage and management: MySQL, PostgreSQL, AWS S3
+* Operating Systems: Linux, Windows
+* Agile development methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Company (2020-Present)
+
+* Designed and developed multiple machine learning models using TensorFlow and Scikit-learn to improve customer segmentation and retention
+* Collaborated with data engineers to design and implement data pipelines using Apache Beam and AWS Glue
+* Applied feature engineering techniques to improve model accuracy, including data normalization, feature scaling, and dimensionality reduction
+* Conducted hyperparameter tuning using GridSearchCV and RandomizedSearchCV to optimize model performance
+* Deployed models to production using Docker and Kubernetes
+* Worked closely with business stakeholders to understand business requirements and develop data-driven solutions
+
+Machine Learning Engineer, DEF Startups (2018-2020)
+
+* Developed and deployed multiple machine learning models using Python and Scikit-learn to improve product recommendations and user engagement
+* Collaborated with data scientists to design and implement A/B testing and experimentation frameworks
+* Applied data visualization techniques to communicate insights and recommendations to non-technical stakeholders
+* Conducted hyperparameter tuning using Hyperopt to optimize model performance
+* Worked closely with product managers to understand business requirements and develop data-driven solutions
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2018)
+	+ Coursework: Machine Learning, Natural Language Processing, Computer Vision
+	+ Research: Developing deep learning models for image classification and object detection
+* Bachelor of Science in Computer Science, ABC University (2016)
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Machine Learning Engineer, TensorFlow Developer Certification (2020)
+
+Achievements:
+
+* Developed and deployed a machine learning model that improved customer retention by 25% for ABC Company
+* Improved model accuracy by 30% through feature engineering and hyperparameter tuning for DEF Startups
+* Published a research paper on deep learning for image classification and object detection at XYZ University
+* Presented at multiple industry conferences, including KDD and IJCAI
+
+References:
+Available upon request.

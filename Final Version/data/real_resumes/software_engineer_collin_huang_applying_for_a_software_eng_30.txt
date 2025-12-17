@@ -1,0 +1,57 @@
+here's a sample resume for collin huang applying for a software engineer position:
+
+collin huang
+contact information:
+
+* phone: (123) 456-7890
+* email: [collin.huang@email.com](mailto:collin.huang@email.com)
+* linkedin: linkedin.com/in/collinhuang
+* github: github.com/collinhuang
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in algorithms, data structures, and system design. proficient in a range of programming languages and experienced in developing scalable and efficient software solutions.
+
+technical skills:
+
+* programming languages: java, python, c++, javascript
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, dynamic programming, greedy algorithms, divide and conquer
+* system design: microservices architecture, load balancing, caching, database design
+* development tools: git, jenkins, docker, kubernetes
+* operating systems: windows, linux, macos
+
+work experience:
+
+software engineer, abc company (jan 2020 - present)
+
+* designed and developed scalable and efficient software solutions using java and python
+* implemented algorithms and data structures to optimize system performance and reduce latency
+* collaborated with cross-functional teams to design and implement system architecture
+* participated in code reviews and ensured high-quality codebase
+* deployed applications to production using docker and kubernetes
+
+software development intern, def company (summer 2019)
+
+* contributed to the development of a cloud-based application using python and flask
+* implemented data structures and algorithms to optimize system performance
+* worked with the qa team to identify and fix bugs
+* participated in code reviews and ensured high-quality codebase
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, database systems, software engineering
+
+projects:
+
+* project 1: developed a scalable and efficient web crawler using python and multi-threading
+* project 2: designed and implemented a caching system using java and redis
+* project 3: built a real-time data analysis platform using python, flask, and docker
+
+certifications/awards:
+
+* google code-in participant (2018)
+* certified java developer, oracle corporation (2019)
+
+references:
+available upon request.

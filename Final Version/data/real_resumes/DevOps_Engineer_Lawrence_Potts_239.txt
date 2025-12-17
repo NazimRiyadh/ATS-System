@@ -1,0 +1,58 @@
+Here's a sample resume for Lawrence Potts:
+
+Lawrence Potts
+Contact Information:
+
+* Email: [lpotts@email.com](mailto:lpotts@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/lawrencepotts
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in Kubernetes, Ansible, and Infrastructure as Code. Proven track record of designing and implementing scalable and efficient cloud-based infrastructure solutions. Skilled in monitoring tools, cloud platforms, and automation scripting. Passionate about DevOps practices and continuous improvement.
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a scalable Kubernetes cluster on AWS, resulting in a 30% reduction in deployment time and a 25% reduction in cost
+*Developed and maintained Ansible playbooks for infrastructure provisioning, application deployment, and continuous integration/continuous deployment (CI/CD)
+*Collaborated with development teams to implement Infrastructure as Code (IaC) using Terraform and Ansible, resulting in a 40% reduction in human error and a 20% reduction in deployment time
+* Implemented monitoring and logging tools (Prometheus, Grafana, ELK Stack) to provide real-time insights into system performance and application health
+* Worked closely with the operations team to ensure high availability and reliability of cloud-based infrastructure
+
+Senior Systems Administrator, DEF Corporation (2018-2020)
+
+* Managed and maintained a large-scale cloud infrastructure on Azure, including virtual machines, storage, and networking resources
+*Developed and implemented automation scripts using PowerShell and Python to streamline system administration tasks
+*Collaborated with the development team to implement a CI/CD pipeline using Jenkins and Docker, resulting in a 50% reduction in deployment time
+* Implemented monitoring and logging tools (New Relic, Splunk) to provide real-time insights into system performance and application health
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Expert (CAE)
+* Certified Cloud Practitioner (AWS)
+
+Skills:
+
+* Kubernetes (deployment, scaling, monitoring)
+* Ansible (playbooks, modules, automation)
+* Infrastructure as Code (Terraform, Ansible, CloudFormation)
+* Monitoring tools (Prometheus, Grafana, ELK Stack, New Relic, Splunk)
+* Cloud platforms (AWS, Azure, Google Cloud)
+* Automation scripting (Python, PowerShell, Bash)
+* Continuous integration/continuous deployment (CI/CD) pipelines
+* Agile methodologies (Scrum, Kanban)
+
+Achievements:
+
+* Designed and implemented a scalable cloud-based infrastructure for a large-scale e-commerce platform, resulting in a 25% reduction in cost and a 20% reduction in deployment time
+* Developed and maintained a set of Ansible playbooks for infrastructure provisioning and application deployment, resulting in a 40% reduction in human error and a 20% reduction in deployment time
+* Implemented a monitoring and logging toolset (Prometheus, Grafana, ELK Stack) to provide real-time insights into system performance and application health
+
+References:
+Available upon request.

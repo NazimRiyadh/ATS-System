@@ -1,0 +1,61 @@
+Here's a sample resume for Dawn Harper:
+
+Dawn Harper
+DevOps Engineer
+
+Contact Information:
+
+* Email: [dawn.harper@email.com](mailto:dawn.harper@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/dawnharperdevops
+* GitHub: github.com/dawnharper
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, containerization, orchestration, and cloud computing. Proven track record of delivering scalable and reliable infrastructure solutions to support high-traffic applications. Skilled in Docker, Kubernetes, Ansible, and various monitoring tools. Proficient in cloud platforms such as AWS, Azure, and GCP. Strong problem-solving skills and ability to work effectively in a team environment.
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Corporation (2020-Present)
+
+* Designed and implemented CI/CD pipelines using Jenkins and GitLab CI/CD to automate testing, building, and deployment of multiple microservices
+* Built and maintained Docker images and pushed them to a private Docker registry
+* Deployed and managed Kubernetes clusters on GCP and Azure, including configuration of network policies and service accounts
+* Utilized Ansible to automate the deployment of infrastructure as code (IaC) and configuration management
+* Implemented monitoring and logging tools such as Prometheus, Grafana, and ELK Stack to provide real-time insights into application performance
+* Collaborated with development teams to resolve infrastructure-related issues and improve overall system reliability
+
+DevOps Engineer, DEF Startups (2018-2020)
+
+* Built and maintained CI/CD pipelines using CircleCI and GitHub Actions to automate testing and deployment of a SaaS application
+* Deployed and managed Docker containers on AWS and Azure, including configuration of load balancers and auto-scaling groups
+* Utilized Ansible to automate the deployment of infrastructure as code (IaC) and configuration management
+* Implemented monitoring and logging tools such as New Relic and Splunk to provide real-time insights into application performance
+* Collaborated with development teams to resolve infrastructure-related issues and improve overall system reliability
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI, GitHub Actions
+* Containerization: Docker
+* Orchestration: Kubernetes
+* Infrastructure as Code: Ansible
+* Monitoring Tools: Prometheus, Grafana, ELK Stack, New Relic, Splunk
+* Cloud Platforms: AWS, Azure, GCP
+* Programming Languages: Python, Bash, SQL
+
+Certifications:
+
+* AWS Certified DevOps Engineer - Professional
+* Google Cloud Certified - Professional Cloud Developer
+* Docker Certified Associate
+
+Achievements:
+
+* Improved deployment time by 75% and reduced error rates by 50% through the implementation of CI/CD pipelines and automated testing
+* Successfully migrated a high-traffic application from on-premises infrastructure to a cloud-based infrastructure, resulting in a 90% reduction in costs
+* Developed and maintained a comprehensive monitoring and logging system that provided real-time insights into application performance, resulting in a 25% improvement in system reliability
+
+Note: This is just a sample resume, and you should tailor your own resume to your specific experience and the job you're applying for.

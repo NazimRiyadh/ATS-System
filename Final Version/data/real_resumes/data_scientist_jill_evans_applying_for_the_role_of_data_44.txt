@@ -1,0 +1,56 @@
+here's a sample resume for jill evans applying for the role of data scientist:
+
+jill evans
+contact information:
+
+* email: [jill.evans@email.com](mailto:jill.evans@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/jillevans
+* github: github.com/jillevans
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, machine learning, and deep learning. proven track record of delivering accurate and actionable insights to drive business growth. skilled in data visualization and storytelling to communicate complex ideas to both technical and non-technical stakeholders.
+
+technical skills:
+
+* programming languages: python (proficient), r (intermediate)
+* machine learning libraries: scikit-learn, tensorflow, pytorch
+* deep learning frameworks: keras, theano
+* data visualization tools: matplotlib, seaborn, plotly, tableau
+* statistics and math libraries: numpy, pandas, scipy, statsmodels
+* operating systems: windows, linux
+
+professional experience:
+
+data scientist, abc company (2018-present)
+
+* developed and deployed machine learning models to predict customer churn, resulting in a 25% reduction in customer loss
+* built and maintained large-scale data pipelines using apache beam and bigquery to process and analyze over 10 million records per day
+* collaborated with cross-functional teams to design and implement a/b testing experiments to optimize marketing campaigns, resulting in a 15% increase in conversion rates
+* created interactive dashboards using tableau to visualize key performance indicators (kpis) and communicate insights to stakeholders
+
+data analyst, def start-up (2015-2018)
+
+* collected and analyzed data from various sources, including social media, customer feedback, and sales data, to inform business decisions
+* built and maintained a predictive model using scikit-learn to forecast sales, resulting in a 10% reduction in forecast errors
+* developed and presented data visualizations to stakeholders to communicate insights and recommendations
+* assisted in the design and implementation of a data warehousing solution using amazon redshift
+
+education:
+
+* master of science in data science, xyz university (2015)
+* bachelor of science in mathematics, abc university (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2017)
+
+projects:
+
+* predicting stock prices using lstm networks: developed and deployed a deep learning model using pytorch to predict stock prices, achieving a 90% accuracy rate
+* customer segmentation using k-means clustering: built and visualized a customer segmentation model using scikit-learn and matplotlib to identify key customer segments and optimize marketing campaigns
+* exploratory data analysis of nyc crime data: performed exploratory data analysis on nyc crime data using python and pandas, identifying trends and insights that informed crime prevention strategies
+
+references:
+available upon request.

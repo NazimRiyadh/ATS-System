@@ -1,0 +1,53 @@
+ishaan kapoor
+
+contact information:
+
+* email: [ishaan.kapoor@email.com](mailto:ishaan.kapoor@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/ishaankapoor
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in developing and deploying machine learning models to drive business growth. proficient in python, statistics, machine learning, and data visualization. proven track record of delivering high-quality results and communicating insights to both technical and non-technical stakeholders.
+
+technical skills:
+
+* programming languages: python
+* data analysis and visualization: pandas, numpy, matplotlib, seaborn, tableau
+* machine learning: scikit-learn, tensorflow
+* deep learning: tensorflow, keras
+* data storage and retrieval: sql, nosql databases
+* a/b testing and statistical analysis: r, statsmodels
+* data science tools: jupyter notebook, anaconda, pycharm
+
+professional experience:
+
+data scientist, abc corporation (2018-present)
+
+* developed and deployed multiple machine learning models to predict customer churn and improve marketing campaigns, resulting in 25% reduction in churn rate and 15% increase in revenue
+* collaborated with cross-functional teams to integrate data science insights into business decisions, resulting in 20% increase in sales
+* designed and implemented a/b testing framework to measure the effectiveness of marketing campaigns, resulting in 30% increase in conversion rate
+* built and maintained dashboards to visualize key business metrics, resulting in 40% reduction in time spent on reporting
+
+data analyst, def startup (2015-2018)
+
+* collected and analyzed data to identify trends and insights, resulting in 20% increase in sales
+* developed and maintained databases to store and retrieve data, resulting in 30% reduction in data retrieval time
+* built and deployed predictive models to forecast sales, resulting in 15% reduction in forecasting errors
+
+education:
+
+* master of science in data science, xyz university (2015)
+	+ coursework: machine learning, deep learning, natural language processing, data visualization
+* bachelor of science in computer science, pqr university (2012-2015)
+
+achievements:
+
+* winner, data science hackathon (2020)
+	+ developed and deployed a machine learning model to predict stock prices, resulting in 20% increase in accuracy
+* finalist, machine learning competition (2019)
+	+ developed and deployed a deep learning model to predict customer churn, resulting in 25% reduction in churn rate
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified scikit-learn developer, scikit-learn team (2018)

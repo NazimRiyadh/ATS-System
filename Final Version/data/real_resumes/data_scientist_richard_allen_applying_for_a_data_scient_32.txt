@@ -1,0 +1,58 @@
+here's a sample resume for richard allen applying for a data scientist role:
+
+richard allen
+contact information:
+
+* email: [richard.allen@email.com](mailto:richard.allen@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/richardallen
+* github: github.com/richardallen
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in statistics, machine learning, and data visualization. proven track record of delivering insights-driven solutions to drive business growth. skilled in working with large datasets, developing predictive models, and communicating complex findings through storytelling.
+
+technical skills:
+
+* programming languages:
+	+ python (numpy, pandas, scikit-learn, tensorflow)
+	+ r (base r, dplyr, tidyr, caret)
+* data science tools:
+	+ sql (mysql, postgresql)
+	+ data visualization (tableau, power bi, matplotlib, seaborn)
+	+ machine learning (scikit-learn, tensorflow, pytorch)
+* statistics and modeling:
+	+ hypothesis testing (t-tests, anova)
+	+ regression analysis (linear, logistic, decision trees)
+	+ time series analysis (arima, prophet)
+* data management:
+	+ data cleaning and preprocessing
+	+ data visualization and storytelling
+
+professional experience:
+
+data scientist, xyz corporation (2018-present)
+
+* developed predictive models to forecast customer churn using machine learning algorithms (scikit-learn, tensorflow)
+* built data visualizations to communicate insights to stakeholders using tableau and power bi
+* collaborated with cross-functional teams to design and implement a/b testing experiments
+* worked with large datasets (100m+ rows) to identify trends and correlations using sql and python
+
+data analyst, abc startups (2015-2018)
+
+* conducted statistical analysis to identify growth opportunities using r and python
+* created data visualizations to communicate findings to stakeholders using matplotlib and seaborn
+* developed sql queries to extract insights from large datasets
+* collaborated with business stakeholders to design and implement data-driven solutions
+
+education:
+
+* master of science in statistics, university of california, berkeley (2015)
+* bachelor of science in mathematics, university of california, los angeles (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2017)
+
+references:
+available upon request.

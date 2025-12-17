@@ -1,0 +1,56 @@
+here's a sample resume for carla hernandez applying for a software engineer role:
+
+carla hernandez
+contact information:
+
+* email: [carlahernandez@email.com](mailto:carlahernandez@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/carlahernandez
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and testing software applications. skilled in java, python, and data structures, with a strong foundation in system design principles. proficient in collaborative development environments and passionate about delivering high-quality software solutions.
+
+technical skills:
+
+* programming languages: java, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: microservices architecture, restful apis, databases (relational and nosql)
+* development tools: eclipse, intellij idea, git, maven, jenkins
+* operating systems: windows, linux
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and implemented multiple features for a large-scale e-commerce platform using java and spring boot
+* collaborated with cross-functional teams to develop and deploy microservices-based architecture
+* utilized data structures and algorithms to optimize system performance and scalability
+* participated in code reviews and ensured adherence to coding standards and best practices
+* deployed applications to production environments using jenkins and docker
+
+software engineer, def startups (2015-2018)
+
+* developed and maintained multiple web applications using python and django
+* designed and implemented database schema for a cloud-based storage service
+* collaborated with the qa team to identify and resolve critical bugs
+* participated in code reviews and ensured adherence to coding standards and best practices
+* deployed applications to production environments using apache and nginx
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+projects:
+
+* personal project: developed a machine learning-based chatbot using python and tensorflow
+* open-source contribution: contributed to a java-based open-source project on github, which aimed to provide a framework for building scalable and fault-tolerant systems
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified python developer, python institute (2017)
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your specific experience and qualifications. also, make sure to proofread your resume multiple times for any grammar or formatting errors before submitting it to potential employers.

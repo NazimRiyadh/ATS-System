@@ -1,0 +1,52 @@
+Here's a sample resume for Srinivas:
+
+**Srinivas**
+**DevOps Engineer**
+
+**Contact Information:**
+
+* Email: [srinivas@email.com](mailto:srinivas@email.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/srinivasdevops
+
+**Objective:**
+To leverage my expertise in CI/CD pipelines, Kubernetes, and cloud platforms to drive automation, efficiency, and innovation in a dynamic DevOps environment.
+
+**Summary:**
+Highly motivated and experienced DevOps Engineer with 9 years of experience in designing, implementing, and managing scalable, reliable, and secure cloud-based systems. Proven track record of success in deploying CI/CD pipelines, containerizing applications, and ensuring seamless integration with Kubernetes. Skilled in cloud platforms, including AWS, Azure, and Google Cloud.
+
+**Technical Skills:**
+
+* **CI/CD Pipelines:** Jenkins, GitLab CI/CD, CircleCI, Docker
+* **Kubernetes:** Cluster creation, deployment, scaling, and management
+* **Cloud Platforms:** AWS, Azure, Google Cloud, OpenStack
+* **Containerization:** Docker, Kubernetes
+* **Scripting:** Bash, Python, PowerShell
+* **Version Control:** Git, SVN
+
+**Experience:**
+
+**Senior DevOps Engineer, ABC Corporation (2018-Present)**
+
+* Designed and implemented CI/CD pipelines using Jenkins and GitLab CI/CD, resulting in 30% reduction in deployment time
+* Deployed and managed Kubernetes clusters on AWS, Azure, and Google Cloud, ensuring seamless application deployment and scaling
+* Collaborated with development teams to containerize applications using Docker and Kubernetes
+* Developed and maintained automation scripts using Bash, Python, and PowerShell to streamline deployment and testing processes
+
+**DevOps Engineer, DEF Startups (2015-2018)**
+
+* Implemented CI/CD pipelines using CircleCI and Docker, resulting in 25% reduction in build time
+* Migrated legacy applications to cloud platforms, including AWS and Azure, ensuring scalability and reliability
+* Collaborated with development teams to design and implement containerized applications using Docker and Kubernetes
+* Developed and maintained version control systems using Git and SVN
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2008-2012)
+
+**Certifications:**
+
+* Certified Kubernetes Administrator (CKA)
+* Certified DevOps Engineer (CDE)
+
+I hope this sample resume helps! Remember to tailor it to the specific job description and requirements, and highlight your unique strengths and experiences.

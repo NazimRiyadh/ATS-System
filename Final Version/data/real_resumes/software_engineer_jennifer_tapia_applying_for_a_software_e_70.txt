@@ -1,0 +1,55 @@
+here's a sample resume for jennifer tapia applying for a software engineer role:
+
+jennifer tapia
+contact information:
+
+* email: [jennifer.tapia@email.com](mailto:jennifer.tapia@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/jennifertapia
+* github: github.com/jennifertapia
+
+summary:
+results-driven software engineer with a strong foundation in java, c++, algorithms, and data structures. proven track record of delivering high-quality software solutions and collaborating effectively with cross-functional teams to drive innovation. proficient in system design and development, with a passion for staying up-to-date with the latest technologies and trends.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, dynamic programming, recursion
+* system design: microservices architecture, api design, database schema design
+* development frameworks and tools: spring, hibernate, maven, git
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+software engineer, abc company (2018-present)
+
+* designed and developed multiple software features using java and spring framework
+* collaborated with the engineering team to implement agile methodologies and improve code quality
+* participated in code reviews and provided feedback to improve team members' code
+* contributed to the development of a cloud-based application using aws services
+* mentored junior engineers and provided guidance on software design and development best practices
+
+software development intern, def company (summer 2017)
+
+* assisted in the development of a mobile app using c++ and qt framework
+* participated in code reviews and provided feedback to improve team members' code
+* collaborated with the qa team to identify and fix defects
+* contributed to the development of a web application using python and flask framework
+
+education:
+
+* bachelor of science in computer science, xyz university (2018)
+
+projects:
+
+* sorting algorithm comparator: a java-based application that compares the performance of different sorting algorithms (2019)
+* chatbot using natural language processing: a python-based chatbot that uses nlp to understand user queries and provide responses (2020)
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified c++ professional, c++ institute (2020)
+
+references:
+available upon request.

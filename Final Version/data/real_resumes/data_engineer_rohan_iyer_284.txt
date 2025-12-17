@@ -1,0 +1,56 @@
+rohan iyer
+contact information:
+
+* email: [rohan.iyer@email.com](mailto:rohan.iyer@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/rohan-iyer
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data pipelines and architectures. skilled in python, sql, etl, airflow, spark, data modeling, aws, docker, kubernetes, and data warehousing. proficient in leveraging these technologies to drive business growth, improve data quality, and enhance customer experience.
+
+technical skills:
+
+* programming languages: python, sql
+* etl tools: airflow, apache beam
+* big data processing: apache spark, hadoop
+* data modeling: er diagrams, data warehouse design
+* cloud platforms: aws, aws glue
+* containerization: docker, kubernetes
+* data warehousing: aws redshift, snowflake
+
+professional experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* designed and developed large-scale data pipelines using airflow, spark, and aws glue to process 10 tb of data daily
+* developed and maintained a data warehouse on aws redshift, providing insights to business stakeholders
+* collaborated with cross-functional teams to identify business requirements and develop data-driven solutions
+* implemented docker and kubernetes for containerization and orchestration of data engineering workloads
+* mentored junior data engineers to improve team productivity and knowledge sharing
+
+data engineer, def startups (2018-2020)
+
+* built and maintained etl processes using python, sql, and apache beam to integrate data from various sources
+* designed and implemented data models using er diagrams and data warehouse design principles
+* developed and deployed data pipelines on aws using aws glue and apache spark
+* collaborated with data scientists to develop machine learning models using spark and python
+
+education:
+
+* master of science in computer science, xyz university (2016-2018)
+	+ coursework: data mining, machine learning, database systems, and data warehousing
+* bachelor of technology in computer science, pqr university (2012-2016)
+
+achievements:
+
+* successfully designed and implemented a data pipeline that increased data processing speed by 30% and reduced latency by 50%
+* developed a data warehouse that provided insights to business stakeholders, resulting in a 25% increase in sales revenue
+* published a research paper on "designing scalable data pipelines using airflow and spark" at a prestigious conference
+
+certifications:
+
+* certified data engineer, data science council of america (dasca)
+* certified aws developer - associate, amazon web services (aws)
+
+references:
+available upon request.

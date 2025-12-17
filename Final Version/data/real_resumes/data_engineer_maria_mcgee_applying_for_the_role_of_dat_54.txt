@@ -1,0 +1,60 @@
+here's a sample resume for maria mcgee applying for the role of data engineer:
+
+maria mcgee
+contact information:
+
+* email: [mmcghee@email.com](mailto:mmcghee@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/mariamcghee
+* github: github.com/mariamcghee
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying large-scale data pipelines using mlops, airflow, etl, big data, and cloud platforms. proven track record of success in delivering data-driven solutions to drive business growth and improve operational efficiency.
+
+technical skills:
+
+* mlops:
+	+ experience with model serving, model deployment, and model monitoring using tensorflow, pytorch, and scikit-learn
+	+ familiarity with mlops frameworks such as mlflow, amazon sagemaker, and google cloud ai platform
+* airflow:
+	+ proficient in designing, developing, and deploying complex data pipelines using apache airflow
+	+ experience with dags, tasks, and operators
+* etl:
+	+ strong understanding of extract, transform, load (etl) concepts and processes
+	+ experience with etl tools such as apache beam, apache nifi, and informatica powercenter
+* big data:
+	+ hands-on experience with hadoop, spark, and nosql databases such as hbase and cassandra
+	+ familiarity with data processing frameworks such as apache flink and apache storm
+* cloud platforms:
+	+ experience with cloud-based data platforms such as amazon web services (aws), microsoft azure, and google cloud platform (gcp)
+	+ familiarity with cloud-based data warehousing and analytics services such as amazon redshift and google bigquery
+
+professional experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* designed and developed large-scale data pipelines using mlops, airflow, and etl to process and analyze customer data
+* collaborated with cross-functional teams to deploy data-driven solutions that improved operational efficiency and drove business growth
+* implemented data quality checks and monitoring using apache airflow and apache beam
+
+data engineer, def startups (2018-2020)
+
+* developed and deployed data pipelines using hadoop, spark, and nosql databases to process and analyze customer data
+* worked with data scientists to integrate machine learning models into data pipelines using mlops frameworks
+* implemented data warehousing and analytics using amazon redshift and amazon quicksight
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+certifications:
+
+* aws certified data engineer (2019)
+* google cloud certified - professional data engineer (2020)
+
+projects:
+
+* mlops pipeline: developed and deployed a machine learning pipeline using tensorflow, pytorch, and scikit-learn, and integrated it with apache airflow for model monitoring and serving.
+* big data analytics: designed and developed a big data analytics pipeline using hadoop, spark, and nosql databases to process and analyze customer data, and implemented data quality checks and monitoring using apache beam.
+
+note: this is just a sample resume, and you should customize it to fit your specific experience and qualifications. also, make sure to proofread your resume multiple times for any errors or typos.

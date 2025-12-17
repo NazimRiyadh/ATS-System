@@ -1,0 +1,59 @@
+Here's a sample professional resume for Jonathan Frey:
+
+Jonathan Frey
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [jfrey@email.com](mailto:jfrey@email.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/jonathanfreyml
+
+Summary:
+Highly motivated and detail-oriented Machine Learning Engineer with 3+ years of experience in developing and deploying scalable machine learning models using Scikit-learn, TensorFlow, and PyTorch. Proven track record of improving model accuracy and reducing training time by 30% through innovative solutions and optimization techniques. Skilled in data preprocessing, model selection, and hyperparameter tuning. Strong passion for staying up-to-date with the latest advancements in the field and applying them to real-world problems.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine learning frameworks: Scikit-learn, TensorFlow, PyTorch
+* Data preprocessing: Pandas, NumPy
+* Data visualization: Matplotlib, Seaborn
+* Operating Systems: Linux, Windows
+* Agile development methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Corporation (2020-Present)
+
+* Developed and deployed multiple machine learning models using Scikit-learn and TensorFlow to improve predictive accuracy and reduce training time by 30%
+* Collaborated with cross-functional teams to integrate machine learning models into production pipelines
+* Conducted data preprocessing, feature engineering, and hyperparameter tuning to improve model performance
+* Implemented model monitoring and logging using TensorFlow's TensorBoard and PyTorch's TensorBoardX
+
+Machine Learning Intern, DEF Startups (Summer 2019)
+
+* Built and trained multiple machine learning models using PyTorch to classify images and predict customer churn
+* Implemented data preprocessing and feature engineering techniques to improve model performance
+* Collaborated with the development team to integrate machine learning models into the startup's product pipeline
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+	+ Coursework: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
+
+Achievements:
+
+* Winner, Machine Learning Hackathon, ABC Corporation (2020)
+	+ Developed and deployed a machine learning model using TensorFlow that improved predictive accuracy by 25% and reduced training time by 50%
+* Published Research Paper, DEF Startups (2020)
+	+ Co-authored a research paper on the application of PyTorch to image classification tasks
+
+Certifications:
+
+* Certified Machine Learning Engineer, Certified Machine Learning Engineer (CMLE) (2020)
+* Certified Scikit-learn Expert, Certified Scikit-learn Expert (CSE) (2019)
+
+References:
+Available upon request.
+
+I hope this sample resume helps you! Remember to customize your resume to fit your specific experience and the job you're applying for.

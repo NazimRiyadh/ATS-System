@@ -1,0 +1,56 @@
+here's a sample resume for steven sawyer applying for the role of data engineer:
+
+steven sawyer
+contact information:
+
+* email: [steven.sawyer@email.com](mailto:steven.sawyer@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/steven-sawyer
+* github: github.com/steven-sawyer
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, etl, and spark. proven track record of designing and implementing scalable data pipelines to drive business growth. strong understanding of data engineering best practices and passionate about leveraging data to drive informed decision-making.
+
+technical skills:
+
+* programming languages: python, scala
+* data engineering tools: apache airflow, apache spark, apache beam
+* data processing: etl, data warehousing, data governance
+* machine learning operations (mlops): model deployment, model serving, model monitoring
+* data storage: relational databases, nosql databases, cloud storage
+* operating systems: linux, windows
+* familiarity with cloud platforms: aws, gcp, azure
+
+professional experience:
+
+data engineer, abc company (2020-present)
+
+* designed and implemented scalable data pipelines using apache airflow, apache spark, and apache beam to support business growth and data-driven decision-making
+* developed and deployed machine learning models using mlops best practices to improve model accuracy and reduce latency
+* collaborated with data scientists to design and implement data pipelines to support model training and deployment
+* implemented data governance and data quality checks to ensure data accuracy and integrity
+* worked with cross-functional teams to identify and prioritize data engineering projects and deliverables
+
+data analyst, def startup (2018-2020)
+
+* designed and implemented etl processes using python and apache spark to extract, transform, and load data from various sources
+* developed data visualizations and reports using tableau and power bi to support business decision-making
+* collaborated with data scientists to design and implement data pipelines to support model training and deployment
+* worked with cross-functional teams to identify and prioritize data analysis projects and deliverables
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified data engineer, data science council of america (2020)
+* certified apache spark developer, apache software foundation (2019)
+
+personal projects:
+
+* developed a machine learning model using mlops best practices to predict stock prices using historical data
+* built a data pipeline using apache airflow to extract, transform, and load data from various sources
+* contributed to open-source projects on github, including a spark-based data processing framework
+
+i hope this sample resume helps! remember to customize your own resume to fit your specific experience and the job you're applying for.

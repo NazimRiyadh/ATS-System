@@ -1,0 +1,55 @@
+here's a sample resume for christopher morris applying for a data scientist role:
+
+christopher morris
+contact information:
+
+* email: [christopher.morris@email.com](mailto:christopher.morris@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/christophermorris
+* github: github.com/cmorris
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, deep learning, and data visualization. proven track record of successfully extracting insights from complex data sets and communicating findings to non-technical stakeholders. seeking a challenging role where i can apply my skills to drive business growth and innovation.
+
+technical skills:
+
+* programming languages: python (numpy, pandas, scikit-learn), r
+* deep learning frameworks: tensorflow, keras
+* data visualization tools: matplotlib, seaborn, plotly
+* database management: mysql, postgresql
+* operating systems: windows, linux, macos
+
+professional experience:
+
+data scientist, abc corporation (2018-present)
+
+* developed and deployed predictive models using python and deep learning techniques to forecast sales and optimize marketing campaigns
+* created data visualizations using matplotlib and seaborn to communicate insights to stakeholders, resulting in a 25% increase in sales
+* collaborated with cross-functional teams to integrate data-driven decision making into business processes
+* developed and maintained a large-scale data warehouse using mysql and python
+
+junior data analyst, def startups (2016-2018)
+
+* collected and analyzed large datasets using python and r to identify trends and opportunities for growth
+* built and maintained dashboards using tableau to track key performance indicators
+* worked with stakeholders to identify business needs and develop data-driven solutions
+* participated in data visualization competitions and won several awards
+
+education:
+
+* master of science in data science, university of california, berkeley (2016)
+* bachelor of science in computer science, stanford university (2014)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* image classification using deep learning: developed a convolutional neural network using keras to classify images into different categories, achieving an accuracy of 95%
+* time series forecasting: built a model using arima to forecast stock prices, resulting in a 10% reduction in mean absolute error
+* recommendation system: created a recommendatory system using collaborative filtering to suggest products to customers, resulting in a 20% increase in sales
+
+references:
+available upon request.

@@ -1,0 +1,54 @@
+aditya rao
+contact information:
+
+* email: [aditya.rao@email.com](mailto:aditya.rao@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/adityarao
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in machine learning, deep learning, and statistical analysis. proficient in python, sql, and data visualization tools. proven track record of delivering high-impact projects and driving business growth through data-driven insights.
+
+technical skills:
+
+* programming languages: python
+* machine learning libraries: scikit-learn, tensorflow
+* data visualization tools: matplotlib, seaborn, tableau
+* data analysis tools: pandas, numpy, sql
+* deep learning frameworks: tensorflow, keras
+* a/b testing and statistical analysis
+
+professional experience:
+
+data scientist, abc corporation (2018-present)
+
+* developed and deployed predictive models using scikit-learn and tensorflow to improve customer churn prediction and reduce customer acquisition costs by 20%
+* designed and implemented a/b testing framework using sql and python to test marketing campaign effectiveness and increase conversion rates by 15%
+* built and maintained data pipelines using sql and python to extract insights from large datasets and inform business decisions
+* collaborated with cross-functional teams to identify business opportunities and develop data-driven solutions
+* presented findings and recommendations to stakeholders, including senior leadership, to drive business growth and improve decision-making
+
+intern, def startup (summer 2017)
+
+* contributed to the development of a machine learning-based recommendation engine using scikit-learn and tensorflow, resulting in a 30% increase in user engagement
+* analyzed customer behavior and preferences using sql and python to inform product development and marketing strategies
+* presented project results and insights to the startup's founding team to inform product direction and investment decisions
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: machine learning, deep learning, statistical analysis, data visualization, and big data analytics
+	+ thesis: "applying machine learning to predict customer churn"
+* bachelor of science in computer science, abc university (2016)
+
+achievements:
+
+* won 1st prize in the xyz university data science competition for developing a predictive model using scikit-learn and tensorflow
+* published research paper on "deep learning for image classification" in the international journal of machine learning and applications
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified scikit-learn developer, scikit-learn foundation (2018)
+
+references:
+available upon request.

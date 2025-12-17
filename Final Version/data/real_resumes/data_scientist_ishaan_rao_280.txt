@@ -1,0 +1,57 @@
+ishaan rao
+contact information:
+
+* email: [ishaanrao@email.com](mailto:ishaanrao@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ishaanrao
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in analyzing and interpreting complex data sets to drive business decisions. proficient in a wide range of programming languages, including python, sql, and statistical tools. strong background in machine learning, deep learning, and data visualization. proven track record of delivering high-impact projects and driving business growth through data-driven insights.
+
+education:
+
+* master of science in data science, stanford university (2018-2020)
+	+ coursework: machine learning, deep learning, natural language processing, computer vision, and data mining
+* bachelor of science in computer science, indian institute of technology (2014-2018)
+	+ coursework: data structures, algorithms, computer systems, and database systems
+
+technical skills:
+
+* programming languages: python, sql, r
+* machine learning and deep learning frameworks: scikit-learn, tensorflow, keras
+* data visualization tools: matplotlib, seaborn, tableau
+* statistical analysis tools: pandas, numpy, scipy
+* database management: mysql, postgresql
+* operating systems: windows, linux, macos
+
+professional experience:
+
+data scientist, abc corporation (2020-present)
+
+* designed and developed predictive models using machine learning and deep learning algorithms to drive business growth
+* analyzed large datasets to identify trends and insights, and presented findings to stakeholders
+* collaborated with cross-functional teams to integrate data science into business decision-making
+* developed and maintained data pipelines using sql and python
+* built and deployed a/b testing frameworks to measure the impact of product changes
+
+data analyst, def startup (2018-2020)
+
+* collected and analyzed data from various sources, including databases, apis, and web scraping
+* created data visualizations using tableau and presented insights to stakeholders
+* developed statistical models using r and python to identify trends and patterns
+* collaborated with product teams to inform product development and launch decisions
+
+projects:
+
+* predicting customer churn: developed a machine learning model using scikit-learn and tensorflow to predict customer churn for a telecom company. achieved 90% accuracy and reduced churn rate by 20%
+* image classification: built a deep learning model using keras and tensorflow to classify images into different categories. achieved 95% accuracy and improved image classification accuracy by 30%
+* a/b testing framework: designed and developed an a/b testing framework using python and sql to measure the impact of product changes. achieved 25% increase in conversion rate and 15% increase in revenue
+
+achievements:
+
+* winner, data science competition: won first prize in a data science competition for predicting stock prices using machine learning algorithms
+* published research paper: published a research paper on deep learning for image classification in a top-tier conference
+* certified data scientist: certified data scientist with a professional certification from data science council of america (dasca)
+
+references:
+available upon request.

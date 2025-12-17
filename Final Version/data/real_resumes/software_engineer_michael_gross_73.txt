@@ -1,0 +1,57 @@
+here is a sample resume for michael gross applying for the role of software engineer:
+
+michael gross
+contact information:
+
+* email: [michael.gross@email.com](mailto:michael.gross@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/michaelgross
+* github: github.com/michaelgross
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and testing software applications. skilled in java, c++, and algorithms, with a strong passion for problem-solving and software development.
+
+technical skills:
+
+* programming languages: java, c++, python
+* development frameworks: spring, hibernate, boost
+* databases: mysql, postgresql, mongodb
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+* experience with continuous integration and continuous deployment (ci/cd) tools
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple software applications using java and c++ for various industries, including finance, healthcare, and e-commerce
+* collaborated with cross-functional teams to identify and prioritize project requirements and develop software solutions
+* implemented and tested algorithms for optimization and data analysis
+* participated in code reviews and ensured high-quality code standards
+* worked with devops team to deploy software applications to production environments
+
+software engineer, def startups (2015-2018)
+
+* developed multiple software prototypes using java and c++ for various startups, including financial services and e-commerce
+* created and maintained documentation for software applications, including user manuals and technical guides
+* participated in pair programming and code reviews to ensure high-quality code standards
+* collaborated with qa team to identify and resolve bugs and issues
+* worked with project managers to estimate and prioritize project requirements
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015)
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified c++ professional, c++ institute (2017)
+
+projects:
+
+* developed a machine learning algorithm using java and c++ for image classification and object detection
+* created a web application using java and spring for e-commerce platform
+* contributed to an open-source project using c++ and boost for data analysis and visualization
+
+references:
+available upon request.

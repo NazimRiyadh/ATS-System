@@ -1,0 +1,55 @@
+rohan chopra
+contact information:
+
+* phone: (555) 123-4567
+* email: [rohan.chopra@email.com](mailto:rohan.chopra@email.com)
+* linkedin: linkedin.com/in/rohanchopra
+
+summary:
+highly motivated and detail-oriented data scientist with a strong foundation in statistics, machine learning, and data visualization. proficient in python, sql, and various machine learning libraries including scikit-learn and tensorflow. proven experience in working with large datasets, designing and implementing a/b testing experiments, and analyzing complex data to inform business decisions.
+
+technical skills:
+
+* programming languages: python
+* machine learning libraries: scikit-learn, tensorflow
+* data visualization tools: matplotlib, seaborn, plotly
+* database management: sql, mysql
+* statistical analysis: hypothesis testing, confidence intervals, regression analysis
+* deep learning: convolutional neural networks, recurrent neural networks
+* a/b testing: designing and implementing experiments, analyzing results
+
+experience:
+
+data scientist, abc company (2020-present)
+
+* work with large datasets to identify trends, patterns, and correlations
+* design and implement a/b testing experiments to measure the impact of product features on user behavior
+* develop and deploy machine learning models using scikit-learn and tensorflow to predict customer churn and recommend products
+* collaborate with cross-functional teams to inform business decisions and drive product development
+* create data visualizations to communicate complex insights to stakeholders using matplotlib, seaborn, and plotly
+
+junior data analyst, def startups (2018-2020)
+
+* conducted statistical analysis to identify trends and patterns in customer behavior
+* built and maintained databases using sql to store and retrieve data
+* worked with a team to design and implement a/b testing experiments to measure the impact of marketing campaigns
+* developed and presented insights to stakeholders using data visualization tools
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: machine learning, deep learning, natural language processing, data visualization
+	+ thesis: "applying machine learning to predict customer churn"
+* bachelor of science in mathematics, abc university (2016)
+	+ coursework: probability, statistics, linear algebra, calculus
+
+achievements:
+
+* winner, abc company's hackathon (2020): developed and deployed a machine learning model to predict customer churn, resulting in a 15% reduction in churn rate
+* published research paper, xyz university (2018): "applying machine learning to predict customer churn" (accepted to journal of data science)
+* data science competition, def startups (2019): ranked top 3 in a data science competition, where teams were asked to predict product adoption using machine learning
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* python certification, python institute (2019)

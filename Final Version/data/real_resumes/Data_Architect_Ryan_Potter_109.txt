@@ -1,0 +1,74 @@
+Here's a professional resume for Ryan Potter:
+
+Ryan Potter
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [ryan.potter@email.com](mailto:ryan.potter@email.com)
+* LinkedIn: linkedin.com/in/ryanpottersed
+* Address: 123 Main St, Anytown, USA 12345
+
+Summary:
+Highly skilled Data Architect with 8+ years of experience in designing and implementing scalable, cloud-based data solutions. Proven expertise in data integration, ETL tools, and database design. Possesses a strong understanding of data architecture principles, data modeling, and data governance. Passionate about leveraging data to drive business growth and innovation.
+
+Professional Experience:
+
+Senior Data Architect, ABC Corporation (2018-Present)
+
+* Design and implement cloud-based data architectures for large-scale data integration and analytics projects
+* Lead cross-functional teams to develop and deploy data pipelines using ETL tools (e.g., Informatica, Talend) and data warehousing platforms (e.g., AWS Redshift, Google BigQuery)
+* Collaborate with stakeholders to define data governance policies and ensure data quality, security, and compliance
+* Develop and maintain data models, data dictionaries, and metadata management systems
+* Conduct data analytics and provide insights to drive business decisions and growth
+
+Data Integration Specialist, DEF Agency (2015-2018)
+
+* Designed and implemented data integration solutions using ETL tools (e.g., Informatica, Talend) and data mapping software (e.g., Microsoft SSIS)
+* Developed and maintained data pipelines for large-scale data integration projects
+* Collaborated with development teams to integrate data into web and mobile applications
+* Conducted data quality assurance and data validation testing
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Skills:
+
+* Cloud Data Solutions (AWS, GCP, Azure)
+* ETL Tools (Informatica, Talend, Microsoft SSIS)
+* Database Design (relational, NoSQL)
+* Data Modeling (entity-relationship, dimensional)
+* Data Governance (data quality, security, compliance)
+* Programming languages (Java, Python, SQL)
+* Agile methodologies (Scrum, Kanban)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Associate
+* Google Cloud Certified - Professional Data Engineer
+* Certified Data Scientist - Data Science Council of America (DASCA)
+
+Achievements:
+
+* Successfully designed and implemented a cloud-based data warehouse solution for a Fortune 500 company, resulting in a 30% reduction in data processing time and a 25% increase in data quality
+* Developed and deployed a data integration pipeline using Informatica PowerCenter, resulting in a 40% reduction in data latency and a 20% increase in data availability
+* Collaborated with a cross-functional team to design and implement a data governance framework, resulting in a 90% reduction in data quality issues and a 20% increase in data compliance
+
+Professional Affiliations:
+
+* International Association for Machine Learning and Artificial Intelligence (IAMAI)
+* Data Science Council of America (DASCA)
+* AWS User Group
+
+This structure includes:
+
+1. Contact information
+2. Summary/Professional summary
+3. Professional experience (reverse chronological order)
+4. Education
+5. Skills
+6. Certifications
+7. Achievements
+8. Professional affiliations
+
+This format provides a clear and concise overview of Ryan's experience, skills, and achievements, making it easy for hiring managers and recruiters to quickly assess his qualifications for the Data Architect role.

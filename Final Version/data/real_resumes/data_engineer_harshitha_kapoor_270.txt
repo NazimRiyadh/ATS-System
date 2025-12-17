@@ -1,0 +1,55 @@
+harshitha kapoor
+contact information:
+
+* email: [harshitha.kapoor@email.com](mailto:harshitha.kapoor@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/harshithakapoor
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying large-scale data systems. proven expertise in python, sql, etl, airflow, spark, and data modeling, with a strong foundation in cloud computing using aws, docker, and kubernetes. skilled in data warehousing and proficient in working with big data technologies.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: etl (extract, transform, load), airflow, spark
+* data modeling: data warehousing, data marts
+* cloud computing: aws (ec2, s3, lambda), docker, kubernetes
+* big data technologies: hadoop, hive, pig, impala
+* database management: mysql, postgresql, mongodb
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* designed and developed a scalable data pipeline using airflow, spark, and aws services to process 10 tb of data daily
+* collaborated with cross-functional teams to implement data modeling and etl processes, resulting in a 30% reduction in data processing time
+* built and deployed a dockerized spark application on kubernetes, achieving 4x reduction in cluster deployment time
+* implemented data warehousing solutions using amazon redshift and snowflake, improving data analytics by 25%
+
+data engineer, def startups (2018-2020)
+
+* developed and maintained etl processes using python, spark, and aws services to extract data from multiple sources
+* designed and implemented data models for data warehousing and data marts, improving data quality by 20%
+* collaborated with data scientists to develop predictive models using spark and python, resulting in a 15% increase in model accuracy
+* deployed a spark application on aws emr, reducing data processing time by 40%
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+* master of science in data science, pqr university (2019-2021)
+
+achievements:
+
+* winner of the abc corporation data science hackathon (2020)
+* published a research paper on "efficient data processing using spark and airflow" in the international journal of data science and analytics (2020)
+* completed the google cloud certified - professional data engineer certification (2020)
+
+certifications:
+
+* google cloud certified - professional data engineer (2020)
+* aws certified data engineer (2020)
+* certified scrum master (2019)
+
+references:
+available upon request.

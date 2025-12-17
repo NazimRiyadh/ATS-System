@@ -1,0 +1,65 @@
+Tracy Hernandez
+Contact Information:
+
+* Email: [tracy.hernandez@email.com](mailto:tracy.hernandez@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/tracyhernandez
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with expertise in designing, building, and maintaining large-scale data systems. Skilled in Big Data Frameworks, Data Pipelines, Databases, Cloud Platforms, and Python programming. Proficient in Data Warehousing and CI/CD Tools.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Spark
+	+ Apache Hadoop
+	+ Apache Flink
+* Data Pipelines:
+	+ Apache Beam
+	+ AWS Glue
+	+ Airflow
+* Databases:
+	+ MySQL
+	+ PostgreSQL
+	+ MongoDB
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud Platform (GCP)
+* Programming Languages:
+	+ Python
+	+ Java
+	+ Scala
+* Data Warehousing:
+	+ Amazon Redshift
+	+ Google BigQuery
+	+ Snowflake
+* CI/CD Tools:
+	+ Jenkins
+	+ GitLab
+	+ CircleCI
+
+Professional Experience:
+
+Data Engineer, ABC Company (20XX-20XX)
+
+* Designed and implemented large-scale data pipelines using Apache Beam and AWS Glue to process and analyze customer data
+* Developed and maintained a data warehouse on Amazon Redshift to support business intelligence and data science teams
+* Collaborated with cross-functional teams to design and implement data-driven solutions using Python, Java, and Scala
+* Implemented CI/CD pipeline using Jenkins and GitLab to automate deployment and testing of data engineering code
+
+Data Analyst, DEF Startups (20XX-20XX)
+
+* Built and maintained data pipelines using Apache Spark and Python to process and analyze customer data
+* Developed and maintained a database on MySQL to store and manage customer data
+* Collaborated with data science team to design and implement predictive models using machine learning algorithms
+* Presented insights and recommendations to stakeholders using data visualization tools
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (20XX-20XX)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (20XX)
+* Certified Scrum Master, Scrum Alliance (20XX)

@@ -1,0 +1,55 @@
+here's a sample resume for a data scientist candidate:
+
+george evans
+contact information:
+
+* email: [george.evans@email.com](mailto:george.evans@email.com)
+* phone: 555-123-4567
+* linkedin: linkedin.com/in/georgeevansds
+* github: github.com/georgeevansds
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, deep learning, sql, and data visualization. proven track record of delivering insights-driven solutions to business problems. skilled in extracting insights from large datasets and communicating complex findings to stakeholders.
+
+technical skills:
+
+* programming languages: python (including numpy, pandas, and scikit-learn), r
+* deep learning frameworks: tensorflow, keras
+* database management: sql (including mysql, postgresql), nosql (including mongodb)
+* data visualization: matplotlib, seaborn, plotly, tableau
+* machine learning: supervised and unsupervised learning, model evaluation and selection
+* tools: jupyter notebook, git, docker
+
+work experience:
+
+senior data scientist, abc company (2020-present)
+
+* led data science projects to drive business growth and improve operational efficiency
+* developed and deployed predictive models using python and tensorflow to forecast sales and customer churn
+* collaborated with cross-functional teams to integrate data science insights into business strategy
+* built and maintained complex data pipelines using sql and apache beam
+* created interactive visualizations using tableau to communicate findings to stakeholders
+
+data analyst, def startups (2018-2020)
+
+* analyzed large datasets to identify trends and patterns using python and sql
+* developed and maintained data dashboards using matplotlib and plotly to track key performance indicators
+* worked with stakeholders to identify business problems and develop data-driven solutions
+* conducted a/b testing and experimentation using r and python to inform business decisions
+
+education:
+
+* master of science in data science, xyz university (2018)
+* bachelor of science in computer science, abc university (2016)
+
+projects:
+
+* deep learning for image classification: built a convolutional neural network using tensorflow and keras to classify images of products. achieved 90% accuracy on a test dataset.
+* predictive modeling for customer churn: developed a supervised learning model using python and scikit-learn to predict customer churn. achieved 85% accuracy on a test dataset.
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+i hope this sample resume helps you! remember to customize your resume to the specific job you're applying for, and don't hesitate to reach out if you have any questions or need further assistance.

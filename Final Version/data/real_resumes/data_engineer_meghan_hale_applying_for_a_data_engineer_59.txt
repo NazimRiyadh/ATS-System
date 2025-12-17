@@ -1,0 +1,49 @@
+here's a sample resume for meghan hale applying for a data engineer role:
+
+meghan hale
+contact information:
+
+* email: [mhale@email.com](mailto:mhale@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/meghanhale
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience designing and implementing scalable data architectures on cloud platforms. skilled in etl (extract, transform, load) processes, data warehousing, and data integration using airflow and spark. proficient in cloud-based technologies and passionate about leveraging data to drive business insights.
+
+technical skills:
+
+* airflow: experienced in designing, developing, and deploying complex workflows using apache airflow, including dags, operators, and sensors.
+* etl: proven expertise in etl processes, including data extraction, transformation, and loading using various tools and technologies.
+* cloud platforms: proficient in cloud-based technologies, including amazon web services (aws), microsoft azure, and google cloud platform (gcp).
+* spark: skilled in apache spark, including spark sql, dataframes, and datasets.
+* programming languages: proficient in python, java, and sql.
+* data warehousing: experienced in designing and implementing data warehouses using data warehousing tools and technologies.
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* designed and implemented scalable data architectures on cloud platforms using airflow, spark, and other technologies.
+* developed and deployed complex etl processes to extract, transform, and load data from various sources.
+* collaborated with cross-functional teams to design and implement data warehousing solutions using cloud-based data warehousing tools.
+* implemented data governance and security measures to ensure data quality and compliance.
+
+data analyst, def company (2015-2018)
+
+* analyzed and interpreted large datasets to identify trends and insights.
+* developed and maintained databases using sql and other data management tools.
+* created data visualizations and reports using various tools and technologies.
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015)
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified cloud practitioner, aws (2018)
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your specific experiences and the job you're applying for. also, be sure to proofread your resume multiple times for any errors or typos.

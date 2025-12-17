@@ -1,0 +1,60 @@
+Here's a professional resume for Gregory Hanson:
+
+Gregory Hanson
+Contact Information:
+
+* Email: [gregory.hanson@email.com](mailto:gregory.hanson@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/gregoryhanson
+
+Summary:
+Highly motivated and experienced data engineer with a strong background in MLOps, Airflow, Big Data, Cloud Platforms, Spark, and Data Warehousing. Proven track record of designing, developing, and deploying large-scale data pipelines and architectures that drive business insights and growth. Skilled in leveraging cutting-edge technologies to streamline data processing, improve data quality, and enhance business decision-making.
+
+Technical Skills:
+
+* Programming languages: Python, Scala, Java
+* Big Data technologies: Hadoop, Spark, Hive
+* Cloud Platforms: AWS, GCP, Azure
+* Data Warehousing: AWS Redshift, Google BigQuery
+* MLOps: TensorFlow, PyTorch, Scikit-learn
+* Workflow management: Apache Airflow
+* Data integration: Apache NiFi, AWS Glue
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed, developed, and deployed large-scale data pipelines using Apache Airflow, Spark, and Hadoop to process petabytes of customer data
+* Built and maintained data warehouses on AWS Redshift and Google BigQuery, providing real-time insights to business stakeholders
+* Collaborated with cross-functional teams to integrate data from various sources, including social media, IoT devices, and mobile apps
+* Developed and deployed machine learning models using TensorFlow and PyTorch to predict customer churn and improve marketing campaigns
+* Improved data quality by implementing data validation, data cleansing, and data transformation techniques
+* Mentored junior engineers and contributed to the development of the company's data engineering best practices
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented data pipelines using Apache NiFi and AWS Glue to process large datasets from social media and IoT sources
+* Built and deployed data warehouses on AWS Redshift and Google BigQuery, providing data insights to business stakeholders
+* Collaborated with data scientists to develop and deploy machine learning models using Scikit-learn and Apache Spark
+* Implemented data governance and data security measures to ensure compliance with regulatory requirements
+* Participated in the development of the company's data architecture and data engineering best practices
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* AWS Certified Data Engineer: Passed the AWS Certified Data Engineer exam to demonstrate expertise in designing, building, and managing data stores on AWS
+* Apache Spark Certified Developer: Passed the Apache Spark Certified Developer exam to demonstrate expertise in developing applications using Apache Spark
+* Published Research Paper: Published a research paper on "Big Data Processing using Apache Spark and Hadoop" in a leading international conference on Big Data and Data Science
+
+Certifications:
+
+* AWS Certified Data Engineer
+* Apache Spark Certified Developer
+* Certified Scrum Master (CSM)
+
+References:
+Available upon request.

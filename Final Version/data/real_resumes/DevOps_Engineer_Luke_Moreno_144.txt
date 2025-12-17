@@ -1,0 +1,65 @@
+Here's a sample professional resume for Luke Moreno, a DevOps Engineer candidate:
+
+Luke Moreno
+Contact Information:
+
+* Phone: (555) 555-5555
+* Email: [lmoreno@email.com](mailto:lmoreno@email.com)
+* LinkedIn: linkedin.com/in/lmoreno
+* GitHub: github.com/lmoreno
+
+Professional Summary:
+
+Highly motivated and detail-oriented DevOps Engineer with 5+ years of experience in designing, implementing, and maintaining scalable and efficient cloud-based systems. Skilled in Docker, Ansible, and various monitoring tools, with a strong background in cloud platforms (AWS, Azure, Google Cloud). Proven track record of improving system reliability, reducing downtime, and increasing team productivity.
+
+Technical Skills:
+
+* Docker
+* Ansible
+* Monitoring Tools (Prometheus, Grafana, New Relic)
+* Cloud Platforms (AWS, Azure, Google Cloud)
+* Containerization (Kubernetes, Docker Swarm)
+* Automation (Python, Bash)
+* Version Control (Git)
+* Agile Methodologies (Scrum, Kanban)
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2018-Present)
+
+* Design and implement scalable and efficient cloud-based systems using Docker, Ansible, and Kubernetes
+* Develop and maintain monitoring tools (Prometheus, Grafana, New Relic) to ensure system reliability and performance
+* Collaborate with development teams to improve system deployment and scaling processes
+* Improve system reliability by implementing automated testing and deployment scripts
+* Participate in on-call rotations to ensure system uptime and respond to incidents
+
+Senior System Administrator, DEF Company (2015-2018)
+
+* Managed and maintained large-scale cloud-based systems using AWS, Azure, and Google Cloud
+* Implemented automated deployment and scaling scripts using Ansible and Docker
+* Developed and maintained monitoring tools (Prometheus, Grafana, New Relic) to ensure system reliability and performance
+* Collaborated with development teams to improve system deployment and scaling processes
+* Improved system reliability by implementing automated testing and deployment scripts
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Achievements:
+
+* Improved system uptime by 99% by implementing automated testing and deployment scripts
+* Reduced deployment time by 90% by implementing automated deployment scripts using Ansible and Docker
+* Improved system reliability by implementing monitoring tools (Prometheus, Grafana, New Relic)
+* Collaborated with development teams to improve system deployment and scaling processes, resulting in 25% increase in team productivity
+
+Certifications:
+
+* AWS Certified Solutions Architect - Associate
+* Azure Certified Solutions Architect
+* Google Cloud Certified - Professional Cloud Developer
+
+References:
+
+Available upon request.
+
+This is just a sample, and you should customize your resume to fit your specific experience and the job you're applying for.

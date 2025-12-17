@@ -1,0 +1,62 @@
+Here's a sample resume for Michele Gordon:
+
+Michele Gordon
+System Administrator
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [mgordon@email.com](mailto:mgordon@email.com)
+* LinkedIn: linkedin.com/in/michelegordon
+
+Professional Summary:
+Highly skilled and experienced System Administrator with 8+ years of expertise in Linux/Unix, Active Directory, and System Monitoring. Proven track record of delivering high-quality IT services, improving system reliability, and reducing downtime. Possess excellent problem-solving skills, strong communication abilities, and a passion for staying up-to-date with the latest technologies.
+
+Technical Skills:
+
+* Operating Systems: Linux (Red Hat, Ubuntu), Unix (Solaris, AIX), Windows Server
+* Active Directory: Design, implementation, and administration
+* System Monitoring: Nagios, Prometheus, Grafana
+* Scripting: Bash, Python, PowerShell
+* Networking: TCP/IP, DNS, DHCP
+* Security: Access control, authentication, and authorization
+* Cloud Computing: Amazon Web Services (AWS), Microsoft Azure
+
+Professional Experience:
+
+Senior System Administrator, XYZ Corporation (2018-Present)
+
+* Design, implement, and maintain Linux/Unix and Windows Server environments for 5,000+ users
+* Administer Active Directory for 10,000+ users, including group policy management and user account management
+* Develop and implement system monitoring scripts using Nagios, Prometheus, and Grafana
+* Troubleshoot complex system issues, including network, storage, and application problems
+* Collaborate with development teams to ensure smooth deployment of new applications
+* Provide training and support to junior administrators
+
+System Administrator, ABC Inc. (2015-2018)
+
+* Managed and maintained Linux/Unix and Windows Server environments for 1,000+ users
+* Administered Active Directory for 5,000+ users, including group policy management and user account management
+* Developed and implemented system monitoring scripts using Nagios and Prometheus
+* Troubleshoot complex system issues, including network, storage, and application problems
+* Collaborated with development teams to ensure smooth deployment of new applications
+
+Education:
+
+* Bachelor of Science in Computer Science, University of [X] (2010-2014)
+* Certifications:
+	+ CompTIA Linux+/LPIC-1
+	+ CompTIA Server+/SK0-004
+	+ Microsoft Certified: Windows Server 2012 R2
+
+Achievements:
+
+* Successfully migrated 5,000+ users from Active Directory 2008 to 2012, resulting in a 30% reduction in system downtime
+* Developed and implemented a system monitoring script using Nagios, which reduced mean time to detect (MTTD) issues by 50%
+* Collaborated with development teams to deploy a new HPC cluster, resulting in a 25% reduction in processing time
+* Implemented a centralized logging solution using ELK Stack, resulting in a 90% reduction in log file sizes
+
+References:
+Available upon request.
+
+This is just a sample, and you may want to customize it to fit your specific experience and style. Remember to proofread carefully and tailor your resume to the specific job you're applying for.

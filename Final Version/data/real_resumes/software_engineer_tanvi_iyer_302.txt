@@ -1,0 +1,61 @@
+tanvi iyer
+software engineer
+
+contact information:
+
+* email: [tanvi.eyer@email.com](mailto:tanvi.eyer@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/tanvi-iyer
+
+summary:
+highly motivated and detail-oriented software engineer with 4+ years of experience in designing, developing, and deploying scalable and efficient software systems. proficient in a range of programming languages, including java, python, and javascript, with expertise in system design, algorithms, and data structures. strong understanding of rest apis, git, ci/cd, and microservices architecture. possesses excellent problem-solving skills and a passion for learning and growth.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design and architecture
+* algorithms and data structures
+* rest apis
+* git
+* ci/cd pipelines
+* microservices architecture
+* cloud platforms (aws, azure)
+* agile methodologies (scrum, kanban)
+
+professional experience:
+
+software engineer, abc corporation (2020-present)
+
+* designed and developed multiple software systems using java and python, with a focus on scalability, reliability, and maintainability
+* collaborated with cross-functional teams to deliver high-quality software products, including apis, microservices, and web applications
+* implemented rest apis using spring boot and python flask, with a focus on efficiency and performance
+* utilized git for version control and implemented ci/cd pipelines using jenkins and docker
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+software engineer, def startups (2018-2020)
+
+* developed multiple web applications using javascript, html/css, and react, with a focus on user experience and performance
+* worked on system design and architecture, including database design and scalability considerations
+* implemented algorithms and data structures to optimize system performance and efficiency
+* collaborated with the devops team to implement ci/cd pipelines and ensure smooth deployment of software systems
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+	+ final year project: designed and developed a real-time chat application using python, flask, and socket.io
+
+achievements:
+
+* hackathon winner, abc hackathon (2020)
+	+ developed a machine learning-based chatbot using python, tensorflow, and flask, which won first prize in the hackathon
+* best paper award, def conference (2019)
+	+ presented a research paper on "optimizing system performance using algorithms and data structures" at the def conference, which received the best paper award
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified python programmer, python institute (2020)
+
+references:
+available upon request.

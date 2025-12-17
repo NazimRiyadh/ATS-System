@@ -1,0 +1,57 @@
+mira sharma
+software engineer
+
+contact information:
+
+* email: [mira.sharma@email.com](mailto:mira.sharma@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/mirasharma
+
+summary:
+highly motivated and detail-oriented software engineer with a strong background in java, python, and javascript. proven expertise in system design, algorithms, data structures, rest apis, and microservices. proficient in git, ci/cd, and containerization. possess excellent problem-solving skills and a passion for delivering high-quality software solutions.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, event-driven architecture, scalability, and fault tolerance
+* algorithms and data structures: sorting, searching, graph algorithms, and database querying
+* rest apis: design, implementation, and testing
+* git: version control, branching, and merging
+* ci/cd: jenkins, docker, kubernetes
+* microservices: containerization, service discovery, and load balancing
+
+professional experience:
+
+software engineer, abc corporation (2020-present)
+
+* designed and developed multiple microservices using java and python, utilizing rest apis and containerization
+* collaborated with cross-functional teams to develop and deploy scalable and fault-tolerant systems
+* implemented ci/cd pipelines using jenkins, docker, and kubernetes
+* participated in code reviews and ensured adherence to coding standards
+* contributed to the development of a cloud-based e-commerce platform using microservices architecture
+
+junior software engineer, def startups (2018-2020)
+
+* developed multiple features for a web application using javascript and python
+* implemented rest apis using node.js and express.js
+* worked on a team to design and develop a scalable and fault-tolerant system
+* participated in code reviews and ensured adherence to coding standards
+* contributed to the development of a machine learning model using python and scikit-learn
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: algorithms, data structures, computer networks, database systems, and software engineering
+
+achievements:
+
+* winner, hackathon xyz (2019): developed a machine learning-based chatbot using python and scikit-learn, which won the top prize in the hackathon
+* published research paper, international journal of computer science and engineering (2020): authored a research paper on "designing scalable systems using microservices architecture," which was published in an international journal
+
+certifications:
+
+* certified java developer, oracle corporation (2020)
+* certified python developer, python institute (2019)
+
+references:
+available upon request.

@@ -1,0 +1,57 @@
+Here's a sample resume for Erin Morse, a DevOps Engineer candidate:
+
+Erin Morse
+DevOps Engineer
+
+Contact Information:
+
+* Email: [erin.morse@email.com](mailto:erin.morse@email.com)
+* Phone: (555) 555-5555
+* LinkedIn: linkedin.com/in/erinmorse
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Kubernetes, Ansible, and Infrastructure as Code. Skilled in designing and implementing scalable and efficient cloud-based infrastructure. Proven track record of delivering high-quality solutions that meet business needs and improve operational efficiency.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Ansible, Terraform
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, GCP, Azure
+* Operating Systems: Linux, Windows
+* Programming Languages: Python, Bash, PowerShell
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Company (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins, Docker, and Kubernetes to improve deployment efficiency and reduce deployment time by 50%
+* Created and maintained infrastructure as code using Ansible and Terraform to automate infrastructure provisioning and configuration
+* Implemented monitoring tools such as Prometheus, Grafana, and New Relic to improve visibility into application performance and identify issues proactively
+* Collaborated with development teams to identify and resolve infrastructure-related issues, resulting in a 30% reduction in incident resolution time
+
+DevOps Engineer, DEF Startups (2015-2018)
+
+* Built and maintained a cloud-based infrastructure using AWS and GCP, resulting in a 25% reduction in costs and a 20% increase in scalability
+* Developed and implemented a monitoring and logging strategy using ELK Stack and Prometheus, resulting in a 40% reduction in mean time to detect (MTTD) and mean time to resolve (MTTR)
+* Collaborated with development teams to design and implement a CI/CD pipeline using Jenkins and GitLab CI/CD, resulting in a 30% reduction in deployment time
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified DevOps Engineer, DevOps Institute (2019)
+* Certified Cloud Practitioner - AWS, AWS (2018)
+
+Achievements:
+
+* Winner of the "Best DevOps Solution" award at the 2020 DevOps Conference for the implementation of a CI/CD pipeline using Jenkins, Docker, and Kubernetes
+* Featured speaker at the 2019 DevOps Conference on the topic of "Designing and Implementing Scalable Cloud-Based Infrastructure"
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your own resume to fit your specific experience and the job you're applying for.

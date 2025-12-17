@@ -1,0 +1,58 @@
+kabir singh
+data engineer
+
+contact information:
+
+* email: [kabirsingh@email.com](mailto:kabirsingh@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/kabirsingh
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying large-scale data processing systems. proficient in various technologies including python, sql, etl, airflow, spark, data modeling, aws, docker, and kubernetes. proven track record of delivering high-quality data solutions that meet business requirements.
+
+technical skills:
+
+* programming languages: python, sql
+* data processing: etl, airflow, spark
+* data modeling: design and implementation of data models using entity-relationship diagrams and data warehouses
+* cloud platforms: aws (s3, glacier, emr, redshift)
+* containerization: docker
+* orchestration: kubernetes
+* data warehousing: design and implementation of data warehouses using amazon redshift and snowflake
+* operating systems: linux (ubuntu, red hat)
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and developed a data pipeline using airflow, spark, and aws to process 10tb of data daily
+* implemented a data warehouse using amazon redshift to support business intelligence and analytics
+* collaborated with cross-functional teams to design and implement data models and etl processes
+* mentored junior engineers on data engineering best practices and technologies
+
+data engineer, def start-up (2015-2018)
+
+* developed and deployed etl processes using python, sql, and aws to process 1tb of data daily
+* designed and implemented a data warehouse using amazon redshift to support business intelligence and analytics
+* collaborated with the engineering team to design and implement data models and data processing systems
+
+education:
+
+* master of science in computer science, xyz university (2015)
+	+ coursework: data mining, database systems, operating systems, and computer networks
+* bachelor of technology in computer science, pqr university (2013)
+	+ coursework: data structures, algorithms, computer organization, and web development
+
+achievements:
+
+* successfully designed and deployed a data pipeline that reduced data processing time by 50%
+* improved data quality by 30% through the implementation of data validation and data cleaning processes
+* received the "engineering excellence award" for designing and implementing a highly scalable data processing system
+
+certifications:
+
+* certified data engineer, data science council of america (dasca)
+* certified aws developer, amazon web services
+
+references:
+available upon request.

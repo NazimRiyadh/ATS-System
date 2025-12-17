@@ -1,0 +1,50 @@
+Here's a professional resume for Yash:
+
+**Yash**
+**DevOps Engineer**
+
+**Contact Information:**
+
+* Phone: (123) 456-7890
+* Email: [yash@email.com](mailto:yash@email.com)
+* LinkedIn: linkedin.com/in/yashdevops
+
+**Objective:**
+To leverage my expertise in CI/CD pipelines, Kubernetes, and containerization to drive efficiency, scalability, and innovation as a DevOps Engineer in a dynamic and forward-thinking organization.
+
+**Summary:**
+Highly motivated and detail-oriented DevOps Engineer with 1 year of experience in designing, implementing, and maintaining scalable and automated infrastructure solutions. Proficient in CI/CD pipelines, Kubernetes, and containerization, with a strong passion for streamlining processes and ensuring high-quality delivery.
+
+**Technical Skills:**
+
+* **CI/CD Pipelines:** Jenkins, GitLab CI/CD, CircleCI
+* **Kubernetes:** Kubernetes cluster administration, deployment, scaling, and monitoring
+* **Containerization:** Docker, container orchestration, and image management
+* **Cloud Platforms:** AWS, Google Cloud, Azure
+* **Programming Languages:** Python, Bash, Java
+* **Operating Systems:** Linux, Windows
+* **Agile Methodologies:** Scrum, Kanban
+
+**Experience:**
+
+**DevOps Engineer, ABC Company (2022-Present)**
+
+* Designed, implemented, and maintained CI/CD pipelines using Jenkins and GitLab CI/CD to automate deployment and testing of applications
+* Configured and managed Kubernetes clusters for container orchestration and deployment of microservices
+* Utilized Docker for containerization and image management, ensuring efficient and scalable application delivery
+* Collaborated with cross-functional teams to identify and resolve infrastructure and application issues
+* Implemented monitoring and logging tools to ensure high visibility and uptime of applications
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2021)
+
+**Certifications:**
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Jenkins Engineer (CJE)
+
+**References:**
+Available upon request.
+
+Note: The experience summary and technical skills section are tailored to the role of DevOps Engineer, highlighting Yash's expertise in CI/CD pipelines, Kubernetes, and containerization. The objective and summary provide a clear and concise overview of Yash's career goals and experience.

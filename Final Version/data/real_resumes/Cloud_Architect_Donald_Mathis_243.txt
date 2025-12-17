@@ -1,0 +1,54 @@
+Here's a sample resume for Donald Mathis, a candidate applying for the role of Cloud Architect:
+
+Donald Mathis
+Cloud Architect & Security Expert
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [donald.mathis@email.com](mailto:donald.mathis@email.com)
+* LinkedIn: linkedin.com/in/donaldmathis
+* GitHub: github.com/donaldmathis
+
+Professional Summary:
+
+Highly experienced Cloud Architect with expertise in designing and deploying scalable, secure, and efficient cloud infrastructure on AWS and GCP. Proven track record of delivering complex cloud projects on time and within budget. Strong background in cloud security, compliance, and risk management. Possess excellent communication and leadership skills, with experience in guiding cross-functional teams and driving business outcomes.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, GCP, Azure
+* Cloud Security: IAM, Access Control, Encryption, Key Management, Compliance (PCI-DSS, HIPAA, GDPR)
+* Cloud Computing: IaaS, PaaS, SaaS, Serverless Computing
+* Programming Languages: Python, Java, C++, Bash
+* DevOps Tools: Terraform, Ansible, Jenkins, Docker
+* Monitoring and Logging: CloudWatch, Stackdriver, Prometheus, ELK Stack
+
+Achievements:
+
+* Cloud Security Lead, ABC Corporation (2018-Present)
+	+ Designed and implemented a cloud security architecture for a global e-commerce company, resulting in a 30% reduction in security risks and a 25% decrease in compliance costs.
+	+ Developed and deployed a cloud-based intrusion detection system using AWS and GCP, detecting and preventing 90% of cyber threats.
+	+ Led a team of 5 engineers to migrate a legacy on-premises application to the cloud, reducing downtime by 50% and improving scalability by 200%.
+* Cloud Architect, DEF Startups (2015-2018)
+	+ Designed and deployed cloud infrastructure for 5 startups, resulting in a 30% increase in website performance and a 25% reduction in costs.
+	+ Developed and implemented a cloud-based analytics platform using GCP and BigQuery, resulting in a 50% increase in data insights for clients.
+	+ Collaborated with cross-functional teams to develop a cloud-based application using AWS and AWS Lambda, reducing deployment time by 80%.
+* Cloud Security Consultant, GHI Consulting (2012-2015)
+	+ Conducted cloud security assessments for 10 clients, identifying and mitigating security risks resulting in a 25% reduction in security breaches.
+	+ Developed and delivered cloud security training programs for clients, improving their cloud security knowledge and skills by 30%.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2008-2012)
+* Certifications: AWS Certified Solutions Architect - Professional, GCP Certified Professional Cloud Developer, CompTIA Security+
+
+Professional Memberships:
+
+* AWS User Group
+* GCP User Group
+* Cloud Security Alliance
+* IEEE Computer Society
+
+References:
+
+Available upon request.

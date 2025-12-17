@@ -1,0 +1,55 @@
+aditya bansal
+contact information:
+
+* email: [aditya.bansal@email.com](mailto:aditya.bansal@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/adityabansal
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in developing and deploying machine learning models to drive business growth. proficient in python, statistics, machine learning, sql, deep learning, data visualization, a/b testing, and statistical analysis.
+
+technical skills:
+
+* programming languages: python
+* data analysis and visualization: scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn
+* machine learning: supervised and unsupervised learning, regression, classification, clustering
+* deep learning: convolutional neural networks, recurrent neural networks, long short-term memory networks
+* database management: sql
+* data visualization: tableau, power bi
+* a/b testing: google optimize, vwo
+* statistical analysis: hypothesis testing, confidence intervals, regression analysis
+
+professional experience:
+
+data scientist, abc corporation (2020 - present)
+
+* developed and deployed machine learning models to predict customer churn, leading to a 25% reduction in churn rate
+* collaborated with cross-functional teams to design and implement a/b tests, resulting in a 15% increase in conversion rates
+* built and maintained a data warehouse using sql, providing insights to business stakeholders
+* utilized scikit-learn and tensorflow to develop predictive models for demand forecasting and inventory optimization
+
+data analyst, def startups (2018 - 2020)
+
+* analyzed customer data to identify trends and patterns, informing business decisions
+* developed and maintained data visualizations using tableau and power bi
+* assisted in the development of a/b tests and experiments to measure the impact of product changes on user behavior
+* conducted statistical analysis to identify areas for improvement in customer acquisition and retention
+
+education:
+
+* master of science in data science, university of california, berkeley (2018)
+	+ coursework: machine learning, data visualization, statistical computing, and data mining
+* bachelor of technology in computer science, indian institute of technology, delhi (2016)
+	+ coursework: algorithms, data structures, computer systems, and database management
+
+achievements:
+
+* winner, kaggle competition: predicting customer churn (2020)
+	+ developed a machine learning model using scikit-learn and tensorflow that outperformed the competition by 10%
+* published research paper: "a comparative study of machine learning algorithms for demand forecasting" (2019)
+	+ presented research findings at the international conference on machine learning and applications
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)

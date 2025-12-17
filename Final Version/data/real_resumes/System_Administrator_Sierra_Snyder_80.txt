@@ -1,0 +1,60 @@
+Here's a sample resume for Sierra Snyder:
+
+Sierra Snyder
+System Administrator
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [ssnyder@email.com](mailto:ssnyder@email.com)
+* LinkedIn: linkedin.com/in/sierrasnyder
+
+Summary:
+Highly motivated and versatile System Administrator with 5+ years of experience in managing and maintaining complex IT infrastructures. Skilled in Linux/Unix, Windows Server, Active Directory, Networking, and System Monitoring. Proven track record of ensuring system uptime, troubleshooting issues, and implementing security measures to protect organizational assets.
+
+Technical Skills:
+
+* Operating Systems: Linux (Ubuntu, CentOS), Unix (Solaris, AIX), Windows Server (2008, 2012, 2016)
+* Network Protocols: TCP/IP, DNS, DHCP, FTP, SSH, SFTP
+* System Monitoring Tools: Nagios, SolarWinds, Prometheus, Grafana
+* Active Directory: Design, implementation, and management of AD forests, domains, and OUs
+* Scripting Languages: Bash, Python, PowerShell
+* Virtualization: VMware, Hyper-V
+* Cloud Computing: AWS, Azure
+
+Professional Experience:
+
+Senior System Administrator, XYZ Corporation (2018-Present)
+
+* Managed and maintained a large-scale IT infrastructure consisting of 500+ servers, 10,000+ users, and multiple data centers
+* Implemented a centralized monitoring system using Nagios and SolarWinds to ensure system uptime and identify potential issues
+* Designed and implemented a secure Active Directory infrastructure, including OU structure, group policy objects, and user account management
+* Collaborated with the networking team to design and implement a redundant network infrastructure, including routers, switches, and firewalls
+* Developed and maintained scripts using Bash and PowerShell to automate system administration tasks, such as user provisioning and system backups
+
+System Administrator, ABC Company (2015-2018)
+
+* Managed a team of junior system administrators, providing guidance and training on system administration tasks and best practices
+* Implemented a system monitoring system using Prometheus and Grafana, resulting in a 30% reduction in system downtime
+* Designed and implemented a secure Windows Server infrastructure, including domain controllers, file servers, and print servers
+* Collaborated with the networking team to design and implement a secure network infrastructure, including VLANs, access control lists, and firewalls
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2015)
+
+Certifications:
+
+* CompTIA A+, Network+, and Security+
+* Microsoft Certified: Windows Server 2012, Active Directory, and System Center Configuration Manager
+
+Achievements:
+
+* Successfully implemented a centralized monitoring system, resulting in a 40% reduction in system downtime and a 25% reduction in IT costs
+* Designed and implemented a secure Active Directory infrastructure, resulting in a 90% reduction in help desk tickets related to password issues
+* Developed and maintained a set of automated scripts using Bash and PowerShell, resulting in a 30% reduction in system administration tasks and a 25% reduction in IT costs
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

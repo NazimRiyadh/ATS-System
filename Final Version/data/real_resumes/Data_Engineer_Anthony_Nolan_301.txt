@@ -1,0 +1,55 @@
+Here's a professional resume for Anthony Nolan:
+
+Anthony Nolan
+Contact Information:
+
+* Email: [anolan@email.com](mailto:anolan@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/anthony-nolan
+* GitHub: github.com/anthony-nolan
+
+Summary:
+Highly skilled Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using MLOps, Airflow, ETL, Spark, and Data Warehousing technologies. Proven track record of delivering high-quality solutions that drive business growth and improve operational efficiency. Seeking a challenging role that leverages my expertise to drive data-driven decision making.
+
+Technical Skills:
+
+* MLOps: Model deployment, model monitoring, and model serving
+* Airflow: DAG design, workflow orchestration, and scheduling
+* ETL: Data transformation, data loading, and data quality
+* Spark: Data processing, data aggregation, and data analysis
+* Data Warehousing: Data modeling, data ingestion, and data querying
+* Programming languages: Python, Scala, SQL
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+* Senior Data Engineer, ABC Company (2018-Present)
+	+ Designed and developed multiple data pipelines using Airflow, ETL, and Spark to support business intelligence and data science initiatives
+	+ Collaborated with cross-functional teams to integrate data from various sources, including APIs, databases, and file systems
+	+ Implemented data quality checks and data validation using Python and SQL to ensure data accuracy and consistency
+	+ Deployed and monitored data pipelines using MLOps and Airflow to ensure high uptime and performance
+	+ Built and maintained data visualizations using Tableau and Power BI to support business stakeholders
+* Data Engineer, DEF Startups (2015-2018)
+	+ Developed and deployed data pipelines using ETL and Spark to support data analysis and machine learning initiatives
+	+ Worked with data scientists to integrate data from various sources, including APIs, databases, and file systems
+	+ Implemented data quality checks and data validation using Python and SQL to ensure data accuracy and consistency
+	+ Collaborated with product managers to design and develop data visualizations using Tableau and Power BI
+
+Achievements:
+
+* Improved data pipeline uptime by 99.9% using Airflow and MLOps
+* Reduced data processing time by 80% using Spark and ETL
+* Improved data quality by 95% using data quality checks and validation
+* Developed and deployed multiple data visualizations using Tableau and Power BI
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2018)
+* Certified Scrum Master, Scrum Alliance (2016)
+
+References:
+Available upon request.

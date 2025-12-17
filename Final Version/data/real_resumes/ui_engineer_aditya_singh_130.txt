@@ -1,0 +1,57 @@
+aditya singh
+ui engineer
+
+contact information:
+
+* email: [adityasingh@email.com](mailto:adityasingh@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/adityasingh
+
+summary:
+highly motivated and detail-oriented ui engineer with 5+ years of experience in designing and developing user interfaces for web applications. proven expertise in html, css, javascript, and react, with a strong focus on ui/ux design, responsive design, web accessibility, and web performance. skilled in front-end testing, version control, and collaboration with cross-functional teams.
+
+technical skills:
+
+* front-end development: html, css, javascript, react
+* ui/ux design: sketch, figma, adobe xd
+* responsive design: media queries, flexbox, grid
+* web accessibility: wcag 2.1, aria, screen readers
+* front-end testing: jest, enzyme, cypress
+* version control: git, svn
+* web performance: webpack, babel, code splitting
+* familiarity with: scss, less, webpack, babel
+
+professional experience:
+
+senior ui engineer, abc corporation (2020-present)
+
+* designed and developed user interfaces for multiple web applications using react, html, css, and javascript
+* collaborated with cross-functional teams to ensure cohesive design and development
+* implemented responsive design principles to ensure seamless user experience across various devices
+* conducted front-end testing using jest, enzyme, and cypress to ensure high-quality code
+* optimized web performance using webpack, babel, and code splitting
+* mentored junior engineers on best practices for front-end development and ui/ux design
+
+ui engineer, def startups (2018-2020)
+
+* designed and developed user interfaces for multiple web applications using react, html, css, and javascript
+* implemented ui/ux design principles to ensure intuitive and user-friendly interfaces
+* conducted accessibility audits using wcag 2.1 guidelines and implemented necessary changes
+* collaborated with designers to ensure cohesive design and development
+* conducted front-end testing using jest and enzyme to ensure high-quality code
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+* coursework: data structures, algorithms, computer systems, web development, ui/ux design
+
+achievements:
+
+* winner, abc corporation hackathon (2020): developed a prototype for a new web application using react, html, css, and javascript
+* contributor, open-source projects: contributed to multiple open-source projects on github, including a react-based ui component library
+* speaker, def startups meetup (2019): presented on best practices for front-end development and ui/ux design
+
+certifications:
+
+* certified ui engineer, abc corporation (2020)
+* certified front-end developer, def startups (2019)

@@ -1,0 +1,51 @@
+here's a sample resume for eric wallace applying for the role of data scientist:
+
+eric wallace
+contact information:
+
+* email: [eric.wallace@email.com](mailto:eric.wallace@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/ericwallace
+* github: github.com/ericwallace
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, deep learning, sql, and data visualization. proven track record of extracting insights from complex datasets and communicating findings to both technical and non-technical stakeholders. proficient in leveraging machine learning algorithms to drive business growth and improve operational efficiency.
+
+technical skills:
+
+* programming languages: python (numpy, pandas, scikit-learn, tensorflow), r
+* statistics and machine learning: linear regression, decision trees, random forests, support vector machines, clustering (k-means, hierarchical), neural networks (convolutional, recurrent)
+* data visualization: matplotlib, seaborn, plotly, tableau
+* database management: sql, mysql, postgresql
+* operating systems: windows, linux, macos
+* tools: jupyter notebook, pycharm, git, docker
+
+professional experience:
+
+* data scientist, abc corporation (20xx-20xx)
+	+ built and deployed machine learning models to predict customer churn, resulting in a 20% increase in customer retention
+	+ developed and maintained a data pipeline using python, sql, and apache beam to process and analyze large datasets
+	+ created interactive visualizations using tableau to communicate findings to business stakeholders
+	+ collaborated with cross-functional teams to integrate data-driven insights into business decision-making
+* data analyst, def startups (20xx-20xx)
+	+ analyzed customer behavior data using r and python to identify trends and patterns
+	+ developed predictive models using linear regression and decision trees to forecast sales
+	+ created data visualizations using matplotlib and seaborn to communicate findings to stakeholders
+
+education:
+
+* bachelor of science in statistics, xyz university (20xx-20xx)
+* certificate in data science, abc university (20xx-20xx)
+
+projects:
+
+* predicting house prices using machine learning: built a regression model using python and scikit-learn to predict house prices based on features such as number of bedrooms, square footage, and location.
+* customer segmentation using clustering: applied k-means clustering to segment customers based on demographic and behavioral data, resulting in a 30% increase in targeted marketing campaigns.
+
+certifications:
+
+* certified data scientist (cds), data science council of america (20xx)
+* sql certification, microsoft (20xx)
+
+references:
+available upon request.

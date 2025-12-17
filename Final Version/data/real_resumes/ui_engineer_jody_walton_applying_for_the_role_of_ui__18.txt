@@ -1,0 +1,57 @@
+here's a sample resume for jody walton applying for the role of ui engineer:
+
+jody walton
+contact information:
+
+* email: [jody.walton@email.com](mailto:jody.walton@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/jodywalton
+* github: github.com/jodywalton
+
+summary:
+highly motivated and detail-oriented ui engineer with a strong background in html, javascript, and react. skilled in ui/ux design and wireframing, with a passion for creating user-centered interfaces that drive business results. proficient in designing and developing scalable, maintainable, and responsive user interfaces for web applications.
+
+technical skills:
+
+* programming languages: html, javascript, react
+* ui/ux design: sketch, figma, adobe xd
+* wireframing: balsamiq, axure
+* front-end frameworks: react, redux
+* state management: redux, context api
+* version control: git
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+ui engineer, abc company (2020-present)
+
+* designed and developed responsive user interfaces for web applications using html, css, and javascript
+* collaborated with cross-functional teams to gather requirements and define user experience for new features and products
+* implemented ui/ux design principles to improve user engagement and conversion rates
+* utilized react and redux to build scalable and maintainable front-end applications
+* conducted code reviews to ensure high-quality code and adherence to coding standards
+
+junior ui/ux designer, def start-up (2018-2020)
+
+* created wireframes and prototypes to visualize user flow and interaction design
+* conducted user research to inform design decisions and improve user experience
+* implemented design systems and style guides to ensure consistency across applications
+* collaborated with developers to translate designs into functional web applications
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified ux designer, human-centered design certification program (2019)
+* certified front-end developer, level 1 certification, react.js (2020)
+
+projects:
+
+* personal portfolio website: a react-based web application showcasing my skills and experience as a ui engineer
+* e-commerce website: a responsive e-commerce web application built using react, redux, and a headless cms
+* wireframing tool: a prototype wireframing tool built using html, css, and javascript to aid in the design process
+
+references:
+available upon request.

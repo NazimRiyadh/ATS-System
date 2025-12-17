@@ -1,0 +1,57 @@
+Here's a professional resume for Sean Oliver:
+
+Sean Oliver
+Contact Information:
+
+* Email: [sean.oliver@email.com](mailto:sean.oliver@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/seanoliver
+* GitHub: github.com/seanoliver
+
+Professional Summary:
+Highly skilled Data Engineer with 8+ years of experience in designing, developing, and deploying scalable data infrastructure solutions. Proven expertise in MLOps, ETL, Big Data, and Data Warehousing. Proficient in a range of technologies, including Python, SQL, NoSQL, and cloud-based platforms. Adept at collaborating with cross-functional teams to drive business growth through data-driven insights.
+
+Technical Skills:
+
+* Programming languages: Python, SQL, Java
+* Data platforms: Apache Hadoop, Apache Spark, AWS Glue, Google Cloud Dataflow
+* Data storage: relational databases (MySQL, PostgreSQL), NoSQL databases (MongoDB, Cassandra)
+* Data processing: Apache Beam, Apache Flink
+* Data warehousing: Amazon Redshift, Google BigQuery
+* Machine learning: scikit-learn, TensorFlow, PyTorch
+* ETL tools: Apache NiFi, Talend
+* Cloud platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed a scalable data pipeline using Apache Beam and Google Cloud Dataflow to process 100M+ records per day
+* Built and deployed a data warehouse using Amazon Redshift and ETL tools to support business analytics and reporting
+* Collaborated with cross-functional teams to integrate machine learning models into production workflows using MLOps practices
+* Improved data quality and accuracy by implementing data validation and quality control processes using Python and SQL
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed and implemented data processing pipelines using Apache Hadoop and Apache Spark to process large datasets
+* Designed and deployed a data warehouse using Google BigQuery and ETL tools to support business analytics and reporting
+* Collaborated with data scientists to integrate machine learning models into production workflows using Python and scikit-learn
+* Improved data processing efficiency by 30% by optimizing Hadoop and Spark cluster configurations
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* Successfully led a team to deploy a large-scale data pipeline using Apache Beam and Google Cloud Dataflow, resulting in a 50% reduction in data processing time
+* Developed and deployed a data quality and validation framework using Python and SQL, resulting in a 20% reduction in data errors
+* Collaborated with data scientists to integrate machine learning models into production workflows using MLOps practices, resulting in a 25% increase in model accuracy
+
+Certifications:
+
+* Certified Data Engineer, Google Cloud (2019)
+* Certified Developer, Amazon Web Services (2018)
+
+References:
+Available upon request.

@@ -1,0 +1,59 @@
+here's a sample resume for maria cobb applying for the role of data scientist:
+
+maria cobb
+contact information:
+
+* address: 123 main st, new york, ny 10001
+* phone: (123) 456-7890
+* email: [maria.cobb@email.com](mailto:maria.cobb@email.com)
+* linkedin: linkedin.com/in/mariacobb
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in analyzing and interpreting complex data sets to drive business decisions. skilled in python, statistics, machine learning, sql, and data visualization. proven track record of delivering high-quality insights and recommendations to stakeholders.
+
+technical skills:
+
+* programming languages: python (numpy, pandas, scikit-learn), sql
+* data analysis and visualization tools: matplotlib, seaborn, plotly, tableau
+* machine learning algorithms: linear regression, decision trees, random forest, neural networks
+* statistical software: r, spss
+* operating systems: windows, linux
+* familiarity with big data technologies: hadoop, spark
+
+professional experience:
+
+data scientist, abc company (2018-present)
+
+* analyze and interpret large datasets to identify trends and patterns
+* develop and deploy machine learning models to predict customer behavior and improve marketing campaigns
+* collaborate with cross-functional teams to identify business opportunities and develop data-driven solutions
+* create interactive visualizations and reports using tableau and power bi to communicate insights to stakeholders
+* utilize python and sql to extract and manipulate data from various sources
+
+data analyst, def startups (2015-2018)
+
+* collected and analyzed data from various sources to inform business decisions
+* built and maintained databases using sql and data visualization tools
+* created reports and dashboards to present findings to stakeholders
+* developed and administered surveys to collect primary data
+* utilized statistical software to analyze and interpret data
+
+education:
+
+* master of science in data science, xyz university (2015)
+	+ coursework: machine learning, natural language processing, data mining, statistics
+* bachelor of science in mathematics, abc university (2010-2014)
+	+ coursework: calculus, linear algebra, probability, statistics
+
+certifications:
+
+* certified data scientist, data science council of america (2016)
+* certified analytics professional, institute for operations research and the management sciences (2017)
+
+projects:
+
+* predicting customer churn using machine learning: developed a machine learning model using python and scikit-learn to predict customer churn based on historical data. achieved an accuracy of 85%
+* analyzing sales data using sql and tableau: analyzed sales data using sql and created interactive visualizations using tableau to identify trends and patterns. presented findings to stakeholders and implemented changes to improve sales performance.
+
+references:
+available upon request.

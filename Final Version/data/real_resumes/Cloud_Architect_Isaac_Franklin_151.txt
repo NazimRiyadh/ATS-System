@@ -1,0 +1,65 @@
+Here is a professional resume for Isaac Franklin, a Cloud Architect candidate:
+
+Isaac Franklin
+Cloud Architect
+
+Contact Information:
+
+* Email: [isaacf@gmail.com](mailto:isaacf@gmail.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/isaacf
+* GitHub: github.com/isaacf
+
+Summary:
+
+Highly skilled Cloud Architect with 8+ years of experience in designing, deploying, and managing large-scale cloud infrastructure on Azure, GCP, and Kubernetes. Proven track record of delivering complex cloud projects on time and within budget. Strong expertise in cloud security, compliance, and DevOps practices.
+
+Technical Skills:
+
+* Cloud Platforms: Azure, GCP, AWS
+* Containerization: Docker, Kubernetes
+* Orchestration: Apache Airflow, Terraform
+* Security: IAM, Identity Services, Network Security Groups
+* Cloud Storage: Blob Storage, Cloud Storage, S3
+* Cloud Services: Compute Services, Database Services, API Gateway
+* Operating Systems: Windows, Linux, macOS
+* Programming Languages: Python, Java, C#, Go
+
+Professional Experience:
+
+Cloud Architect, ABC Corporation (2018-Present)
+
+* Design and deploy scalable cloud infrastructure on Azure and GCP for large-scale enterprise applications
+* Collaborate with cross-functional teams to develop and implement cloud security and compliance strategies
+* Develop and maintain cloud infrastructure as code using Terraform and Ansible
+* Optimize cloud resource usage and reduce costs by 30% through infrastructure optimization and rightsizing
+* Mentored junior engineers on cloud architecture and DevOps best practices
+
+Senior Cloud Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented cloud infrastructure on GCP for multiple startups, including infrastructure as code and continuous deployment pipelines
+* Collaborated with development teams to develop and deploy cloud-based applications on GCP
+* Implemented cloud security and compliance measures, including IAM and network security groups
+* Developed and maintained cloud monitoring and logging tools using Prometheus, Grafana, and ELK Stack
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Google Cloud Certified - Professional Cloud Architect
+* Certified Kubernetes Administrator (CKA)
+
+Achievements:
+
+* Successfully designed and deployed a cloud-based e-commerce platform on GCP, resulting in 50% reduction in costs and 25% increase in sales
+* Developed and implemented a cloud security strategy on Azure, resulting in 90% reduction in security incidents
+* Collaborated with development teams to develop and deploy a cloud-based microservices architecture on Kubernetes, resulting in 30% reduction in deployment time and 20% increase in scalability
+
+References:
+
+Available upon request.
+
+I hope this example helps! Remember to customize your resume to fit your specific experience and the job you are applying for.

@@ -1,0 +1,59 @@
+Sarah Armstrong
+Contact Information:
+
+* Email: [sarah.armstrong@email.com](mailto:sarah.armstrong@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/saraharmstrong
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using Big Data frameworks and Cloud platforms. Skilled in working with various databases, programming languages, and CI/CD tools.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop (HDFS, YARN, MapReduce)
+	+ Apache Spark (Scala, Python)
+	+ Apache Flink
+* Data Pipelines:
+	+ Data integration using Apache NiFi
+	+ Data transformation using Apache Beam
+* Databases:
+	+ Relational databases (MySQL, PostgreSQL)
+	+ NoSQL databases (MongoDB, Cassandra)
+* Cloud Platforms:
+	+ Amazon Web Services (AWS, S3, Glue, EMR)
+	+ Microsoft Azure (Azure Storage, Databricks, HDInsight)
+	+ Google Cloud Platform (GCS, Dataproc, BigQuery)
+* Programming Languages:
+	+ Python (PySpark, Pandas, NumPy)
+	+ Scala
+	+ SQL
+* CI/CD Tools:
+	+ Jenkins
+	+ GitLab CI/CD
+	+ Docker
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed scalable data pipelines using Apache Spark, Apache NiFi, and Apache Flink to process large datasets
+* Collaborated with cross-functional teams to integrate data from various sources into a unified data warehouse
+* Developed and deployed data processing workflows using Apache Beam and Apache Airflow
+* Worked closely with data scientists to provide data insights and recommendations for business growth
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Built and maintained data infrastructure using Amazon Web Services (AWS) and Google Cloud Platform (GCP)
+* Designed and deployed data pipelines using Apache Hadoop, Apache Spark, and Apache Flink
+* Developed and deployed data processing workflows using Apache NiFi and Apache Airflow
+* Collaborated with data analysts to provide data insights and recommendations for business growth
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Cloud Engineer, AWS Certified Cloud Practitioner (2018)

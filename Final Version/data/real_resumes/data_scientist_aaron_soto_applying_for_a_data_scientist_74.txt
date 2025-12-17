@@ -1,0 +1,49 @@
+here's a sample resume for aaron soto applying for a data scientist role:
+
+aaron soto
+contact information:
+
+* email: [aaron.soto@email.com](mailto:aaron.soto@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/aaronsoto
+* github: github.com/aaronsoto
+
+summary:
+highly motivated and detail-oriented data scientist with a strong background in python, statistics, and sql. proven track record of analyzing complex data sets to inform business decisions. proficient in extracting insights from large datasets and communicating findings effectively to stakeholders.
+
+technical skills:
+
+* programming languages: python ( numpy, pandas, matplotlib, scikit-learn)
+* data analysis and visualization tools: sql, tableau, jupyter notebook
+* machine learning algorithms: linear regression, decision trees, random forests
+* data manipulation and cleaning: pandas, numpy, regular expressions
+* operating systems: windows, linux, macos
+
+professional experience:
+
+* data analyst, abc company (2018-present)
+	+ analyzed large datasets to identify trends and correlations, using python and sql
+	+ created data visualizations using tableau and jupyter notebook to communicate findings to stakeholders
+	+ developed and implemented predictive models using scikit-learn to forecast business outcomes
+	+ collaborated with cross-functional teams to design and implement data-driven solutions
+* research assistant, university of xyz (2015-2018)
+	+ assisted principal investigators in designing and conducting experiments to collect data
+	+ analyzed and visualized data using python and r to inform research findings
+	+ developed and presented research results to academic peers and industry professionals
+
+education:
+
+* bachelor's degree in statistics, university of xyz (2015)
+	+ coursework: probability theory, statistical inference, regression analysis, time series analysis
+
+projects:
+
+* predictive modeling for sales forecasting: developed a predictive model using scikit-learn to forecast sales for a retail company, resulting in a 20% reduction in forecasting error.
+* data visualization for customer segmentation: created interactive dashboards using tableau to visualize customer data and identify key segments for a software company.
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+
+references:
+available upon request.

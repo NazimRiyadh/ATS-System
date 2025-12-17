@@ -1,0 +1,60 @@
+Kristy Jackson
+Contact Information:
+
+* Phone: (555) 555-5555
+* Email: [kristy.jackson@email.com](mailto:kristy.jackson@email.com)
+* LinkedIn: linkedin.com/in/kristyjacksonsoftware
+* GitHub: github.com/kristyjackson
+
+Summary:
+Highly motivated and detail-oriented Software Engineer with 5+ years of experience in designing, developing, and deploying scalable software applications using Java, Algorithm, and Data Structure. Skilled in Web Development, Version Control, DevOps, Testing, and API integration. Proficient in working with agile development methodologies and passionate about delivering high-quality software solutions.
+
+Technical Skills:
+
+* Programming Languages: Java, Python, JavaScript
+* Development Frameworks: Spring Boot, Hibernate, React
+* Database Management Systems: MySQL, MongoDB, PostgreSQL
+* Algorithm and Data Structure: Sorting, Searching, Graphs, Trees, Hash Tables
+* Web Development: HTML, CSS, RESTful APIs, Microservices Architecture
+* Version Control: Git, SVN
+* DevOps: Docker, Kubernetes, Jenkins, AWS
+* Testing: JUnit, Mockito, Selenium, API Testing (Postman)
+* API Integration: RESTful APIs, GraphQL, API Gateway
+
+Professional Experience:
+
+Senior Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple software applications using Java, Spring Boot, and Hibernate
+* Collaborated with cross-functional teams to implement agile development methodologies and deliver high-quality software solutions
+* Implemented and integrated RESTful APIs using Spring Boot and Swagger
+* Utilized Git and SVN for version control and collaborated with team members to resolve merge conflicts
+* Deployed applications to production using Docker and Kubernetes
+* Wrote unit tests using JUnit and Mockito, and integration tests using Selenium
+
+Software Engineer, DEF Startups (2015-2018)
+
+* Developed multiple web applications using JavaScript, React, and Node.js
+* Implemented and integrated GraphQL APIs using Apollo Server
+* Collaborated with designers to implement responsive web designs using HTML, CSS, and Bootstrap
+* Utilized API Gateway to integrate multiple microservices
+* Implemented CI/CD pipeline using Jenkins and Docker
+* Wrote unit tests using JUnit and integration tests using Selenium
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Java Developer (OCPJP), Oracle Corporation (2016)
+* Certified Scrum Master (CSM), Scrum Alliance (2018)
+
+Projects:
+
+* Developed a web application using Java, Spring Boot, and Hibernate to manage employee data
+* Implemented a RESTful API using Spring Boot and Swagger to integrate with a mobile application
+* Contributed to an open-source project using Java, Algorithm, and Data Structure to implement a search engine
+
+References:
+Available upon request.

@@ -1,0 +1,56 @@
+here's a sample resume for jessica robles applying for a data scientist role:
+
+jessica robles
+
+contact information:
+
+* email: [jessica.robles@email.com](mailto:jessica.robles@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/jessicarobles
+* github: github.com/jessicarobles
+
+summary:
+highly motivated and detail-oriented data scientist with a strong background in python programming, statistics, machine learning, and data visualization. proven ability to extract insights from complex data sets and communicate findings effectively to stakeholders. proficient in sql and experienced in working with large datasets.
+
+technical skills:
+
+* programming languages: python ( numpy, pandas, scikit-learn), sql
+* machine learning algorithms: supervised and unsupervised learning, regression, decision trees, clustering
+* data visualization: matplotlib, seaborn, tableau
+* statistics: hypothesis testing, confidence intervals, regression analysis
+* data storage: mongodb, postgresql
+* operating systems: windows, linux
+
+professional experience:
+
+data analyst, xyz corporation (2018-present)
+
+* analyzed customer data to identify trends and opportunities for growth
+* developed and implemented predictive models using machine learning algorithms to forecast customer churn
+* created data visualizations to present findings to stakeholders
+* maintained and updated databases using sql
+
+research assistant, abc university (2015-2018)
+
+* assisted in designing and implementing experiments to test hypotheses in statistics and machine learning
+* collected and analyzed large datasets using python and sql
+* developed and presented research findings to academic audiences
+
+education:
+
+* master of science in data science, abc university (2015-2017)
+* bachelor of science in mathematics, xyz university (2011-2015)
+
+projects:
+
+* predicting house prices: developed a predictive model using machine learning algorithms to forecast house prices based on features such as location, size, and number of bedrooms.
+* customer segmentation: analyzed customer data to identify segments based on demographics and behavior, and developed a clustering model to group customers into distinct segments.
+* time series forecasting: built a model to forecast stock prices using historical data and machine learning algorithms.
+
+certifications/awards:
+
+* certified data scientist, data science council of america (2019)
+* winner, xyz university data science competition (2017)
+
+references:
+available upon request.

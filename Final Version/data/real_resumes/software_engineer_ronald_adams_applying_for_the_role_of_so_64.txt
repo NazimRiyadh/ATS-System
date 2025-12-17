@@ -1,0 +1,51 @@
+here's a sample resume for ronald adams applying for the role of software engineer:
+
+ronald adams
+contact information:
+
+* address: 123 main st, anytown, usa 12345
+* phone: (555) 555-5555
+* email: [ronald.adams@email.com](mailto:ronald.adams@email.com)
+* linkedin: linkedin.com/in/ronaldadams
+
+summary:
+highly motivated and detail-oriented software engineer with strong skills in java, python, algorithms, data structures, and system design. proven ability to design, implement, and deploy scalable and efficient software solutions. proficient in written and verbal communication, with a strong passion for solving complex problems.
+
+technical skills:
+
+* programming languages: java, python
+* data structures: arrays, linked lists, stacks, queues, trees, hash tables
+* algorithms: sorting, searching, greedy, dynamic programming, backtracking
+* system design: design patterns, scalability, security, and performance optimization
+* development tools: eclipse, intellij idea, git, jenkins
+* operating systems: windows, linux, macos
+
+professional experience:
+
+* software engineer, abc company (2018-present)
+	+ designed and implemented multiple features for a large-scale enterprise software application using java and python
+	+ collaborated with cross-functional teams to identify and prioritize requirements, and developed technical solutions to meet business needs
+	+ participated in code reviews and ensured adherence to coding standards and best practices
+	+ implemented automated testing and ci/cd pipelines using jenkins and git
+* junior software engineer, def startups (2015-2018)
+	+ contributed to the development of a mobile application using python and django
+	+ worked on improving the performance and scalability of the application through code optimization and caching
+	+ collaborated with designers to implement ui/ux changes and improve user experience
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+* master of science in computer science, abc university (2014-2016)
+
+projects:
+
+* algorithm library: a java library containing implementations of various algorithms, including sorting, searching, and graph algorithms.
+* twitter sentiment analysis: a python project using machine learning and natural language processing to classify tweets as positive, negative, or neutral.
+
+certifications:
+
+* certified scrum master, scrum alliance (2017)
+* certified java developer, oracle (2016)
+
+references:
+available upon request.

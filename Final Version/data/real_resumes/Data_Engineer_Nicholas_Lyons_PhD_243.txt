@@ -1,0 +1,67 @@
+Here's a sample resume for Nicholas Lyons PhD, a Data Engineer candidate:
+
+Nicholas Lyons PhD
+Contact Information:
+
+* Address: 123 Main St, Anytown, USA 12345
+* Phone: (555) 555-5555
+* Email: [nlyons@email.com](mailto:nlyons@email.com)
+* LinkedIn: linkedin.com/in/nicholaslyonsphd
+
+Professional Summary:
+Highly accomplished Data Engineer with a strong background in MLOps, Big Data, Cloud Platforms, and Data Warehousing. Proven expertise in designing and implementing scalable data architectures, leveraging cloud-based technologies to drive business growth and innovation. Possesses a deep understanding of data engineering principles, machine learning, and data governance. Seeking a challenging role that utilizes my skills to drive business success.
+
+Technical Summary:
+Skilled in:
+
+* MLOps: Model deployment, model serving, and model monitoring
+* Big Data: Hadoop, Spark, NoSQL databases, and data pipelines
+* Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure
+* Data Warehousing: Data warehousing design, data modeling, and ETL development
+* Programming languages: Python, Java, Scala, and SQL
+* Data engineering tools: Apache Beam, Apache Airflow, and Apache NiFi
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a cloud-based data warehouse using AWS Redshift, serving 10+ TB of data and 100+ users
+* Developed and deployed a machine learning model using TensorFlow and scikit-learn, resulting in a 25% increase in sales
+* Led a team of 3 data engineers in designing and implementing a data pipeline using Apache Beam and Apache Airflow
+* Collaborated with cross-functional teams to develop data-driven solutions, resulting in a 15% reduction in operational costs
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented a Big Data architecture using Hadoop and Spark, serving 100+ TB of data
+* Developed and deployed a data pipeline using Apache NiFi and Apache Kafka, resulting in a 30% increase in data processing efficiency
+* Collaborated with data scientists to develop machine learning models using Python and scikit-learn
+* Mentored junior data engineers in data engineering best practices and tools
+
+Education:
+
+* PhD in Computer Science, XYZ University (2010-2015)
+	+ Dissertation: "Scalable Data Processing using Cloud-based Technologies"
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2018)
+* Certified Cloud Practitioner, Amazon Web Services (2019)
+
+Achievements:
+
+* Published 5+ research papers in top-tier conferences and journals, including ICDE and VLDB
+* Developed and open-sourced 2+ data engineering tools and frameworks
+* Mentored 2+ junior data engineers in data engineering best practices and tools
+
+Skills:
+
+* Programming languages: Python, Java, Scala, and SQL
+* Data engineering tools: Apache Beam, Apache Airflow, and Apache NiFi
+* Cloud platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure
+* Data warehousing: Data warehousing design, data modeling, and ETL development
+* Big Data: Hadoop, Spark, NoSQL databases, and data pipelines
+
+References:
+Available upon request.
+
+This is just a sample, please make sure to tailor your resume to the specific job you're applying for, and highlight your unique skills and experiences.

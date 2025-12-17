@@ -1,0 +1,53 @@
+ishaan singh
+contact information:
+
+* email: [ishaan.singh@email.com](mailto:ishaan.singh@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/ishaan-singh
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in machine learning, deep learning, and statistical analysis. proven track record of delivering high-impact projects and driving business growth through data-driven insights. skilled in python, statistics, sql, and data visualization tools.
+
+professional experience:
+
+data scientist, abc corporation (2020-present)
+
+* developed and deployed several machine learning models using scikit-learn and tensorflow to predict customer churn, sentiment analysis, and demand forecasting
+* collaborated with cross-functional teams to design and implement a/b testing experiments, resulting in a 15% increase in conversion rates
+* created interactive dashboards and reports using tableau and power bi to communicate insights to stakeholders
+* worked with the engineering team to integrate data pipelines, ensuring seamless data flow and reducing latency by 30%
+
+junior data analyst, def startups (2018-2020)
+
+* analyzed customer behavior and preference data to inform marketing strategies, resulting in a 25% increase in customer engagement
+* built and maintained complex sql queries to extract insights from large datasets
+* assisted in the development of predictive models using logistic regression and decision trees
+* presented findings to senior leadership, recommending data-driven decisions
+
+education:
+
+* master of science in data science, xyz university (2018)
+
+technical skills:
+
+* programming languages: python, r
+* machine learning: scikit-learn, tensorflow
+* deep learning: pytorch, keras
+* data visualization: tableau, power bi, matplotlib, seaborn
+* statistical analysis: hypothesis testing, confidence intervals, regression analysis
+* databases: mysql, postgresql
+* operating systems: windows, linux
+
+achievements:
+
+* winner, abc corporation's data science challenge (2020): developed a predictive model using tensorflow that outperformed industry benchmarks
+* recipient, def startups' data analysis award (2019): recognized for outstanding contributions to data analysis and insights
+* published research, international journal of data science (2019): co-authored a paper on "applying machine learning to customer churn prediction"
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+references:
+available upon request.

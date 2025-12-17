@@ -1,0 +1,63 @@
+Here's a sample resume for Carol Reid, a Cloud Architect candidate with expertise in AWS, Azure, Terraform, Kubernetes, and Cloud Security:
+
+Carol Reid
+Cloud Architect
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [carol.reid@email.com](mailto:carol.reid@email.com)
+* LinkedIn: linkedin.com/in/carolreidcloud
+* GitHub: github.com/carolreid
+
+Professional Summary:
+Highly experienced Cloud Architect with 8+ years of experience designing, deploying, and managing scalable, secure, and efficient cloud infrastructure solutions on AWS, Azure, and other cloud platforms. Proven expertise in Terraform, Kubernetes, and Cloud Security, with a strong track record of delivering complex projects on time and on budget.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Infrastructure-as-Code: Terraform
+* Containerization: Kubernetes, Docker
+* Cloud Security: AWS IAM, Azure AD, CloudFormation Security
+* Networking: VPC, Subnet, Security Groups, Load Balancers
+* Database Management: RDS, Cosmos DB, MongoDB
+* Operating Systems: Linux, Windows
+* Programming Languages: Python, JavaScript, PowerShell
+
+Professional Experience:
+
+Cloud Architect, XYZ Corporation (2018-Present)
+
+* Designed and deployed cloud infrastructure on AWS and Azure for multiple clients, including e-commerce, finance, and healthcare organizations
+* Implemented Terraform for infrastructure-as-code management, reducing deployment times by 50%
+* Developed and managed Kubernetes clusters for containerized applications, improving scalability and reliability
+* Ensured cloud security and compliance for sensitive data, using AWS IAM and Azure AD
+* Collaborated with engineering teams to design and implement cloud-based solutions for DevOps and continuous integration/continuous deployment (CI/CD)
+
+Senior Systems Engineer, ABC Company (2015-2018)
+
+* Designed and implemented cloud infrastructure on AWS and Azure for multiple clients, including e-commerce, finance, and healthcare organizations
+* Developed and managed cloud-based solutions for data analytics and machine learning, using AWS SageMaker and Azure Machine Learning
+* Collaborated with engineering teams to design and implement cloud-based solutions for DevOps and CI/CD
+* Ensured cloud security and compliance for sensitive data, using AWS IAM and Azure AD
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Azure Certified Solutions Architect
+* Certified Cloud Security Professional (CCSP)
+* Certified Terraform Associate
+
+Achievements:
+
+* Designed and deployed a cloud-based e-commerce platform on AWS, resulting in a 30% increase in sales and a 25% reduction in costs
+* Developed and implemented a Kubernetes-based containerization solution, improving application deployment times by 90%
+* Collaborated with engineering teams to design and implement a cloud-based DevOps platform, resulting in a 40% reduction in mean time to recover (MTTR)
+* Ensured cloud security and compliance for sensitive data, using AWS IAM and Azure AD, resulting in a 99.99% uptime and no security breaches
+
+References:
+Available upon request.

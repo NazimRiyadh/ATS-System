@@ -1,0 +1,62 @@
+Here is a professional resume for Megan Miller:
+
+Megan Miller
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [mmiller@email.com](mailto:mmiller@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/meganmillermle
+* GitHub: github.com/meganmiller
+
+Summary:
+Highly motivated and detail-oriented Machine Learning Engineer with 5+ years of experience in developing and deploying scalable machine learning models using Python, Scikit-learn, and TensorFlow. Proven track record of improving model performance through hyperparameter tuning and experimentation. Strong understanding of machine learning concepts, including supervised and unsupervised learning, neural networks, and deep learning.
+
+Technical Skills:
+
+* Programming languages: Python
+* Machine learning libraries: Scikit-learn, TensorFlow, Keras
+* Data preprocessing and manipulation: Pandas, NumPy, Matplotlib
+* Hyperparameter tuning: Grid search, Random search, Bayesian optimization
+* Model deployment: Flask, Docker
+* Data storage: MySQL, PostgreSQL
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Machine Learning Engineer, XYZ Corporation (2020-Present)
+
+* Designed and developed multiple machine learning models using Scikit-learn and TensorFlow to improve customer segmentation and recommendation systems
+* Utilized hyperparameter tuning techniques to improve model performance, resulting in a 25% increase in accuracy
+* Deployed models using Flask and Docker, resulting in a 99% uptime rate
+* Collaborated with cross-functional teams to integrate machine learning models into existing product pipelines
+
+Machine Learning Engineer, ABC Startups (2018-2020)
+
+* Developed and deployed a deep learning model using TensorFlow to predict customer churn
+* Improved model performance by 30% through hyperparameter tuning and experimentation
+* Worked with data engineers to integrate data pipelines and ensure data quality
+* Collaborated with product managers to integrate machine learning models into product roadmaps
+
+Education:
+
+* Bachelor of Science in Computer Science, Stanford University (2015-2019)
+* Master of Science in Machine Learning, University of California, Berkeley (2020)
+
+Achievements:
+
+* Winner, Kaggle Competition: Predicting Customer Churn (2019)
+	+ Developed a deep learning model using TensorFlow that outperformed the competition by 20%
+* Published Research Paper: "Hyperparameter Tuning for Deep Learning Models" (2020)
+	+ Presented research on hyperparameter tuning techniques for deep learning models at the International Conference on Machine Learning
+
+Certifications:
+
+* Certified Machine Learning Engineer, Google Cloud (2020)
+* Certified Data Scientist, Data Science Council of America (2019)
+
+References:
+Available upon request.
+
+This resume highlights Megan's technical skills, experience, and achievements in machine learning engineering, while also showcasing her education and certifications. The clear structure and concise bullet points make it easy to scan and understand Megan's qualifications.

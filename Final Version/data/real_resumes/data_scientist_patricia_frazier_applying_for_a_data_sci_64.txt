@@ -1,0 +1,59 @@
+here's a sample resume for patricia frazier applying for a data scientist role:
+
+patricia frazier
+contact information:
+
+* email: [patricia.frazier@email.com](mailto:patricia.frazier@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/patriciafrazier
+* github: github.com/patriciafrazier
+
+summary:
+highly motivated and detail-oriented data scientist with a strong background in statistics, machine learning, and deep learning. proven skills in python programming, sql, and data visualization. excellent problem-solving skills, with a passion for extracting insights from complex data sets.
+
+technical skills:
+
+* programming languages:
+	+ python ( proficiency in libraries such as pandas, numpy, scikit-learn, and tensorflow)
+	+ sql ( experience with database design, querying, and data modeling)
+* machine learning and deep learning:
+	+ supervised and unsupervised learning algorithms (e.g., linear regression, decision trees, clustering, neural networks)
+	+ model selection, hyperparameter tuning, and model evaluation
+	+ deep learning frameworks (e.g., keras, pytorch)
+* data analysis and visualization:
+	+ data preprocessing and cleaning
+	+ data visualization (e.g., matplotlib, seaborn, plotly)
+	+ statistical modeling and hypothesis testing
+* database management:
+	+ relational databases (e.g., mysql, postgresql)
+	+ nosql databases (e.g., mongodb, cassandra)
+
+professional experience:
+
+* data scientist, abc company (2018-present)
+	+ built and deployed predictive models using machine learning and deep learning techniques to drive business growth
+	+ collaborated with cross-functional teams to design and implement data-driven solutions
+	+ analyzed large datasets to identify trends and insights, and presented findings to stakeholders
+	+ developed and maintained databases using sql and data modeling techniques
+* research assistant, university of xyz (2015-2018)
+	+ assisted in the development of research projects using machine learning and statistical techniques
+	+ collected and analyzed data from various sources, including surveys, experiments, and administrative databases
+	+ presented research findings at conferences and published papers in peer-reviewed journals
+
+education:
+
+* master of science in statistics, university of xyz (2015)
+* bachelor of science in mathematics, university of abc (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting customer churn using machine learning: developed a predictive model using python and scikit-learn to forecast customer churn in the telecommunications industry.
+* image classification using deep learning: built a convolutional neural network using keras and tensorflow to classify images of objects in the wild.
+* analyzing stock market trends: analyzed historical stock market data using sql and pandas to identify trends and insights.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for, and highlight your unique skills and experiences.

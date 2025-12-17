@@ -1,0 +1,56 @@
+ishaan kapoor
+contact information:
+
+* email: [ishaan.kapoor@email.com](mailto:ishaan.kapoor@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ishaan-kapoor
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data systems. proven expertise in working with big data technologies, data warehousing, and cloud infrastructure. skilled in python, sql, etl, airflow, spark, data modeling, aws, docker, kubernetes, and data warehousing.
+
+technical skills:
+
+* programming languages: python, sql
+* big data technologies: apache spark, etl
+* data processing: apache airflow, aws glue
+* data warehousing: snowflake, amazon redshift
+* cloud infrastructure: aws, docker, kubernetes
+* data modeling: data vault, dimensional modeling
+* operating systems: linux, windows
+
+experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* designed and developed a scalable data pipeline using apache airflow and aws glue to process 100tb of data daily
+* built and maintained a data warehouse on amazon redshift using dimensional modeling and etl processes
+* collaborated with cross-functional teams to implement data-driven decision-making using data visualization tools
+* implemented data security and access controls using aws iam and s3 bucket policies
+* mentored junior engineers in big data technologies and data warehousing
+
+data engineer, def startups (2018-2020)
+
+* developed and deployed etl processes using apache spark and python to process 50tb of data daily
+* designed and implemented a data vault architecture for data warehousing using dimensional modeling
+* collaborated with data scientists to implement data-driven machine learning models
+* implemented data quality checks using sql and data validation tools
+* implemented data security and access controls using aws iam and s3 bucket policies
+
+education:
+
+* master of science in computer science, xyz university (2018)
+* bachelor of technology in computer science, abc university (2016)
+
+achievements:
+
+* aws certified developer - associate
+* apache spark developer certification
+* best project award at xyz university hackathon (2018)
+
+certifications:
+
+* aws certified developer - associate
+* apache spark developer certification
+
+references:
+available upon request.

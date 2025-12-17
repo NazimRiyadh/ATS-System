@@ -1,0 +1,59 @@
+harshitha gupta
+contact information:
+
+* email: [harshithagupta@email.com](mailto:harshithagupta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/harshithagupta
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using various technologies. proficient in python, sql, etl, airflow, spark, data modeling, aws, docker, kubernetes, and data warehousing.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: etl, airflow, spark
+* data modeling: data warehousing, data lake
+* cloud platforms: aws
+* containerization: docker
+* orchestration: kubernetes
+* database management: mysql, postgresql
+* operating systems: windows, linux
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* design and develop etl pipelines using python, airflow, and spark to extract, transform, and load data from various sources
+* develop and maintain data models for data warehousing and data lake architecture
+* worked with cross-functional teams to deploy scalable data pipelines using docker and kubernetes
+* collaborated with data scientists to develop and deploy machine learning models using aws sagemaker
+* implemented data quality checks and data validation using sql and python
+* managed and maintained data infrastructure using aws services such as s3, redshift, and glue
+
+data analyst, def startups (2015-2018)
+
+* designed and developed data visualizations using python, tableau, and power bi to communicate insights to stakeholders
+* analyzed and modeled data using sql, python, and r to gain business insights
+* developed and maintained databases using mysql and postgresql
+* worked with teams to develop and deploy data-driven products using agile methodology
+
+education:
+
+* master of science in computer science, xyz university (2015)
+	+ coursework: data mining, machine learning, database systems, and cloud computing
+* bachelor of engineering in computer science, pqr university (2013)
+
+certifications:
+
+* aws certified developer - associate
+* certified scrum master (csm)
+
+achievements:
+
+* developed and deployed a scalable data pipeline using airflow, spark, and docker that reduced data latency by 70%
+* improved data quality by 90% by implementing data validation and data quality checks using sql and python
+* managed and maintained a large-scale data warehouse using aws redshift and glue
+* developed and deployed a machine learning model using aws sagemaker that improved model accuracy by 25%
+
+references:
+available upon request.

@@ -1,0 +1,57 @@
+harshitha bansal
+contact information:
+
+* email: [harshitha.bansal@email.com](mailto:harshitha.bansal@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/harshithabansal
+
+summary:
+highly motivated and detail-driven data scientist with 3+ years of experience in analyzing and interpreting complex data to drive business decisions. proficient in a range of tools and technologies, including python, scikit-learn, tensorflow, and sql. proven track record of developing and implementing machine learning models that deliver actionable insights and drive business growth.
+
+technical skills:
+
+* programming languages: python, r
+* machine learning: scikit-learn, tensorflow, keras
+* deep learning: tensorflow, keras
+* data visualization: matplotlib, seaborn, plotly
+* statistical analysis: hypothesis testing, confidence intervals, regression analysis
+* data manipulation: pandas, numpy
+* database management: sql
+* a/b testing: google optimize
+* operating systems: windows, linux
+
+professional experience:
+
+data scientist, xyz corporation (2018-present)
+
+* led multiple data science projects, including predictive modeling, a/b testing, and data visualization
+* developed and deployed machine learning models using scikit-learn and tensorflow to improve customer engagement and conversion rates
+* worked closely with cross-functional teams to integrate data science insights into business decision-making
+* collaborated with the analytics team to design and implement a/b testing experiments using google optimize
+* developed and maintained a dashboard to track key performance indicators (kpis) and provide real-time insights to stakeholders
+
+data analyst, abc startups (2015-2018)
+
+* analyzed and interpreted large datasets to identify trends and patterns
+* developed and implemented statistical models using r to analyze customer behavior and preferences
+* created data visualizations using matplotlib and seaborn to communicate findings to stakeholders
+* worked with the product team to design and implement a/b testing experiments using sql and python
+* collaborated with the marketing team to develop and implement data-driven marketing campaigns
+
+education:
+
+* master of science in data science, university of california, berkeley (2015-2017)
+	+ coursework: machine learning, deep learning, natural language processing, data visualization
+* bachelor of science in computer science, indian institute of technology, delhi (2010-2014)
+	+ coursework: algorithms, data structures, computer systems, database systems
+
+achievements:
+
+* winner of the 2019 data science competition at xyz corporation, with a 25% improvement in customer engagement
+* featured speaker at the 2018 data science conference, presenting on "applying deep learning to customer segmentation"
+* published a paper on "predictive modeling for customer churn" in the journal of data science, 2019
+
+certifications:
+
+* certified data scientist, data science council of america, 2018
+* certified analytics professional, institute for operations research and the management sciences, 2016

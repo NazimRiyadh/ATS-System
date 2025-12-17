@@ -1,0 +1,57 @@
+here's a sample resume for juan green applying for the role of ui engineer:
+
+juan green
+contact information:
+
+* email: [juan.green@email.com](mailto:juan.green@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/juangreen
+* github: github.com/juangreen
+
+summary:
+highly motivated and detail-oriented ui engineer with expertise in crafting intuitive and visually appealing user interfaces using cutting-edge technologies. skilled in ui/ux design, wireframing, and front-end development using react, css, and javascript.
+
+technical skills:
+
+* programming languages: javascript (es6+), html5, css3
+* front-end frameworks: react, react native
+* ui/ux design tools: sketch, figma, adobe xd
+* wireframing tools: axure, adobe illustrator
+* version control: git, github
+* operating systems: windows, macos
+* familiarity with agile development methodologies
+
+professional experience:
+
+ui engineer, abc company (2020-present)
+
+* designed and implemented user interfaces for multiple web applications using react, css, and javascript
+* collaborated with cross-functional teams to create wireframes and prototypes for new features and products
+* developed and maintained reusable ui components and libraries to improve code efficiency and consistency
+* conducted a/b testing and usability research to inform design decisions
+
+front-end developer, def startups (2018-2020)
+
+* built and maintained front-end applications using javascript, html5, and css3
+* created responsive and accessible ui components using css preprocessors like sass
+* collaborated with designers to implement ui/ux designs into production-ready code
+* participated in code reviews and ensured adherence to coding standards
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+certifications:
+
+* react certified developer, react training (2020)
+* ui/ux design certification, udemy (2019)
+
+personal projects:
+
+* todo list app: a minimalistic react-based todo list app with features like drag-and-drop functionality and local storage
+* weather app: a weather application built using react, css, and javascript, featuring real-time weather updates and forecasts
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and style. also, proofread your resume multiple times for any grammar or formatting errors before submitting it. good luck with your job application!

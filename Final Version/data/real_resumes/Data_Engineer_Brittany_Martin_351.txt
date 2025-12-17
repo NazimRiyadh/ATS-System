@@ -1,0 +1,56 @@
+Here's a professional resume for Brittany Martin:
+
+Brittany Martin
+Data Engineer
+
+Contact Information:
+
+* Email: [brittany.martin@email.com](mailto:brittany.martin@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/brittany-martin
+
+Summary:
+Highly skilled Data Engineer with expertise in MLOps, Airflow, ETL, Cloud Platforms, Spark, and Data Warehousing. Proven track record of designing, developing, and deploying scalable, efficient, and reliable data solutions. Proficient in leading cross-functional teams and collaborating with stakeholders to drive business growth through data-driven insights.
+
+Technical Skills:
+
+* MLOps: Model deployment, monitoring, and management using tools like AWS SageMaker, TensorFlow, and scikit-learn
+* Airflow: Workflow orchestration and automation for data pipelines
+* ETL: Data extraction, transformation, and loading using tools like Apache Beam, AWS Glue, and Apache NiFi
+* Cloud Platforms: Experience with Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure
+* Spark: Apache Spark development and deployment for big data processing
+* Data Warehousing: Design and implementation of data warehouses using tools like Amazon Redshift, Google BigQuery, and Snowflake
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2020-Present)
+
+* Designed and developed multiple data pipelines using Airflow, Apache Beam, and AWS Glue to process millions of records per day
+* Collaborated with cross-functional teams to implement data-driven solutions, resulting in 25% increase in sales revenue
+* Led the migration of data warehouses from Amazon Redshift to Google BigQuery, reducing query latency by 75%
+* Developed and deployed machine learning models using TensorFlow and scikit-learn to predict customer churn, resulting in 15% reduction in churn rate
+
+Data Engineer, DEF Startups (2018-2020)
+
+* Built and maintained large-scale data processing pipelines using Apache Spark and Apache NiFi
+* Designed and implemented data warehouses using Amazon Redshift and Snowflake, providing insights for business growth
+* Developed and deployed data visualizations using Tableau and Power BI to support business decision-making
+* Collaborated with development teams to integrate data pipelines with applications, resulting in 30% increase in application usage
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Data Engineer, Google Cloud Certified (2020)
+* Certified Developer, Amazon Web Services (2019)
+
+Achievements:
+
+* Recipient of the ABC Corporation's "Employee of the Quarter" award (2020)
+* Featured speaker at the ABC Corporation's "Data Science and Engineering" conference (2020)
+* Published research paper on "Efficient Data Processing using Apache Spark and Apache NiFi" in the Journal of Data Science and Engineering (2020)
+
+References:
+Available upon request.

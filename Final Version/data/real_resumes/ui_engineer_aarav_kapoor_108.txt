@@ -1,0 +1,54 @@
+aarav kapoor
+ui engineer
+
+contact information:
+
+* email: [aarakapoor@email.com](mailto:aarakapoor@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/aaravkapoor
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and developing user interfaces for web applications. skilled in html, css, javascript, react, and ui/ux design. proficient in responsive design, web accessibility, version control, frontend testing, and web performance optimization.
+
+technical skills:
+
+* programming languages: html, css, javascript
+* frontend frameworks: react
+* ui/ux design: sketch, figma, adobe xd
+* responsive design: mobile-first approach, media queries
+* web accessibility: wcag 2.1, section 508
+* version control: git, svn
+* frontend testing: jest, enzyme
+* web performance: code splitting, lazy loading, image optimization
+
+professional experience:
+
+ui engineer, techcorp (2020-present)
+
+* designed and developed user interfaces for web applications using react, html, and css
+* collaborated with cross-functional teams to ensure ui/ux design meets accessibility and performance standards
+* implemented responsive design for mobile and tablet devices
+* conducted frontend testing using jest and enzyme
+* optimized web performance by implementing code splitting, lazy loading, and image optimization techniques
+
+junior ui engineer, startup inc. (2018-2020)
+
+* assisted in designing and developing user interfaces for web applications using html, css, and javascript
+* worked on responsive design for mobile and tablet devices
+* implemented web accessibility features using wcag 2.1 guidelines
+* collaborated with designers to create ui/ux designs for web applications
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+achievements:
+
+* won the "best ui/ux design" award at the techcorp hackathon (2020)
+* contributed to the open-source project, "react ui kit", which received 10,000+ stars on github (2020)
+* published an article on "web performance optimization techniques" on medium, which received 1,000+ reads (2019)
+
+certifications:
+
+* certified ui/ux designer, udemy (2019)
+* certified web accessibility specialist, w3c (2018)

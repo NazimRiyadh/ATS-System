@@ -1,0 +1,62 @@
+Here is a professional resume for Benjamin Rogers:
+
+Benjamin Rogers
+System Administrator
+
+Contact Information:
+
+* Address: 123 Main St, Anytown, USA 12345
+* Phone: (123) 456-7890
+* Email: [benjamin.rogers@email.com](mailto:benjamin.rogers@email.com)
+* LinkedIn: linkedin.com/in/benjaminrogers
+
+Summary:
+Highly motivated and detail-oriented system administrator with 5+ years of experience in managing and maintaining large-scale computer networks, virtualized environments, and system monitoring tools. Proven track record of improving network security, reducing downtime, and enhancing overall system performance. Skilled in Active Directory, networking, virtualization, and system monitoring.
+
+Technical Skills:
+
+* Active Directory (AD): AD DS, AD AM, Group Policy, and Security
+* Networking: TCP/IP, DNS, DHCP, VPN, and Network Security
+* Virtualization: VMware vSphere, Hyper-V, and VirtualBox
+* System Monitoring: Nagios, Prometheus, and Grafana
+* Operating Systems: Windows Server, Linux (Red Hat, Ubuntu), and macOS
+* Scripting: PowerShell, Bash, and Python
+
+Professional Experience:
+
+System Administrator, ABC Corporation (2018-Present)
+
+* Manage and maintain large-scale computer networks, including Active Directory, DNS, DHCP, and VPN
+* Implement and maintain system monitoring tools, including Nagios and Prometheus
+* Provide technical support and training to end-users and junior administrators
+* Collaborate with IT team to design and implement virtualized environments using VMware vSphere and Hyper-V
+* Develop and maintain scripts using PowerShell and Bash to automate system administration tasks
+* Improve network security by implementing firewalls, intrusion detection systems, and vulnerability scanning
+
+Junior System Administrator, DEF Company (2015-2018)
+
+* Assisted senior administrators with daily system administration tasks, including patch management and backups
+* Configured and deployed new servers, including Windows Server and Linux
+* Troubleshooted network issues and resolved problems using various diagnostic tools
+* Collaborated with IT team to design and implement a virtualized environment using VMware vSphere
+* Developed and maintained documentation for system administration procedures and best practices
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* CompTIA Network+ (2016)
+* CompTIA Security+ (2017)
+* Microsoft Certified: Azure Administrator Associate (2020)
+
+Achievements:
+
+* Successfully migrated 500+ users to a new Active Directory domain, resulting in 25% reduction in help desk tickets
+* Implemented a virtualized environment using VMware vSphere, resulting in 40% reduction in hardware costs
+* Developed and implemented a system monitoring tool using Nagios, resulting in 30% reduction in downtime
+* Collaborated with IT team to design and implement a security framework, resulting in 20% reduction in security incidents
+
+References:
+Available upon request.

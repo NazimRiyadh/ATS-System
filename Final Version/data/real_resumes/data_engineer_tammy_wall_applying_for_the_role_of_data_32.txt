@@ -1,0 +1,52 @@
+here's a sample resume for tammy wall applying for the role of data engineer:
+
+tammy wall
+contact information:
+
+* email: [tammy.wall@email.com](mailto:tammy.wall@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/tammywall
+* github: github.com/tammywall
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in designing, building, and maintaining large-scale data pipelines using airflow, etl, and cloud-based platforms. proven track record of delivering high-quality data solutions that drive business insights and inform strategic decision-making.
+
+technical skills:
+
+* airflow: experience with airflow 2.x, including dags, operators, sensors, and webhooks.
+* etl (extract, transform, load): strong understanding of etl concepts and experience with tools like apache beam, spark, and aws glue.
+* cloud platforms: proficient in aws, gcp, and azure, with experience in designing and deploying scalable data architectures.
+* big data processing: skilled in apache spark, including spark sql, dataframes, and datasets.
+* programming languages: experienced in python, java, and sql.
+* data storage: familiarity with relational databases (e.g., mysql, postgresql), nosql databases (e.g., mongodb, cassandra), and cloud-based data warehouses (e.g., redshift, bigquery).
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and developed multiple data pipelines using airflow, etl, and spark to support business intelligence and analytics initiatives.
+* collaborated with cross-functional teams to identify data requirements and develop data-driven solutions that informed business decisions.
+* implemented data quality checks and data validation mechanisms to ensure data accuracy and consistency.
+* deployed data pipelines on cloud-based platforms, including aws and gcp, to ensure scalability and reliability.
+
+data analyst, def startups (2015-2018)
+
+* developed and maintained data models using etl and spark to support data analysis and visualization.
+* created reports and dashboards using tableau and power bi to communicate insights to stakeholders.
+* collaborated with data scientists to develop predictive models and integrate them into production-ready pipelines.
+
+education:
+
+* bachelor's degree in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, google cloud (2020)
+* certified developer, apache spark (2019)
+
+projects:
+
+* developed a data pipeline using airflow and spark to process and analyze iot sensor data, resulting in a 30% reduction in processing time.
+* built a data warehouse using aws redshift and etl tools to support business intelligence and analytics initiatives, resulting in a 25% increase in data quality and accuracy.
+
+i hope this sample resume helps! remember to tailor your resume to the specific requirements of the job you're applying for, and highlight your unique experiences and skills.

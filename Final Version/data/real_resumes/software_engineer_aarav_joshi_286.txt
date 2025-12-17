@@ -1,0 +1,53 @@
+aarav joshi
+software engineer
+
+contact information:
+
+* email: [aarav.joshi@email.com](mailto:aarav.joshi@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/aaravjoshi
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in java, python, javascript, and system design. proficient in designing and implementing scalable, efficient, and maintainable software systems. profound knowledge of data structures, algorithms, rest apis, and microservices architecture.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, dynamic programming
+* system design: microservices architecture, restful apis, service-oriented architecture
+* development tools: git, jenkins, docker, kubernetes
+* cloud platforms: amazon web services (aws), microsoft azure
+
+professional experience:
+
+software engineer, xyz corporation (2020-present)
+
+* designed and developed scalable, high-performance software systems using java, python, and javascript
+* collaborated with cross-functional teams to identify and prioritize project requirements, ensuring timely delivery and high-quality results
+* implemented restful apis using spring boot and node.js, integrating with various data sources and services
+* utilized git, jenkins, and docker to manage code changes, automate testing, and deploy applications to production environments
+* participated in code reviews, ensuring adherence to coding standards, best practices, and security guidelines
+
+software development intern, abc startups (summer 2019)
+
+* contributed to the development of a web-based application using python, django, and react.js
+* worked on implementing data structures and algorithms to optimize system performance and scalability
+* assisted in the deployment of the application to a cloud platform using aws and docker
+
+education:
+
+* bachelor of technology in computer science, indian institute of technology (2016-2020)
+* master of science in computer science, stanford university (2020-2022)
+
+achievements:
+
+* winner, hackathon@iit (2018): developed a mobile application using java and android studio, winning first prize in the hackathon
+* publication, ieee conference on computer vision and pattern recognition (2020): co-authored a research paper on deep learning techniques for image classification, presenting at the ieee cvpr conference
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (2020)
+* certified java developer (ocpjp), oracle corporation (2019)
+
+references:
+available upon request.

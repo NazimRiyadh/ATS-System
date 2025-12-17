@@ -1,0 +1,57 @@
+here is a sample resume for a data engineer position:
+
+katrina michael
+
+contact information:
+
+* email: [katrina.michael@email.com](mailto:katrina.michael@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/katrinamichael
+
+summary:
+highly motivated and detail-oriented data engineer with experience in designing and implementing scalable data pipelines using mlops, airflow, and cloud platforms. proven track record of collaborating with cross-functional teams to deliver high-quality data solutions. skilled in cloud computing, data engineering, and machine learning operations.
+
+technical skills:
+
+* programming languages: python, r
+* data engineering: mlops, airflow, apache beam, apache spark
+* cloud platforms: aws, google cloud platform (gcp), azure
+* data storage: amazon s3, google cloud storage, azure blob storage
+* machine learning: tensorflow, pytorch, scikit-learn
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* designed and implemented data pipelines using mlops, airflow, and cloud platforms to support machine learning model deployment
+* collaborated with data scientists to develop and deploy predictive models using tensorflow and pytorch
+* developed and maintained data warehouses and data lakes using amazon s3 and google cloud storage
+* ensured data quality and integrity by implementing data validation and data profiling techniques
+* worked closely with cross-functional teams to deliver data-driven insights and recommendations to stakeholders
+
+junior data engineer, def startups (2016-2018)
+
+* assisted in designing and implementing data pipelines using apache beam and apache spark
+* developed and deployed data visualizations using tableau and power bi
+* collaborated with data analysts to develop and maintain data reports and dashboards
+* ensured data security and compliance by implementing data encryption and access controls
+
+education:
+
+* master of science in computer science, xyz university (2016)
+* bachelor of science in computer science, abc university (2014)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified cloud practitioner, aws (2018)
+
+projects:
+
+* mlops pipeline: designed and implemented an mlops pipeline using airflow, tensorflow, and aws to deploy a predictive model for customer churn prediction
+* data engineering for data science: developed a data engineering framework using apache beam and apache spark to support data science teams
+* cloud migration: migrated a data warehouse from on-premises to aws using amazon redshift and amazon s3
+
+references:
+available upon request.

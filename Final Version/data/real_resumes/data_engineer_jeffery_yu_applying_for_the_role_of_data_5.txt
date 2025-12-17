@@ -1,0 +1,62 @@
+here's a sample resume for jeffery yu applying for the role of data engineer:
+
+jeffery yu
+contact information:
+
+* email: [jefferyyu@email.com](mailto:jefferyyu@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/jefferyyu
+* github: github.com/jefferyyu
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, etl, and cloud platforms. proven track record of successfully designing, developing, and deploying scalable data pipelines and machine learning models. skilled in leading cross-functional teams to deliver high-quality solutions that meet business needs.
+
+technical skills:
+
+* cloud platforms:
+	+ amazon web services (aws): s3, ec2, lambda, glue, redshift
+	+ google cloud platform (gcp): cloud storage, cloud functions, cloud dataflow, bigquery
+	+ microsoft azure: blob storage, functions, data factory
+* data engineering:
+	+ mlops: model serving, model management, and model monitoring
+	+ airflow: workflow orchestration, dag design, and execution
+	+ etl: data extraction, transformation, and loading using apache beam, spark, and python
+	+ data warehousing: design and development of data models, etl processes, and data quality checks
+* programming languages:
+	+ python: experienced with python 2.7 and 3.x, including popular libraries like numpy, pandas, and scikit-learn
+	+ java: familiarity with java 8 and apache spark
+* databases:
+	+ relational databases: mysql, postgresql
+	+ nosql databases: mongodb, cassandra
+
+professional experience:
+
+senior data engineer, abc company (2018-present)
+
+* led the design and development of a scalable data pipeline using airflow, apache beam, and spark to process 10tb of data daily
+* collaborated with cross-functional teams to develop and deploy machine learning models using scikit-learn and tensorflow
+* designed and implemented a data warehousing solution using amazon redshift and aws glue
+* developed and maintained etl processes using python and apache spark to load data into various data stores
+
+data engineer, def start-up (2015-2018)
+
+* designed and developed data pipelines using apache beam and spark to process large datasets
+* worked with the data science team to develop and deploy machine learning models using scikit-learn and tensorflow
+* collaborated with the engineering team to develop and deploy a cloud-based data warehousing solution using google cloud platform
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, google cloud platform (2019)
+* certified apache spark developer, data science council of america (2018)
+
+projects:
+
+* mlops pipeline: developed a scalable mlops pipeline using airflow, apache beam, and spark to process 10tb of data daily
+* data warehouse: designed and developed a cloud-based data warehousing solution using amazon redshift and aws glue
+* etl process: developed and maintained an etl process using python and apache spark to load data into various data stores
+
+note that this is just a sample resume, and you should tailor your resume to your specific experiences and the job you're applying for. also, make sure to proofread your resume multiple times for any grammar or spelling errors before submitting it.

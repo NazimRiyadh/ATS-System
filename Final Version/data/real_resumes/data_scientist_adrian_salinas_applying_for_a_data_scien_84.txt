@@ -1,0 +1,59 @@
+here's a sample resume for adrian salinas applying for a data scientist position:
+
+adrian salinas
+contact information:
+
+* email: [adrian.salinas@email.com](mailto:adrian.salinas@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/adriansalinas
+* github: github.com/adriansalinas
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, and sql. proven track record of extracting insights from complex data sets and developing predictive models to drive business decisions. strong analytical and problem-solving skills, with excellent communication and collaboration abilities.
+
+technical skills:
+
+* programming languages: python (proficient), r (basic)
+* data analysis: pandas, numpy, matplotlib, seaborn
+* machine learning: scikit-learn, tensorflow
+* statistics: hypothesis testing, confidence intervals, regression analysis
+* database management: sql (postgresql, mysql)
+* data visualization: tableau, plotly
+* operating systems: windows, linux
+
+experience:
+
+data analyst, abc corporation (2018-2020)
+
+* collected, cleaned, and analyzed large datasets to inform business decisions
+* developed and implemented predictive models using python and scikit-learn to forecast sales and customer churn
+* created data visualizations using tableau to communicate insights to stakeholders
+* worked with cross-functional teams to integrate data analysis into business operations
+
+research assistant, university of xyz (2015-2018)
+
+* conducted statistical analysis of experimental data using r and python
+* developed and presented research findings to academic audiences
+* collaborated with researchers to design and implement studies
+* published research papers in peer-reviewed journals
+
+education:
+
+* master of science in statistics, university of xyz (2015-2017)
+* bachelor of science in mathematics, university of abc (2011-2015)
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+projects:
+
+* predicting customer churn: developed a machine learning model using python and scikit-learn to predict customer churn for a telecommunications company
+* analyzing stock market trends: built a time series analysis model using r to forecast stock prices and identify market trends
+* data visualization: created interactive data visualizations using tableau to explore and present insights on a dataset of company performance metrics
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and highlight your unique strengths and experiences.

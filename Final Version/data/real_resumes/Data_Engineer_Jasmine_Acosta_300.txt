@@ -1,0 +1,58 @@
+Here's a sample resume for Jasmine Acosta, a Data Engineer candidate:
+
+Jasmine Acosta
+Data Engineer
+
+Contact Information:
+
+* Email: [jasmine.acosta@email.com](mailto:jasmine.acosta@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/jasmineacosta
+* GitHub: github.com/jasmineacosta
+
+Summary:
+Results-driven Data Engineer with expertise in MLOps, Airflow, ETL, Big Data, and Cloud Platforms. Skilled in designing and implementing scalable data pipelines, data warehousing, and machine learning solutions. Proficient in programming languages, including Python, Java, and SQL. Passionate about leveraging data to drive business growth and innovation.
+
+Professional Experience:
+
+* Senior Data Engineer, ABC Corporation (2020-Present)
+	+ Designed and implemented large-scale data pipelines using Airflow, ETL processes, and Big Data technologies to support business intelligence and analytics.
+	+ Collaborated with data scientists to develop and deploy machine learning models using MLOps, resulting in a 30% increase in model accuracy.
+	+ Implemented data warehousing and data governance best practices to ensure data quality and compliance.
+	+ Mentored junior engineers in data engineering principles, Airflow, and ETL processes.
+* Data Engineer, DEF Startups (2018-2020)
+	+ Built and deployed data pipelines using Spark, Hadoop, and NoSQL databases to support data analytics and business intelligence.
+	+ Designed and implemented data warehouses using Snowflake and Redshift to support business reporting and analytics.
+	+ Collaborated with data scientists to develop and deploy machine learning models using Spark MLlib.
+	+ Implemented data security and compliance best practices to ensure data protection and regulatory compliance.
+
+Technical Skills:
+
+* Programming Languages: Python, Java, SQL, Scala
+* Big Data Technologies: Hadoop, Spark, NoSQL databases (HBase, Cassandra)
+* Cloud Platforms: AWS, GCP, Azure
+* Data Integration: ETL (Informatica, Talend), Airflow
+* Machine Learning: MLOps, Spark MLlib, scikit-learn
+* Data Warehousing: Snowflake, Redshift, Presto
+* Data Governance: Data cataloging, data lineage, data quality
+
+Achievements:
+
+* Winner, ABC Corporation Hackathon (2020): Developed a machine learning model using MLOps that predicted customer churn with 95% accuracy, resulting in a 25% reduction in customer loss.
+* Winner, DEF Startups Data Science Competition (2019): Developed a data pipeline using Spark and ETL processes that improved data quality and reduced data latency by 50%.
+* Published Research Paper: "Designing Scalable Data Pipelines using Airflow and ETL Processes" (Journal of Data Engineering, 2020)
+
+Education:
+
+* Master of Science in Computer Science, University of California, Berkeley (2018)
+* Bachelor of Science in Computer Science, University of Michigan, Ann Arbor (2016)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2020)
+* Certified Cloud Developer, Amazon Web Services (2019)
+
+References:
+Available upon request.
+
+Note: This is a sample resume, and you should tailor your own resume to your specific experience and the job you're applying for.

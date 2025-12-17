@@ -1,0 +1,55 @@
+Here's a sample resume for Matthew Burch, a Data Engineer candidate:
+
+Matthew Burch
+Contact Information:
+
+* Email: [mburch@email.com](mailto:mburch@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/matthewburch
+
+Summary:
+Highly skilled Data Engineer with 8+ years of experience in designing, developing, and implementing large-scale data warehousing and ETL solutions using Spark, Hadoop, and other big data technologies. Proven track record of delivering high-quality projects on time and on budget, with a strong focus on data quality, security, and scalability.
+
+Professional Experience:
+
+* Data Engineer, XYZ Corporation (2018-Present)
+	+ Designed and developed a large-scale data warehousing solution using Apache Spark, Hive, and Hadoop, resulting in a 30% reduction in data processing time and a 25% increase in query performance.
+	+ Developed and maintained complex ETL pipelines using Python, Scala, and Java, with a focus on data quality, security, and scalability.
+	+ Collaborated with cross-functional teams to identify business requirements and design data models that meet business needs.
+	+ Mentored junior engineers and provided technical guidance to ensure successful project delivery.
+* Senior Data Engineer, ABC Startups (2015-2018)
+	+ Led the design and development of a big data analytics platform using Spark, Hadoop, and NoSQL databases, resulting in a 50% increase in analytics capabilities and a 20% reduction in costs.
+	+ Developed and implemented data governance policies and procedures to ensure data quality, security, and compliance.
+	+ Collaborated with business stakeholders to identify business requirements and design data models that meet business needs.
+	+ Managed a team of 3 junior engineers and provided technical guidance to ensure successful project delivery.
+
+Education:
+
+* Bachelor of Science in Computer Science, University of California, Berkeley (2010-2014)
+
+Technical Skills:
+
+* Programming languages: Python, Scala, Java, SQL
+* Big data technologies: Apache Spark, Hadoop, Hive, HBase
+* Data warehousing: Snowflake, Amazon Redshift
+* ETL tools: Informatica PowerCenter, Talend
+* Operating Systems: Linux, Windows
+* Agile methodologies: Scrum, Kanban
+
+Achievements:
+
+* Certified Apache Spark Developer (2019)
+* Certified Data Engineer, Cloudera (2018)
+* Winner of the 2017 Data Science Bowl, a prestigious data science competition
+* Published papers on big data analytics and data warehousing in top-tier conferences and journals
+
+Certifications:
+
+* Certified Apache Spark Developer (2019)
+* Certified Data Engineer, Cloudera (2018)
+* Certified Scrum Master (2016)
+
+References:
+Available upon request.
+
+This is just a sample resume, and you should customize it to fit your specific experiences and qualifications. Remember to use clear and concise language, and to highlight your achievements and skills in a clear and organized manner.

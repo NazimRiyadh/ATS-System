@@ -1,0 +1,63 @@
+Here's a professional resume for Alexandra Villarreal:
+
+Alexandra Villarreal
+System Administrator
+
+Contact Information:
+
+* Email: [avillarreal@email.com](mailto:avillarreal@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/alexandravillarreal
+
+Summary:
+Highly skilled and experienced System Administrator with a strong background in Linux/Unix, Windows Server, Active Directory, Networking, and Virtualization. Proven track record of delivering high-quality services, ensuring seamless system operations, and providing excellent customer support. Proficient in troubleshooting complex technical issues and collaborating with cross-functional teams to drive business success.
+
+Technical Skills:
+
+* Operating Systems: Linux (Ubuntu, CentOS, RHEL), Unix (Solaris, AIX), Windows Server (2008, 2012, 2016)
+* Networking: TCP/IP, DNS, DHCP, VLANs, VPNs, Firewalls
+* Virtualization: VMware, Hyper-V
+* Active Directory: Design, implementation, and management of AD infrastructure
+* Scripting: Bash, PowerShell, Perl
+* Cloud Platforms: AWS, Azure
+* Collaboration Tools: Microsoft Office 365, Slack, Jira
+
+Professional Experience:
+
+System Administrator, XYZ Corporation (2018-Present)
+
+* Designed, implemented, and managed Windows Server and Linux/Unix environments for multiple clients
+* Configured and deployed Active Directory services, including AD DS, AD LDS, and AD CS
+* Managed network infrastructure, including routers, switches, and firewalls
+* Implemented virtualization solutions using VMware and Hyper-V
+* Provided 24/7 support for system administration tasks, including troubleshooting and incident response
+* Collaborated with development teams to ensure smooth deployment of new applications and services
+
+Senior Linux Administrator, ABC Company (2015-2018)
+
+* Managed and maintained large-scale Linux environments, including Ubuntu and CentOS
+* Configured and deployed Linux-based servers for web, database, and email services
+* Implemented security measures, including firewall rules and access control lists
+* Assisted in the implementation of virtualization solutions using VMware
+* Provided technical support and training to junior administrators
+* Participated in on-call rotations and responded to after-hours support requests
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2015)
+
+Certifications:
+
+* CompTIA A+ (2016)
+* CompTIA Server+ (2017)
+* Microsoft Certified: Azure Administrator Associate (2020)
+
+Achievements:
+
+* Successfully migrated a large-scale Linux environment to a new data center, reducing downtime by 90%
+* Implemented a centralized logging solution using Splunk, reducing mean time to detect (MTTD) by 50%
+* Developed and deployed a custom PowerShell script to automate system administration tasks, increasing efficiency by 30%
+* Collaborated with the development team to implement a containerization solution using Docker, reducing application deployment time by 80%
+
+References:
+Available upon request.

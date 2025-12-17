@@ -1,0 +1,52 @@
+ananya singh
+contact information:
+
+* email: [ananya.singh@email.com](mailto:ananya.singh@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/ananyasingh
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in developing and deploying predictive models, analyzing complex data sets, and communicating insights to stakeholders. proficient in a range of machine learning algorithms, statistical techniques, and data visualization tools. strong passion for staying up-to-date with industry trends and best practices.
+
+technical skills:
+
+* programming languages: python
+* machine learning frameworks: scikit-learn, tensorflow
+* data visualization tools: matplotlib, seaborn, tableau
+* statistical analysis: hypothesis testing, confidence intervals, regression analysis
+* databases: sql
+* operating systems: windows, linux
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+data scientist, abc company (2020-present)
+
+* developed and deployed predictive models using machine learning algorithms to improve customer conversion rates by 25%
+* analyzed large datasets to identify trends and insights, presenting findings to stakeholders through data visualizations and reports
+* collaborated with cross-functional teams to design and implement a/b testing experiments, resulting in a 15% increase in sales
+* utilized sql to extract and manipulate data from databases, ensuring data quality and integrity
+
+data analyst, def startups (2018-2020)
+
+* conducted statistical analysis to identify correlations between variables, informing business decisions
+* built and maintained databases using sql, ensuring data accuracy and consistency
+* created data visualizations using tableau to communicate insights to non-technical stakeholders
+* developed and deployed machine learning models using scikit-learn to predict customer churn, resulting in a 20% reduction in churn rate
+
+education:
+
+* master of science in data science, university of x (2018)
+	+ coursework: machine learning, deep learning, natural language processing, data visualization
+	+ thesis: "an exploration of neural network architectures for image classification"
+* bachelor of science in computer science, university of y (2016)
+	+ coursework: algorithms, data structures, computer systems, software engineering
+
+achievements:
+
+* kaggle competitions: participated in several kaggle competitions, achieving top 10% rankings in multiple events
+* certifications: certified in tensorflow developer associate and certified data scientist by data science council of america
+* publications: published research papers in conferences and journals, including "an application of deep learning for image classification" in the international journal of machine learning and artificial intelligence
+
+references:
+available upon request.

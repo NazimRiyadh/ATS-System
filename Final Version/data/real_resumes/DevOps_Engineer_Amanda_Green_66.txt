@@ -1,0 +1,66 @@
+Here is a sample resume for a DevOps Engineer candidate, Amanda Green:
+
+Amanda Green
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [agreen@email.com](mailto:agreen@email.com)
+* LinkedIn: linkedin.com/in/amandagreendevops
+* GitHub: github.com/agreen
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in containerization, orchestration, and automation. Proven track record of delivering high-quality, scalable, and secure infrastructure solutions using Docker, Kubernetes, and Ansible. Skilled in Infrastructure as Code, Monitoring Tools, and CI/CD pipelines.
+
+Technical Skills:
+
+* Containerization: Docker, Kubernetes
+* Orchestration: Kubernetes, Ansible
+* Infrastructure as Code: Terraform, AWS CloudFormation
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* CI/CD Pipelines: Jenkins, GitLab CI/CD
+* Operating Systems: Linux (Ubuntu, CentOS), Windows
+* Programming Languages: Python, Bash, Ansible
+* Version Control Systems: Git
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Company (2018-Present)
+
+* Designed and implemented a scalable and secure containerized application using Docker and Kubernetes
+* Developed and maintained infrastructure as code using Terraform and Ansible
+* Implemented monitoring and logging tools using Prometheus, Grafana, and New Relic
+* Collaborated with cross-functional teams to improve CI/CD pipelines and reduce deployment times
+* Mentored junior engineers in containerization, orchestration, and automation
+* Achievements:
+	+ Reduced deployment times by 75% using CI/CD pipelines
+	+ Improved application scalability by 300% using containerization and orchestration
+	+ Implemented security best practices using encryption and access controls
+
+DevOps Engineer, DEF Company (2015-2018)
+
+* Designed and implemented a cloud-based infrastructure using AWS CloudFormation and Ansible
+* Developed and maintained CI/CD pipelines using Jenkins and GitLab CI/CD
+* Implemented monitoring and logging tools using Prometheus, Grafana, and New Relic
+* Collaborated with cross-functional teams to improve application performance and availability
+* Achievements:
+	+ Reduced application downtime by 90% using monitoring and logging tools
+	+ Improved application performance by 200% using cloud-based infrastructure and automation
+	+ Implemented security best practices using encryption and access controls
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA), Cloud Native Computing Foundation (2019)
+* Certified Ansible Automation Professional (CAP), Red Hat (2018)
+
+Personal Projects:
+
+* Developed a Docker-based web application using Python and Flask, available on GitHub: [github.com/agreen/docker-web-app](github.com/agreen/docker-web-app)
+* Created a Kubernetes-based CI/CD pipeline using Jenkins and GitLab CI/CD, available on GitHub: [github.com/agreen/kubernetes-cicd](github.com/agreen/kubernetes-cicd)
+
+I hope this sample resume helps you! Remember to customize your own resume to fit your specific experience and the job you're applying for.

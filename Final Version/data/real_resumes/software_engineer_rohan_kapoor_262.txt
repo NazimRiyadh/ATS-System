@@ -1,0 +1,51 @@
+rohan kapoor
+contact information:
+
+* email: [rohan.kapoor@email.com](mailto:rohan.kapoor@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/rohankapoor
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable and efficient software systems. proficient in multiple programming languages, including java, python, and javascript, with expertise in system design, algorithms, data structures, and rest apis. skilled in using git, ci/cd, and microservices to deliver high-quality software products.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design patterns: microservices, event-driven, service-oriented
+* algorithms and data structures: sorting, searching, graphs, trees, hash tables
+* rest apis: design, development, testing
+* version control: git, svn
+* ci/cd: jenkins, docker, kubernetes
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+software engineer, techcorp (jan 2020 - present)
+
+* designed and developed multiple microservices using java, python, and node.js, resulting in a 30% reduction in development time and a 25% improvement in system efficiency.
+* collaborated with cross-functional teams to identify and prioritize features, ensuring alignment with business objectives.
+* implemented rest apis using spring boot, flask, and express.js, with a focus on scalability, security, and performance.
+* utilized git, jenkins, and docker to automate testing, deployment, and monitoring of the software system.
+* participated in code reviews, ensuring high-quality code and adherence to coding standards.
+
+junior software engineer, softcorp (jun 2018 - dec 2019)
+
+* contributed to the development of a web application using python, django, and react.js, resulting in a 20% increase in user engagement.
+* worked on implementing algorithms and data structures to optimize system performance, leading to a 15% improvement in system efficiency.
+* collaborated with the qa team to identify and resolve bugs, ensuring high-quality software releases.
+* participated in code reviews and provided feedback to improve coding standards and best practices.
+
+education:
+
+* bachelor of technology in computer science, indian institute of technology (iit) delhi (2015-2019)
+* master of science in computer science, university of california, berkeley (2019-2020)
+
+achievements:
+
+* winner, hackathon 2020: developed a scalable and efficient chatbot using node.js, express.js, and mongodb, winning the hackathon 2020 competition.
+* published research paper: co-authored a research paper on "efficient data processing using graph algorithms" published in the journal of data science.
+* certified in java, python, and javascript: certified in java, python, and javascript programming languages through online courses and certifications.
+
+references:
+available upon request.

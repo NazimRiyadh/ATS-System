@@ -1,0 +1,51 @@
+here's a sample resume for lisa le applying for a data engineer role:
+
+lisa le
+contact information:
+
+* email: [lisa.le@email.com](mailto:lisa.le@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/lisale
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, etl, cloud platforms, and spark. proven track record of designing, developing, and deploying scalable data pipelines and machine learning models. skilled in airflow, data warehousing, and big data processing.
+
+technical skills:
+
+* mlops: model serving, model deployment, model monitoring, and model versioning
+* airflow: design, development, and deployment of data pipelines using airflow
+* etl: data extraction, transformation, and loading using python, sql, and data warehousing tools
+* cloud platforms: aws, gcp, azure, with experience in cloud-based data processing and storage
+* spark: big data processing using apache spark, including spark sql, spark streaming, and spark mllib
+* programming languages: python, sql, java
+* data warehousing: design and development of data warehouses using snowflake, redshift, and bigquery
+* database management: experience with mysql, postgresql, and nosql databases
+
+professional experience:
+
+data engineer, abc company (20xx-20xx)
+
+* designed and developed scalable data pipelines using airflow, etl, and spark
+* deployed machine learning models using mlops best practices, resulting in 25% increase in model accuracy
+* collaborated with data scientists to design and implement data pipelines for model training and deployment
+* implemented data quality checks and monitoring using apache beam and spark
+* migrated data pipelines from on-prem to cloud-based platforms using aws and gcp
+
+data analyst, def startups (20xx-20xx)
+
+* developed and maintained data models using python and sql
+* designed and implemented etl processes using python, sql, and data warehousing tools
+* created data visualizations using tableau and power bi
+* collaborated with cross-functional teams to identify business opportunities and drive data-driven decisions
+
+education:
+
+* bachelor of science in computer science, xyz university (20xx-20xx)
+
+certifications:
+
+* certified data engineer, data science council of america (20xx)
+* certified apache spark developer, apache software foundation (20xx)
+
+references:
+available upon request.

@@ -1,0 +1,48 @@
+here's a sample resume for hannah cook applying for a data engineer role:
+
+hannah cook
+contact information:
+
+* email: [hannah.cook@email.com](mailto:hannah.cook@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/hannahcook
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in designing, developing, and maintaining large-scale data pipelines using airflow, etl, and spark. proven track record of delivering high-quality data products on time and on budget. proficient in leveraging data engineering principles to extract insights from complex data sets and drive business growth.
+
+technical skills:
+
+* airflow: experienced in designing, building, and maintaining complex workflows using apache airflow. proficient in using airflow's dags, operators, and sensors to automate data pipelines.
+* etl: skilled in extracting, transforming, and loading data from various sources into data warehouses and data lakes using etl tools such as apache beam, apache nifi, and aws glue.
+* spark: proficient in using apache spark for large-scale data processing and analytics. experienced in using spark's rdd, dataframes, and datasets apis to process and transform data.
+* programming languages: python, java, sql
+* data storage: experienced with various data storage solutions, including hadoop, spark, and nosql databases.
+* version control: proficient in using git for version control and collaboration.
+
+professional experience:
+
+data engineer, xyz corporation (2020-present)
+
+* designed and developed complex data pipelines using airflow to automate data processing and analytics for a large-scale retail customer.
+* collaborated with cross-functional teams to implement etl processes for data warehousing and data lake initiatives.
+* utilized spark for large-scale data processing and analytics, resulting in a 30% reduction in processing time.
+* built and maintained data visualizations using tableau and power bi to drive business insights.
+
+data analyst, abc start-up (2018-2020)
+
+* designed and developed data pipelines using python and etl tools to extract insights from customer data.
+* analyzed and visualized data using sql, python, and tableau to inform business decisions.
+* collaborated with the development team to integrate data analysis into product development.
+
+education:
+
+* bachelor of science in computer science, [university name] (2018)
+
+certifications:
+
+* certified data engineer, [certification name] (2020)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for. good luck with your job search!

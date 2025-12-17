@@ -1,0 +1,58 @@
+here's a sample resume for ian small applying for a data scientist role:
+
+ian small
+contact information:
+
+* email: [ian.small@email.com](mailto:ian.small@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/iansmall
+* github: github.com/iansmall
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, deep learning, and sql. proven ability to extract insights from complex datasets and drive business decisions with data-driven recommendations. proficient in designing and implementing machine learning models, as well as communicating complex technical concepts to non-technical stakeholders.
+
+technical skills:
+
+* programming languages: python (proficient), r (basic)
+* deep learning frameworks: tensorflow (expert), pytorch (intermediate)
+* database management: sql (advanced), nosql (basic)
+* data visualization: matplotlib, seaborn, plotly
+* operating systems: windows, linux, macos
+* familiarity with cloud platforms: aws, google cloud
+
+professional experience:
+
+data scientist, xyz corporation (2018-present)
+
+* designed and developed predictive models using deep learning techniques to forecast sales and customer churn
+* built and maintained large-scale databases using sql and nosql technologies
+* collaborated with cross-functional teams to identify business opportunities and develop data-driven solutions
+* developed and deployed data visualization dashboards to communicate insights to stakeholders
+* mentored junior data scientists and engineers to improve team efficiency and knowledge sharing
+
+junior data scientist, abc startup (2015-2018)
+
+* worked on multiple machine learning projects to classify text data and predict user behavior
+* implemented data pipelines using python and sql to collect and preprocess data
+* developed and maintained data visualizations to communicate insights to stakeholders
+* participated in agile development methodologies to iterate on data science projects
+
+education:
+
+* master of science in data science, university of california, berkeley (2015)
+	+ coursework: machine learning, natural language processing, data mining
+* bachelor of science in computer science, stanford university (2010-2014)
+	+ coursework: algorithms, computer systems, database systems
+
+certifications:
+
+* certified data scientist, data science council of america (2017)
+* certified analytics professional, institute for operations research and the management sciences (2016)
+
+projects:
+
+* deep learning-based image classification: developed a deep learning model using tensorflow to classify images into different categories. achieved an accuracy of 95% on the test dataset.
+* predicting customer churn: built a predictive model using pytorch to forecast customer churn. improved the accuracy of the model by 20% by incorporating additional features.
+* text classification: developed a natural language processing pipeline using python and nltk to classify text data into different categories. achieved an accuracy of 90% on the test dataset.
+
+i hope this sample resume helps! remember to customize your resume to the specific job description and highlight your unique strengths and experiences. good luck with your job search!

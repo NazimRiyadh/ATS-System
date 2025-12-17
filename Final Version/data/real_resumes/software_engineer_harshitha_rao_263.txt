@@ -1,0 +1,49 @@
+harshitha rao
+contact information:
+
+* email: [harshitha.rao@email.com](mailto:harshitha.rao@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/harshitharao
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable software systems. proficient in a range of programming languages, including java, python, and javascript, with a strong foundation in system design, algorithms, and data structures.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, rest apis, api gateway, load balancers
+* algorithms and data structures: arrays, linked lists, stacks, queues, trees, graphs
+* development tools: git, ci/cd pipelines (jenkins, gitlab ci/cd), docker
+* databases: relational databases (mysql, postgresql), nosql databases (mongodb)
+* operating systems: windows, linux
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+* software engineer, xyz corporation (2020-present)
+	+ designed and developed multiple microservices using java and spring boot, resulting in a 30% increase in system throughput
+	+ implemented rest apis using node.js and express.js, with a 95% success rate on api calls
+	+ collaborated with cross-functional teams to deploy and maintain ci/cd pipelines, reducing deployment time by 50%
+	+ participated in code reviews, providing feedback and improving code quality
+* software development intern, abc startups (summer 2019)
+	+ contributed to the development of a machine learning model using python and scikit-learn, resulting in a 25% improvement in model accuracy
+	+ assisted in the implementation of a web scraper using javascript and cheerio, with a 90% success rate on data extraction
+
+education:
+
+* bachelor of technology in computer science, university of hyderabad (2016-2020)
+	+ coursework: data structures, algorithms, computer networks, operating systems, database systems
+	+ project: designed and implemented a chatbot using natural language processing and machine learning techniques
+
+achievements:
+
+* winner, codefest 2020 (coding competition): developed a solution using python and algorithms, ranking 1st among 500 participants
+* recipient, best project award, university of hyderabad (2019): developed a project using java and spring boot, ranking 1st among 200 participants
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (2020)
+* certified java developer (ocpjp), oracle corporation (2019)
+
+references:
+available upon request.

@@ -1,0 +1,63 @@
+Here's a sample resume for Hank Smith, a Data Engineer who was select for the role:
+
+**Hank Smith**
+**Data Engineer**
+
+**Contact Information:**
+
+* Email: [hsmith@email.com](mailto:hsmith@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/hanksmith
+* GitHub: github.com/hanksmith
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, building, and maintaining large-scale data systems. Proven track record of delivering high-quality solutions on time and on budget. Skilled in a range of technologies, including Hadoop, Spark, and cloud-based platforms.
+
+**Technical Skills:**
+
+* Programming languages: Java, Python, Scala, SQL
+* Big Data technologies: Hadoop, Spark, Hive, Pig
+* Cloud platforms: AWS, GCP, Azure
+* Data storage: Oracle, MySQL, Cassandra, HBase
+* Data processing: Apache Beam, Apache Flink
+* Data visualization: Tableau, Power BI
+* Operating Systems: Linux, Windows
+
+**Professional Experience:**
+
+* **Data Engineer, ABC Company (2018-Present)**
+	+ Designed and implemented a data pipeline using Apache Beam and Cloud Dataflow to process 10 TB of data per day
+	+ Built and maintained a data warehouse using Amazon Redshift and AWS Glue
+	+ Developed and deployed a real-time analytics platform using Apache Flink and Apache Kafka
+	+ Collaborated with cross-functional teams to develop and deploy data-driven applications
+	+ Mentored junior engineers on data engineering best practices and technologies
+* **Senior Data Analyst, DEF Startups (2015-2018)**
+	+ Designed and implemented data visualizations using Tableau and Power BI to support business decision-making
+	+ Built and maintained data models using SQL and Oracle
+	+ Developed and deployed data pipelines using Apache Spark and Hadoop
+	+ Conducted data analysis and created reports to support business strategy
+	+ Presented findings and recommendations to stakeholders
+
+**Achievements:**
+
+* Successfully reduced data processing time by 50% using Apache Spark and AWS
+* Improved data quality by 30% using data validation and error handling techniques
+* Improved data warehouse performance by 25% using optimized queries and indexing
+* Received the "Data Engineer of the Year" award at ABC Company in 2020
+
+**Projects:**
+
+* **Data Lake Modernization**: Designed and implemented a data lake using Apache Hadoop and AWS S3 to store and process large-scale data sets
+* **Real-Time Analytics Platform**: Developed and deployed a real-time analytics platform using Apache Flink and Apache Kafka to support business decision-making
+* **Machine Learning Model Deployment**: Built and deployed a machine learning model using TensorFlow and AWS SageMaker to predict customer churn
+* **Data Quality Improvement**: Developed and implemented a data quality framework using Apache Beam and Apache Airflow to improve data quality and reduce errors
+
+**Education:**
+
+* **Master of Science in Computer Science, XYZ University (2015)**
+* **Bachelor of Science in Computer Science, ABC University (2013)**
+
+**Certifications:**
+
+* **Certified Data Engineer, Data Science Council of America (2019)**
+* **Certified Big Data Developer, Hortonworks (2017)**

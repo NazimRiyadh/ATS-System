@@ -1,0 +1,57 @@
+Here's a sample resume for Kristen Horton, a candidate applying for a Machine Learning Engineer position:
+
+Kristen Horton
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [khorton@email.com](mailto:khorton@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/kristenhorton
+
+Summary:
+Highly motivated and detail-oriented Machine Learning Engineer with 5+ years of experience in developing and deploying scalable machine learning models using Python, Scikit-learn, and PyTorch. Proven track record of improving model performance through feature engineering and hyperparameter tuning. Proficient in working with large datasets and collaborating with cross-functional teams to drive business growth through data-driven insights.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine learning frameworks: Scikit-learn, PyTorch, TensorFlow
+* Data preprocessing and feature engineering: Pandas, NumPy, Scikit-learn
+* Hyperparameter tuning: GridSearchCV, Random Search, Bayesian Optimization
+* Deep learning: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks
+* Data visualization: Matplotlib, Seaborn, Plotly
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Company (2020-Present)
+
+* Developed and deployed multiple machine learning models using Scikit-learn and PyTorch to predict customer churn, improve product recommendations, and optimize marketing campaigns
+* Collaborated with data scientists and engineers to design and implement feature engineering pipelines, resulting in 25% improvement in model accuracy
+* Conducted hyperparameter tuning using GridSearchCV and Random Search, leading to a 30% reduction in model training time
+* Worked with cross-functional teams to integrate machine learning models into production environments, resulting in a 15% increase in revenue
+
+Data Scientist, DEF Startups (2018-2020)
+
+* Developed and deployed machine learning models using Scikit-learn and TensorFlow to classify images and predict user behavior
+* Designed and implemented feature engineering pipelines using Pandas and NumPy, resulting in a 20% improvement in model accuracy
+* Collaborated with data analysts to extract insights from large datasets and visualize results using Matplotlib and Seaborn
+* Worked with product managers to integrate machine learning models into product features, resulting in a 20% increase in user engagement
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2018)
+	+ Thesis: "Deep Learning for Image Classification using Convolutional Neural Networks"
+* Bachelor of Science in Computer Science, ABC University (2016)
+
+Achievements:
+
+* Best Paper Award, International Conference on Machine Learning (ICML) 2020
+* Finalist, Data Science Competition, Google Cloud AI Platform 2019
+* Recipient, Google Cloud Machine Learning Engineer Scholarship, 2018
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (DASCA)
+* Certified Machine Learning Engineer, Google Cloud AI Platform
+
+I hope this sample resume helps! Remember to tailor your resume to the specific job you're applying for, and highlight your unique skills and experiences. Good luck with your job search!

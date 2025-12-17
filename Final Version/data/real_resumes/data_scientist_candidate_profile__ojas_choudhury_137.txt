@@ -1,0 +1,37 @@
+**candidate profile: ojas choudhury**
+
+**interview for data scientist role**
+
+ojas demonstrated enthusiasm and a willingness to learn during the interview, but several areas of concern emerged that impact their fit for the data scientist role. while they have a strong academic background, their skills and experience did not fully align with the job requirements.
+
+**key areas of concern:**
+
+1. **machine learning:** ojas lacks hands-on experience with machine learning algorithms, models, and techniques. they mentioned having a basic understanding of the concepts but did not demonstrate the ability to apply them in practice.
+2. **statistics:** ojas's understanding of statistical concepts, such as hypothesis testing, confidence intervals, and regression analysis, was limited. they struggled to explain the underlying principles and apply them to real-world scenarios.
+3. **data visualization:** ojas is not proficient in data visualization tools, such as tableau, power bi, or matplotlib. they relied heavily on verbal descriptions to convey insights, rather than creating visualizations to support their points.
+4. **big data:** ojas has no experience working with large datasets, distributed processing, or big data technologies, such as hadoop, spark, or nosql databases.
+5. **programming:** while ojas has basic knowledge of python, they lack experience with r programming language, which is a requirement for this role. they also struggled to write efficient and readable code.
+6. **experience:** ojas's work experience is limited to data entry and basic data analysis, which did not involve complex data modeling, machine learning, or data visualization.
+
+**concerns raised during the interview:**
+
+* difficulty explaining complex statistical concepts and applying them to real-world scenarios.
+* struggling to write efficient and readable code in python.
+* lack of familiarity with data visualization tools and techniques.
+* limited experience with big data technologies and large datasets.
+* difficulty with certain tasks, such as data wrangling and feature engineering.
+
+**potential for growth:**
+
+despite these gaps, ojas demonstrated a strong desire to learn and grow. they were open to feedback and eager to develop their skills in areas where they felt they needed improvement. with further training and exposure, they have the potential to develop the necessary skills to excel in a data scientist role.
+
+**recommendations:**
+
+to address the skills gaps, we recommend providing ojas with:
+
+* training in machine learning algorithms, statistical concepts, and data visualization tools.
+* mentorship and guidance on programming languages, such as r, and big data technologies.
+* opportunities to work on complex data modeling, data wrangling, and feature engineering projects.
+* feedback and regular check-ins to track progress and provide guidance.
+
+by investing in ojas's growth and development, we believe they have the potential to become a valuable data scientist contributor.

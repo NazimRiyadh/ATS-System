@@ -1,0 +1,36 @@
+**candidate profile: amisha bedi**
+
+**role:** data scientist
+
+**interview notes:**
+
+amisha bedi demonstrated a strong foundation in computer science and a willingness to learn, but unfortunately, her skills and experience did not entirely align with the requirements of the data scientist role. while she has a solid background in computer science, her proficiency in key areas was limited, and she struggled with certain tasks during the interview.
+
+**key areas for improvement:**
+
+1. **machine learning:** amisha lacked hands-on experience with machine learning algorithms and techniques. she acknowledged the importance of ml in data science but expressed difficulty in understanding complex concepts such as neural networks and deep learning.
+2. **statistics:** her statistical knowledge, particularly in hypothesis testing and confidence intervals, was limited. she struggled to apply statistical concepts to real-world problems and had trouble interpreting results.
+3. **data visualization:** amisha was unfamiliar with popular data visualization tools like tableau, power bi, or d3.js. she had difficulty creating interactive and informative visualizations to communicate insights effectively.
+4. **big data:** her experience with big data technologies like hadoop, spark, or nosql databases was non-existent. she had trouble understanding the concept of distributed computing and data processing.
+5. **programming languages:** while amisha has experience with java, she lacks proficiency in python and r, which are essential languages for data science. she found it challenging to write clean, efficient, and readable code in these languages.
+6. **experience with specialized tools and technologies:** amisha's lack of experience with tools like apache cassandra, apache kafka, or docker was a significant concern. she struggled to understand the concept of containerization and microservices.
+7. **insufficient practical experience:** her limited experience in data science projects and lack of exposure to real-world problems made it difficult for her to apply theoretical concepts to practical scenarios.
+
+**concerns raised during the interview:**
+
+1. difficulty with complex data processing and manipulation tasks
+2. struggle to understand and interpret statistical results
+3. limited ability to create effective data visualizations
+4. inability to write efficient and readable code in python and r
+5. lack of familiarity with specialized tools and technologies
+
+**potential for growth:**
+
+despite the gaps in her skills and experience, amisha demonstrated a strong desire to learn and grow. with further training, mentorship, and exposure to real-world projects, she has the potential to develop the necessary skills to become a successful data scientist. her strong computer science background and problem-solving skills make her a strong candidate for a training program or a role that provides on-the-job learning opportunities.
+
+**recommendations:**
+
+1. provide amisha with a comprehensive training program in machine learning, statistics, data visualization, and big data technologies.
+2. offer mentorship and guidance from experienced data scientists to help her develop practical skills and apply theoretical concepts to real-world problems.
+3. encourage amisha to work on personal projects and contribute to open-source initiatives to gain practical experience and build her portfolio.
+4. consider hiring amisha for a role that provides on-the-job learning opportunities and allows her to develop her skills in a supportive environment.

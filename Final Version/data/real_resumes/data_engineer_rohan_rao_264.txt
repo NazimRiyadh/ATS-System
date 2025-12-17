@@ -1,0 +1,55 @@
+rohan rao
+contact information:
+
+* email: [rohan.rao@email.com](mailto:rohan.rao@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/rohanrao
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data processing systems. proven expertise in python, sql, etl, and data warehousing technologies, with a strong understanding of data modeling and cloud computing. skilled in airflow, spark, aws, docker, and kubernetes.
+
+technical skills:
+
+* programming languages: python, sql
+* data processing: etl (extract, transform, load), airflow
+* big data: apache spark, hadoop
+* data warehousing: data modeling, star and snowflake schema design
+* cloud computing: aws (s3, ec2, redshift), docker, kubernetes
+* operating systems: linux, windows
+* tools: git, jupyter notebook, postgresql, mysql
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* design and develop large-scale data processing systems using python, spark, and airflow
+* develop and maintain data warehouses on aws redshift, including etl processes and data modeling
+* collaborate with cross-functional teams to identify business requirements and design data solutions
+* implement data quality checks and data validation using sql and python
+* deploy and manage docker containers on kubernetes clusters
+
+data engineer, def startups (2015-2018)
+
+* designed and developed etl processes using python and airflow for data ingestion and processing
+* developed data models and star schema designs for data warehousing on aws redshift
+* implemented data quality checks and data validation using sql and python
+* worked with data scientists to develop predictive models using spark and python
+
+education:
+
+* master of science in computer science, xyz university (2015)
+* bachelor of technology in computer science, pqr university (2013)
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified scrum master, scrum alliance (2017)
+
+achievements:
+
+* developed and deployed a large-scale data processing system using spark and airflow, resulting in a 30% reduction in data processing time
+* designed and implemented a data warehouse on aws redshift, resulting in a 25% increase in business insights
+* collaborated with data scientists to develop predictive models using spark and python, resulting in a 20% increase in model accuracy
+
+references:
+available upon request.

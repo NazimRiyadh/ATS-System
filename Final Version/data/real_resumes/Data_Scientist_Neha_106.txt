@@ -1,0 +1,65 @@
+**Neha**
+**Contact Information:**
+
+* Email: [nehaj@gmail.com](mailto:nehaj@gmail.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/nehaj
+
+**Objective:**
+To obtain a Data Scientist position that utilizes my analytical skills and passion for data-driven insights.
+
+**Education:**
+
+* Master of Science in Data Science, Stanford University (2018-2020)
+	+ GPA: 3.5/4.0
+* Bachelor of Science in Computer Science, IIT Delhi (2014-2018)
+	+ GPA: 3.0/4.0
+
+**Technical Skills:**
+
+* Programming languages: Python, R, SQL
+* Data analysis and machine learning libraries: Pandas, NumPy, Scikit-learn, TensorFlow
+* Data visualization tools: Matplotlib, Seaborn, Tableau
+* Operating Systems: Windows, Linux
+* Familiarity with cloud-based platforms: AWS, GCP
+
+**Competitions and Certifications:**
+
+* **Lead, Kaggle Competition:**
+	+ Competition Name: "Predicting House Prices"
+	+ Rank: 4th out of 10,000 participants
+	+ Score: 4.6/5
+	+ Achievements:
+		- 10x improvement in model accuracy over baseline
+		- 20% reduction in model complexity
+	+ Tools used: Python, Scikit-learn, TensorFlow
+* **Certified Data Scientist, Data Science Council of America (2019)**
+* **Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2018)**
+
+**Projects:**
+
+* **Predicting Customer Churn:**
+	+ Description: Developed a predictive model to identify customers who are likely to churn using a dataset of customer information and service usage.
+	+ Tools used: Python, Scikit-learn, Pandas
+	+ Achievements:
+		- 25% reduction in churn rate
+		- 15% increase in customer retention
+* **Anomaly Detection in Network Traffic:**
+	+ Description: Built a real-time anomaly detection system using a dataset of network traffic logs.
+	+ Tools used: Python, TensorFlow, Scikit-learn
+	+ Achievements:
+		- 90% detection rate for anomalies
+		- 10% false positive rate
+
+**Work Experience:**
+
+* **Data Analyst, ABC Company (2020-Present)**
+	+ Analyzed customer data to identify trends and insights
+	+ Developed and implemented predictive models to improve customer retention
+	+ Collaborated with cross-functional teams to inform business decisions
+* **Data Scientist Intern, DEF Company (Summer 2019)**
+	+ Worked on a project to predict stock prices using machine learning algorithms
+	+ Developed and presented findings to stakeholders
+
+**References:**
+Available upon request.

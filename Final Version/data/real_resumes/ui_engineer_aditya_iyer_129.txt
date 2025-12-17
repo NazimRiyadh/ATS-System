@@ -1,0 +1,58 @@
+aditya iyer
+ui engineer
+
+contact information:
+
+* email: [adityaiyer@email.com](mailto:adityaiyer@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/adityaiyer
+* github: github.com/adityaiyer
+
+summary:
+highly motivated and detail-oriented ui engineer with 5+ years of experience in designing and developing responsive, accessible, and high-performance user interfaces using a range of technologies, including html, css, javascript, and react. strong understanding of ui/ux design principles and a passion for delivering exceptional user experiences.
+
+technical skills:
+
+* programming languages: html, css, javascript
+* frameworks: react
+* design tools: figma, sketch
+* version control: git
+* testing tools: jest, enzyme
+* performance optimization: webpack, lighthouse
+* accessibility tools: wave, lighthouse
+
+professional experience:
+
+ui engineer, abc company (2020-present)
+
+* designed and developed responsive, accessible, and high-performance user interfaces for web applications using html, css, javascript, and react
+* collaborated with cross-functional teams to identify and prioritize design requirements and ensure alignment with business goals
+* utilized version control systems (git) to manage and maintain codebase, ensuring smooth deployment and collaboration
+* conducted frontend testing using jest and enzyme to ensure high-quality and bug-free code
+* optimized web performance using webpack and lighthouse, resulting in a 30% improvement in page load times
+
+junior ui engineer, def startups (2018-2020)
+
+* assisted in designing and developing user interfaces for web applications using html, css, javascript, and react
+* contributed to the development of ui/ux design systems and style guides
+* participated in code reviews and provided feedback to improve code quality and maintainability
+* worked with the development team to resolve bugs and issues in a timely and efficient manner
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: human-computer interaction, web development, data structures and algorithms
+
+achievements:
+
+*  winner, abc company's ui design challenge (2020)
+	+ designed and developed a responsive and accessible ui for a web application, resulting in a 25% increase in user engagement
+* published on medium, "best practices for web accessibility" (2019)
+	+ shared knowledge and expertise on web accessibility best practices, highlighting the importance of inclusive design
+
+certifications:
+
+* certified in web accessibility, world wide web consortium (w3c)
+
+references:
+available upon request.

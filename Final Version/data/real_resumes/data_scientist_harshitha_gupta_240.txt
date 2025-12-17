@@ -1,0 +1,57 @@
+harshitha gupta
+contact information:
+
+* email: [harshitha.gupta@email.com](mailto:harshitha.gupta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/harshithagupta
+
+summary:
+highly motivated and detail-oriented data scientist with 4+ years of experience in extracting insights from complex data sets using python, machine learning, and deep learning techniques. proven track record of driving business growth through data-driven decision making and improving business processes through a/b testing and statistical analysis.
+
+technical skills:
+
+* programming languages: python
+* data analysis and machine learning libraries: scikit-learn, tensorflow
+* data visualization tools: matplotlib, seaborn, tableau
+* databases: sql, nosql
+* operating systems: windows, linux
+
+professional experience:
+
+data scientist, xyz corporation (2020-present)
+
+* developed and implemented machine learning models using python and scikit-learn to predict customer churn and improve customer retention
+* designed and executed a/b testing experiments to optimize website layout and improve conversion rates
+* collaborated with cross-functional teams to integrate data-driven insights into business decision making
+* built and maintained complex sql databases to store and query large datasets
+* created interactive data visualizations using tableau to communicate insights to stakeholders
+
+junior data analyst, abc startups (2018-2020)
+
+* collected and cleaned large datasets using sql and python to support business intelligence efforts
+* built and trained machine learning models using scikit-learn to predict customer behavior and optimize marketing campaigns
+* conducted statistical analysis to identify trends and patterns in customer data
+* created data visualizations using matplotlib and seaborn to communicate insights to stakeholders
+* participated in agile development teams to deliver data-driven insights to inform business decisions
+
+education:
+
+* master of science in data science, university of california, berkeley (2018)
+	+ coursework: machine learning, deep learning, natural language processing, data visualization
+	+ thesis: "application of deep learning techniques for image classification"
+* bachelor of technology in computer science, indian institute of technology, delhi (2016)
+	+ coursework: computer systems, algorithms, data structures, computer networks
+
+achievements:
+
+* winner, data science competition, kaggle (2020)
+	+ developed and implemented a deep learning model using tensorflow to predict stock prices and outperformed 95% of competitors
+* featured speaker, data science conference, new york (2019)
+	+ presented a paper on "applying a/b testing to improve conversion rates"
+* recipient, data science award, xyz corporation (2019)
+	+ recognized for outstanding contributions to data science efforts and driving business growth through data-driven decision making
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)

@@ -1,0 +1,60 @@
+Here is a professional resume for Destiny Sexton:
+
+Destiny Sexton
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [destiny.sexton@email.com](mailto:destiny.sexton@email.com)
+* LinkedIn: linkedin.com/in/destinysexton
+* GitHub: github.com/destinysexton
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a proven track record of delivering scalable, secure, and efficient cloud-based systems. Skilled in CI/CD pipelines, Kubernetes, Ansible, and Infrastructure as Code, with expertise in monitoring tools and cloud platforms. Proficient in collaborating with cross-functional teams to drive innovation and continuous improvement.
+
+Technical Skills:
+
+* CI/CD pipelines (Jenkins, GitLab CI/CD)
+* Kubernetes (Deployment, Services, Persistent Volumes)
+* Ansible (Playbooks, Roles, Modules)
+* Infrastructure as Code (Terraform, CloudFormation)
+* Monitoring Tools (Prometheus, Grafana, New Relic)
+* Cloud Platforms (AWS, GCP, Azure)
+* Containerization (Docker, Kubernetes)
+* Scripting (Python, Bash)
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented CI/CD pipelines for multiple applications, resulting in 30% reduction in deployment time and 25% reduction in errors
+* Deployed and managed Kubernetes clusters for containerized applications, achieving 99.99% uptime and 25% reduction in resource utilization
+* Developed and maintained Ansible playbooks for infrastructure automation, reducing manual effort by 50% and improving consistency by 90%
+* Collaborated with development teams to implement Infrastructure as Code, reducing errors by 75% and improving compliance by 95%
+* Implemented monitoring tools to improve system visibility, reducing mean time to detect (MTTD) by 40% and mean time to resolve (MTTR) by 30%
+
+DevOps Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented CI/CD pipelines for multiple applications, resulting in 20% reduction in deployment time and 15% reduction in errors
+* Deployed and managed containerized applications using Docker and Kubernetes, achieving 99.99% uptime and 20% reduction in resource utilization
+* Developed and maintained Ansible playbooks for infrastructure automation, reducing manual effort by 30% and improving consistency by 80%
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Expert (CAE)
+* AWS Certified Developer - Associate
+
+Achievements:
+
+* Successfully deployed a cloud-based application using Infrastructure as Code, resulting in 50% reduction in deployment time and 25% reduction in errors
+* Developed and implemented a monitoring tool using Prometheus and Grafana, reducing MTTD by 40% and MTTR by 30%
+* Collaborated with cross-functional teams to implement a CI/CD pipeline using Jenkins and GitLab CI/CD, resulting in 30% reduction in deployment time and 25% reduction in errors
+
+References:
+Available upon request.

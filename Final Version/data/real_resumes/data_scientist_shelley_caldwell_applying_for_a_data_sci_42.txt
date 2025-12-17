@@ -1,0 +1,56 @@
+here's a sample resume for shelley caldwell applying for a data scientist role:
+
+shelley caldwell
+contact information:
+
+* address: [your address]
+* phone: [your phone number]
+* email: [your email]
+* linkedin: [your linkedin profile]
+
+summary:
+highly motivated and detail-oriented data scientist with a strong background in python, statistics, machine learning, sql, and data visualization. proven track record of analyzing complex data sets, identifying trends, and developing predictive models to drive business growth. collaborative team player with excellent communication and problem-solving skills.
+
+technical skills:
+
+* programming languages: python (numpy, pandas, scikit-learn), sql (postgresql, mysql)
+* machine learning: supervised and unsupervised learning, regression, classification, clustering, neural networks
+* statistics: hypothesis testing, confidence intervals, regression analysis, time series analysis
+* data visualization: tableau, matplotlib, seaborn, plotly
+* operating systems: windows, linux, macos
+* familiarity with cloud-based platforms: aws, google cloud, azure
+
+professional experience:
+
+data analyst, xyz corporation (2018-present)
+
+* analyzed large datasets to identify trends and patterns, using python and sql to extract insights
+* developed and implemented predictive models using machine learning algorithms to improve sales forecasting
+* created data visualizations using tableau to communicate findings to stakeholders
+* collaborated with cross-functional teams to identify business needs and develop data-driven solutions
+
+research assistant, abc university (2015-2018)
+
+* assisted in the development of research projects, using statistical software (r, sas) to analyze data
+* conducted literature reviews and analyzed research studies to identify gaps in current knowledge
+* presented research findings at conferences and published in peer-reviewed journals
+
+education:
+
+* master of science in statistics, abc university (2015)
+* bachelor of science in mathematics, def university (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting customer churn: developed a machine learning model using python and scikit-learn to predict customer churn based on demographic and behavioral data
+* analyzing stock market trends: used python and pandas to analyze stock market data and identify trends, with a focus on machine learning-based forecasting techniques
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your own resume to fit your specific experience and the job you're applying for.

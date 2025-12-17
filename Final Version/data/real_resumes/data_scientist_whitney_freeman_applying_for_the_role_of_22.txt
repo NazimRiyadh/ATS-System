@@ -1,0 +1,56 @@
+here's a sample resume for whitney freeman applying for the role of data scientist:
+
+whitney freeman
+contact information:
+
+* email: [whitney.freeman@email.com](mailto:whitney.freeman@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/whitneyfreeman
+* github: github.com/whitneyfreeman
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, machine learning, sql, and data visualization. proven track record of delivering actionable insights and driving business decisions through data-driven approaches. proficient in working with large datasets and developing scalable solutions.
+
+technical skills:
+
+* programming languages: python ( numpy, pandas, scikit-learn, tensorflow), r
+* machine learning algorithms: linear regression, logistic regression, decision trees, random forests, clustering (k-means, hierarchical clustering), neural networks
+* data visualization tools: matplotlib, seaborn, plotly, tableau
+* sql: querying, data modeling, and data warehousing
+* operating systems: windows, macos, linux
+* familiarity with cloud-based platforms: aws, google cloud, azure
+
+professional experience:
+
+data scientist, abc company (2018-present)
+
+* worked with cross-functional teams to develop and implement data-driven solutions that drove business growth and improved operational efficiency
+* designed and developed predictive models using machine learning algorithms to forecast sales, customer acquisition, and churn
+* utilized python and sql to extract, transform, and load data from various sources, including relational databases and cloud-based storage
+* created interactive dashboards using tableau to communicate insights to stakeholders and executives
+* collaborated with data engineers to design and implement data pipelines and data warehousing solutions
+
+data analyst, def start-up (2015-2018)
+
+* worked with founders to develop data-driven strategies to drive business growth and customer acquisition
+* conducted statistical analysis and data visualization to identify trends and patterns in customer behavior
+* developed and maintained databases using sql to support business decision-making
+* built and deployed predictive models using python to forecast sales and customer churn
+
+education:
+
+* master of science in data science, xyz university (2015)
+	+ coursework: machine learning, natural language processing, data mining, statistical computing, data visualization
+* bachelor of science in mathematics, abc university (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2018)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+projects:
+
+* predicting customer churn using machine learning: developed a predictive model using python and scikit-learn to forecast customer churn for a telecommunications company. (github: github.com/whitneyfreeman/customer-churn-prediction)
+* analyzing customer behavior using sql and data visualization: conducted a statistical analysis of customer behavior using sql and created interactive dashboards using tableau to communicate insights to stakeholders. (github: github.com/whitneyfreeman/customer-behavior-analysis)
+
+note: this is just a sample resume, and you should customize yours to fit your specific experiences and qualifications.

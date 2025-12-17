@@ -1,0 +1,48 @@
+Matthew Schneider
+UI Engineer
+
+Contact Information:
+
+* Email: [matthew.schneider@email.com](mailto:matthew.schneider@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/matthewschneider
+
+Summary:
+Highly motivated and detail-oriented UI Engineer with expertise in Frontend Frameworks, Responsive Design, and Version Control. Proven track record of delivering high-quality, user-centric interfaces that drive business results.
+
+Technical Skills:
+
+* Frontend Frameworks: React, Angular, Vue.js
+* Responsive Design: Mobile-first approach, Media Queries, CSS Grid
+* Version Control: Git, SVN
+* Programming Languages: JavaScript, HTML5, CSS3
+* Build Tools: Webpack, Gulp, Rollup
+* Testing Frameworks: Jest, Enzyme, Cypress
+* Design Systems: Storybook, Bit
+
+Professional Experience:
+
+* UI Engineer, ABC Company (2020-Present)
+	+ Designed and developed responsive UI components using React and Angular for multiple web applications
+	+ Collaborated with cross-functional teams to implement design systems and ensure consistency across applications
+	+ Utilized Git and SVN for version control, and Jest and Enzyme for unit testing
+	+ Improved code quality and maintainability through code reviews and optimization techniques
+* Frontend Developer, DEF Agency (2018-2020)
+	+ Built and maintained multiple web applications using React and Vue.js
+	+ Implemented responsive design elements using CSS Grid and Media Queries
+	+ Worked closely with designers to implement design concepts and prototypes
+	+ Developed and maintained a suite of reusable UI components using Storybook and Bit
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Projects:
+
+* React Todo List App: A responsive todo list application built using React, Redux, and React Router
+* Vue.js Weather App: A weather application built using Vue.js, Vuex, and Vue Router
+
+Certifications:
+
+* Certified React Developer, React Training Academy (2020)
+* Certified Frontend Developer, Frontend Masters (2019)

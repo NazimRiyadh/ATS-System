@@ -1,0 +1,58 @@
+Here's a sample professional resume for Stephanie Costa, a Cloud Architect candidate:
+
+Stephanie Costa
+Cloud Architect
+
+Contact Information:
+
+* Email: [stephanie.costa@email.com](mailto:stephanie.costa@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/stephaniecosta
+* GitHub: github.com/stephaniec
+
+Professional Summary:
+Highly accomplished Cloud Architect with 8+ years of experience in designing, implementing, and managing large-scale cloud infrastructure on AWS, Azure, and GCP. Proven track record of delivering complex cloud migration projects, ensuring scalability, security, and cost-effectiveness. Skilled in cloud security, compliance, and governance, with expertise in DevOps, containerization, and automation.
+
+Technical Skills:
+
+* Cloud Platforms: AWS (S3, EC2, RDS, Lambda, CloudWatch), Azure (VMs, Storage, Databases, App Service), GCP (Compute Engine, Storage, Cloud SQL)
+* Cloud Security: IAM, Identity and Access Management, Network Security Groups, Firewalls, Encryption
+* DevOps: Jenkins, Docker, Kubernetes, Ansible, Terraform
+* Automation: PowerShell, Python, Bash
+* Database: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Windows, Linux
+
+Professional Experience:
+
+Cloud Architect, XYZ Corporation (2018-Present)
+
+* Designed and implemented large-scale cloud infrastructure on AWS, Azure, and GCP for multiple clients, resulting in 30% reduction in costs and 25% improvement in scalability
+* Led a team of engineers in migrating a complex on-premises application to the cloud, resulting in 99.99% uptime and 50% reduction in maintenance costs
+* Developed and implemented cloud security strategies, ensuring compliance with regulatory requirements (HIPAA, PCI-DSS, GDPR)
+* Collaborated with DevOps teams to implement CI/CD pipelines, resulting in 20% reduction in deployment time and 15% improvement in quality
+
+Senior Cloud Engineer, ABC Startups (2015-2018)
+
+* Designed and deployed multiple cloud-based applications on AWS, resulting in 50% reduction in development time and 25% improvement in scalability
+* Implemented cloud security measures, including IAM, Network Security Groups, and Firewalls, ensuring compliance with regulatory requirements
+* Developed and maintained cloud infrastructure automation scripts using PowerShell and Python
+* Collaborated with cloud security teams to implement cloud security strategies, resulting in 25% reduction in security incidents
+
+Education:
+
+* Bachelor's Degree in Computer Science, University of California, Berkeley (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Azure Certified Solutions Architect Expert
+* Google Cloud Certified - Professional Cloud Developer
+
+Achievements:
+
+* Winner of the 2019 AWS Cloud Computing Challenge
+* Featured speaker at the 2020 Cloud Security Summit
+* Published articles on cloud security and DevOps in leading industry publications
+
+References:
+Available upon request.

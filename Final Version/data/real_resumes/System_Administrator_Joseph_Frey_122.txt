@@ -1,0 +1,64 @@
+Here's a sample professional resume for Joseph Frey:
+
+Joseph Frey
+System Administrator
+
+Contact Information:
+
+* Email: [jfrey@email.com](mailto:jfrey@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/josephfrey
+
+Summary:
+Highly motivated and experienced System Administrator with 8 years of experience in managing and maintaining Windows Server environments, Active Directory, Networking, Virtualization, and System Monitoring. Proven track record of improving system uptime, reducing downtime, and increasing efficiency. Possesses excellent problem-solving skills, with the ability to work under pressure and prioritize tasks effectively.
+
+Professional Experience:
+
+System Administrator, ABC Corporation (2018-Present)
+
+* Manage and maintain multiple Windows Server 2016/2019 environments, including Active Directory, DNS, DHCP, and file servers.
+* Configure and troubleshoot networking equipment, including routers, switches, and firewalls.
+* Implement and manage virtualization using VMware vSphere, including creating and managing virtual machines, datastores, and networks.
+* Monitor and analyze system performance using tools such as Nagios, SolarWinds, and System Center Operations Manager.
+* Collaborate with IT team to resolve technical issues and improve system uptime.
+
+Senior Technical Support Specialist, DEF Company (2015-2018)
+
+* Provided technical support for Windows Server, Active Directory, and Networking issues for users across multiple locations.
+* Troubleshoot and resolved complex technical issues, including hardware and software failures.
+* Collaborated with network engineers to design and implement network architecture changes.
+* Assisted in the implementation of a virtualization solution using VMware vSphere.
+* Developed and maintained technical documentation, including user guides and troubleshooting procedures.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Microsoft Certified: Windows Server 2016 Administrator ( MCSA)
+* Cisco Certified Network Associate (CCNA)
+* VMware Certified Professional - Data Center Virtualization (VCP-DCV)
+
+Skills:
+
+* Windows Server 2016/2019
+* Active Directory
+* Networking (TCP/IP, DNS, DHCP, routing, switching)
+* Virtualization (VMware vSphere, Hyper-V)
+* System Monitoring (Nagios, SolarWinds, System Center Operations Manager)
+* Scripting (PowerShell, batch)
+* Troubleshooting and problem-solving
+* Collaboration and communication
+
+Achievements:
+
+* Improved system uptime by 30% through implementation of a proactive monitoring and alerting system.
+* Reduced downtime by 25% through implementation of a disaster recovery plan.
+* Increased efficiency by 20% through automation of routine tasks using PowerShell scripts.
+* Completed a successful migration from Windows Server 2012 to Windows Server 2016, with zero downtime.
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Let me know if you'd like me to make any changes or if you have any specific requests.

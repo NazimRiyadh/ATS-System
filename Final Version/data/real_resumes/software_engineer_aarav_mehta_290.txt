@@ -1,0 +1,55 @@
+aarav mehta
+contact information:
+
+* email: [aaravmehta@email.com](mailto:aaravmehta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/aaravmehta
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing and developing scalable, efficient, and maintainable software systems. proficient in a range of programming languages, including java, python, and javascript, with expertise in system design, algorithms, data structures, and rest apis.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, restful apis, service-oriented architecture
+* algorithms and data structures: time and space complexity analysis, graph traversal, dynamic programming, data structures (arrays, linked lists, stacks, queues, trees)
+* software development methodologies: agile, ci/cd
+* tools and technologies: git, docker, kubernetes, jenkins
+* databases: mysql, mongodb, postgresql
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc corporation (2020-present)
+
+* designed and developed multiple microservices using java, python, and javascript to improve system scalability and efficiency
+* implemented restful apis to enable data exchange between services
+* collaborated with cross-functional teams to implement ci/cd pipelines using jenkins and docker
+* developed and maintained high-quality, testable code using agile development methodologies
+* participated in code reviews and ensured adherence to coding standards
+
+software engineer, def startups (2018-2020)
+
+* contributed to the development of a cloud-based saas platform using java, python, and javascript
+* designed and implemented algorithms and data structures to optimize system performance
+* built and maintained restful apis using spring boot and node.js
+* collaborated with the devops team to implement ci/cd pipelines using gitlab ci/cd and docker
+* participated in the design and development of system architecture using microservices and service-oriented architecture
+
+education:
+
+* bachelor of technology in computer science, xyz university (2018)
+
+achievements:
+
+* won the best project award at the xyz university hackathon (2017) for developing a machine learning-based chatbot using python and natural language processing (nlp) techniques
+* completed the google cloud certified - professional cloud developer certification (2020)
+* participated in the hackerrank algorithm and data structures competition and achieved a top-10 ranking (2019)
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified python developer, python institute (2019)
+
+references:
+available upon request.

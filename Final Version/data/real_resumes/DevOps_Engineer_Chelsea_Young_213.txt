@@ -1,0 +1,53 @@
+Here's a sample resume for Chelsea Young, a candidate applying for the role of DevOps Engineer:
+
+Chelsea Young
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [chelseayoung@email.com](mailto:chelseayoung@email.com)
+* LinkedIn: linkedin.com/in/chelseayoungdevops
+
+Professional Summary:
+Highly motivated and detail-oriented DevOps Engineer with 5+ years of experience in designing, implementing, and maintaining scalable and efficient infrastructure systems. Skilled in CI/CD, Docker, Infrastructure as Code (IaC), and Monitoring Tools, with a strong passion for automating and streamlining software delivery processes.
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* IaC: Terraform, AWS CloudFormation
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Scripting: Bash, Python
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+* Senior DevOps Engineer, ABC Corporation (2018-Present)
+	+ Designed and implemented a CI/CD pipeline using Jenkins and Docker to automate the deployment of microservices architecture
+	+ Implemented Infrastructure as Code (IaC) using Terraform to manage and provision cloud resources
+	+ Developed and maintained monitoring tools using Prometheus and Grafana to ensure system uptime and performance
+	+ Collaborated with cross-functional teams to identify and resolve infrastructure-related issues
+* DevOps Engineer, DEF Startups (2015-2018)
+	+ Implemented a Docker-based containerization strategy to improve application deployment and scalability
+	+ Developed and maintained a CI/CD pipeline using GitLab CI/CD to automate the deployment of web applications
+	+ Conducted performance tuning and optimization of infrastructure systems using monitoring tools
+	+ Participated in the design and implementation of a cloud-based infrastructure using AWS CloudFormation
+
+Achievements:
+
+* Successfully migrated a monolithic application to a microservices architecture, resulting in a 30% reduction in deployment time and a 25% reduction in infrastructure costs
+* Implemented a containerization strategy using Docker, resulting in a 50% reduction in application deployment time and a 20% reduction in resource utilization
+* Developed and maintained a comprehensive monitoring and logging system using Prometheus and Grafana, resulting in a 90% reduction in incident resolution time
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* AWS Certified Developer - Associate
+* Docker Certified Associate
+
+References:
+Available upon request.
+
+Note: This is just a sample resume and should be tailored to fit your specific experiences and qualifications. Remember to proofread your resume multiple times for any grammar or formatting errors before submitting it to potential employers.

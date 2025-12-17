@@ -1,0 +1,63 @@
+Here's a sample resume for Steven Torres:
+
+Steven Torres
+Contact Information:
+
+* Email: [steventorres@email.com](mailto:steventorres@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/steventorres
+* GitHub: github.com/steventorres
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Docker, Monitoring Tools, and Cloud Platforms. Proven track record of delivering high-quality solutions that improve efficiency, reliability, and scalability. Skilled in automating deployment, scaling, and monitoring of complex systems. Passionate about leveraging technology to drive innovation and business growth.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, Travis CI
+* Containerization: Docker, Kubernetes
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Scripting Languages: Python, Bash
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Docker to automate deployment of web applications
+* Developed and maintained monitoring scripts using Prometheus and Grafana to track application performance
+* Collaborated with development team to migrate application to cloud platforms (AWS, Azure)
+* Improved application scalability by 30% through optimization of containerization and resource allocation
+* Implemented automated testing and deployment using GitLab CI/CD and Docker
+
+Senior Systems Administrator, DEF Company (2018-2020)
+
+* Managed and maintained large-scale Linux and Windows environments
+* Developed and implemented monitoring and alerting systems using Nagios and Zabbix
+* Configured and managed cloud platforms (AWS, Azure) for applications and services
+* Improved system uptime by 25% through proactive monitoring and maintenance
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2018)
+
+Certifications:
+
+* Certified DevOps Engineer, DevOps Institute (2020)
+* Certified Cloud Engineer, AWS (2019)
+
+Achievements:
+
+* Successfully deployed a highly scalable e-commerce platform using Docker and Kubernetes, resulting in a 50% increase in sales
+* Implemented a monitoring and alerting system using Prometheus and Grafana, resulting in a 20% reduction in downtime
+* Collaborated with development team to migrate a legacy application to cloud platforms (AWS, Azure), resulting in a 30% reduction in costs
+
+Personal Projects:
+
+* Developed a personal project using Docker and Kubernetes to automate deployment of a web application
+* Created a monitoring and alerting system using Prometheus and Grafana to track personal projects and applications
+
+References:
+Available upon request.
+
+This is just a sample, please make sure to tailor your resume to your specific experience and the job you are applying for. Also, proofread multiple times for grammar and formatting errors before submitting it. Good luck with your job search!

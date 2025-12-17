@@ -1,0 +1,50 @@
+**candidate profile: iksha tiwari**
+
+**interview overview**
+
+iksha tiwari presented himself as a motivated individual with a background in computer science. however, during the interview for the software engineer role, it became apparent that his skills and experience did not fully align with the position's requirements.
+
+**key areas of concern**
+
+1. **software development proficiency**: iksha demonstrated a limited understanding of software development principles, including design patterns, software architecture, and testing methodologies. he struggled to provide specific examples of his experience in developing scalable software solutions.
+2. **algorithms and data structures**: iksha's knowledge of algorithms and data structures was found to be inadequate, as he was unable to explain the time and space complexity of common algorithms or demonstrate an understanding of data structures such as trees and graphs.
+3. **version control (git)**: iksha was unfamiliar with git and its workflow, which raised concerns about his ability to collaborate effectively with other developers using a version control system.
+4. **database management**: iksha's understanding of database concepts, including normalization, indexing, and query optimization, was found to be limited.
+5. **web development**: iksha had no demonstrated experience in web development, including front-end and back-end technologies.
+6. **programming languages**: iksha's proficiency in languages such as c, c++, and objective-c was questionable, and he demonstrated a lack of experience with languages like java, python, and javascript.
+7. **education**: iksha's educational background in computer science was not sufficient to demonstrate a comprehensive understanding of software engineering concepts.
+
+**interview performance**
+
+during the interview, iksha faced difficulties with tasks such as:
+
+* writing clean, readable code
+* explaining the thought process behind designing a software solution
+* identifying and resolving errors in code
+* collaborating on a project using git
+
+iksha also demonstrated a lack of familiarity with various tools and technologies, including:
+
+* agile project management methodologies
+* containerization using docker
+* cloud platforms like aws or azure
+* popular front-end frameworks like react or angular
+
+**potential for growth**
+
+despite these areas of concern, iksha demonstrated a strong desire to learn and grow. he showed enthusiasm for software engineering and a willingness to acquire new skills. with further training and exposure to the required technologies and concepts, iksha may be able to bridge the gaps in his skills and become a successful software engineer.
+
+**recommendations**
+
+to address the gaps in iksha's skills, it is recommended that he:
+
+* focus on acquiring a comprehensive understanding of software development principles, including design patterns, software architecture, and testing methodologies.
+* develop his knowledge of algorithms and data structures, including time and space complexity analysis.
+* learn git and its workflow to improve his collaboration skills.
+* familiarize himself with database concepts, including normalization, indexing, and query optimization.
+* gain experience in web development, including front-end and back-end technologies.
+* improve his proficiency in programming languages, including java, python, and javascript.
+
+**conclusion**
+
+iksha tiwari has potential as a software engineer, but he requires targeted training and exposure to the required technologies and concepts to bridge the gaps in his skills. with dedication and a willingness to learn, he may be able to develop the necessary expertise to succeed in this role.

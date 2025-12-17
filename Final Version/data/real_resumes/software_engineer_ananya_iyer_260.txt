@@ -1,0 +1,51 @@
+ananya iyer
+contact information:
+
+* email: [ananya.iyer@email.com](mailto:ananya.iyer@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/ananya-iyer
+* github: github.com/ananya-iyer
+
+summary:
+highly motivated and detail-oriented software engineer with 4+ years of experience in designing, developing, and deploying scalable and efficient software systems. proficient in a range of programming languages, including java, python, and javascript. proven track record of delivering high-quality software solutions that meet customer requirements.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: service-oriented architecture, microservices, load balancing, and caching
+* algorithms and data structures: arrays, linked lists, stacks, queues, trees, graphs, and dynamic programming
+* rest apis: design and implementation of restful apis using spring boot and node.js
+* version control: git, github
+* ci/cd: jenkins, docker, kubernetes
+* microservices: design and implementation of microservices-based systems using spring boot and node.js
+
+professional experience:
+
+software engineer, abc corporation (2020-present)
+
+* designed and developed multiple features for a cloud-based saas product using java, spring boot, and rest apis
+* collaborated with cross-functional teams to identify and prioritize feature requirements
+* implemented automated testing and deployment scripts using jenkins and docker
+* participated in code reviews and ensured adherence to coding standards and best practices
+* mentored junior engineers and provided guidance on system design and architecture
+
+software engineer, def startups (2018-2020)
+
+* developed and deployed multiple web applications using python, flask, and javascript
+* designed and implemented restful apis using node.js and express.js
+* collaborated with the devops team to set up and manage ci/cd pipelines using jenkins and docker
+* participated in system design and architecture discussions to improve system scalability and reliability
+
+education:
+
+* bachelor of technology in computer science, xyz university (2018)
+	+ coursework: data structures, algorithms, computer networks, database systems, and operating systems
+
+achievements:
+
+* aws certified developer - associate (2020)
+* certified scrum master (2019)
+* contributor to open-source projects on github
+
+references:
+available upon request.

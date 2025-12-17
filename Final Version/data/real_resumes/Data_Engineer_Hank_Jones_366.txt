@@ -1,0 +1,59 @@
+Here's a sample resume for Hank Jones, a Data Engineer who was select for the role:
+
+**Hank Jones**
+**Contact Information:**
+
+* Email: [hank.jones@email.com](mailto:hank.jones@email.com)
+* Phone: 555-123-4567
+* LinkedIn: linkedin.com/in/hankjones
+
+**Summary:**
+Highly motivated and experienced Data Engineer with 8+ years of experience in designing, building, and maintaining large-scale data systems. Proven track record of delivering high-quality data solutions that drive business insights and inform strategic decision-making.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, SQL
+* Data engineering tools: Apache Beam, Apache Spark, Apache Kafka
+* Databases: MySQL, PostgreSQL, Amazon Redshift
+* Data warehousing: AWS Glue, Google Cloud Data Fusion
+* Cloud platforms: AWS, Google Cloud, Azure
+* Operating Systems: Linux, Windows
+
+**Professional Experience:**
+
+**Data Engineer, ABC Inc. (2018-Present)**
+
+* Designed and implemented a scalable data pipeline using Apache Beam and Apache Kafka to process 10TB of customer data per day
+* Developed and maintained a data warehouse using Amazon Redshift and AWS Glue to support business intelligence and data analytics
+* Collaborated with cross-functional teams to integrate data into business applications and track key performance indicators (KPIs)
+* Implemented data quality checks and data governance policies to ensure data accuracy and compliance
+
+**Senior Data Analyst, DEF Corp (2015-2018)**
+
+* Built and maintained data models using SQL and Python to support business intelligence and data analytics
+* Developed dashboards using Tableau and Power BI to visualize data and track KPIs
+* Collaborated with stakeholders to design and implement data-driven solutions to business problems
+* Conducted data analysis and provided insights to inform strategic decision-making
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+**Projects:**
+
+* **Apache Beam Pipeline for Real-time Data Processing:** Developed a real-time data processing pipeline using Apache Beam and Apache Kafka to process 100MB of data per second
+* **Data Warehouse Modernization:** Designed and implemented a modern data warehouse using Amazon Redshift and AWS Glue to replace an existing data warehouse
+* **Machine Learning Model Deployment:** Developed and deployed a machine learning model using TensorFlow and scikit-learn to predict customer churn
+
+**Achievements:**
+
+* Successfully implemented a data pipeline that reduced data processing time by 90%
+* Improved data quality by 95% through the implementation of data quality checks and data governance policies
+* Received the "Data Engineer of the Year" award at ABC Inc. for outstanding contributions to data engineering and data analytics
+
+**Certifications:**
+
+* Certified Data Engineer, Google Cloud (2019)
+* Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2017)
+
+Note: This is just a sample resume, and you should customize it to fit your own experiences and qualifications.

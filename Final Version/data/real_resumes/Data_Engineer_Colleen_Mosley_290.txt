@@ -1,0 +1,60 @@
+Here's a sample resume for Colleen Mosley:
+
+Colleen Mosley
+Contact Information:
+
+* Email: [colmose@gmail.com](mailto:colmose@gmail.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/colleennesley
+* GitHub: github.com/colleennesley
+
+Professional Summary:
+
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, building, and deploying scalable data pipelines using MLOps, Airflow, ETL, Spark, and Data Warehousing. Proven track record of delivering high-quality data solutions that drive business insights and growth. Skilled in Agile methodologies, collaborative software development, and data storytelling.
+
+Technical Skills:
+
+* Programming languages: Python, SQL, Scala
+* Data Engineering tools: Apache Airflow, Apache Spark, Apache Beam
+* Data Warehousing: Amazon Redshift, Google BigQuery
+* ETL: Informatica PowerCenter, Talend
+* MLOps: TensorFlow, PyTorch, scikit-learn
+* Operating Systems: Linux, Windows
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior Data Engineer, ABC Analytics (2020-Present)
+
+* Designed and implemented a scalable data pipeline using Apache Airflow, Spark, and Amazon Redshift to support business growth
+* Collaborated with cross-functional teams to develop data-driven solutions, resulting in a 25% increase in sales revenue
+* Built and maintained a data catalog using Apache Beam and Informatica PowerCenter to ensure data quality and governance
+* Mentored junior engineers in Agile methodologies and data engineering best practices
+
+Data Engineer, DEF Technologies (2018-2020)
+
+* Developed and deployed ETL processes using Talend and Informatica PowerCenter to integrate data from various sources
+* Designed and optimized data warehouses using Google BigQuery and Amazon Redshift to support business analytics
+* Collaborated with data scientists to develop machine learning models using TensorFlow and PyTorch
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2019)
+* Certified Scrum Master, Scrum Alliance (2018)
+
+Achievements:
+
+* Winner of the ABC Analytics Hackathon (2020) for developing a predictive model using Apache Spark and TensorFlow
+* Featured speaker at the DEF Technologies Data Engineering Meetup (2019) on "Designing Scalable Data Pipelines"
+* Published a paper on "MLOps Best Practices" in the Journal of Data Science (2019)
+
+References:
+
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

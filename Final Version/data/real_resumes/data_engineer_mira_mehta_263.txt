@@ -1,0 +1,57 @@
+mira mehta
+contact information:
+
+* email: [mira.mehta@email.com](mailto:mira.mehta@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/miramehta
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using python, sql, and aws. proven expertise in etl, data modeling, and data warehousing. skilled in using airflow, spark, and docker to automate and optimize data processing tasks. strong understanding of cloud computing and containerization technologies, including kubernetes.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: airflow, spark, etl, aws glue
+* databases: relational databases (mysql, postgresql), nosql databases (mongodb, cassandra)
+* cloud platforms: aws (s3, ec2, rds), azure, google cloud
+* containerization: docker, kubernetes
+* data warehousing: amazon redshift, google bigquery
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc company (2019-present)
+
+* designed and developed scalable data pipelines using python, airflow, and spark to process large datasets
+* collaborated with cross-functional teams to identify data requirements and implement data models
+* implemented data validation and quality control measures using sql and aws glue
+* utilized docker and kubernetes to containerize and deploy data pipelines in a cloud-native environment
+* managed and optimized data storage using aws s3 and amazon redshift
+* mentored junior data engineers and provided technical guidance on data engineering best practices
+
+data engineer, def company (2016-2019)
+
+* developed and maintained etl pipelines using python and sql to integrate data from various sources
+* designed and implemented data models using data warehousing principles and aws redshift
+* collaborated with data scientists to develop and deploy machine learning models using spark and python
+* utilized airflow to schedule and automate etl tasks
+* implemented data security and access control measures using aws iam and rds
+
+education:
+
+* master of science in computer science, xyz university (2016)
+* bachelor of science in computer science, abc university (2014)
+
+certifications:
+
+* aws certified developer - associate
+* certified data engineer, data engineering council
+
+achievements:
+
+* designed and developed a scalable data pipeline using airflow, spark, and python that processed 100 million records in under 30 minutes
+* implemented a data warehousing solution using aws redshift and etl pipelines that reduced data latency by 90%
+* collaborated with a team to develop a machine learning model using spark and python that achieved 95% accuracy in predicting customer churn
+
+references:
+available upon request.

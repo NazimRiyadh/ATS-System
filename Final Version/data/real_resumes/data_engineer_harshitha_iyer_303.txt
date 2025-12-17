@@ -1,0 +1,59 @@
+harshitha iyer
+contact information:
+
+* email: [harshithaiyer@email.com](mailto:harshithaiyer@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/harshithaiyer
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data systems. proficient in a range of technologies including python, sql, etl, airflow, spark, aws, docker, kubernetes, and data warehousing. proven track record of delivering high-quality solutions that meet business requirements and drive business growth.
+
+professional experience:
+
+data engineer, abc corporation (2020-present)
+
+* design, develop, and maintain large-scale data pipelines using python, etl, airflow, and spark
+* collaborate with cross-functional teams to identify data requirements and develop data models
+* develop and implement data warehouses using aws redshift and snowflake
+* ensure data quality, integrity, and security by implementing data validation, data profiling, and data governance practices
+* deploy and manage containerized applications using docker and kubernetes
+* participate in agile development methodologies and contribute to the development of data engineering roadmaps
+
+senior data analyst, def startup (2018-2020)
+
+* designed, developed, and maintained data analytics pipelines using python, sql, and etl
+* developed and implemented data visualizations using tableau and power bi
+* collaborated with business stakeholders to identify data requirements and develop data models
+* developed and maintained data warehouses using aws redshift
+* ensured data quality, integrity, and security by implementing data validation, data profiling, and data governance practices
+
+education:
+
+* master of science in computer science, xyz university (2018)
+	+ coursework: data science, machine learning, database systems, and software engineering
+* bachelor of engineering in computer science, pqr university (2016)
+	+ coursework: data structures, algorithms, computer systems, and software engineering
+
+skills:
+
+* programming languages: python, sql
+* data engineering tools: etl, airflow, spark
+* data warehousing: aws redshift, snowflake
+* containerization: docker, kubernetes
+* cloud platforms: aws
+* data modeling: conceptual, logical, and physical data modeling
+* data governance: data validation, data profiling, and data governance practices
+
+certifications:
+
+* aws certified developer - associate (2020)
+* certified data engineer, data engineering institute (2019)
+
+achievements:
+
+* developed and deployed a large-scale data pipeline using python, etl, and airflow, resulting in a 30% reduction in data processing time
+* designed and implemented a data warehouse using aws redshift, resulting in a 25% increase in data quality and accuracy
+* developed and maintained a containerized application using docker and kubernetes, resulting in a 40% reduction in deployment time
+
+references:
+available upon request.

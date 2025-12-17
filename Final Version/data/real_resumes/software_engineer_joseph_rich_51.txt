@@ -1,0 +1,58 @@
+here's a sample resume for joseph rich:
+
+joseph rich
+contact information:
+
+* phone: (123) 456-7890
+* email: [jrich@email.com](mailto:jrich@email.com)
+* linkedin: linkedin.com/in/josephrich
+* github: github.com/jrich
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in java and python programming languages. proven track record of designing and developing scalable, efficient, and reliable software systems. strong understanding of system design principles and experience in working on large-scale projects.
+
+technical skills:
+
+* programming languages: java, python, sql
+* development frameworks: spring, django
+* databases: mysql, postgresql, mongodb
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+* version control systems: git, svn
+* cloud platforms: aws, azure
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple software systems using java and python, including a scalable e-commerce platform and a real-time analytics dashboard
+* collaborated with cross-functional teams to gather requirements, design, and implement software solutions
+* implemented automated testing and continuous integration pipelines using jenkins and gitlab ci/cd
+* participated in code reviews and ensured adherence to coding standards and best practices
+* mentored junior engineers and provided guidance on system design and development best practices
+
+software developer, def startups (2015-2018)
+
+* developed multiple web applications using python and django, including a social media platform and a customer relationship management system
+* designed and implemented a scalable data processing pipeline using apache kafka and apache spark
+* collaborated with the development team to identify and resolve technical issues
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified scrum master, scrum alliance (2017)
+
+projects:
+
+* [project 1: scalable e-commerce platform](https://github.com/jrich/ecommerce-platform)
+* [project 2: real-time analytics dashboard](https://github.com/jrich/analytics-dashboard)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

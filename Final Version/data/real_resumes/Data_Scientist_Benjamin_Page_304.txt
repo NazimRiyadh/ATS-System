@@ -1,0 +1,64 @@
+Here's a sample resume for Benjamin Page, a Data Scientist candidate:
+
+Benjamin Page
+Contact Information:
+
+* Email: [benjamin.page@email.com](mailto:benjamin.page@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/benjaminpageds
+* GitHub: github.com/benjaminpageds
+
+Professional Summary:
+Highly motivated and detail-oriented Data Scientist with a strong background in Statistics, Machine Learning, and Deep Learning. Proficient in a range of tools and technologies, including SQL, Data Visualization, and TensorFlow. Proven track record of delivering high-impact projects that drive business growth and inform data-driven decision making.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine Learning: Scikit-learn, TensorFlow, Keras
+* Deep Learning: TensorFlow, PyTorch
+* Data Visualization: Tableau, Matplotlib, Seaborn
+* SQL: MySQL, PostgreSQL
+* Operating Systems: Windows, Linux
+
+Education:
+
+* Master of Science in Data Science, University of California, Berkeley (2018-2020)
+	+ Coursework: Statistical Inference, Machine Learning, Deep Learning, Data Visualization
+* Bachelor of Science in Mathematics, Stanford University (2014-2018)
+	+ Coursework: Probability, Statistics, Linear Algebra, Calculus
+
+Professional Experience:
+
+Data Scientist, XYZ Corporation (2020-Present)
+
+* Developed and deployed multiple machine learning models to predict customer churn and recommend personalized products, resulting in a 25% increase in sales
+* Collaborated with cross-functional teams to design and implement data-driven solutions, including data warehousing, ETL processes, and data visualization
+* Utilized SQL to extract and manipulate large datasets, and created interactive dashboards to communicate insights to stakeholders
+
+Research Assistant, University of California, Berkeley (2018-2020)
+
+* Assisted in the development of a deep learning model for image classification, which achieved state-of-the-art results on a benchmark dataset
+* Co-authored a research paper on the application of machine learning to natural language processing, published in a top-tier conference
+* Presented research findings to academic and industry audiences, including a keynote speech at a major conference
+
+Achievements:
+
+* Winner, Data Science Competition, Stanford University (2018)
+	+ Developed a predictive model that outperformed 20 other teams in a competition to predict stock prices
+* Finalist, Machine Learning Competition, Google (2020)
+	+ Ranked top 5 in a competition to predict customer engagement on a popular social media platform
+
+Projects:
+
+* Stock Price Prediction: Developed a predictive model using LSTM and GRU architectures to forecast stock prices, achieving an accuracy of 90%
+* Customer Churn Prediction: Built a machine learning model using RF and XGBoost to predict customer churn, resulting in a 20% reduction in churn
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2020)
+* Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2019)
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to tailor your own resume to your specific experience and the job you're applying for.

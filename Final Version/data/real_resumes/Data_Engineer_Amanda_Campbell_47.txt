@@ -1,0 +1,47 @@
+Amanda Campbell
+Contact Information:
+
+* Email: [amanda.campbell@email.com](mailto:amanda.campbell@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/amandacampbell
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, building, and maintaining large-scale data systems. Proficient in Big Data Frameworks, Data Pipelines, ETL Tools, Databases, Cloud Platforms, and CI/CD Tools. Proven track record of delivering scalable and efficient data solutions that meet business requirements.
+
+Technical Skills:
+
+* Big Data Frameworks: Hadoop, Spark, Flink
+* Data Pipelines: Apache Beam, Apache NiFi
+* ETL Tools: Informatica PowerCenter, Talend
+* Databases: MySQL, PostgreSQL, MongoDB
+* Cloud Platforms: AWS, Azure, GCP
+* CI/CD Tools: Jenkins, GitLab CI/CD
+* Programming Languages: Java, Python, Scala
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a data pipeline using Apache Beam to process 10TB of data daily, resulting in 30% reduction in processing time
+* Developed and maintained a data warehouse using Amazon Redshift, providing insights to business stakeholders
+* Collaborated with cross-functional teams to design and implement a data governance framework using AWS Lake Formation
+* Built and deployed a CI/CD pipeline using Jenkins and GitLab CI/CD, reducing deployment time by 50%
+
+Data Analyst, DEF Startups (2015-2018)
+
+* Analyzed and visualized large datasets using Tableau and Power BI, providing insights to business stakeholders
+* Developed and maintained a data pipeline using Talend, processing 1TB of data daily
+* Designed and implemented a data model using MySQL, providing scalable and efficient data storage
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Data Engineer, Big Data University (2019)
+* Certified Cloud Practitioner, AWS (2018)
+
+References:
+Available upon request.

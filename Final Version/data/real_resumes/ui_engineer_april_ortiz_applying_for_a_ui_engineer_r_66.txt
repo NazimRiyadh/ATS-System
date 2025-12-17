@@ -1,0 +1,53 @@
+here's a sample resume for april ortiz applying for a ui engineer role:
+
+april ortiz
+contact information:
+
+* email: [april.ortiz@email.com](mailto:april.ortiz@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/aprilortiz
+* github: github.com/aprilortiz
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and developing user interfaces that are both visually appealing and highly functional. skilled in html, css, and javascript, with a strong understanding of user experience principles and design patterns. proficient in modern front-end technologies and tools, with a passion for staying up-to-date with the latest industry trends.
+
+technical skills:
+
+* programming languages: html, css, javascript
+* frameworks: react, angular
+* libraries: jquery, lodash
+* tools: webpack, gulp, sass
+* version control: git
+* operating systems: windows, macos
+* browsers: chrome, firefox, safari
+
+professional experience:
+
+ui engineer, abc company (2018-2020)
+
+* designed and developed user interfaces for multiple web applications, including a responsive e-commerce platform and a mobile-friendly news portal
+* collaborated with cross-functional teams, including designers, product managers, and developers, to ensure that interfaces were both aesthetically pleasing and user-friendly
+* implemented a modular css architecture using sass, which improved code maintainability and reduced development time
+* utilized webpack and gulp to optimize front-end build processes and improve performance
+
+junior front-end developer, def startups (2015-2018)
+
+* contributed to the development of multiple web applications, including a single-page application for a popular social media platform and a web-based project management tool
+* participated in code reviews and provided feedback on peer code to improve overall code quality and maintainability
+* developed and maintained a library of reusable ui components using javascript and jquery
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+certifications:
+
+* certified front-end developer, front-end masters (2019)
+* certified ui engineer, ui engineering institute (2020)
+
+personal projects:
+
+* personal website: a responsive, single-page website built using react and sass, showcasing my skills and experience as a ui engineer
+* to-do list app: a simple to-do list application built using javascript, html, and css, demonstrating my ability to design and develop user interfaces that are both functional and visually appealing
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

@@ -1,0 +1,66 @@
+Here is a professional resume for David Oneill, a DevOps Engineer candidate:
+
+David Oneill
+DevOps Engineer
+
+Contact Information:
+
+* Email: [david.oneill@email.com](mailto:david.oneill@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/davidoneilldevops
+* GitHub: github.com/davidoneill
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, containerization, and orchestration. Skilled in Docker, Kubernetes, Ansible, and monitoring tools. Proven track record of improving efficiency, reducing downtime, and enhancing overall system reliability. Proficient in multiple cloud platforms and committed to delivering high-quality solutions.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Orchestration: Ansible, SaltStack
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Operating Systems: Linux, Windows
+* Programming Languages: Python, Bash
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Corporation (20XX-20XX)
+
+* Designed and implemented CI/CD pipelines using Jenkins and GitLab CI/CD for multiple applications
+* Collaborated with development teams to containerize applications using Docker and deploy to Kubernetes clusters
+* Implemented monitoring and logging using Prometheus, Grafana, and New Relic to improve system reliability and performance
+* Migrated applications from on-premises to cloud platforms (AWS, Azure, Google Cloud)
+* Developed and maintained Ansible playbooks for infrastructure automation
+* Provided technical guidance and support to junior engineers and development teams
+
+DevOps Engineer, DEF Startups (20XX-20XX)
+
+* Built and maintained CI/CD pipelines using CircleCI for multiple applications
+* Implemented containerization using Docker and deployed to Kubernetes clusters
+* Collaborated with development teams to implement monitoring and logging using Prometheus and Grafana
+* Developed and maintained Ansible playbooks for infrastructure automation
+* Provided technical support and guidance to development teams
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (20XX-20XX)
+
+Achievements:
+
+* Successfully deployed a highly available and scalable e-commerce platform using Kubernetes and Docker, resulting in a 99.9% uptime and a 30% reduction in downtime
+* Improved CI/CD pipeline efficiency by 50% through automation and optimization using Ansible and Jenkins
+* Reduced mean time to recovery (MTTR) by 40% through improved monitoring and logging using Prometheus and Grafana
+* Implemented a cloud-based infrastructure using AWS, resulting in a 25% reduction in infrastructure costs
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Expert (CANFE)
+* Certified Cloud Practitioner (AWS, Azure, Google Cloud)
+
+References:
+Available upon request.
+
+Note: This is just an example, and you should customize your resume to fit your specific experience and the job you're applying for. Also, proofread your resume multiple times for any grammar or formatting errors before submitting it. Good luck with your job search!

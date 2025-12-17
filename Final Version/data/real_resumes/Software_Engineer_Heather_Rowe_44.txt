@@ -1,0 +1,55 @@
+Heather Rowe
+Software Engineer
+
+Contact Information:
+
+* Email: [heather.rowe@email.com](mailto:heather.rowe@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/heatherrowe
+
+Summary:
+Highly motivated and detail-oriented software engineer with expertise in Java, algorithm design, data structures, web development, and API integration. Proficient in testing and debugging techniques to deliver high-quality software solutions.
+
+Technical Skills:
+
+* Programming languages: Java (8, 11)
+* Web development frameworks: Spring Boot, Hibernate
+* Databases: MySQL, PostgreSQL
+* Algorithm design and data structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
+* API design and integration: RESTful APIs, SOAP APIs
+* Testing frameworks: JUnit, Mockito, Selenium
+* Agile development methodologies: Scrum, Kanban
+
+Professional Experience:
+
+* Software Engineer, ABC Corporation (2020 - Present)
+	+ Designed and developed multiple features for a cloud-based e-commerce platform using Java, Spring Boot, and Hibernate.
+	+ Implemented API integrations with third-party services to enhance the platform's functionality.
+	+ Collaborated with cross-functional teams to identify and resolve technical issues.
+	+ Developed and maintained automated testing frameworks using JUnit and Mockito.
+* Junior Software Engineer, DEF Startups (2018 - 2020)
+	+ Contributed to the development of a web-based project management tool using Java, Spring Boot, and PostgreSQL.
+	+ Designed and implemented algorithms for data processing and analysis.
+	+ Participated in code reviews and ensured adherence to coding standards.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015 - 2018)
+	+ Coursework: Data Structures, Algorithms, Computer Architecture, Operating Systems, Web Development
+
+Projects:
+
+* Personal Project: To-Do List App
+	+ Designed and developed a web-based To-Do List app using Java, Spring Boot, and MySQL.
+	+ Implemented API integrations with Google Calendar and Google Maps.
+	+ Utilized automated testing frameworks to ensure the app's functionality and reliability.
+* Collaborative Project: Image Processing App
+	+ Participated in a team project to develop an image processing app using Java, OpenCV, and Android.
+	+ Designed and implemented algorithms for image filtering, resizing, and compression.
+
+Certifications:
+
+* Certified Java Developer (OCPJP), Oracle Corporation (2018)
+
+References:
+Available upon request.

@@ -1,0 +1,54 @@
+Here's a professional resume for Gary Briggs:
+
+Gary Briggs
+Data Engineer
+
+Contact Information:
+
+* Email: [gary.briggs@email.com](mailto:gary.briggs@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/garybriggs
+
+Summary:
+Highly skilled Data Engineer with 8+ years of experience in designing, developing, and deploying large-scale data processing systems. Proven expertise in MLOps, ETL, Big Data, Cloud Platforms, and Spark technologies. Passionate about architecting scalable, efficient, and secure data pipelines to drive business insights.
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Led the development and deployment of a real-time data processing system using Spark, Kafka, and HBase, resulting in a 30% reduction in data processing time and a 25% increase in data quality.
+* Collaborated with cross-functional teams to design and implement a cloud-based data warehouse on AWS, using AWS Glue, Redshift, and Quicksight, to support business intelligence and analytics.
+* Designed and implemented a machine learning pipeline using TensorFlow, scikit-learn, and PySpark, resulting in a 20% improvement in model accuracy and a 15% reduction in model training time.
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed and deployed a data ETL pipeline using Python, Apache Beam, and BigQuery, to integrate data from multiple sources and provide insights to the business team.
+* Designed and implemented a big data analytics platform using Spark, Hadoop, and HDFS, to support data science and analytics workloads.
+* Collaborated with the data science team to develop and deploy machine learning models using PySpark, scikit-learn, and TensorFlow.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Skills:
+
+* Programming languages: Python, Java, Scala, SQL
+* Big Data Technologies: Hadoop, Spark, HBase, Cassandra
+* Cloud Platforms: AWS, GCP, Azure
+* Data Engineering Tools: Apache Beam, AWS Glue, Apache NiFi
+* Machine Learning Frameworks: TensorFlow, scikit-learn, PySpark
+* Data Storage: relational databases (MySQL, PostgreSQL), NoSQL databases (Cassandra, MongoDB)
+
+Achievements:
+
+* Certified Data Engineer, Google Cloud (2020)
+* Certified Spark Developer, Apache Spark (2018)
+* Published several articles on big data and data engineering topics in industry conferences and blogs
+
+Certifications:
+
+* Certified Data Engineer, Google Cloud (2020)
+* Certified Spark Developer, Apache Spark (2018)
+
+References:
+Available upon request.

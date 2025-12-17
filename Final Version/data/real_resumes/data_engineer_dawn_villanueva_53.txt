@@ -1,0 +1,57 @@
+here is a sample resume for dawn villanueva applying for a data engineer position:
+
+dawn villanueva
+contact information:
+
+* email: [dawn.villanueva@email.com](mailto:dawn.villanueva@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/dawnvillanueva
+* github: github.com/dawnvillanueva
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, etl, big data, and cloud platforms. proven track record of designing, developing, and deploying scalable data pipelines and machine learning models. proficient in a range of technologies and tools, with a strong passion for innovation and problem-solving.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: airflow, apache beam, spark
+* cloud platforms: aws, gcp, azure
+* big data technologies: hadoop, spark, hive
+* mlops: tensorflow, pytorch, scikit-learn
+* etl: informatica, talend
+* database management: mysql, postgresql, mongodb
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc company (2020-present)
+
+* designed, developed, and deployed scalable data pipelines using airflow and apache beam
+* worked with cross-functional teams to integrate machine learning models into production workflows
+* collaborated with data scientists to develop and implement mlops pipelines using tensorflow and pytorch
+* implemented data quality checks and data validation using sql and python
+* deployed data pipelines to cloud platforms (aws, gcp) using terraform and cloudformation
+
+senior data analyst, def company (2018-2020)
+
+* designed and implemented etl processes using informatica and talend
+* worked with data engineers to develop and deploy data pipelines using apache spark and hadoop
+* created data visualizations and reports using tableau and power bi
+* collaborated with business stakeholders to identify data requirements and develop data-driven solutions
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified data engineer, google cloud (2020)
+* certified apache spark developer, apache software foundation (2019)
+
+projects:
+
+* mlops pipeline: developed a scalable mlops pipeline using tensorflow and airflow to deploy a machine learning model to production.
+* data lake integration: designed and implemented a data lake integration using apache spark and aws s3 to integrate data from multiple sources.
+* etl automation: developed an automated etl process using informatica and python to extract, transform, and load data into a data warehouse.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and requirements, and don't hesitate to reach out if you have any questions or need further assistance.

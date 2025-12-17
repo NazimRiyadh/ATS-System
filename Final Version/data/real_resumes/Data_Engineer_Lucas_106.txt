@@ -1,0 +1,59 @@
+**Lucas**
+**Contact Information:**
+
+* Email: [lucas@email.com](mailto:lucas@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/lucas
+
+**Summary:**
+Results-driven and detail-oriented professional with 3 years of experience in data analysis and software development. Proven track record of improving data quality and efficiency through data engineering and data science techniques.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, SQL
+* Data platforms: Apache Spark, Apache Hadoop, Amazon Redshift
+* Data engineering tools: Apache Beam, Apache Flink, Apache Airflow
+* Data science tools: TensorFlow, PyTorch, Scikit-learn
+* Operating Systems: Linux, Windows, macOS
+* Databases: MySQL, PostgreSQL, MongoDB
+
+**Work Experience:**
+
+* **Data Analyst**, ABC Corporation (2018-2020)
+	+ Collected, processed, and analyzed large datasets to inform business decisions
+	+ Created data visualizations and reports using Tableau and Power BI
+	+ Developed and maintained dashboards to track key performance indicators (KPIs)
+* **Software Developer**, DEF Startups (2020-2022)
+	+ Designed and implemented software applications using Python and Java
+	+ Worked with cross-functional teams to deliver software projects on time and on budget
+	+ Collaborated with data engineers to integrate data pipelines into software applications
+
+**Education:**
+
+* **Bachelor of Science in Computer Science**, XYZ University (2015-2019)
+	+ Coursework: Data Structures, Algorithms, Database Systems, Computer Systems, Software Engineering
+
+**Competitions:**
+
+* **3.3/5.0**, Kaggle "Predicting House Prices" Competition (2020)
+	+ Ranked 234th out of 10,000 participants
+	+ Improved model performance by 25% using ensemble methods and feature engineering
+* **2.8/5.0**, Data Science Bowl "Predicting Energy Consumption" Competition (2019)
+	+ Ranked 456th out of 15,000 participants
+	+ Developed a predictive model using time series analysis and machine learning techniques
+
+**Certifications:**
+
+* **Certified Data Analyst**, Data Science Council of America (2019)
+* **Certified Software Developer**, Certified Software Developer Association (2020)
+
+**References:**
+Available upon request.
+
+Note: This resume is designed to be reject for the Data Engineer position. The candidate has some relevant experience and skills, but there are several areas where they could improve. The resume could be improved by:
+
+* Focusing more on data engineering skills and less on general data analysis and software development
+* Including more specific examples of data engineering projects and achievements
+* Highlighting technical skills in tools such as Apache Beam and Apache Airflow
+* Including more quantitative metrics and results from competitions and projects
+* Improving the overall formatting and design of the resume to make it more visually appealing and easy to read.

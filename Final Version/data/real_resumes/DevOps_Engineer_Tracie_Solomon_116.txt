@@ -1,0 +1,58 @@
+Here's a sample resume for Tracie Solomon, a DevOps Engineer candidate:
+
+Tracie Solomon
+Contact Information:
+
+* Email: [tracie.solomon@email.com](mailto:tracie.solomon@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/traciesolomon
+* GitHub: github.com/traciesolomon
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, containerization, and infrastructure automation. Proven track record of improving application delivery times, reducing downtime, and enhancing overall IT efficiency. Skilled in a range of tools and technologies, including Docker, Ansible, and cloud platforms.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Ansible, Terraform, CloudFormation
+* CI/CD: Jenkins, GitLab CI/CD, CircleCI
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Scripting Languages: Bash, Python, PowerShell
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Docker, resulting in a 30% reduction in application delivery times
+* Developed and maintained a range of automation scripts using Ansible and Bash, improving infrastructure deployment efficiency by 25%
+* Collaborated with cross-functional teams to implement a cloud-based monitoring solution using Prometheus and Grafana, reducing mean time to detect (MTTD) by 40%
+* Provided technical leadership and guidance to junior team members, ensuring successful onboarding and knowledge transfer
+
+DevOps Engineer, DEF Startups (2015-2018)
+
+* Implemented a containerization strategy using Docker, resulting in a 50% reduction in application deployment times
+* Developed and maintained a range of infrastructure as code (IaC) templates using Terraform, improving infrastructure consistency and repeatability
+* Worked closely with development teams to implement a CI/CD pipeline using GitLab CI/CD, reducing application delivery times by 20%
+* Collaborated with the operations team to implement a monitoring solution using New Relic, improving application performance and reliability
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified DevOps Engineer (CDE), Linux Foundation (2019)
+* Certified Scrum Master (CSM), Scrum Alliance (2017)
+
+Achievements:
+
+* Winner, ABC Corporation's Annual Innovation Award (2019) for development of a cutting-edge CI/CD pipeline
+* Featured speaker, DEF Startups' DevOps Conference (2017) on "Containerization in the Cloud"
+* Member, AWS Community Hero Program (2016-2018)
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

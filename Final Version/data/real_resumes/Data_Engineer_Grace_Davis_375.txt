@@ -1,0 +1,53 @@
+Here's a sample resume for Grace Davis, a Data Engineer who was reject for the Data Engineer role:
+
+**Grace Davis**
+**Contact Information:**
+
+* Email: [gracedavis@email.com](mailto:gracedavis@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/gracedavisdatascientist
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data systems. Skilled in big data technologies, data warehousing, and data visualization. Proven track record of delivering high-quality solutions on time and on budget.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, SQL
+* Big data technologies: Hadoop, Spark, NoSQL databases (Cassandra, MongoDB)
+* Data warehouses: AWS Redshift, Google BigQuery
+* Data visualization: Tableau, Power BI
+* Operating Systems: Linux, Windows
+* Agile methodologies: Scrum, Kanban
+* Cloud platforms: AWS, Azure, Google Cloud
+
+**Professional Experience:**
+
+* **Senior Data Engineer, ABC Corporation (2018-Present)**
+	+ Designed and developed a data pipeline to ingest and process 1 billion+ records per day using Apache Spark and AWS Lambda.
+	+ Built a data warehouse using AWS Redshift to support business intelligence and data analytics.
+	+ Collaborated with cross-functional teams to deliver data-driven insights to stakeholders.
+* **Data Engineer, DEF Startup (2015-2018)**
+	+ Developed a real-time data processing system using Apache Kafka and Apache Storm.
+	+ Implemented a data quality framework using Python and SQL to ensure data accuracy and consistency.
+	+ Worked with the development team to integrate data into the product using APIs and data APIs.
+* **Data Analyst, GHI Non-Profit (2012-2015)**
+	+ Analyzed and visualized data using Tableau to support fundraising and program evaluation efforts.
+	+ Developed reports and dashboards to track key performance indicators (KPIs) and metrics.
+	+ Collaborated with stakeholders to identify business needs and develop data solutions.
+
+**Achievements:**
+
+* **Data Engineer of the Year Award**, ABC Corporation (2020)
+* **Best Paper Award**, International Conference on Data Engineering (2019)
+* **Project Lead**, Data Science Competition, DEF Startup (2017)
+
+**Projects:**
+
+* **Personal Project:** Developed a natural language processing (NLP) pipeline using Python and Spark NLP to analyze and summarize large volumes of text data.
+* **Open-Source Contribution:** Contributed to the Apache Spark project, specifically the development of a new feature for handling large-scale data processing.
+* **Hackathon Project:** Built a real-time data visualization dashboard using Tableau and AWS IoT Core to track IoT sensor data.
+
+**Education:**
+
+* **Master of Science in Data Science, XYZ University (2012)**
+* **Bachelor of Science in Computer Science, ABC University (2010)**

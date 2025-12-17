@@ -1,0 +1,59 @@
+Here's a sample resume for Nancy Shields:
+
+Nancy Shields
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [nancy.shields@email.com](mailto:nancy.shields@email.com)
+* LinkedIn: linkedin.com/in/nancyshields
+
+Professional Summary:
+Highly motivated and experienced System Administrator with a strong background in Linux/Unix, Active Directory, Virtualization, and System Monitoring. Proven track record of delivering high-quality support and ensuring seamless system operations. Skilled in troubleshooting and resolving complex technical issues, with excellent communication and problem-solving skills.
+
+Technical Skills:
+
+* Operating Systems: Linux/Unix (Red Hat, Ubuntu, CentOS), Windows Server (2008, 2012, 2016)
+* Virtualization: VMware vSphere, Microsoft Hyper-V
+* System Monitoring: Nagios, Prometheus, Grafana
+* Active Directory: Windows Server 2008, 2012, 2016
+* Scripting Languages: Bash, PowerShell
+* Networking: TCP/IP, DNS, DHCP
+
+Professional Experience:
+
+Senior System Administrator, XYZ Corporation (2018-Present)
+
+* Manage and maintain a large-scale Linux/Unix infrastructure, ensuring high uptime and availability
+* Implement and configure Active Directory, including user and group management, and group policy objects
+* Design and deploy virtualization solutions using VMware vSphere, including vCenter and ESXi
+* Monitor and troubleshoot system performance issues using Nagios and Prometheus
+* Collaborate with cross-functional teams to resolve technical issues and ensure smooth system operations
+* Develop and maintain automation scripts using Bash and PowerShell to streamline system administration tasks
+
+System Administrator, ABC Company (2015-2018)
+
+* Managed and supported a mixed Windows and Linux environment, including desktop and server support
+* Configured and implemented Active Directory, including user and group management, and group policy objects
+* Deployed and managed virtualization solutions using VMware vSphere, including vCenter and ESXi
+* Monitored and troubleshoot system performance issues using Nagios and Prometheus
+* Collaborated with cross-functional teams to resolve technical issues and ensure smooth system operations
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* CompTIA A+ Certification (2015)
+* CompTIA Network+ Certification (2016)
+* Red Hat Certified System Administrator (RHCSA) (2018)
+
+Achievements:
+
+* Successfully deployed a large-scale Linux/Unix infrastructure, resulting in a 30% reduction in system downtime
+* Designed and implemented an Active Directory solution, resulting in a 25% increase in user productivity
+* Developed and implemented automation scripts using Bash and PowerShell, resulting in a 40% reduction in system administration time
+* Collaborated with cross-functional teams to resolve complex technical issues, resulting in a 90% resolution rate
+
+References:
+Available upon request.

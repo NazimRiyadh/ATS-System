@@ -1,0 +1,65 @@
+Here's a professional resume for Lisa Gill, a QA Engineer candidate:
+
+Lisa Gill
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [lisa.gill@email.com](mailto:lisa.gill@email.com)
+* LinkedIn: linkedin.com/in/lisagillqa
+
+Summary:
+Highly motivated and detail-oriented QA Engineer with 5+ years of experience in manual and automated testing, with expertise in Selenium, Bug Tracking, and Test Case Development. Proven track record of delivering high-quality software products with minimal defects. Proficient in collaborating with cross-functional teams to ensure seamless testing and deployment processes.
+
+Technical Skills:
+
+* Programming languages: Java, Python
+* Automation tools: Selenium, Appium
+* Testing frameworks: TestNG, JUnit
+* Bug tracking tools: JIRA, Bugzilla
+* Test case development: TestRail, Cucumber
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+QA Engineer, ABC Corporation (2018-Present)
+
+* Developed and executed comprehensive test plans for multiple software applications
+* Created and maintained test cases using TestRail and Cucumber
+* Utilized Selenium for automated testing and Appium for mobile automation
+* Collaborated with development teams to identify and resolve defects
+* Worked closely with product owners to understand requirements and develop test cases
+* Conducted regression testing and ensured high-quality releases
+
+Senior QA Engineer, DEF Startups (2015-2018)
+
+* Led testing efforts for multiple projects, including SaaS and mobile applications
+* Developed and implemented test automation frameworks using Selenium and TestNG
+* Managed and maintained bug tracking systems using JIRA and Bugzilla
+* Collaborated with cross-functional teams to ensure timely releases and minimal defects
+* Conducted training sessions for junior QA engineers on test automation and testing best practices
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* Successfully reduced defect density by 30% through targeted testing and automation efforts
+* Developed and implemented a comprehensive test automation framework using Selenium, which resulted in a 25% reduction in manual testing time
+* Collaborated with development teams to implement agile methodologies, resulting in improved team collaboration and faster time-to-market
+
+Certifications:
+
+* ISTQB Foundation Level Certification
+* Certified Selenium Professional
+
+References:
+Available upon request.
+
+This resume structure includes:
+
+* A clear and concise summary that highlights the candidate's experience and skills
+* Technical skills section that lists specific programming languages, tools, and methodologies
+* Professional experience section that highlights the candidate's experience and achievements in QA engineering
+* Education section that lists the candidate's degree and relevant coursework

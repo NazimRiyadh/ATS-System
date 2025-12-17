@@ -1,0 +1,58 @@
+here's a sample resume for kim harper:
+
+kim harper
+contact information:
+
+* email: [kimharper@email.com](mailto:kimharper@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/kimharper
+* github: github.com/kimharper
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, machine learning, and data visualization. proven track record of delivering insights-driven solutions to drive business growth. proficient in extracting insights from complex data sets and communicating findings to stakeholders.
+
+technical skills:
+
+* programming languages: python (2.x, 3.x), r
+* machine learning libraries: scikit-learn, tensorflow, keras
+* data visualization libraries: matplotlib, seaborn, plotly
+* statistics and modeling: linear regression, decision trees, random forests, clustering, neural networks
+* data manipulation and analysis: pandas, numpy, sql
+* operating systems: windows, linux
+* familiarity with cloud platforms: aws, google cloud
+
+professional experience:
+
+data scientist, xyz corporation (2018-present)
+
+* developed and deployed predictive models using machine learning algorithms to predict customer churn and improve customer retention
+* analyzed large datasets to identify trends and insights, and presented findings to senior leadership and cross-functional teams
+* worked with product teams to implement data-driven recommendations, resulting in 25% increase in sales
+* collaborated with data engineers to design and implement data pipelines, ensuring data quality and integrity
+* mentored junior data scientists and interns to improve team efficiency and knowledge sharing
+
+data analyst, abc startups (2015-2018)
+
+* collected and analyzed data to inform business decisions, including market research and competitor analysis
+* created data visualizations to communicate insights to stakeholders, resulting in 30% increase in project approvals
+* developed and maintained dashboards to track key performance indicators (kpis) and metrics
+* worked with development teams to integrate data into applications, ensuring seamless user experience
+
+education:
+
+* master of science in data science, harvard university (2015)
+* bachelor of science in mathematics, stanford university (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2018)
+* certified analytics professional, institute for operations research and the management sciences (2016)
+
+projects:
+
+* predicting stock prices using lstm networks: developed a python-based lstm model to predict stock prices, achieving 90% accuracy
+* anomaly detection in network traffic: used unsupervised learning techniques to identify anomalies in network traffic data, resulting in 95% detection rate
+* visualization of covid-19 data: created interactive data visualizations using plotly to display covid-19 data, highlighting trends and insights
+
+references:
+available upon request.

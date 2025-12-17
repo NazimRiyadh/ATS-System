@@ -1,0 +1,56 @@
+tanvi rao
+contact information:
+
+* email: [tanviarao@email.com](mailto:tanviarao@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/tanviarao
+
+summary:
+highly motivated and detail-oriented software engineer with 4+ years of experience in designing, developing, and deploying scalable software systems. proficient in a range of programming languages, including java, python, and javascript. strong understanding of system design, algorithms, and data structures. passionate about working on complex problems and delivering high-quality solutions.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, rest apis, ci/cd
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs
+* development tools: git, jenkins, docker
+* frameworks: spring boot, flask, express.js
+* databases: mysql, mongodb, cassandra
+
+professional experience:
+
+software engineer, abc company (2020-present)
+
+* designed and developed multiple microservices using spring boot and java, resulting in a 30% increase in system scalability
+* implemented rest apis using flask and python, improving api response times by 25%
+* collaborated with cross-functional teams to integrate services, using git and jenkins for version control and continuous integration
+* participated in code reviews and contributed to improving overall code quality
+* worked on deploying microservices to cloud platforms, using docker and kubernetes
+
+software engineer, def startup (2018-2020)
+
+* developed and maintained multiple applications using javascript and react.js, resulting in a 20% increase in user engagement
+* designed and implemented algorithms for data processing and analysis, improving system performance by 40%
+* worked on implementing ci/cd pipelines using jenkins and git, reducing deployment time by 50%
+* collaborated with the qa team to identify and resolve bugs, improving system reliability by 25%
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer networks, database systems, operating systems
+
+achievements:
+
+* gold medal, university hackathon (2018)
+	+ developed a mobile application for tracking personal finances, using react native and javascript
+	+ won first prize in the hackathon, with a cash award and recognition
+* certified java developer, oracle corporation (2019)
+	+ completed a certification program in java development, with a focus on java 8 and java 11
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified python developer, python institute (2020)
+
+references:
+available upon request.

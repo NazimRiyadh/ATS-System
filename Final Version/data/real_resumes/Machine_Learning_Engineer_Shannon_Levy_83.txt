@@ -1,0 +1,56 @@
+Here's a professional resume for Shannon Levy:
+
+Shannon Levy
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [shannon.levy@email.com](mailto:shannon.levy@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/shannonlevy
+
+Summary:
+Highly motivated and experienced Machine Learning Engineer with expertise in Python, TensorFlow, and feature engineering. Proven track record of developing and deploying scalable machine learning models, with a strong focus on hyperparameter tuning and model optimization. Skilled in leading cross-functional teams and collaborating with stakeholders to drive business growth through data-driven insights.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine learning frameworks: TensorFlow, scikit-learn
+* Data science tools: Pandas, NumPy, Matplotlib, Seaborn
+* Databases: MySQL, PostgreSQL
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Senior Machine Learning Engineer, ABC Company (2020-Present)
+
+* Led the development and deployment of a recommender system using TensorFlow and scikit-learn, resulting in a 25% increase in sales revenue
+* Designed and implemented a feature engineering pipeline using Pandas and NumPy, improving model accuracy by 15%
+* Collaborated with the data engineering team to develop a scalable data ingestion pipeline using Apache Beam and BigQuery
+* Worked with cross-functional teams to integrate machine learning models into the company's core product, driving a 30% increase in customer engagement
+
+Machine Learning Engineer, DEF Startups (2018-2020)
+
+* Developed and deployed a natural language processing model using TensorFlow and NLTK, resulting in a 20% increase in customer satisfaction
+* Conducted hyperparameter tuning using Bayesian optimization and Gradient Boosting, improving model accuracy by 10%
+* Worked with the data science team to develop a predictive maintenance model using scikit-learn and Pandas, resulting in a 15% reduction in maintenance costs
+* Collaborated with the product team to integrate machine learning models into the company's mobile app, driving a 25% increase in app downloads
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015-2017)
+* Bachelor of Science in Computer Science, ABC University (2011-2015)
+
+Achievements:
+
+* Winner, Machine Learning Competition, DEF Conference (2019)
+* Finalist, Data Science Competition, GHI Hackathon (2018)
+* Published paper on "Feature Engineering for Machine Learning" in Journal of Machine Learning Research (2020)
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Machine Learning Engineer, Machine Learning Council (2018)
+
+References:
+Available upon request.

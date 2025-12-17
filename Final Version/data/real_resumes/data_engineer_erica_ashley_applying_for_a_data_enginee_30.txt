@@ -1,0 +1,57 @@
+here's a sample resume for erica ashley applying for a data engineer role:
+
+erica ashley
+contact information:
+
+* phone: (555) 123-4567
+* email: [ericashley@email.com](mailto:ericashley@email.com)
+* linkedin: linkedin.com/in/ericaashley
+* github: github.com/ericaashley
+
+summary:
+highly motivated and experienced data engineer with expertise in etl, big data, cloud platforms, and spark. proven track record of designing, building, and deploying scalable data pipelines to support business growth and inform data-driven decision making.
+
+technical skills:
+
+* programming languages: java, python, scala
+* big data technologies: hadoop, spark, hive
+* cloud platforms: amazon web services (aws), google cloud platform (gcp), microsoft azure
+* data engineering tools: apache beam, apache nifi, apache airflow
+* data storage: hdfs, s3, cassandra
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and implemented etl pipelines using apache beam and apache nifi to extract, transform, and load data from various sources into a data warehouse
+* built and deployed scalable data lakes on aws using aws s3 and apache spark
+* collaborated with data scientists to develop and deploy machine learning models using spark and python
+* improved data quality and reduced data latency by 30% through data validation and profiling
+* mentored junior engineers on best practices for data engineering and cloud computing
+
+data analyst, def startups (2015-2018)
+
+* extracted and analyzed data from various sources using sql and data visualization tools
+* built and maintained dashboards to track key performance indicators (kpis) for business stakeholders
+* developed and deployed data pipelines using apache airflow to automate data extraction and processing
+* improved data quality and reduced data latency by 25% through data validation and profiling
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data science council of america (dasca)
+* certified cloud practitioner, aws
+
+projects:
+
+* apache spark-based data pipeline: designed and implemented a scalable data pipeline using apache spark and python to process and analyze large datasets
+* cloud-based data lake: built and deployed a cloud-based data lake on aws using apache spark and aws s3
+
+references:
+available upon request.
+
+i hope this helps! remember to customize your resume to fit your specific experience and the job you're applying for.

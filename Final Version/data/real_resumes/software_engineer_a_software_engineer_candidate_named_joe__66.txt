@@ -1,0 +1,53 @@
+here's a sample resume for a software engineer candidate named joe evans:
+
+joe evans
+contact information:
+
+* email: [jevans@email.com](mailto:jevans@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/joe-evans
+* github: github.com/joe-evans
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software systems. proficient in c++, python, and system design principles. passionate about building efficient, reliable, and maintainable software solutions.
+
+technical skills:
+
+* programming languages: c++, python
+* development frameworks: django, flask, boost
+* databases: mysql, mongodb, postgresql
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+* version control: git, svn
+
+professional experience:
+
+* software engineer, xyz corporation (2018-present)
+	+ designed and implemented multiple software systems using c++ and python, resulting in a 30% increase in system efficiency
+	+ collaborated with cross-functional teams to identify and prioritize project requirements
+	+ developed and maintained system documentation, including architecture diagrams and technical specifications
+	+ participated in code reviews and ensured adherence to coding standards and best practices
+* junior software engineer, abc startup (2015-2018)
+	+ contributed to the development of a web application using python and django, resulting in a 25% increase in user engagement
+	+ worked on system designs and architecture, including scaling and performance optimization
+	+ collaborated with qa team to identify and resolve bugs, resulting in a 90% reduction in bug density
+
+education:
+
+* bachelor of science in computer science, [university name] (2015)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+projects:
+
+* personal project: developed a c++ implementation of a neural network, resulting in a 95% accuracy rate on a test dataset
+* open-source contribution: contributed to the python library, numpy, by implementing a new feature that improved performance by 20%
+
+certifications:
+
+* certified scrum master (csm), [certification date]
+* certified python developer, [certification date]
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and style. also, make sure to proofread your resume multiple times for any grammar or formatting errors before submitting it.

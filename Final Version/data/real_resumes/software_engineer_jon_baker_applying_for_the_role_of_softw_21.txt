@@ -1,0 +1,57 @@
+here's a sample resume for jon baker applying for the role of software engineer:
+
+jon baker
+contact information:
+
+* email: [jbonline@email.com](mailto:jbonline@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/jonbaker
+* github: github.com/jonbaker
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable software systems. skilled in java, python, and data structures, with a strong foundation in system design. proficient in agile methodologies and collaboration tools.
+
+technical skills:
+
+* programming languages: java, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: microservices architecture, api design, database schema design
+* agile methodologies: scrum, kanban
+* collaboration tools: git, jira, slack
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc company (2020-present)
+
+* designed and developed multiple features for a scalable e-commerce platform using java and spring boot
+* implemented efficient data structures and algorithms to improve system performance and scalability
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* participated in code reviews and ensured high-quality code standards
+* contributed to the development of documentation and knowledge base for future engineers
+
+software engineer, def startups (2018-2020)
+
+* built a real-time analytics platform using python and flask
+* designed and implemented a data processing pipeline using apache spark and hadoop
+* worked on a team to develop a cloud-based api using restful principles
+* participated in hackathons and ideathons to explore new technologies and innovative solutions
+
+education:
+
+* bachelor of science in computer science, xyz university (2018)
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified scrum master, scrum alliance (2020)
+
+personal projects:
+
+* developed a personal project, a machine learning-powered chatbot using python and tensorflow
+* contributed to open-source projects on github, including a java-based data structure library
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your own experiences and the specific job you're applying for.

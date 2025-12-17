@@ -1,0 +1,67 @@
+Christian Mason
+UI Engineer
+
+Contact Information:
+
+* Email: [christian.mason@email.com](mailto:christian.mason@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/christianmason
+
+Summary:
+Highly skilled UI Engineer with expertise in Frontend Frameworks, Responsive Design, and Design Tools. Proficient in Version Control and passionate about creating visually appealing and user-friendly interfaces.
+
+Technical Skills:
+
+* Frontend Frameworks:
+	+ React
+	+ Angular
+	+ Vue.js
+* Responsive Design:
+	+ Mobile-first approach
+	+ Media queries
+	+ Flexbox
+* Design Tools:
+	+ Sketch
+	+ Figma
+	+ Adobe XD
+* Version Control:
+	+ Git
+	+ GitHub
+* Programming Languages:
+	+ JavaScript
+	+ HTML/CSS
+	+ SCSS
+* Other:
+	+ Webpack
+	+ Babel
+
+Professional Experience:
+
+UI Engineer, ABC Company (2018-Present)
+
+* Collaborated with cross-functional teams to design and develop UI components for multiple web applications
+* Utilized React, Redux, and Webpack to build scalable and maintainable frontend applications
+* Implemented responsive design principles to ensure seamless user experiences across various devices
+* Managed codebase using Git and GitHub, ensuring smooth version control and collaboration
+
+Frontend Developer, DEF Agency (2015-2018)
+
+* Designed and developed UI components using Angular and Bootstrap
+* Implemented responsive design techniques to ensure website accessibility and usability
+* Worked with designers to translate design concepts into functional UI components
+* Utilized Figma and Sketch to create and manage design assets and prototypes
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Frontend Developer, Codecademy (2017)
+* Certified UI Designer, Udemy (2019)
+
+Personal Projects:
+
+* Developed a personal website using React, Redux, and Webpack
+* Created a responsive e-commerce application using Vue.js and Vuex
+* Collaborated on an open-source project to build a UI component library using React and Storybook

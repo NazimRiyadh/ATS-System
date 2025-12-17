@@ -1,0 +1,63 @@
+Here's a sample professional resume for Kelly May:
+
+Kelly May
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [kelly.may@email.com](mailto:kelly.may@email.com)
+* LinkedIn: linkedin.com/in/kellymaydevops
+* GitHub: github.com/kellymay
+
+Professional Summary:
+
+Highly motivated and detail-oriented DevOps Engineer with 5+ years of experience in designing, implementing, and maintaining scalable and efficient cloud-based infrastructure. Skilled in CI/CD pipelines, containerization, and automation tools, with a strong focus on infrastructure as code. Proven track record of improving application delivery times, reducing costs, and increasing team productivity.
+
+Technical Skills:
+
+* CI/CD tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, Ansible, AWS CloudFormation
+* Cloud platforms: AWS, Azure, Google Cloud Platform
+* Operating Systems: Linux, Windows
+* Scripting languages: Python, Bash, PowerShell
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented CI/CD pipelines for multiple applications using Jenkins, GitLab CI/CD, and CircleCI
+* Migrated existing infrastructure to Kubernetes, resulting in 30% reduction in application deployment times
+* Implemented infrastructure as code using Terraform, reducing manual errors and improving collaboration among teams
+* Collaborated with development teams to implement automated testing and monitoring using AWS CloudWatch and Prometheus
+
+Senior DevOps Engineer, DEF Company (2018-2020)
+
+* Led the implementation of Docker containerization for multiple applications, resulting in 25% reduction in application deployment times
+* Designed and implemented Ansible playbooks for infrastructure automation, reducing manual errors and improving consistency
+* Collaborated with security teams to implement secure coding practices and vulnerability scanning using OWASP ZAP
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Cloud Practitioner - AWS
+* Certified Jenkins Engineer (CJE)
+
+Achievements:
+
+* Improved application deployment times by 40% through the implementation of CI/CD pipelines and containerization
+* Reduced infrastructure costs by 20% through the use of infrastructure as code and automation tools
+* Implemented automated testing and monitoring, resulting in 95% reduction in downtime
+* Collaborated with development teams to implement agile methodologies, resulting in 30% increase in team productivity
+
+References:
+
+Available upon request.
+
+I hope this sample helps! Let me know if you have any questions or if you need further assistance.

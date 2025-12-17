@@ -1,0 +1,56 @@
+Here is a professional resume for Maria Butler:
+
+Maria Butler
+Data Engineer
+
+Contact Information:
+
+* Email: [maria.butler@email.com](mailto:maria.butler@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/mariabutler
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying large-scale data processing systems using Airflow, ETL, Big Data, and Cloud Platforms. Proven track record of delivering high-quality solutions that meet business requirements and drive business value. Skilled in Spark, Scala, and Python programming languages.
+
+Professional Experience:
+
+* Senior Data Engineer, ABC Company (2018-Present)
+	+ Designed and developed ETL pipelines using Airflow and Spark to process large datasets for analytics and reporting purposes.
+	+ Collaborated with cross-functional teams to integrate data from multiple sources and ensure data quality and integrity.
+	+ Deployed data processing systems on cloud platforms such as AWS and GCP, ensuring scalability, reliability, and security.
+	+ Achieved a 30% reduction in data processing time and a 25% reduction in costs by optimizing data pipelines and leveraging cloud-native services.
+* Data Engineer, DEF Company (2015-2018)
+	+ Developed and maintained data processing systems using Spark, Scala, and Python to support business intelligence and reporting needs.
+	+ Worked closely with data analysts to design and implement data visualization dashboards using Tableau and Power BI.
+	+ Participated in code reviews and ensured adherence to coding standards and best practices.
+	+ Collaborated with the DevOps team to deploy data processing systems on-premise and in the cloud.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+* Certified Data Engineer, Data Science Council of America (2017)
+
+Skills:
+
+* Programming languages: Python, Scala, Java
+* Data processing frameworks: Airflow, Spark, Hadoop
+* Cloud platforms: AWS, GCP, Azure
+* Data storage: Hive, HDFS, Cassandra
+* Data visualization: Tableau, Power BI, D3.js
+* Operating Systems: Linux, Windows
+
+Achievements:
+
+* Winner, ABC Company's Innovation Award (2020) for developing a cloud-native data processing system that improved data processing time by 50%.
+* Recipient, DEF Company's Excellence in Code Quality Award (2017) for consistently delivering high-quality code that met business requirements and adhered to coding standards.
+* Published, "Optimizing Data Pipelines using Airflow and Spark", a research paper presented at the Data Engineering Conference (2019).
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2017)
+* Certified Cloud Developer, AWS (2018)
+
+References:
+Available upon request.
+
+This resume structure is clear, concise, and easy to read. It highlights Maria's experience, skills, and achievements in the field of data engineering, making her a strong candidate for the Data Engineer role.

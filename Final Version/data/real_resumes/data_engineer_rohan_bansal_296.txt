@@ -1,0 +1,56 @@
+rohan bansal
+contact information:
+
+* email: [rohan.bansal@email.com](mailto:rohan.bansal@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/rohanbansal
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying large-scale data pipelines using python, sql, and etl tools. proven expertise in cloud computing, data warehousing, and containerization using aws, airflow, and kubernetes. passionate about leveraging data to drive business growth and decision-making.
+
+technical skills:
+
+* programming languages: python (3.8+), sql (mysql, postgresql)
+* etl tools: apache airflow, aws glue
+* big data processing: apache spark, hadoop
+* data modeling: design and implementation of data models using er diagrams
+* cloud computing: aws (s3, emr, redshift, glue), docker, kubernetes
+* data warehousing: design and development of data warehouses using kimball and inmon methodologies
+* operating systems: linux (ubuntu, centos)
+
+professional experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* designed, developed, and deployed large-scale data pipelines using python, airflow, and spark to process and analyze customer data
+* collaborated with cross-functional teams to develop and implement data-driven solutions to drive business growth
+* implemented data warehousing using redshift and glue, enabling business users to access and analyze data
+* developed and maintained docker and kubernetes clusters to deploy and manage data pipelines
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+data engineer, def startups (2018-2020)
+
+* developed and maintained etl processes using python and aws glue to extract, transform, and load data from various sources
+* designed and implemented data models using er diagrams to ensure data consistency and accuracy
+* collaborated with data scientists to develop and deploy machine learning models using spark and hadoop
+* implemented data warehousing using kimball and inmon methodologies to provide business users with insights into customer behavior
+* participated in architecture reviews and ensured alignment with company's technical vision
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+* coursework: data structures, algorithms, computer systems, database systems, machine learning
+
+certifications:
+
+* certified data engineer, certified data engineering association (2019)
+* certified scrum master, scrum alliance (2018)
+
+achievements:
+
+* successfully developed and deployed a data pipeline that processed 10 tb of customer data in under 2 hours, resulting in a 30% increase in sales
+* collaborated with a team of data scientists to develop a predictive model that reduced customer churn by 25%
+* implemented a data warehousing solution using redshift and glue, providing business users with insights into customer behavior and resulting in a 20% increase in revenue
+
+references:
+available upon request.

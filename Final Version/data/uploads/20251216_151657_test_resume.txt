@@ -1,0 +1,25 @@
+John Doe
+Senior Python Developer
+San Francisco, CA
+john.doe@example.com
+
+SUMMARY
+Highly experienced Senior Python Developer with 10 years of experience in building scalable backend systems, AI integrations, and high-performance APIs. Proven track record in FastAPI, Machine Learning, and Cloud Architecture.
+
+SKILLS
+- Languages: Python, JavaScript, TypeScript, SQL
+- Frameworks: FastAPI, Django, Flask, React
+- AI/ML: TensorFlow, PyTorch, Scikit-learn, OpenAI API, LangChain, RAG
+- Infrastructure: Docker, Kubernetes, AWS, PostgreSQL, Redis, Neo4j
+
+EXPERIENCE
+Senior Software Engineer (AI Focus) | TechFlow Inc.
+2018 - Present
+- Architected and built a retrieval-augmented generation (RAG) system using Python and Vector Databases.
+- Optimized FastAPI microservices to handle 10k requests/second.
+- Mentored junior developers and led code reviews.
+
+Python Developer | DataCorp
+2015 - 2018
+- Developed data processing pipelines using Pandas and Celery.
+- Implemented RESTful APIs for frontend consumption.

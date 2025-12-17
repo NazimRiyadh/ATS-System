@@ -1,0 +1,63 @@
+here's a sample resume for william rowe applying for the role of ui engineer:
+
+william rowe
+contact information:
+
+* email: [william.rowe@email.com](mailto:william.rowe@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/williamrowe
+* github: github.com/williamrowe
+
+summary:
+highly motivated and detail-oriented ui engineer with a strong passion for creating user-friendly and visually appealing interfaces. skilled in html, css, react, and ui/ux design principles, with experience in wireframing and prototyping. proficient in collaborative tools and agile development methodologies.
+
+technical skills:
+
+* front-end development:
+	+ html5
+	+ css3 (sass, less)
+	+ javascript (es6+)
+	+ react (hooks, context api)
+	+ state management (redux, mobx)
+* ui/ux design:
+	+ ui design principles
+	+ wireframing and prototyping (figma, sketch)
+	+ user testing and feedback
+* other:
+	+ version control (git)
+	+ collaborative tools (slack, trello, asana)
+	+ agile development methodologies
+
+work experience:
+
+ui engineer, abc company (2020-present)
+
+* designed and developed multiple web applications using react and state management libraries
+* collaborated with cross-functional teams to create user-centered designs and prototypes
+* implemented responsive and accessible ui components using html, css, and javascript
+* conducted user testing and feedback to improve ui/ux design decisions
+
+junior ui designer, def agency (2018-2020)
+
+* created wireframes and prototypes for web applications using figma and sketch
+* worked with designers and developers to create visually appealing and user-friendly interfaces
+* assisted in the development of responsive and accessible ui components using html, css, and javascript
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015-2019)
+
+certifications:
+
+* react certified developer (2020)
+* google analytics certification (2019)
+
+personal projects:
+
+* developed a personal portfolio website using react and sass
+* created a mobile app using react native and material-ui
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

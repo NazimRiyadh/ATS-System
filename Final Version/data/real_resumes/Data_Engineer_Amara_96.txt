@@ -1,0 +1,53 @@
+**Amara**
+**Contact Information:**
+
+* Email: [amara@email.com](mailto:amara@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/amara
+
+**Objective:**
+To obtain a Data Engineer position that utilizes my skills in data analysis and engineering to drive business growth.
+
+**Summary:**
+Results-driven data enthusiast with a strong background in data analysis and engineering. Proven track record of delivering high-quality results through competitions and projects.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2018-2022)
+* GPA: 3.5/4.0
+
+**Competitions:**
+
+* **Kaggle Competitions:**
+	+ Won 2nd place in "Titanic: Machine Learning from Disaster" (Titanic competition, 2020) - 0.77/1.00 (Rank 2/5,307)
+	+ Won 1st place in "House Prices: Advanced Regression Techniques" (House Prices competition, 2021) - 0.82/1.00 (Rank 1/12,019)
+	+ Won 3rd place in "Predicting Stock Prices" (Stock Prices competition, 2020) - 0.85/1.00 (Rank 3/8,567)
+* **ACM-ICPC Regional Contest:**
+	+ Rank 10/20 in the Regional Contest (2020) - 4.0/5.0
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, SQL
+* Data analysis and visualization tools: pandas, NumPy, Matplotlib, Seaborn, Tableau
+* Data engineering tools: Apache Beam, Apache Spark
+* Operating Systems: Windows, Linux
+* Familiarity with cloud platforms: AWS, GCP
+
+**Projects:**
+
+* **Data Analysis Project:**
+	+ Analyzed customer purchase behavior for a retail company using pandas, NumPy, and Matplotlib.
+	+ Developed a recommendation system using collaborative filtering and matrix factorization.
+	+ Achieved a 25% increase in sales using the recommendation system.
+* **Data Engineering Project:**
+	+ Designed and implemented an ETL pipeline using Apache Beam and Apache Spark.
+	+ Processed 10TB of data in 24 hours.
+	+ Improved data quality by 30% using data validation and data cleaning techniques.
+
+**Certifications:**
+
+* **Google Cloud Data Engineer Certification** (2022)
+* **AWS Certified Data Engineer** (2021)
+
+**References:**
+Available upon request.

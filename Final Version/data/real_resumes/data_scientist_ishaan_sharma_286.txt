@@ -1,0 +1,49 @@
+ishaan sharma
+contact information:
+
+* email: [ishaan.sharma@email.com](mailto:ishaan.sharma@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ishaan-sharma
+
+summary:
+highly motivated and detail-oriented data scientist with 4+ years of experience in developing and deploying machine learning models to drive business growth. proficient in python, statistics, machine learning, and data visualization. proven track record of delivering high-quality results and collaborating with cross-functional teams to drive business decisions.
+
+technical skills:
+
+* programming languages: python
+* machine learning: scikit-learn, tensorflow
+* statistics: statistical analysis, hypothesis testing, confidence intervals
+* data visualization: matplotlib, seaborn, tableau
+* database management: sql
+* a/b testing: design and implementation of experiments to test hypotheses
+* deep learning: convolutional neural networks, recurrent neural networks
+
+professional experience:
+
+senior data scientist, abc corporation (2020-present)
+
+* developed and deployed multiple machine learning models to predict customer churn, leading to a 25% reduction in churn rate
+* collaborated with the marketing team to design and implement a/b tests, resulting in a 15% increase in conversion rates
+* built and maintained a data warehouse using sql, providing insights to stakeholders on customer behavior and market trends
+* worked with the product team to develop a recommendation engine using collaborative filtering and natural language processing
+
+data scientist, def start-up (2018-2020)
+
+* designed and implemented a predictive model to forecast sales, resulting in a 10% reduction in inventory costs
+* developed a data visualization dashboard using tableau, providing insights to stakeholders on sales trends and customer behavior
+* collaborated with the engineering team to integrate machine learning models into the product, resulting in a 20% increase in user engagement
+* conducted a/b tests to optimize the product experience, resulting in a 12% increase in conversion rates
+
+education:
+
+* master of science in data science, xyz university (2018)
+
+achievements:
+
+* winner, kaggle competition: predicting customer churn (2020)
+
+* published research paper: "applying deep learning to customer segmentation" in the journal of data science (2019)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)

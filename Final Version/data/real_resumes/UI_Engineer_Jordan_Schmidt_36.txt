@@ -1,0 +1,55 @@
+Jordan Schmidt
+UI Engineer
+
+Contact Information:
+
+* Email: [jordan.schmidt@email.com](mailto:jordan.schmidt@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/jordanschmidt
+
+Summary:
+Highly skilled UI Engineer with expertise in Frontend Frameworks, Responsive Design, and Version Control. Proven track record of delivering high-quality, user-centered interfaces that meet and exceed business requirements.
+
+Technical Skills:
+
+* Frontend Frameworks: React, Angular, Vue.js
+* Responsive Design: Mobile-first approach, media queries, CSS preprocessors (Sass, Less)
+* Version Control: Git, SVN
+* Programming Languages: JavaScript, HTML/CSS, TypeScript
+* Build Tools: Webpack, Rollup, Gulp
+* State Management: Redux, MobX
+* Testing: Jest, Enzyme
+
+Professional Experience:
+
+UI Engineer, ABC Company (2018-Present)
+
+* Designed and developed multiple responsive web applications using React, Redux, and Webpack
+* Collaborated with cross-functional teams to create user-centered interfaces that meet business requirements
+* Implemented automated testing using Jest and Enzyme to ensure high-quality code
+* Utilized Git for version control and collaborated with team members on feature branches
+* Participated in code reviews to ensure adherence to coding standards and best practices
+
+UI Developer, DEF Startups (2015-2018)
+
+* Built and maintained multiple frontend applications using Angular, Jasmine, and Karma
+* Worked with designers to implement responsive designs using CSS preprocessors (Sass, Less) and media queries
+* Implemented version control using SVN and collaborated with team members on feature branches
+* Participated in code reviews to ensure adherence to coding standards and best practices
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Frontend Developer, Frontend Masters (2017)
+* Certified UI Engineer, Udemy (2019)
+
+Personal Projects:
+
+* Personal Website: [jordanschmidt.com](http://jordanschmidt.com) - a personal website built using React, Redux, and Webpack
+* Open Source Contributions: Contributed to multiple open-source projects on GitHub, including a React-based dashboard and a Vue.js-based e-commerce application
+
+References:
+Available upon request.

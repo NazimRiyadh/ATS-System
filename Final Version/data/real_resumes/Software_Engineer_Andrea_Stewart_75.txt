@@ -1,0 +1,58 @@
+Andrea Stewart
+Contact Information:
+
+* Email: [andrea.stewart@email.com](mailto:andrea.stewart@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/andrea-stewart
+* GitHub: github.com/astewart
+
+Summary:
+Highly motivated and experienced software engineer with a strong background in Java, web development, and backend development. Proven track record of delivering high-quality software solutions using agile methodologies and version control systems. Skilled in API design and testing, with expertise in ensuring scalability and reliability of software systems.
+
+Technical Skills:
+
+* Programming languages: Java 8 and above
+* Web development frameworks: Spring Boot, Hibernate, RESTful APIs
+* Backend development frameworks: Node.js, Express.js
+* Version control systems: Git, SVN
+* Testing frameworks: JUnit, Mockito, Selenium
+* API design and testing: Swagger, Postman
+* Agile methodologies: Scrum, Kanban
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple features for the company's web application using Spring Boot and Hibernate
+* Implemented RESTful APIs using Swagger and Postman for API documentation and testing
+* Collaborated with cross-functional teams to ensure integration with other systems and services
+* Identified and resolved bugs using JUnit and Mockito testing frameworks
+* Participated in code reviews and ensured adherence to coding standards and best practices
+* Deployed applications to production using automated deployment scripts and CI/CD pipelines
+
+Senior Software Engineer, DEF Startup (2015-2018)
+
+* Led the development of a cloud-based SaaS application using Node.js and Express.js
+* Designed and implemented API endpoints using Swagger and Postman for API documentation and testing
+* Collaborated with the QA team to ensure thorough testing and quality assurance
+* Implemented automated testing using Selenium and JUnit
+* Participated in code reviews and ensured adherence to coding standards and best practices
+* Mentored junior engineers and provided guidance on software development best practices
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Scrum Master (CSM), Scrum Alliance
+* Certified Java Developer (OCPJP), Oracle Corporation
+
+Personal Projects:
+
+* Developed a personal project using Java and Spring Boot, which is a web-based chatbot that uses natural language processing to respond to user queries
+* Contributed to open-source projects on GitHub, including a Java-based library for data analysis and a Node.js-based framework for building RESTful APIs
+
+References:
+Available upon request.

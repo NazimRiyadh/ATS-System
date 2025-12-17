@@ -1,0 +1,58 @@
+here's a sample resume for mary navarro applying for the role of data engineer:
+
+mary navarro
+contact information:
+
+* email: [mary.navarro@email.com](mailto:mary.navarro@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/marynavarro
+* github: github.com/marynavarro
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, etl, and big data technologies. proven track record of developing and deploying scalable data pipelines, ensuring data quality, and optimizing data processing workflows. skilled in designing and implementing data architectures that meet business requirements.
+
+technical skills:
+
+* programming languages: python, java, sql
+* big data technologies: apache hadoop, apache spark, apache kafka
+* data engineering tools: apache airflow, apache beam, apache nifi
+* data science tools: tensorflow, pytorch, scikit-learn
+* etl (extract, transform, load) tools: apache beam, apache nifi
+* mlops (machine learning operations) tools: mlflow, kubeflow
+* data storage: hdfs, aws s3, cassandra
+* operating systems: linux, windows, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+data engineer, abc company (2020-present)
+
+* designed and developed scalable data pipelines using apache airflow, apache beam, and apache nifi to integrate multiple data sources
+* implemented data quality checks and data validation using python and sql to ensure data accuracy and consistency
+* collaborated with data scientists to deploy machine learning models using mlflow and kubeflow, ensuring model performance and explainability
+* developed and maintained data warehouse etl processes using apache beam and apache nifi
+* implemented data governance policies and procedures to ensure data security and compliance
+
+data analyst, def company (2018-2020)
+
+* designed and developed data visualizations using tableau and power bi to communicate insights to stakeholders
+* developed and maintained data models using sql and python to support business intelligence and reporting
+* collaborated with data engineers to develop data pipelines and data architectures
+* implemented data quality checks and data validation using python and sql
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2020)
+* certified scrum master, scrum alliance (2019)
+
+projects:
+
+* developed a real-time analytics platform using apache kafka, apache spark, and apache cassandra to process and analyze iot sensor data
+* designed and developed a data lake architecture using apache hadoop, apache spark, and apache parquet to store and process large datasets
+* implemented a machine learning model using tensorflow and pytorch to predict customer churn using historical customer data
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for, and highlight your relevant skills and experiences.

@@ -1,0 +1,60 @@
+**Lily**
+**Data Engineer Candidate**
+
+**Contact Information:**
+
+* Email: [lily@email.com](mailto:lily@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/lilydataengineer
+
+**Summary:**
+Results-driven Director-level Data Engineer with 8+ years of experience in designing and implementing scalable data pipelines, optimizing SQL queries, and developing real-time analytics solutions. Proven track record of achieving 3.6 in data competitions and delivering high-quality data products. Seeking a challenging In-office environment where I can leverage my expertise in Big Data technologies, ETL pipelines, and data warehousing to drive business growth.
+
+**Technical Skills:**
+
+* Big Data technologies: Hadoop, Spark, Flink
+* ETL pipelines: Apache Beam, AWS Glue, Talend
+* SQL optimization: Indexing, query tuning, and SQL optimization techniques
+* Real-time analytics: Apache Kafka, Apache Storm, and Apache Flink
+* Data pipeline orchestration: Airflow, Apache NiFi
+* Data warehousing: Snowflake, Amazon Redshift, and Google BigQuery
+* Cloud data tools: AWS Lake Formation, GCP Bigtable, and Azure Synapse Analytics
+* Programming languages: Python, Java, Scala, and SQL
+
+**Professional Experience:**
+
+**Director, Data Engineering**
+ABC Corporation (2018-Present)
+
+* Designed and implemented scalable data pipelines using Apache Beam and AWS Glue
+* Optimized SQL queries to improve performance by 30% using indexing and query tuning techniques
+* Developed real-time analytics solutions using Apache Kafka and Apache Storm
+* Managed a team of 5 Data Engineers to deliver high-quality data products
+* Achieved a 3.6 score in the 2020 Data Science Competition
+
+**Senior Data Engineer**
+XYZ Inc. (2015-2018)
+
+* Designed and developed ETL pipelines using Talend and Apache NiFi
+* Developed data models and data warehousing solutions using Snowflake and Amazon Redshift
+* Optimized SQL queries to improve performance by 25% using indexing and query tuning techniques
+* Collaborated with cross-functional teams to deliver business intelligence solutions
+
+**Education:**
+
+* Master of Science in Computer Science, University of California, Berkeley (2010-2012)
+* Bachelor of Science in Computer Science, University of California, Los Angeles (2006-2010)
+
+**Certifications:**
+
+* Certified Data Engineer, Google Cloud (2019)
+* Certified Big Data Engineer, IBM (2017)
+
+**Competitions and Achievements:**
+
+* 3rd Place, Data Science Competition (2020)
+* Winner, Big Data Hackathon (2019)
+* Featured Speaker, Data Engineering Conference (2018)
+
+**References:**
+Available upon request.

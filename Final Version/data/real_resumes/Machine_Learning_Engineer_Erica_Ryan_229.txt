@@ -1,0 +1,56 @@
+Here is a professional resume for Erica Ryan:
+
+Erica Ryan
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [erica.ryan@email.com](mailto:erica.ryan@email.com)
+* Phone: 555-123-4567
+* LinkedIn: linkedin.com/in/ericaryan
+
+Summary:
+Highly motivated and detail-oriented Machine Learning Engineer with expertise in building scalable and efficient predictive models using Python, PyTorch, and other machine learning frameworks. Proven track record of delivering high-impact projects that drive business growth. Skilled in feature engineering, hyperparameter tuning, and model optimization.
+
+Technical Skills:
+
+* Programming languages: Python, PyTorch, NumPy, Pandas
+* Machine learning frameworks: PyTorch, Scikit-learn, TensorFlow
+* Data storage and processing: MySQL, MongoDB, Apache Spark
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Company (2020-Present)
+
+* Designed and developed predictive models using PyTorch to improve customer segmentation and targeted marketing campaigns
+* Implemented feature engineering techniques to improve model accuracy and reduce overfitting
+* Conducted hyperparameter tuning using Bayesian optimization and grid search to optimize model performance
+* Collaborated with cross-functional teams to integrate machine learning models into production pipelines
+* Achievements:
+	+ Improved customer segmentation accuracy by 25% and reduced marketing costs by 15%
+	+ Developed and deployed a real-time fraud detection system that reduced false positives by 30%
+
+Junior Data Scientist, DEF Start-up (2018-2020)
+
+* Worked on projects involving natural language processing, computer vision, and time series forecasting
+* Developed and deployed a model to predict stock prices using PyTorch and TensorFlow
+* Collaborated with the data engineering team to design and implement data pipelines using Apache Spark and Apache Kafka
+* Achievements:
+	+ Improved stock price prediction accuracy by 20% using a novel feature engineering technique
+	+ Developed a real-time sentiment analysis system that improved customer engagement by 10%
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015-2017)
+* Bachelor of Science in Computer Science, ABC University (2011-2015)
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Python Developer, Python Institute (2018)
+
+References:
+Available upon request.
+
+As a machine learning engineer, Erica Ryan has a strong foundation in programming languages, machine learning frameworks, and data storage and processing. Her experience in feature engineering, hyperparameter tuning, and model optimization has enabled her to deliver high-impact projects that drive business growth. Her achievements demonstrate her ability to improve model accuracy, reduce costs, and improve customer engagement.

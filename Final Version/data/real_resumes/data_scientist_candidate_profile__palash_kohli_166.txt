@@ -1,0 +1,38 @@
+**candidate profile: palash kohli**
+
+**overview**
+
+palash kohli has applied for the data scientist position, bringing a strong foundation in data analysis and a passion for problem-solving. while palash demonstrated excellent communication skills and a willingness to learn, there were notable areas of mismatch between their skills and the job requirements.
+
+**key strengths**
+
+* excellent communication and presentation skills, evident in their ability to articulate complex ideas in a clear and concise manner.
+* strong problem-solving skills, with experience in troubleshooting and finding creative solutions.
+* familiarity with data analysis concepts, including data cleaning, data transformation, and exploratory data analysis.
+
+**key areas for improvement**
+
+* **machine learning**: palash lacks direct experience with machine learning algorithms and techniques, which is a critical aspect of the data scientist role. during the interview, they struggled to explain the concepts of supervised and unsupervised learning, and did not demonstrate familiarity with popular machine learning libraries such as scikit-learn or tensorflow.
+* **statistics**: while palash has a basic understanding of statistical concepts, they did not demonstrate a strong grasp of advanced statistical techniques, such as hypothesis testing, confidence intervals, or regression analysis.
+* **data visualization**: palash's experience with data visualization tools is limited, and they did not demonstrate proficiency in creating interactive visualizations using tools like tableau, power bi, or d3.js.
+* **big data**: palash lacks experience with big data technologies, including hadoop, spark, or nosql databases. they did not demonstrate familiarity with data processing frameworks like apache beam or aws glue.
+* **programming**: palash's programming skills are primarily in sql, with limited experience in python and r. they struggled to write simple python code and did not demonstrate fluency in using r for data analysis.
+* **experience**: palash's experience in the field is relatively limited, with only a few months of relevant work experience. they did not demonstrate a deep understanding of the industry or domain-specific challenges.
+
+**concerns raised during the interview**
+
+* difficulty with tasks that required machine learning or advanced statistical techniques
+* lack of familiarity with popular data visualization tools and technologies
+* struggles with python programming and data analysis using r
+* limited experience with big data technologies and data processing frameworks
+
+**potential for growth**
+
+despite the gaps in their skillset, palash demonstrated a willingness to learn and a strong passion for data science. with further training and exposure, palash has the potential to develop the necessary skills to excel in the data scientist role. they would benefit from courses or training programs that focus on machine learning, statistics, data visualization, and programming in python and r. additionally, providing palash with opportunities to work on real-world projects and collaborate with experienced data scientists could help them develop the skills and expertise required for the role.
+
+**recommendations**
+
+* provide palash with targeted training and mentorship to develop their skills in machine learning, statistics, data visualization, and programming.
+* assign palash to work on projects that focus on big data analytics, data science, and machine learning.
+* encourage palash to take online courses or attend workshops to improve their programming skills in python and r.
+* pair palash with an experienced data scientist to provide guidance and support throughout the onboarding process.

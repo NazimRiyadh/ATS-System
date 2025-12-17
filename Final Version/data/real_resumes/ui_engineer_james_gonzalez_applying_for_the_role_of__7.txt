@@ -1,0 +1,66 @@
+here's a sample resume for james gonzalez applying for the role of ui engineer:
+
+james gonzalez
+contact information:
+
+* email: [james.gonzalez@email.com](mailto:james.gonzalez@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/jamesgonzalez
+* github: github.com/jamesgonzalez
+
+summary:
+highly motivated and detail-oriented ui engineer with 5+ years of experience in designing and developing user interfaces using modern front-end technologies. skilled in css, javascript, and react, with a strong understanding of wireframing and user experience principles. proficient in creating responsive, visually appealing, and user-friendly interfaces that meet business requirements.
+
+technical skills:
+
+* front-end development:
+	+ html5
+	+ css3 (sass/scss)
+	+ javascript (es6+)
+	+ react (hooks, context api)
+	+ webpack
+	+ babel
+* design and prototyping:
+	+ figma
+	+ sketch
+	+ adobe xd
+* version control:
+	+ git
+	+ github
+* operating systems:
+	+ windows
+	+ macos
+	+ linux
+
+professional experience:
+
+ui engineer, abc company (2020-present)
+
+* designed and developed user interfaces for multiple web applications using react, html5, css3, and javascript
+* collaborated with cross-functional teams to identify and prioritize ui requirements
+* created wireframes and prototypes to visualize and test ui concepts
+* ensured accessibility, responsiveness, and usability of ui components
+* implemented automated testing and debugging using jest and chrome devtools
+
+junior ui engineer, def agency (2018-2020)
+
+* developed ui components using html5, css3, and javascript
+* worked with designers to implement design specifications and create visually appealing interfaces
+* assisted in testing and debugging ui components using chrome devtools and figma
+* participated in code reviews and contributed to improving team coding standards
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified ui designer, abc institute (2020)
+
+personal projects:
+
+* developed a personal portfolio website using react, next.js, and typescript
+* contributed to open-source projects on github, including a react-based chat application
+
+references:
+available upon request.

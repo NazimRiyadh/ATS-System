@@ -1,0 +1,54 @@
+here's a sample resume for lisa guzman applying for a data scientist role:
+
+lisa guzman
+contact information:
+
+* email: [lisa.guzman@email.com](mailto:lisa.guzman@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/lisaguzman
+* github: github.com/lisaguzman
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in statistics and machine learning. skilled in extracting insights from large datasets and developing predictive models to drive business growth. proficient in sql and able to work with various data tools and technologies.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning libraries: scikit-learn, tensorflow, keras
+* statistics: hypothesis testing, confidence intervals, regression analysis
+* data visualization: tableau, matplotlib, seaborn
+* operating systems: windows, linux
+* database management: mysql, postgresql
+
+professional experience:
+
+data analyst, abc corporation (2018-present)
+
+* collected and analyzed large datasets to inform business decisions
+* developed and implemented predictive models using machine learning algorithms
+* created data visualizations to communicate insights to stakeholders
+* collaborated with cross-functional teams to identify business opportunities
+* improved data quality and reduced data latency by 30%
+
+statistics intern, def university (summer 2016)
+
+* assisted in designing and conducting statistical analyses for research projects
+* developed and presented research papers on statistical modeling and data visualization
+* worked with faculty members to develop new research projects and proposals
+
+education:
+
+* master of science in statistics, xyz university (2018)
+* bachelor of science in mathematics, abc university (2016)
+
+projects:
+
+* predicting customer churn: developed a machine learning model using scikit-learn to predict customer churn for a telecommunications company. the model achieved an accuracy of 85% and reduced churn by 25%.
+* analyzing sales data: analyzed sales data for a retail company using sql and tableau. identified trends and insights that led to a 10% increase in sales.
+
+certifications:
+
+* certified analytics professional (cap)
+* certified data scientist (cds)
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and qualifications. also, be sure to proofread your resume multiple times for any grammar or formatting errors before submitting it to employers.

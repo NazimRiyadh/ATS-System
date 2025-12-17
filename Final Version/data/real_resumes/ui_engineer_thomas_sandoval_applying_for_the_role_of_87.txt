@@ -1,0 +1,50 @@
+here's a sample resume for thomas sandoval applying for the role of ui engineer:
+
+thomas sandoval
+contact information:
+
+* email: [thomas.sandoval@email.com](mailto:thomas.sandoval@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/thomassandoval
+* github: github.com/thomassandoval
+
+summary:
+highly skilled ui engineer with expertise in designing and developing user interfaces for web applications. proficient in html, css, javascript, and react, with a strong understanding of ui/ux design principles. proven track record of delivering high-quality, visually appealing, and user-friendly interfaces that meet business requirements.
+
+technical skills:
+
+* programming languages: html, css, javascript, react
+* ui/ux design tools: figma, sketch, adobe xd
+* development tools: webpack, babel, eslint
+* version control: git, github
+* operating systems: windows, macos, linux
+
+professional experience:
+
+* ui engineer, abc company (2020-present)
+	+ designed and developed user interfaces for web applications using react, html, css, and javascript
+	+ collaborated with cross-functional teams to define and deliver ui requirements
+	+ implemented responsive design principles to ensure optimal user experience across various devices
+	+ utilized ui/ux design tools to create high-fidelity prototypes and iterate on design concepts
+* junior front-end developer, def agency (2018-2020)
+	+ developed front-end features for web applications using html, css, and javascript
+	+ assisted in the design and implementation of ui components using react
+	+ participated in code reviews and ensured adherence to coding standards
+
+education:
+
+* bachelor of science in computer science, xyz university (2018)
+* certificate in ui/ux design, ui/ux design course (2020)
+
+projects:
+
+* personal project: developed a single-page application using react, redux, and node.js for a fictional e-commerce platform
+* collaborative project: contributed to a team project that developed a web application for a fictional event planning service using react, webpack, and babel
+
+certifications:
+
+* certified ui/ux designer, ui/ux design course (2020)
+* certified react developer, react course (2020)
+
+references:
+available upon request.

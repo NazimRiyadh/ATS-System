@@ -1,0 +1,52 @@
+ananya sharma
+ui engineer
+
+contact information:
+
+* email: [ananya.sharma@email.com](mailto:ananya.sharma@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ananyasharma
+
+summary:
+highly motivated and detail-oriented ui engineer with 5+ years of experience in designing and developing responsive, accessible, and performant web interfaces using modern front-end technologies. proficient in html, css, javascript, react, and ui/ux design principles. skilled in version control, frontend testing, and web performance optimization.
+
+professional experience:
+
+ui engineer, abc company (2020-present)
+
+* designed and developed responsive web interfaces for e-commerce, finance, and healthcare industries using html, css, javascript, and react.
+* collaborated with cross-functional teams to implement ui/ux design principles, ensuring high-quality user experiences.
+* implemented web accessibility standards (wcag 2.1) to ensure equal access to web applications for users with disabilities.
+* optimized web performance by minimizing http requests, leveraging browser caching, and using image compression techniques.
+* utilized jest and enzyme for frontend testing, ensuring robust and reliable ui components.
+* managed and maintained version control using git, ensuring seamless collaboration and code reviews.
+
+junior ui engineer, def startups (2018-2020)
+
+* developed ui components and prototypes using react, html, css, and javascript.
+* worked closely with designers to translate design specifications into functional ui components.
+* implemented responsive design principles, ensuring a seamless user experience across various devices and screen sizes.
+* participated in code reviews and ensured adherence to coding standards and best practices.
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer networks, database systems, web technologies, and software engineering.
+
+achievements:
+
+* certified web developer (cwd), world organization of webmasters (2019)
+* front-end master, online course completion (2020)
+* winner, abc company's hackathon (2019) for developing a responsive web application using react and ui/ux design principles.
+
+skills:
+
+* html, css, javascript, react
+* ui/ux design, responsive design, web accessibility
+* version control (git)
+* frontend testing (jest, enzyme)
+* web performance optimization
+* browser compatibility and cross-browser testing
+
+references:
+available upon request.

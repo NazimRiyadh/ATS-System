@@ -1,0 +1,60 @@
+Here's a professional resume for Miguel Holt:
+
+Miguel Holt
+System Administrator
+
+Contact Information:
+
+* Email: [mholt@email.com](mailto:mholt@email.com)
+* Phone: 555-123-4567
+* LinkedIn: linkedin.com/in/miguelholt
+
+Professional Summary:
+Highly motivated and experienced System Administrator with a strong background in Linux/Unix, Active Directory, Networking, Virtualization, and System Monitoring. Proven track record of delivering high-quality services with excellent problem-solving skills, strong communication, and teamwork abilities. Seeking a challenging role as a System Administrator where I can utilize my expertise to ensure smooth operation of IT infrastructure and provide top-notch support to end-users.
+
+Technical Skills:
+
+* Operating Systems: Linux (Red Hat, Ubuntu), Unix (Solaris, AIX)
+* Directory Services: Active Directory (Windows Server), OpenLDAP
+* Networking: Cisco, Juniper, HP Networking
+* Virtualization: VMware, KVM, OpenStack
+* System Monitoring: Nagios, Prometheus, Grafana
+* Scripting Languages: Bash, Python, PowerShell
+* Familiarity with cloud platforms: AWS, Azure, Google Cloud
+
+Professional Experience:
+
+System Administrator, ABC Corporation (2018-Present)
+
+* Manage and maintain a large-scale Windows Server environment with over 500 users, ensuring high uptime and performance.
+* Implement and monitor Active Directory, Group Policy, and DNS services to provide secure and reliable authentication and authorization.
+* Configure and troubleshoot network devices, including routers, switches, and firewalls.
+* Deploy and manage virtual machines using VMware vSphere, ensuring efficient resource utilization and high availability.
+* Utilize Nagios and Prometheus to monitor system performance, identify issues, and implement corrective actions.
+* Collaborate with the IT team to develop and implement IT policies, procedures, and standards.
+
+Senior System Administrator, DEF Company (2015-2018)
+
+* Designed, implemented, and managed a Linux-based infrastructure for a large-scale web application, ensuring high performance and scalability.
+* Configured and monitored a Cisco network infrastructure, including routers, switches, and firewalls.
+* Implemented a VMware vSphere environment to virtualize servers, reducing hardware costs and improving resource utilization.
+* Developed and maintained system monitoring scripts using Bash and Python to track system performance and identify potential issues.
+* Provided Level 2 and Level 3 support to end-users, resolving complex technical issues and improving overall system reliability.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* Successfully implemented a cloud-based backup solution using AWS S3, reducing backup costs by 50% and improving data availability.
+* Developed and deployed a custom monitoring script using Python and Nagios, reducing system downtime by 30%.
+* Collaborated with the IT team to develop and implement an IT service management process, resulting in a 25% reduction in incident resolution time.
+
+Certifications:
+
+* CompTIA Linux+ (2015)
+* CompTIA Network+ (2013)
+* Cisco CCNA (2012)
+
+I hope this sample resume helps! Remember to customize your own resume to fit your specific experience and the job you're applying for.

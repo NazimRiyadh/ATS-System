@@ -1,0 +1,58 @@
+Here's a sample resume for Caleb Harmon:
+
+Caleb Harmon
+Contact Information:
+
+* Email: [caleb.harmon@email.com](mailto:caleb.harmon@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/calebharmon
+* GitHub: github.com/calebharmon
+
+Professional Summary:
+Highly motivated and detail-oriented QA Engineer with 5+ years of experience in ensuring the quality of software applications through automated testing and manual testing techniques. Skilled in Selenium, Test Case Development, and Agile methodologies. Proven track record of improving testing efficiency and reducing defects.
+
+Technical Skills:
+
+* Programming languages: Java, Python, C#
+* Testing frameworks: Selenium, JUnit, TestNG
+* Agile methodologies: Scrum, Kanban
+* Version control systems: Git, SVN
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+QA Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed automated test scripts using Selenium WebDriver for web applications
+* Created and executed manual test cases to ensure high-quality software releases
+* Collaborated with cross-functional teams to identify and prioritize testing efforts
+* Implemented continuous integration and continuous deployment (CI/CD) pipelines using Jenkins and Docker
+* Analyzed and reported defects to development teams, resulting in a 30% reduction in defect density
+
+Test Automation Engineer, DEF Startups (2015-2018)
+
+* Developed and maintained automated test frameworks using Selenium and Appium for mobile applications
+* Created and executed test plans to ensure high-quality software releases
+* Worked with development teams to identify and prioritize testing efforts
+* Implemented automated testing using Jenkins and Bamboo
+* Collaborated with QA teams to develop and maintain test documentation
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Achievements:
+
+* Certified Scrum Master (CSM), Scrum Alliance (2019)
+* Certified Java Developer (OCPJP), Oracle Corporation (2016)
+* Winner of the ABC Corporation's Quality Award (2020) for exceptional quality and efficiency in testing efforts
+
+Projects:
+
+* Automated Testing Framework for e-commerce Applications: Developed an automated testing framework using Selenium and Java for e-commerce applications. Successfully integrated the framework into the CI/CD pipeline and reduced testing time by 50%.
+* Mobile App Testing using Appium: Developed automated test scripts using Appium and Java for mobile applications. Successfully executed test cases and reduced defect density by 20%.
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize it to your specific experience and the job you're applying for.

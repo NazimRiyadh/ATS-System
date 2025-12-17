@@ -1,0 +1,56 @@
+mira singh
+data scientist
+
+contact information:
+
+* email: [mirasingh@email.com](mailto:mirasingh@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/mirasinghds
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in extracting insights from complex data sets using advanced statistical and machine learning techniques. proficient in a range of programming languages, including python, and experienced in implementing data visualization, a/b testing, and statistical analysis. proven track record of delivering data-driven solutions that drive business growth.
+
+technical skills:
+
+* programming languages: python
+* machine learning libraries: scikit-learn, tensorflow
+* data visualization tools: matplotlib, seaborn, plotly
+* database management: sql
+* a/b testing: google optimize
+* statistical analysis: r, spss
+* operating systems: windows, macos, linux
+
+professional experience:
+
+data scientist, abc corporation (2018-present)
+
+* designed and implemented predictive models using machine learning algorithms to improve customer segmentation and retention
+* developed and maintained complex data pipelines using python and sql to extract insights from large datasets
+* worked closely with cross-functional teams to identify business opportunities and develop data-driven solutions
+* created data visualizations and reports using tableau and power bi to communicate insights to stakeholders
+* conducted a/b testing using google optimize to optimize marketing campaigns and improve conversion rates
+* collaborated with data engineers to design and implement scalable data architectures
+
+data analyst, def startups (2015-2018)
+
+* collected and analyzed data from various sources to inform business decisions
+* developed and maintained databases using sql to store and manage large datasets
+* created data visualizations and reports using matplotlib and seaborn to communicate insights to stakeholders
+* conducted statistical analysis using r and spss to identify trends and patterns in data
+* worked closely with product managers to identify opportunities for growth and develop data-driven solutions
+
+education:
+
+* master of science in data science, university of california, berkeley (2015)
+* bachelor of science in mathematics, stanford university (2013)
+
+achievements:
+
+* winner, data science competition, kaggle (2019): developed and implemented a machine learning model using scikit-learn and tensorflow to predict customer churn
+* featured speaker, data science conference, new york (2018): presented a talk on "applying machine learning to real-world problems"
+* published research paper, journal of machine learning research (2017): co-authored a paper on "deep learning for image classification"
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)

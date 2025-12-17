@@ -1,0 +1,61 @@
+Here's a sample resume for Seth Montoya, a Machine Learning Engineer candidate:
+
+Seth Montoya
+Contact Information:
+
+* Email: [seth.montoya@email.com](mailto:seth.montoya@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/sethmontoya
+* GitHub: github.com/sethmontoya
+
+Professional Summary:
+Highly motivated and experienced Machine Learning Engineer with a strong background in developing and deploying scalable machine learning models using Python, Scikit-learn, and TensorFlow. Proven track record of delivering high-quality solutions that drive business value through data-driven insights. Skilled in feature engineering, hyperparameter tuning, and model deployment.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine learning frameworks: Scikit-learn, TensorFlow, Keras
+* Data preprocessing and feature engineering: Pandas, NumPy, Scikit-learn
+* Hyperparameter tuning: Grid search, Random search, Bayesian optimization
+* Model deployment: TensorFlow Serving, Docker
+* Operating Systems: Linux, Windows
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Company (2018-Present)
+
+* Designed and developed multiple machine learning models using Scikit-learn and TensorFlow to improve customer segmentation, churn prediction, and recommendation systems
+* Collaborated with cross-functional teams to integrate machine learning models into production environments, including data preprocessing, feature engineering, and hyperparameter tuning
+* Developed and deployed multiple TensorFlow models using TensorFlow Serving, resulting in a 20% increase in model accuracy and a 30% reduction in latency
+* Mentored junior engineers on machine learning best practices, data preprocessing, and model deployment
+
+Data Scientist, DEF Startups (2015-2018)
+
+* Worked on multiple projects involving data analysis, statistical modeling, and machine learning to drive business decisions
+* Developed and deployed multiple Scikit-learn models to predict customer behavior, resulting in a 15% increase in sales and a 25% reduction in customer churn
+* Collaborated with stakeholders to design and implement data visualization dashboards using Tableau and Power BI
+
+Education:
+
+* Master of Science in Computer Science, University of California, Berkeley (2015)
+* Bachelor of Science in Computer Science, University of New Mexico (2013)
+
+Achievements:
+
+* Kaggle Grandmaster, with top 10% ranking in multiple competitions
+* Scikit-learn contributor, with multiple pull requests accepted into the main repository
+* Recipient of the Google Machine Learning Scholarship, 2019
+
+Projects:
+
+* Image Classification using TensorFlow and Keras: Developed a convolutional neural network to classify images into 10 categories, achieving an accuracy of 95%
+* Time Series Forecasting using Scikit-learn: Developed a linear regression model to predict stock prices, achieving an RMSE of 2.5%
+* Recommendation System using TensorFlow: Developed a collaborative filtering model to recommend products to users, achieving an accuracy of 85%
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2018)
+* Certified Machine Learning Engineer, Association for Computing Machinery (2019)
+
+I hope this sample resume helps! Remember to tailor your resume to the specific job you're applying for, and highlight your unique strengths and experiences.

@@ -1,0 +1,55 @@
+here's a sample resume for a data scientist candidate named tommy simpson:
+
+tommy simpson
+contact information:
+
+* address: 123 main st, anytown, usa 12345
+* phone: (555) 555-5555
+* email: [tommysimpson@email.com](mailto.tommysimpson@email.com)
+* linkedin: linkedin.com/in/tommysimpson
+
+summary:
+highly motivated and detail-driven data scientist with a strong background in python, statistics, and deep learning. proven ability to extract insights from complex data sets and develop efficient machine learning models. proficient in working with big data, data visualization, and collaborative environments.
+
+technical skills:
+
+* programming languages: python (proficient), r (basic)
+* data science libraries: numpy, pandas, scikit-learn, tensorflow, keras
+* deep learning frameworks: pytorch, tensorflow
+* data visualization: matplotlib, seaborn, plotly
+* operating systems: windows, linux, macos
+* familiarity with cloud-based platforms: aws, google cloud, azure
+
+professional experience:
+
+data scientist, abc corporation (2020-present)
+
+* developed and deployed machine learning models using python and scikit-learn to predict customer churn and improve revenue growth
+* collaborated with cross-functional teams to design and implement data-driven strategies for business growth
+* worked with large datasets (up to 100m rows) to extract insights and create data visualizations to communicate findings to stakeholders
+* developed and maintained a python-based data pipeline to collect, transform, and load data into a data warehouse
+
+mathematics and statistics intern, def university (summer 2018)
+
+* assisted in the development of a statistical model to predict stock prices using historical data
+* conducted data analysis and visualization using r and python to identify trends and patterns in the data
+* presented findings to a team of researchers and professors, resulting in a published paper on the topic
+
+education:
+
+* bachelor's degree in mathematics and statistics, xyz university (2018-2022)
+	+ coursework: probability and statistics, linear algebra, calculus, data science, machine learning
+	+ research project: developed a neural network model to predict the outcome of a binary classification problem using a dataset from a kaggle competition
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* python certification, datacamp (2019)
+
+personal projects:
+
+* developed a python-based chatbot using tensorflow and keras to predict and respond to user queries
+* built a data visualization dashboard using plotly and flask to display real-time data on a web application
+
+references:
+available upon request.

@@ -1,0 +1,61 @@
+Here's a professional resume for Jared Fitzpatrick:
+
+Jared Fitzpatrick
+Contact Information:
+
+* Email: [jared.fitzpatrick@email.com](mailto:jared.fitzpatrick@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/jaredfitzpatrick
+* GitHub: github.com/jaredfitzpatrick
+
+Professional Summary:
+
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using Airflow, ETL, and Big Data technologies. Proven track record of delivering high-quality data products, improving data efficiency, and driving business growth through data-driven insights.
+
+Technical Skills:
+
+* MLOps: Model deployment, model serving, and model monitoring
+* Airflow: DAG design, operator development, and workflow orchestration
+* ETL: Data extraction, transformation, and loading using various tools (e.g., Apache Beam, AWS Glue)
+* Big Data: Hadoop, Spark, NoSQL databases (e.g., HBase, Cassandra)
+* Data Warehousing: Snowflake, Redshift, data modeling, and ETL
+* Programming languages: Python, Java, SQL
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2020-Present)
+
+* Designed and developed data pipelines using Airflow, Apache Beam, and ETL tools to process 10TB of data daily
+* Implemented a data warehousing solution using Snowflake, Redshift, and data modeling to support business intelligence needs
+* Developed and deployed machine learning models using MLOps tools (e.g., TensorFlow, PyTorch) and served them using model serving platforms (e.g., TensorFlow Serving)
+* Collaborated with cross-functional teams to identify data requirements, design data solutions, and implement data governance
+* Improved data efficiency by 30% through data optimization, resulting in cost savings of $1M annually
+
+Data Engineer, DEF Startups (2018-2020)
+
+* Developed and maintained ETL processes using AWS Glue, Apache Beam, and Python to extract, transform, and load data from multiple sources
+* Designed and deployed data pipelines using Airflow to process 5TB of data daily
+* Collaborated with data scientists to implement machine learning models using Big Data technologies (e.g., Hadoop, Spark)
+* Improved data quality by 25% through data validation, data cleaning, and data documentation
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Big Data Engineer, Big Data Certification Board (2018)
+
+Achievements:
+
+* Airflow Summit Award (2020) for outstanding contributions to the Airflow community
+* Data Engineering Award (2019) for outstanding achievements in data engineering and architecture
+* Published Research Paper (2019) on "Big Data Processing using Apache Beam and Airflow" in the Journal of Big Data
+
+References:
+
+Available upon request.
+
+I hope this helps! Let me know if you need any modifications or have further requests.

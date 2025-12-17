@@ -1,0 +1,60 @@
+Here's a professional resume for John Cabrera:
+
+John Cabrera
+Contact Information:
+
+* Email: [john.cabrera@email.com](mailto:john.cabrera@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/johncabrera
+
+Professional Summary:
+Highly skilled DevOps Engineer with 5+ years of experience in designing, implementing, and managing scalable cloud infrastructure using Kubernetes, Infrastructure as Code, and Monitoring Tools. Proven track record of improving application reliability, scalability, and security in cloud environments. Passionate about automating infrastructure and delivering high-quality software.
+
+Technical Skills:
+
+* Kubernetes (Deployment, Services, Persistent Volumes, Ingress)
+* Infrastructure as Code (Terraform, Ansible, CloudFormation)
+* Monitoring Tools (Prometheus, Grafana, New Relic)
+* Cloud Platforms (AWS, GCP, Azure)
+* Containerization (Docker, Kubernetes)
+* Version Control (Git)
+* Scripting Languages (Bash, Python, Ruby)
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a scalable CI/CD pipeline using Jenkins, GitLab CI/CD, and Kubernetes
+* Configured and managed infrastructure using Terraform and Ansible
+* Implemented monitoring and logging using Prometheus, Grafana, and ELK Stack
+* Improved application reliability by 30% through proactive monitoring and incident response
+* Collaborated with development teams to deliver high-quality software releases
+
+Senior DevOps Engineer, DEF Company (2018-2020)
+
+* Led the migration of a monolithic application to a microservices architecture using Kubernetes and Docker
+* Implemented infrastructure as code using Terraform and Ansible
+* Configured and managed cloud infrastructure using AWS and GCP
+* Improved application scalability by 50% through automation and optimization
+* Mentored junior DevOps engineers on cloud infrastructure and monitoring tools
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Cloud Practitioner (CCP)
+* Certified Scrum Master (CSM)
+
+Achievements:
+
+* Winner of the 2020 DevOps Award for Best Use of Kubernetes
+* Featured speaker at the 2019 Cloud Expo on "Designing Scalable Cloud Infrastructure"
+* Published article on "Automating Infrastructure with Terraform and Ansible" in a leading industry magazine
+
+References:
+Available upon request.
+
+I hope this helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

@@ -1,0 +1,65 @@
+Here is a professional resume for Luke Erickson, a Cloud Architect candidate:
+
+Luke Erickson
+Cloud Architect
+
+Contact Information:
+
+* Email: [luke.erickson@email.com](mailto:luke.erickson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/lukeerickson
+* GitHub: github.com/lukeerickson
+
+Professional Summary:
+Highly experienced Cloud Architect with a strong background in designing and implementing scalable, secure, and cost-effective cloud solutions using Azure, GCP, and Terraform. Proven track record of delivering complex cloud projects on time and within budget, with a focus on automation, DevOps, and continuous integration.
+
+Technical Skills:
+
+* Cloud Platforms: Azure, GCP, AWS
+* Infrastructure as Code (IaC): Terraform, CloudFormation
+* DevOps Tools: Jenkins, Docker, Kubernetes
+* Security: IAM, Firewalls, Encryption
+* Programming Languages: Python, PowerShell, Bash
+* Operating Systems: Windows, Linux
+
+Professional Experience:
+
+Cloud Architect, ABC Corporation (2018-Present)
+
+* Design and implement cloud architectures for large-scale enterprise applications using Azure and GCP
+* Lead team of engineers to develop and deploy cloud-based infrastructure using Terraform and Ansible
+* Develop and maintain cloud security policies and procedures, ensuring compliance with industry standards
+* Collaborate with stakeholders to identify business requirements and develop cloud solutions that meet those needs
+* Achievements:
+	+ Designed and implemented a cloud-based CI/CD pipeline for a major financial services company, reducing deployment time by 90%
+	+ Developed a cloud security framework that reduced security vulnerabilities by 75%
+
+Senior Cloud Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented cloud architectures for startup companies using Azure and AWS
+* Developed and maintained cloud-based infrastructure using Terraform and CloudFormation
+* Collaborated with development teams to integrate cloud-based services with applications
+* Achievements:
+	+ Designed and implemented a cloud-based e-commerce platform for a major retail company, reducing costs by 50%
+	+ Developed a cloud security framework that reduced security vulnerabilities by 30%
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Google Cloud Certified - Professional Cloud Architect
+* Microsoft Certified: Azure Solutions Architect Expert
+
+Professional Memberships:
+
+* AWS User Group
+* Google Cloud User Group
+* Microsoft Azure User Group
+
+References:
+Available upon request.
+
+This is just a sample, and you should customize your resume to fit your specific experience and the job you're applying for. Remember to proofread carefully and use clear, concise language throughout. Good luck with your job application!

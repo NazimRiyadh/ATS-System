@@ -1,0 +1,58 @@
+Debra Peck
+Software Engineer
+
+Contact Information:
+
+* Email: [debra.peck@email.com](mailto:debra.peck@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/debrapeck
+
+Summary:
+Highly motivated Software Engineer with 5+ years of experience in Java development, algorithm and data structure design, and web development. Proficient in backend development, version control, testing, and API design.
+
+Technical Skills:
+
+* Programming languages: Java, Python
+* Development frameworks: Spring Boot, Hibernate
+* Data structures and algorithms: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
+* Web development: HTML, CSS, JavaScript, React
+* Database: MySQL, MongoDB
+* Version control: Git, SVN
+* Testing: JUnit, Mockito, TestNG
+* API design: RESTful API, SOAP
+
+Professional Experience:
+
+Software Engineer, XYZ Corporation (2018-Present)
+
+* Designed and developed multiple Java-based applications using Spring Boot and Hibernate
+* Implemented algorithm and data structure solutions to optimize application performance
+* Collaborated with cross-functional teams to develop and deploy web applications using React and Node.js
+* Utilized Git and SVN for version control and collaborated with team members to ensure smooth code merges
+* Wrote unit tests and integration tests using JUnit and TestNG to ensure high-quality code
+* Designed and implemented RESTful APIs using Spring Boot and Swagger
+
+Software Engineer, ABC Startups (2015-2018)
+
+* Developed multiple backend applications using Java and Spring Boot
+* Designed and implemented database schema using MySQL and MongoDB
+* Collaborated with front-end developers to integrate web applications using RESTful APIs
+* Utilized Git for version control and collaborated with team members to ensure smooth code merges
+* Wrote unit tests and integration tests using JUnit and TestNG to ensure high-quality code
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2015)
+
+Certifications:
+
+* Certified Java Developer (OCPJP), Oracle Corporation (2016)
+* Certified Scrum Master (CSM), Scrum Alliance (2017)
+
+Personal Projects:
+
+* Developed a personal project using Java and Spring Boot to build a RESTful API for a fictional e-commerce application
+* Contributed to an open-source project using React and Node.js to build a web application for a social network
+
+References:
+Available upon request.

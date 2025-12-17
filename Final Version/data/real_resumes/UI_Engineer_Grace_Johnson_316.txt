@@ -1,0 +1,58 @@
+Here's a sample resume for Grace Johnson, who was select for the UI Engineer role:
+
+**Grace Johnson**
+**UI Engineer**
+
+**Contact Information:**
+
+* Email: [gracejohnson@email.com](mailto:gracejohnson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/gracejohnson
+
+**Summary:**
+Highly skilled UI Engineer with 5+ years of experience in designing and developing user-centered, intuitive, and visually appealing interfaces for web and mobile applications. Proficient in a range of technologies, including React, Angular, and Vue.js. Proven track record of delivering high-quality code, collaborating with cross-functional teams, and driving design-driven solutions.
+
+**Technical Skills:**
+
+* Front-end development: React, Angular, Vue.js, JavaScript (ES6+), HTML5, CSS3
+* UI frameworks: Material-UI, Bootstrap, Tailwind CSS
+* State management: Redux, MobX
+* Testing: Jest, Enzyme, Cypress
+* Version control: Git, SVN
+* Agile methodologies: Scrum, Kanban
+* Familiarity with design systems, accessibility guidelines, and responsive design principles
+
+**Experience:**
+
+* **UI Engineer, XYZ Corporation (2018-Present)**
+	+ Designed and developed high-performance, responsive UI components for a popular e-commerce platform
+	+ Collaborated with designers to implement design systems and ensure consistency across the application
+	+ Implemented A/B testing and analytics to inform design decisions and improve user engagement
+	+ Mentored junior engineers and contributed to the growth of the front-end team
+* **Senior Front-end Developer, ABC Startups (2015-2018)**
+	+ Led the development of multiple web applications usingReact and Angular
+	+ Developed and maintained reusable UI components and libraries
+	+ Worked closely with product managers to gather requirements and prioritize feature development
+	+ Conducted code reviews and ensured adherence to coding standards
+
+**Achievements:**
+
+* **Improved page load times by 30%** through optimization of UI components and use of caching mechanisms
+* **Increased conversion rates by 20%** through A/B testing and design improvements
+* **Reduced technical debt by 50%** through regular code reviews and refactoring efforts
+* **Received a 95% satisfaction rating** from product managers and designers through effective communication and collaboration
+
+**Projects:**
+
+* **React-based E-commerce Platform**: Designed and developed a fully functional e-commerce platform using React, Redux, and Material-UI
+* **Angular-based Dashboard**: Built a customizable dashboard for a financial services company using Angular, Chart.js, and Highcharts
+* **Accessible Web Application**: Developed a web application that adheres to Web Content Accessibility Guidelines (WCAG 2.1) using ARIA attributes, semantic HTML, and CSS
+
+**Education:**
+
+* **Bachelor of Science in Computer Science, [University Name] (2015)**
+
+**Certifications:**
+
+* **Certified Scrum Master (CSM)**, Scrum Alliance (2018)
+* **Certified Front-end Developer**, Front-end Masters (2016)

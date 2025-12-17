@@ -1,0 +1,64 @@
+Mitchell Thomas
+UI Engineer
+
+Contact Information:
+
+* Email: [mitchell.thomas@email.com](mailto:mitchell.thomas@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/mitchellthomas
+* GitHub: github.com/mitchellthomas
+
+Summary:
+Highly skilled UI Engineer with expertise in responsive design, design tools, and animation libraries. Proven track record of delivering high-quality, visually appealing user interfaces that enhance user experiences.
+
+Technical Skills:
+
+* Front-end technologies:
+	+ HTML5
+	+ CSS3 (Sass, Less)
+	+ JavaScript (ES6+)
+	+ React (with Hooks)
+* Responsive Design:
+	+ Mobile-first approach
+	+ Grid systems (Bootstrap, Flexbox)
+	+ Media queries
+* Design Tools:
+	+ Sketch
+	+ Figma
+	+ Adobe XD
+* Animation Libraries:
+	+ Greensock Animation Platform (GSAP)
+	+ AnimeJS
+	+ Velocity.js
+* Development Tools:
+	+ Webpack
+	+ Babel
+	+ ESLint
+
+Professional Experience:
+
+* Senior UI Engineer, XYZ Corporation (2018-Present)
+	+ Designed and developed responsive user interfaces for web applications using React, Sass, and CSS Grid.
+	+ Utilized animation libraries (GSAP, AnimeJS) to create engaging animations and micro-interactions.
+	+ Collaborated with cross-functional teams to implement design systems and maintain consistency across applications.
+* UI Engineer, ABC Startup (2015-2018)
+	+ Built and maintained front-end components using React, JavaScript, and CSS.
+	+ Developed responsive designs using mobile-first approach and media queries.
+	+ Implemented design tools (Sketch, Figma) to create high-fidelity prototypes and designs.
+
+Education:
+
+* Bachelor of Science in Computer Science, University of California (2010-2014)
+
+Certifications:
+
+* Certified Front-end Developer, General Assembly (2016)
+
+Projects:
+
+* Personal Website: Designed and developed a responsive personal website using React, Sass, and GSAP.
+* React Tutorial App: Built a tutorial application using React, JavaScript, and CSS Grid.
+* Figma Plugin: Created a Figma plugin using JavaScript and React to automate design tasks.
+
+References:
+Available upon request.

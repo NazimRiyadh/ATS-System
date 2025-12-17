@@ -1,0 +1,62 @@
+Here's a sample resume for Shane Butler:
+
+Shane Butler
+Data Engineer
+
+Contact Information:
+
+* Email: [shane.butler@email.com](mailto:shane.butler@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/shanebutler
+* GitHub: github.com/shanebutler
+
+Professional Summary:
+Highly skilled Data Engineer with 5+ years of experience in designing, developing, and deploying large-scale data systems using Big Data technologies. Proven expertise in MLOps, ETL, Data Warehousing, and Spark. Possess excellent problem-solving skills, with a strong passion for delivering high-quality results in fast-paced environments.
+
+Technical Skills:
+
+* Programming languages: Python, Java, Scala
+* Big Data technologies: Hadoop, Spark, Hive, Pig
+* Data Warehousing: AWS Redshift, Google BigQuery
+* ETL: Apache Beam, Apache NiFi
+* MLOps: TensorFlow, PyTorch, scikit-learn
+* Data Engineering tools: Apache Airflow, Apache Kafka, Apache Flink
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed a large-scale data pipeline using Apache Beam and Apache Kafka to process 100TB of data per day
+* Built and deployed a real-time data warehousing solution using AWS Redshift and Apache Spark
+* Collaborated with cross-functional teams to implement data-driven decision-making using machine learning models
+* Mentored junior engineers in Big Data technologies and data engineering best practices
+* Achievements:
+	+ Improved data processing time by 30% using Apache Beam and Apache Kafka
+	+ Reduced data warehousing costs by 25% using AWS Redshift and Apache Spark
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Designed and developed ETL pipelines using Apache NiFi and Apache Pig to process 10TB of data per day
+* Built and deployed a big data analytics platform using Apache Spark and Hadoop
+* Collaborated with data scientists to implement data-driven decision-making using machine learning models
+* Achievements:
+	+ Improved data processing time by 40% using Apache NiFi and Apache Pig
+	+ Increased data quality by 25% using Apache Spark and Hadoop
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2018)
+* Certified Apache Spark Developer, Apache Software Foundation (2019)
+
+Projects:
+
+* Developed a real-time data processing system using Apache Kafka and Apache Flink
+* Built a machine learning model using TensorFlow and scikit-learn to predict customer churn
+* Collaborated on an Apache Airflow project to automate data pipelines using Python and Docker
+
+References:
+Available upon request

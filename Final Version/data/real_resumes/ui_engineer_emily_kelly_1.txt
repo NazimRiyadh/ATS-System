@@ -1,0 +1,54 @@
+here's a sample resume for emily kelly:
+
+emily kelly
+contact information:
+
+* email: [ekelly@email.com](mailto:ekelly@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/emilykelly
+* github: github.com/emilykelly
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and developing user interfaces that are both visually appealing and user-friendly. skilled in react, ui/ux design, and wireframing, with a strong passion for creating seamless digital experiences.
+
+technical skills:
+
+* programming languages: javascript (es6+), html5, css3
+* front-end frameworks: react (hooks, context api), redux
+* design tools: sketch, figma, adobe xd
+* wireframing tools: figma, axure
+* version control: git, github
+
+professional experience:
+
+ui engineer, abc company (2020-present)
+
+* designed and developed multiple ui components using react, including buttons, forms, and navigation bars
+* collaborated with cross-functional teams to implement ui/ux design concepts and ensure seamless integration with existing applications
+* utilized design tools like sketch and figma to create high-fidelity wireframes and prototypes
+* optimized ui components for accessibility and performance, resulting in improved user engagement and conversion rates
+
+ui designer, def agency (2018-2020)
+
+* created wireframes and prototypes for various web and mobile applications using axure and figma
+* collaborated with developers to implement ui design concepts and ensure consistency across multiple platforms
+* conducted user research and testing to gather feedback and improve ui design concepts
+* developed and maintained style guides to ensure consistency in branding and visual identity
+
+education:
+
+* bachelor of science in computer science, xyz university (2018)
+
+certifications:
+
+* certified ui engineer, ui engineering institute (2020)
+
+personal projects:
+
+* personal portfolio: a responsive web application showcasing my ui design and development skills, built using react and figma.
+* to-do list app: a simple to-do list application built using react and redux, demonstrating my expertise in state management and ui optimization.
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your specific experience and style. remember to proofread your resume multiple times for any errors or typos!

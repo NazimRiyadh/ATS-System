@@ -1,0 +1,55 @@
+here's a sample resume for john ross applying for a ui engineer role:
+
+john ross
+contact information:
+
+* email: [john.ross@email.com](mailto:john.ross@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/johnrossui
+* github: github.com/johnrossui
+
+summary:
+highly skilled ui engineer with expertise in html, css, javascript, and ui/ux design. proven track record of creating visually appealing and user-friendly interfaces for web applications. proficient in wireframing and prototyping tools to bring design concepts to life.
+
+technical skills:
+
+* programming languages: html, css, javascript
+* frameworks: react, angular
+* ui/ux design tools: sketch, figma, adobe xd
+* wireframing and prototyping tools: invision, adobe xd, figma
+* version control: git
+* operating systems: windows, macos
+
+professional experience:
+
+ui engineer, abc company (2020-present)
+
+* designed and developed user interfaces for web applications using html, css, and javascript
+* collaborated with cross-functional teams to ensure ui aligns with business requirements and user needs
+* created wireframes and prototypes to visualize design concepts and communicate with stakeholders
+* implemented responsive design principles to ensure seamless user experience across various devices
+* troubleshot and resolved ui-related issues to ensure smooth application performance
+
+ui/ux designer, def startup (2018-2020)
+
+* designed user interfaces for web applications using sketch and adobe xd
+* conducted user research to inform design decisions and improve user experience
+* created wireframes and prototypes to visualize design concepts and communicate with stakeholders
+* collaborated with developers to ensure ui implementation aligns with design specifications
+* conducted usability testing to identify areas for improvement
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+projects:
+
+* personal portfolio: a responsive web application showcasing my ui design and development skills (github.com/johnrossui/personal-portfolio)
+* weather app: a mobile application built using react native, featuring a intuitive ui and real-time weather data (github.com/johnrossui/weather-app)
+
+certifications:
+
+* certified ui/ux designer, uie (2020)
+
+references:
+available upon request.

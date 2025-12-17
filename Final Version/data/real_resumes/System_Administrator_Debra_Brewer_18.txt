@@ -1,0 +1,58 @@
+Here's a sample resume for Debra Brewer:
+
+Debra Brewer
+Contact Information:
+
+* Email: [debra.brewer@email.com](mailto:debra.brewer@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/debrabrewer
+
+Professional Summary:
+Highly skilled and experienced System Administrator with a proven track record of delivering reliable and efficient IT infrastructure solutions. Proficient in Windows Server, Virtualization, and System Monitoring with a strong understanding of network architecture and system security. Proven ability to work collaboratively with cross-functional teams to identify and resolve technical issues, ensuring optimal system performance and minimizing downtime.
+
+Technical Skills:
+
+* Operating Systems: Windows Server 2012, 2016, and 2019
+* Virtualization: VMware ESXi, Microsoft Hyper-V
+* System Monitoring: Nagios, SolarWinds, SCOM
+* Database Management: Microsoft SQL Server
+* Scripting: PowerShell, Batch
+* Networking: TCP/IP, DNS, DHCP
+
+Professional Experience:
+
+Senior System Administrator
+ABC Company (2018-Present)
+
+* Manage and maintain a fleet of 50 Windows Server 2016 and 2019 servers, ensuring high availability and optimal performance
+* Implement and maintain a VMware ESXi virtualization environment, providing virtual machines to 200 users
+* Develop and implement system monitoring scripts using PowerShell and Batch, resulting in a 30% reduction in downtime and a 25% increase in system uptime
+* Collaborate with the IT team to design and implement a new network architecture, resulting in a 50% reduction in network latency and a 25% increase in network throughput
+* Provide Tier 2 and Tier 3 technical support to users, resolving 90% of issues on the first call
+
+System Administrator
+Def Company (2015-2018)
+
+* Managed and maintained a fleet of 20 Windows Server 2012 and 2016 servers, ensuring high availability and optimal performance
+* Implemented and maintained a Nagios system monitoring environment, providing real-time monitoring and alerting for critical systems
+* Developed and implemented system monitoring scripts using PowerShell and Batch, resulting in a 20% reduction in downtime and a 15% increase in system uptime
+* Collaborated with the IT team to design and implement a new system security policy, resulting in a 50% reduction in security incidents and a 25% increase in system security compliance
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Microsoft Certified: Azure Solutions Architect Expert (MCAE)
+* VMware Certified Professional - Data Center Virtualization (VCP-DCV)
+* CompTIA Server+ (Server+)
+
+Achievements:
+
+* Recipient of the ABC Company IT Department's "Employee of the Year" award in 2020
+* Published an article on "Best Practices for System Monitoring" in the XYZ University Computer Science Journal in 2019
+* Presented a paper on "Windows Server 2016 Security Features" at the 2018 IT Conference
+
+References:
+Available upon request.

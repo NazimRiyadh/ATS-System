@@ -1,0 +1,50 @@
+**Ava**
+**Contact Information:**
+
+* Email: [ava@email.com](mailto:ava@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/ava
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 2 years of experience in designing, implementing, and maintaining large-scale data systems. Proven expertise in data storage solutions, data pipeline orchestration, and big data technologies. Skilled in Python, Scala, and ETL pipelines, with a strong focus on real-time analytics and data integration. Thrives in a fast-paced in-office environment.
+
+**Work Experience:**
+
+**Data Engineer Intern**, ABC Company (2020-2022)
+
+* Designed and implemented a scalable data pipeline using Apache Beam and BigQuery, resulting in a 30% increase in data processing speed
+* Collaborated with cross-functional teams to develop and deploy a data integration platform using Python, Spark, and Kafka
+* Utilized Spark and PySpark to process large datasets, achieving a 3.6 score in the Google Analytics 360 competition
+* Developed and maintained ETL pipelines using Python and Apache Beam, ensuring data accuracy and quality
+* Worked closely with the data science team to integrate real-time analytics into the company's product, resulting in a 25% increase in user engagement
+
+**Education:**
+
+* **Bachelor of Science in Computer Science**, XYZ University (2018-2022)
+
+**Skills:**
+
+* Programming languages: Python, Scala, Java
+* Data storage solutions: BigQuery, Cassandra, MongoDB
+* Data pipeline orchestration: Apache Beam, Airflow, Spark
+* Big data technologies: Hadoop, Spark, Kafka
+* ETL pipelines: Python, Apache Beam
+* Real-time analytics: Apache Kafka, Apache Storm
+* Data integration: Python, Spark, Kafka
+* Agile methodologies: Scrum, Kanban
+* Collaboration tools: Slack, Jira, Trello
+
+**Competitions and Achievements:**
+
+* **Google Analytics 360 Competition** (2022)
+	+ Achieved a 3.6 score in the competition, ranking among the top 10% of participants
+* **Hackathon Winner**, ABC Company (2021)
+	+ Developed and presented a real-time analytics solution using Apache Kafka and Apache Storm, winning the hackathon
+
+**Certifications:**
+
+* **Certified Data Engineer**, Data Engineering Certification Board (2022)
+* **Certified Python Developer**, Python Institute (2021)
+
+**References:**
+Available upon request.

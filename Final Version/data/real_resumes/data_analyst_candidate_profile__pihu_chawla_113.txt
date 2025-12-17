@@ -1,0 +1,36 @@
+**candidate profile: pihu chawla**
+
+**position:** data analyst
+
+**interview summary:**
+
+pihu chawla presented herself as a detail-oriented and enthusiastic individual with a strong academic background in computer science. however, during the interview, several areas of concern arose that impacted her alignment with the role of a data analyst.
+
+**gaps in technical skills:**
+
+1. **data visualization:** pihu lacks experience with popular data visualization tools such as tableau, power bi, or d3.js. she was unfamiliar with the concept of creating interactive dashboards and struggled to understand the importance of data storytelling.
+2. **sql:** pihu's sql skills are limited, and she was unable to write complex queries or understand database optimization techniques. she relied heavily on gui-based query builders, which is not ideal for a data analyst role.
+3. **statistics:** pihu's understanding of statistical concepts, such as hypothesis testing, regression analysis, and confidence intervals, was limited. she struggled to interpret results and make informed decisions based on data.
+4. **excel/spreadsheet analysis:** pihu's excel skills are basic, and she was unable to perform advanced tasks such as pivot tables, macros, or data modeling. she was also unfamiliar with other spreadsheet software like google sheets or libreoffice calc.
+5. **business intelligence (bi) tools:** pihu has no experience with bi tools like qlikview, sap businessobjects, or oracle business intelligence. she was unable to understand the concept of data warehousing and etl processes.
+6. **machine learning:** pihu's understanding of machine learning concepts, such as supervised and unsupervised learning, is limited. she was unfamiliar with popular machine learning libraries like scikit-learn or tensorflow.
+7. **finance:** pihu lacks experience with financial data, including accounting principles, financial modeling, and investment analysis. she was unfamiliar with financial tools like bloomberg or factset.
+
+**concerns raised during the interview:**
+
+1. **difficulty with tasks:** pihu struggled with tasks that required data manipulation, data visualization, and statistical analysis. she often relied on trial-and-error methods or sought external help.
+2. **lack of familiarity with tools:** pihu was unfamiliar with several tools and technologies, which raised concerns about her ability to adapt to our software stack and workflows.
+3. **inadequate experience:** pihu's limited experience in data analysis and lack of exposure to business operations raised concerns about her ability to make informed decisions and drive business outcomes.
+
+**growth potential:**
+
+despite the gaps in pihu's technical skills, she demonstrated a strong desire to learn and grow. with additional training, mentorship, and exposure to the required tools and technologies, she has the potential to develop into a competent data analyst. it is essential to provide her with a structured learning plan, regular feedback, and opportunities to work on real-world projects to help her bridge the skill gaps.
+
+**recommendations:**
+
+1. **training and mentorship:** provide pihu with comprehensive training on data visualization, sql, statistics, excel, and bi tools.
+2. **project-based learning:** assign pihu projects that allow her to apply her skills and knowledge to real-world scenarios.
+3. **regular feedback:** provide regular feedback and coaching to help pihu address her weaknesses and improve her skills.
+4. **exposure to finance:** provide pihu with training and exposure to financial data, including accounting principles, financial modeling, and investment analysis.
+
+by acknowledging pihu's strengths and weaknesses, providing constructive feedback, and offering opportunities for growth, we can help her develop into a valuable data analyst and contribute to the team's success.

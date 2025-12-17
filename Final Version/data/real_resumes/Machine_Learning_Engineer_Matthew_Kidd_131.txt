@@ -1,0 +1,58 @@
+Here's a professional resume for Matthew Kidd, a Machine Learning Engineer candidate:
+
+Matthew Kidd
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [mkidd@email.com](mailto:mkidd@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/matthewkiddml
+* GitHub: github.com/matthewkidd
+
+Summary:
+Highly motivated and detail-oriented Machine Learning Engineer with 5+ years of experience in developing and deploying predictive models using Python, TensorFlow, and various feature engineering techniques. Proven track record of delivering scalable and accurate machine learning solutions that drive business value. Strong passion for staying up-to-date with the latest advancements in the field and applying them to real-world problems.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine learning frameworks: TensorFlow, Scikit-learn
+* Feature engineering: Dimensionality reduction, feature selection, data preprocessing
+* Data management: Pandas, NumPy, SQL
+* Operating Systems: Windows, Linux
+* Cloud platforms: AWS, Google Cloud
+
+Professional Experience:
+
+Machine Learning Engineer, XYZ Corporation (2018-Present)
+
+* Designed and developed predictive models for customer churn, credit risk, and demand forecasting using TensorFlow and Scikit-learn
+* Collaborated with data engineers to develop and deploy data pipelines for large-scale data processing
+* Worked with cross-functional teams to integrate machine learning models into production systems, resulting in a 25% reduction in customer churn and a 15% increase in sales
+* Conducted feature engineering experiments to improve model performance, resulting in a 10% increase in model accuracy
+
+Senior Data Analyst, ABC Startups (2015-2018)
+
+* Developed and maintained predictive models for customer acquisition and retention using R and Python
+* Conducted data analysis and visualization to identify trends and insights, resulting in a 20% increase in customer acquisition
+* Collaborated with data engineers to develop data pipelines for data processing and storage
+* Trained and mentored junior data analysts on machine learning and data analysis techniques
+
+Education:
+
+* Master of Science in Data Science, Stanford University (2015)
+* Bachelor of Science in Computer Science, University of California, Berkeley (2013)
+
+Achievements:
+
+* Kaggle Grandmaster: Consistently ranked among the top 1% of Kaggle competitors in machine learning competitions
+* Winner, Kaggle Competition: Predicting Customer Churn: Won 1st prize in a Kaggle competition, beating out over 1,000 competitors and achieving a 95% accuracy rate
+* Published Research Papers: Published research papers on machine learning and feature engineering in top-tier conferences, including ICML and NIPS
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2018)
+* Certified Machine Learning Engineer, Google Cloud (2020)
+
+References:
+Available upon request.

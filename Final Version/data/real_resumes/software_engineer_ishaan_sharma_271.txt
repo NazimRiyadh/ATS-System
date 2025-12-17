@@ -1,0 +1,51 @@
+ishaan sharma
+contact information:
+
+* email: [ishaan.sharma@email.com](mailto:ishaan.sharma@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ishaansharma
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing and developing scalable, efficient, and reliable software systems. proficient in a range of programming languages, including java, python, and javascript, with expertise in system design, algorithms, and data structures. proven track record of delivering high-quality software solutions and working effectively in collaborative environments.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, service-oriented architecture (soa)
+* algorithms and data structures: time complexity analysis, big o notation, arrays, linked lists, stacks, queues, trees, graphs
+* rest apis: design and implementation of restful apis using java and python
+* version control: git
+* continuous integration and deployment: jenkins, docker
+* agile development methodologies: scrum, kanban
+
+work experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple microservices using java and spring boot, resulting in a 30% reduction in system latency
+* collaborated with cross-functional teams to deliver a scalable and efficient e-commerce platform, with a 25% increase in sales
+* implemented a ci/cd pipeline using jenkins and docker, reducing deployment time by 90%
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+junior software engineer, def startups (2015-2018)
+
+* developed multiple web applications using javascript, react, and node.js, with a focus on front-end development
+* contributed to the design and implementation of a restful api using python and flask, with a 50% increase in api calls
+* collaborated with the qa team to identify and resolve defects, resulting in a 25% reduction in bug density
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015)
+
+achievements:
+
+* best project award, xyz university hackathon (2014)
+* hackathon winner, abc corporation hackathon (2016)
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (2017)
+* certified java developer (ocpjp), oracle corporation (2018)
+
+references:
+available upon request.

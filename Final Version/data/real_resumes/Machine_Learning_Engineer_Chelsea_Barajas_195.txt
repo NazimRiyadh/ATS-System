@@ -1,0 +1,61 @@
+Here's a sample resume for Chelsea Barajas:
+
+Chelsea Barajas
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [chelsea.barajas@email.com](mailto:chelsea.barajas@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/chelseabarajas
+* GitHub: github.com/chelseabarajas
+
+Summary:
+Highly motivated and detail-oriented Machine Learning Engineer with 3+ years of experience in developing and deploying scalable machine learning models using Python, PyTorch, and other industry-standard tools. Proven track record of delivering high-impact projects that drive business growth and improve customer experiences. Skilled in feature engineering, hyperparameter tuning, and model deployment.
+
+Technical Skills:
+
+* Programming languages: Python, PyTorch, TensorFlow
+* Machine learning frameworks: PyTorch, scikit-learn
+* Data science tools: Pandas, NumPy, Matplotlib, Scikit-image
+* Operating Systems: Windows, Linux, macOS
+* Agile development methodologies: Scrum, Kanban
+* Cloud platforms: AWS, Google Cloud, Azure
+
+Professional Experience:
+
+Machine Learning Engineer, XYZ Corporation (2020-Present)
+
+* Designed and developed multiple machine learning models using PyTorch and scikit-learn to improve customer engagement and retention rates
+* Collaborated with cross-functional teams to integrate machine learning models into production environments, resulting in a 25% increase in revenue
+* Implemented hyperparameter tuning using Bayesian optimization and grid search to improve model performance
+* Developed and maintained a feature engineering pipeline using Pandas and NumPy to extract relevant features from large datasets
+* Deployed models to production using Docker and Kubernetes
+
+Machine Learning Intern, ABC Startup (Summer 2019)
+
+* Contributed to the development of a natural language processing model using PyTorch and Transformers to improve text classification accuracy
+* Worked with the data engineering team to design and implement a data pipeline using Apache Beam and BigQuery
+* Collaborated with the product team to integrate machine learning models into the company's product offering
+* Presented project results to the executive team, resulting in a 15% increase in funding
+
+Education:
+
+* Bachelor's Degree in Computer Science, Stanford University (2016-2020)
+* Master's Degree in Data Science, Stanford University (2020-2022)
+
+Achievements:
+
+* Published a paper on "Hyperparameter Tuning for Deep Learning Models" at the International Conference on Machine Learning (ICML) 2020
+* Won 1st place in the Kaggle competition for "Image Classification using Transfer Learning"
+* Presented a talk on "Feature Engineering for Machine Learning Models" at the Data Science Conference 2020
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (DASCA)
+* Certified Machine Learning Engineer, International Association for Machine Learning and Artificial Intelligence (IAMAI)
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your own resume to fit your specific experiences and the job you're applying for.

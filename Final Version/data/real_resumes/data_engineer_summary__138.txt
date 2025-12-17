@@ -1,0 +1,30 @@
+**confidential candidate profile: charvi choudhury**
+
+**summary:**
+charvi choudhury is a detail-oriented and analytical individual with a background in computer science. although she demonstrated a solid foundation in programming languages and software development, her experience and skills did not fully align with the requirements of the data engineer role. charvi's strengths lie in her problem-solving skills, attention to detail, and ability to learn quickly, but she lacks direct experience and expertise in key areas of data engineering.
+
+**key areas of improvement:**
+
+1. **data warehousing and etl processes:** charvi's understanding of data warehousing concepts and etl (extract, transform, load) processes is limited. she was unfamiliar with tools like informatica powercenter and talend, and struggled to explain the importance of data warehousing in a data engineering context.
+2. **big data technologies (hadoop, spark):** charvi lacks hands-on experience with hadoop and spark. she was unable to provide specific examples of projects where she worked with these technologies, and her knowledge of their architecture and applications was limited.
+3. **database administration:** while charvi has some experience with database management systems, her understanding of database administration, including database design, performance tuning, and security best practices, is not comprehensive.
+4. **cloud services (aws, azure):** charvi does not have direct experience with cloud services, including deployment, management, and scalability of data engineering solutions on aws or azure.
+5. **logistics, operations, and security:** charvi's understanding of logistics, operations, and security best practices in a data engineering environment is limited. she struggled to provide examples of how she would ensure data security, manage data quality, or optimize data processing for large-scale applications.
+
+**interview insights:**
+
+during the interview, charvi demonstrated strong problem-solving skills and a willingness to learn. however, she faced difficulties with certain tasks, such as:
+
+* describing the differences between batch and real-time data processing
+* explaining the concept of data lineage and its importance in data engineering
+* providing examples of how she would handle data quality issues or optimize data processing for large-scale applications
+
+**growth and development opportunities:**
+while charvi's current skillset and experience do not fully align with the data engineer role, she demonstrated potential for growth and development. with targeted training and exposure to key areas of data engineering, charvi could develop the necessary skills and expertise to excel in this role.
+
+**recommendations:**
+
+* provide charvi with comprehensive training on data warehousing, etl processes, big data technologies, database administration, and cloud services
+* offer opportunities for hands-on experience with tools and technologies, including hadoop, spark, informatica powercenter, and talend
+* encourage charvi to work on projects that involve logistics, operations, and security best practices in a data engineering environment
+* consider mentoring or pairing charvi with experienced data engineers to accelerate her learning and skill development

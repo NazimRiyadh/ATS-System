@@ -1,0 +1,54 @@
+here's a sample resume for diana shaw:
+
+diana shaw
+contact information:
+
+* address: 123 main street, anytown, usa 12345
+* phone: (555) 555-5555
+* email: [diana.shaw@email.com](mailto:diana.shaw@email.com)
+* linkedin: linkedin.com/in/dianashaw
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable software solutions using java and other technologies. skilled in algorithms, data structures, and software design patterns. proficient in collaboration and communication, with a strong passion for coding and problem-solving.
+
+technical skills:
+
+* programming languages: java (strongly proficient), python, c++
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, hash tables, sorting and searching algorithms
+* software development: java spring, hibernate, maven, git
+* operating systems: windows, linux
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple software components using java, including a cloud-based data processing system and a real-time analytics platform
+* collaborated with cross-functional teams to identify requirements, design, and implement software solutions
+* implemented unit tests, integration tests, and system tests using junit, mockito, and cucumber
+* participated in code reviews, ensured code quality, and contributed to the improvement of the codebase
+
+junior software engineer, def startups (2015-2018)
+
+* contributed to the development of multiple software projects, including a web-based e-commerce platform and a mobile app
+* implemented algorithms and data structures to optimize system performance and scalability
+* collaborated with the qa team to identify and resolve bugs, and ensured the quality of the software releases
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+
+projects:
+
+* personal projects:
+	+ developed a multiplayer game using java and spring boot
+	+ built a real-time data analytics platform using java and apache kafka
+* open-source contributions:
+	+ contributed to the spring framework, including the development of a new module for data processing
+
+references:
+available upon request.

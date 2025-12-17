@@ -1,0 +1,60 @@
+here's a sample resume for olivia ross applying for a software engineer role:
+
+olivia ross
+contact information:
+
+* email: [oliviaross@email.com](mailto:oliviaross@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/oliviaross
+
+summary:
+
+highly motivated and detail-oriented software engineer with experience in designing and developing scalable, efficient, and reliable software systems. skilled in java, python, and data structures, with a strong foundation in algorithms and system design. proficient in collaborative environments and committed to delivering high-quality solutions.
+
+technical skills:
+
+* programming languages: java, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, graph algorithms, dynamic programming
+* system design: microservices, restful apis, database design
+* development frameworks: spring, django
+* operating systems: windows, linux
+* database management systems: mysql, mongodb
+
+professional experience:
+
+software engineer, abc company (2020-present)
+
+* designed and developed multiple features for a large-scale web application using java and spring framework
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* implemented unit tests and integration tests to ensure high-quality code
+* participated in code reviews to improve code quality and adhere to coding standards
+
+intern, def startups (summer 2019)
+
+* contributed to the development of a machine learning model using python and scikit-learn library
+* worked on improving the model's accuracy and performance by experimenting with different algorithms and hyperparameters
+* collaborated with the team to design and implement a data pipeline using apache beam and bigquery
+
+education:
+
+* bachelor of science in computer science, xyz university (2018-2022)
+	+ coursework: data structures, algorithms, computer systems, database systems, software engineering
+
+projects:
+
+* project 1: e-commerce platform
+	+ designed and developed a scalable e-commerce platform using java, spring, and mysql
+	+ implemented features such as user authentication, product management, and payment processing
+* project 2: natural language processing
+	+ built a natural language processing model using python and nltk library to classify text into different categories
+	+ experimented with different algorithms and techniques to improve model accuracy
+
+certifications/awards:
+
+* certified java developer, oracle corporation (2020)
+* winner, xyz university hackathon (2019)
+
+references:
+
+available upon request.

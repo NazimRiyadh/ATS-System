@@ -1,0 +1,55 @@
+here's a sample resume for emily allen applying for the role of data engineer:
+
+emily allen
+contact information:
+
+* email: [emily.allen@email.com](mailto:emily.allen@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/emilyallen
+
+summary:
+highly motivated and detail-oriented data engineer with 4+ years of experience in designing, developing, and deploying scalable data pipelines using mlops, airflow, etl, cloud platforms, and spark. proven track record of delivering high-quality data products to drive business growth and informed decision-making.
+
+technical skills:
+
+* mlops: model deployment, model serving, model monitoring, and model versioning
+* airflow: dag design, operator development, and pipeline orchestration
+* etl: data extraction, transformation, and loading using sql, python, and spark
+* cloud platforms: aws, gcp, and azure experience with cloud-based data storage, processing, and analytics
+* spark: spark core, spark sql, spark streaming, and spark mllib
+* programming languages: python, java, scala, and sql
+* operating systems: linux and windows
+
+professional experience:
+
+senior data engineer, abc company (2020-present)
+
+* designed and developed scalable data pipelines using mlops, airflow, and spark to support business growth and informed decision-making
+* collaborated with cross-functional teams to integrate data products into business applications and analytics platforms
+* developed and maintained etl processes to extract, transform, and load data from various sources into cloud-based data warehouses
+* deployed and monitored machine learning models using model serving platforms and model monitoring tools
+* mentored junior engineers and contributed to the development of data engineering best practices and standards
+
+data engineer, def startups (2018-2020)
+
+* built and maintained data pipelines using airflow, spark, and python to support data-driven business decisions
+* worked with data scientists to deploy and monitor machine learning models using model serving platforms and model monitoring tools
+* designed and implemented etl processes to extract, transform, and load data from various sources into cloud-based data warehouses
+* collaborated with data analysts to develop data visualizations and reports to support business growth and informed decision-making
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2020)
+* certified cloud professional, cloud computing certification board (2019)
+
+personal projects:
+
+* developed a personal project using mlops and spark to build a recommender system for a fictional e-commerce company
+* contributed to open-source projects on github, including airflow and spark-related repositories
+
+references:
+available upon request.

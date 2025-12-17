@@ -1,0 +1,56 @@
+here's a sample resume for susan hoover applying for a data scientist role:
+
+susan hoover
+contact information:
+
+* email: [susan.hoover@email.com](mailto:susan.hoover@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/susanhoover
+* github: github.com/susanhoover
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in machine learning, deep learning, and sql. proven track record of delivering high-impact projects that drive business growth. skilled in developing and implementing predictive models, data visualization, and data mining techniques.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning and deep learning frameworks: tensorflow, pytorch, scikit-learn
+* data visualization tools: matplotlib, seaborn, tableau
+* operating systems: windows, linux
+* familiarity with agile development methodologies
+
+professional experience:
+
+data scientist, abc corporation (2020-present)
+
+* developed and deployed predictive models using machine learning and deep learning techniques to improve customer segmentation and retention rates
+* collaborated with cross-functional teams to design and implement data-driven solutions that drive business growth
+* built and maintained complex databases using sql and performed data analysis to identify trends and opportunities
+* created data visualizations and reports using tableau to communicate insights to stakeholders
+
+data analyst, def startups (2018-2020)
+
+* collected and analyzed large datasets to identify patterns and trends using machine learning and statistical techniques
+* developed and maintained dashboards using matplotlib and seaborn to track key performance indicators
+* worked with business stakeholders to design and implement data-driven solutions that improve business outcomes
+* built and deployed predictive models using scikit-learn to forecast sales and revenue
+
+education:
+
+* master of science in computer science, xyz university (2018)
+* bachelor of science in mathematics, abc university (2016)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified machine learning engineer, machine learning council (2020)
+
+projects:
+
+* predictive maintenance: developed a predictive model using tensorflow to predict equipment failure and reduce downtime for a manufacturing client
+* customer segmentation: built a clustering model using scikit-learn to segment customers based on their behavior and preferences, resulting in a 25% increase in sales
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

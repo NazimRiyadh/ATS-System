@@ -1,0 +1,57 @@
+here's a sample resume for kathy martin:
+
+kathy martin
+software engineer
+
+contact information:
+
+* phone: (555) 123-4567
+* email: [kmartin@email.com](mailto:kmartin@email.com)
+* linkedin: linkedin.com/in/kathymartin
+* github: github.com/kathymartin
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software systems. proficient in c++, python, and algorithms, with a strong passion for system design and optimization.
+
+technical skills:
+
+* programming languages: c++, python, java
+* algorithms: sorting, searching, graph algorithms, dynamic programming
+* data structures: arrays, linked lists, stacks, queues, trees
+* system design: microservices architecture, containerization (docker), cloud computing (aws, azure)
+* databases: mysql, mongodb
+* operating systems: windows, linux
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple software systems using c++ and python, with a focus on performance, scalability, and maintainability
+* collaborated with cross-functional teams to identify and prioritize project requirements, and to develop technical solutions
+* implemented algorithms and data structures to optimize system performance and reduce latency
+* integrated third-party libraries and frameworks to enhance system functionality
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+software developer, def startup (2015-2018)
+
+* developed multiple software applications using python and c++, with a focus on user experience and usability
+* participated in the design and development of the company's flagship product, a cloud-based platform for data analysis
+* collaborated with the devops team to ensure smooth deployment and scaling of the platform
+* implemented algorithms and data structures to optimize system performance and reduce latency
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (2019)
+
+projects:
+
+* personal project: developed a machine learning-based chatbot using python and the nltk library. the chatbot is capable of answering user queries on a variety of topics.
+* open source contribution: contributed to the development of the popular python library, numpy, by fixing bugs and implementing new features.
+
+references:
+available upon request.

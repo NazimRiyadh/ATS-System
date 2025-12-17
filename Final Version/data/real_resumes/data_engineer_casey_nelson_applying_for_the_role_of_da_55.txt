@@ -1,0 +1,55 @@
+here's a sample resume for casey nelson applying for the role of data engineer:
+
+casey nelson
+contact information:
+
+* phone: (555) 123-4567
+* email: [casey.nelson@email.com](mailto:casey.nelson@email.com)
+* linkedin: linkedin.com/in/caseynelson
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, etl, cloud platforms, and spark. proven track record of designing, developing, and deploying scalable data pipelines and machine learning models. passionate about leveraging technology to drive business growth and improve decision-making.
+
+professional experience:
+
+data engineer, abc company (2020 - present)
+
+* design, develop, and deploy etl pipelines for large-scale data processing using spark, python, and java
+* collaborate with data scientists to develop and deploy machine learning models using mlops practices
+* deploy and manage data pipelines on cloud platforms (aws, gcp, azure)
+* ensure data quality, integrity, and security by implementing data validation, monitoring, and alerting mechanisms
+* work with cross-functional teams to develop and implement data governance policies and procedures
+
+data analyst, def company (2018 - 2020)
+
+* developed and maintained data visualizations, reports, and dashboards using tableau and power bi
+* built and maintained etl pipelines using python, pandas, and numpy
+* collaborated with data scientists to develop and deploy machine learning models
+* worked with stakeholders to gather requirements and provide data-driven insights to inform business decisions
+
+education:
+
+* bachelor of science in computer science, xyz university (2018)
+
+skills:
+
+* mlops: model deployment, model monitoring, and model serving using platforms like azure machine learning, google cloud ai platform, and aws sagemaker
+* etl: data ingestion, transformation, and loading using spark, python, and java
+* cloud platforms: aws, gcp, azure
+* spark: spark core, spark sql, spark mllib, spark streaming
+* programming languages: python, java, scala
+* data storage: relational databases (mysql, postgresql), nosql databases (mongodb, cassandra), data warehouses (redshift, bigquery)
+* data visualization: tableau, power bi, d3.js
+* agile methodologies: scrum, kanban
+
+certifications:
+
+* certified data engineer, data engineering certification board (2020)
+* certified scrum master, scrum alliance (2019)
+
+projects:
+
+* building a real-time recommendation system using spark and mlops: designed, developed, and deployed a real-time recommendation system using spark, python, and mlops practices.
+* data warehousing using redshift and etl: designed, developed, and deployed a data warehouse using redshift and etl pipelines using python and java.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and requirements, and don't hesitate to reach out if you have any questions or need further assistance.

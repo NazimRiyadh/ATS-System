@@ -1,0 +1,55 @@
+Here's a sample resume for a DevOps Engineer:
+
+Tracey Reid
+DevOps Engineer
+
+Contact Information:
+
+* Email: [tracey.reid@email.com](mailto:tracey.reid@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/traceyreid
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in designing, implementing, and maintaining scalable and reliable cloud infrastructure using Kubernetes, Ansible, and Infrastructure as Code principles. Proven track record of improving deployment efficiency, reducing downtime, and enhancing overall system reliability. Proficient in monitoring tools and passionate about continuous improvement.
+
+Technical Skills:
+
+* Kubernetes (administration, deployment, and management)
+* Ansible (playbooks, roles, and automation)
+* Infrastructure as Code (Terraform, AWS CloudFormation)
+* Monitoring Tools (Prometheus, Grafana, New Relic)
+* Cloud Platforms (AWS, GCP, Azure)
+* Scripting Languages (Python, Bash)
+* Version Control Systems (Git)
+
+Professional Experience:
+
+DevOps Engineer, XYZ Corporation (2018-Present)
+
+* Designed and implemented a scalable Kubernetes cluster on AWS, resulting in a 30% reduction in deployment time and a 25% increase in system reliability.
+* Created and maintained Ansible playbooks for automating infrastructure deployments, resulting in a 90% reduction in manual errors and a 50% increase in efficiency.
+* Developed and implemented a monitoring system using Prometheus and Grafana, resulting in a 95% reduction in system downtime and a 50% increase in mean time to detect.
+* Collaborated with cross-functional teams to design and implement a cloud-based infrastructure, resulting in a 20% reduction in capital expenditures and a 25% increase in system agility.
+
+Senior DevOps Engineer, ABC Startups (2015-2018)
+
+* Designed and implemented a highly available infrastructure using Terraform and AWS CloudFormation, resulting in a 99.99% uptime and a 25% increase in system capacity.
+* Developed and maintained a monitoring system using New Relic, resulting in a 90% reduction in system downtime and a 50% increase in mean time to detect.
+* Collaborated with development teams to design and implement a continuous delivery pipeline, resulting in a 30% reduction in deployment time and a 25% increase in system reliability.
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Automation Professional (CAP)
+* Certified Cloud Practitioner (CCP)
+
+Personal Projects:
+
+* Developed and open-sourced a Kubernetes-based CI/CD pipeline using Ansible and Jenkins.
+* Created a monitoring system using Prometheus and Grafana for a personal project, resulting in a 95% reduction in system downtime and a 50% increase in mean time to detect.
+
+I hope this sample helps! Remember to tailor your resume to the specific job description and highlight your unique experiences and skills.

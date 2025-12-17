@@ -1,0 +1,58 @@
+Here's a sample resume for Gabriela Sanchez:
+
+Gabriela Sanchez
+Contact Information:
+
+* Address: [Insert Address]
+* Phone: [Insert Phone Number]
+* Email: [Insert Email]
+* LinkedIn: [Insert LinkedIn Profile]
+
+Summary:
+Highly motivated and detail-oriented QA Engineer with 5+ years of experience in manual and automated testing, leveraging expertise in Selenium, Bug Tracking, and Performance Testing to ensure high-quality software releases. Proven track record of collaboration with cross-functional teams to deliver defect-free products on time.
+
+Technical Skills:
+
+* Manual Testing: Test case design, test execution, and defect reporting
+* Automated Testing: Selenium WebDriver, Selenium Grid, TestNG
+* Bug Tracking: JIRA, Bugzilla, Trello
+* Performance Testing: LoadRunner, JMeter, Apache Bench
+* Operating Systems: Windows, Linux, macOS
+* Programming Languages: Java, Python, C#
+
+Professional Experience:
+
+QA Engineer, ABC Corporation (2018-Present)
+
+* Designed and executed test cases for web and mobile applications using Selenium WebDriver and TestNG
+* Collaborated with development teams to identify and report defects, and worked closely with them to resolve issues
+* Developed and maintained automated testing frameworks using Selenium Grid and Jenkins
+* Conducted performance testing using LoadRunner and JMeter to ensure optimal system performance
+* Utilized JIRA and Bugzilla to track and report defects, and worked with the development team to resolve them
+
+QA Engineer, DEF Startups (2015-2018)
+
+* Conducted manual testing for web and mobile applications, including test case design and defect reporting
+* Assisted in the development of automated testing frameworks using Selenium WebDriver and TestNG
+* Collaborated with the development team to identify and report defects, and worked closely with them to resolve issues
+* Conducted performance testing using JMeter and Apache Bench to ensure optimal system performance
+* Utilized Trello to track and report defects, and worked with the development team to resolve them
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Software Tester (CSTE), International Software Testing Qualifications Board (ISTQB)
+* Certified Selenium Tester, Selenium Academy
+
+Achievements:
+
+* Improved test coverage by 25% through the development of automated testing frameworks
+* Reduced defect density by 30% through collaboration with the development team and effective test case design
+* Implemented a performance testing framework that resulted in a 20% reduction in system response time
+* Developed and maintained a comprehensive test automation framework using Selenium WebDriver and TestNG
+
+References:
+Available upon request.

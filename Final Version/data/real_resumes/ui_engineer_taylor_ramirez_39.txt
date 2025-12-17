@@ -1,0 +1,59 @@
+here is a sample resume for taylor ramirez applying for the role of ui engineer:
+
+taylor ramirez
+contact information:
+
+* email: [taylor.ramirez@email.com](mailto:taylor.ramirez@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/taylorramirez
+* github: github.com/taylorramirez
+
+summary:
+highly motivated and detail-oriented ui engineer with strong skills in html, css, and javascript. proficient in wireframing and user experience design. passionate about creating visually appealing and user-friendly interfaces.
+
+technical skills:
+
+* front-end development:
+	+ html5
+	+ css3 (sass, less)
+	+ javascript (es6+)
+	+ react.js
+	+ angular.js
+* design tools:
+	+ adobe xd
+	+ sketch
+	+ figma
+* version control:
+	+ git
+	+ svn
+* operating systems:
+	+ windows
+	+ macos
+	+ linux
+
+experience:
+
+* ui engineer, abc company (2018-present)
+	+ designed and developed user interfaces for multiple web applications using html, css, and javascript.
+	+ collaborated with designers to create wireframes and high-fidelity prototypes.
+	+ implemented responsive design principles to ensure seamless user experience across various devices.
+* junior developer, def agency (2016-2018)
+	+ assisted in the development of several web applications using html, css, and javascript.
+	+ created interactive elements using javascript and react.js.
+	+ participated in code reviews and ensured adherence to coding standards.
+
+education:
+
+* bachelor of science in computer science, xyz university (2016)
+
+certifications:
+
+* certified ui/ux designer, ui/ux design certification program (2019)
+
+personal projects:
+
+* personal portfolio: a showcase of my design and development work, built using html, css, and javascript.
+* weather app: a react.js application that displays current weather conditions and forecasts.
+
+references:
+available upon request.

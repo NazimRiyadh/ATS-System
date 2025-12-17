@@ -1,0 +1,56 @@
+Here is a professional resume for Craig Esparza:
+
+Craig Esparza
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (555) 555-5555
+* Email: [craig.esparza@email.com](mailto:craig.esparza@email.com)
+* LinkedIn: linkedin.com/in/craigesparza
+* GitHub: github.com/craigesparza
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Docker, Kubernetes, Ansible, and Infrastructure as Code. Proven track record of designing, implementing, and optimizing scalable, secure, and high-performance cloud-based systems. Skilled in automating deployment, provisioning, and management of infrastructure using various tools and technologies. Proficient in collaborating with cross-functional teams to deliver high-quality software products.
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, GitHub Actions
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, Ansible
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Scripting: Bash, Python, PowerShell
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and GitLab CI/CD for a cloud-based SaaS application, resulting in 30% reduction in build and deployment time
+* Migrated a legacy on-premises infrastructure to AWS using Terraform and Ansible, improving scalability and reliability by 40%
+* Collaborated with development teams to implement Kubernetes for containerized application deployment, reducing downtime by 25%
+* Developed and maintained a comprehensive monitoring and logging system using Prometheus, Grafana, and ELK Stack
+
+DevOps Engineer, DEF Startups (2015-2018)
+
+* Built and deployed a cloud-based startup application using Docker, Kubernetes, and AWS, achieving 99.99% uptime and 50% reduction in infrastructure costs
+* Implemented Ansible for automated infrastructure provisioning and deployment, reducing manual errors by 90%
+* Developed a CI/CD pipeline using Jenkins and GitHub, resulting in 20% reduction in build and deployment time
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified DevOps Engineer, Cloud Native Computing Foundation (CNCF)
+* Certified Jenkins Engineer, Jenkins Project
+
+Achievements:
+
+* Recipient of the "DevOps Engineer of the Year" award at ABC Corporation (2020)
+* Published articles on DevOps and cloud computing in industry-leading publications, including DevOps.com and Cloud Computing Magazine
+* Presented at industry conferences, including AWS re:Invent and DockerCon
+
+References:
+Available upon request.

@@ -1,0 +1,67 @@
+Kara Hutchinson
+Data Engineer
+
+Contact Information:
+
+* Email: [khutchinson@email.com](mailto:khutchinson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/karahutchinson
+
+Summary:
+Highly motivated and experienced Data Engineer with a strong background in Big Data Frameworks, ETL Tools, Databases, Cloud Platforms, and Python. Proficient in designing and implementing scalable data architectures, developing efficient ETL processes, and ensuring seamless data integration across multiple systems.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Hadoop
+	+ Spark
+	+ Flink
+* ETL Tools:
+	+ Informatica PowerCenter
+	+ Talend
+	+ Apache Beam
+* Databases:
+	+ Relational (MySQL, PostgreSQL)
+	+ NoSQL (MongoDB, Cassandra)
+	+ Time-Series (InfluxDB, OpenTSDB)
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud Platform (GCP)
+* Programming Languages:
+	+ Python
+	+ Java
+	+ Scala
+* Data Warehousing:
+	+ Data modeling
+	+ Data governance
+	+ Data quality
+* CI/CD Tools:
+	+ Jenkins
+	+ GitLab CI/CD
+	+ Docker
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a scalable data architecture using Hadoop, Spark, and Flink to handle 10TB of data per day.
+* Developed and maintained ETL processes using Informatica PowerCenter and Talend to integrate data from multiple sources.
+* Collaborated with cross-functional teams to design and implement data governance policies and data quality measures.
+* Utilized Python and Java to develop data processing scripts and tools to support data analysis and reporting.
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Implemented a cloud-based data warehousing solution using Amazon Redshift and Apache Beam to support business intelligence and analytics.
+* Developed and deployed data processing pipelines using GCP and AWS to support real-time data processing and streaming.
+* Collaborated with the development team to design and implement data-driven applications using Python and Java.
+* Utilized Jenkins and GitLab CI/CD to automate testing and deployment of data processing pipelines.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2018)
+* Certified Big Data Engineer, Cloudera (2016)

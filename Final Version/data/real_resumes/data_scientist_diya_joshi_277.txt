@@ -1,0 +1,53 @@
+diya joshi
+contact information:
+
+* email: [diya.joshi@email.com](mailto:diya.joshi@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/diyajoshi
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in machine learning, deep learning, and statistical analysis. proficient in python, sql, and various data visualization tools. proven track record of delivering high-impact projects in a timely and efficient manner.
+
+education:
+
+* master of science in data science, stanford university (2018-2020)
+	+ coursework: machine learning, deep learning, natural language processing, and data visualization
+* bachelor of engineering in computer science, indian institute of technology (2014-2018)
+	+ coursework: algorithms, computer systems, and database management
+
+experience:
+
+* data scientist, abc company (2020-present)
+	+ developed and deployed predictive models using scikit-learn and tensorflow to improve customer engagement and retention
+	+ collaborated with cross-functional teams to design and execute a/b testing experiments using sql and python
+	+ created interactive data visualizations using tableau and power bi to communicate insights to stakeholders
+	+ improved model performance by 25% through hyperparameter tuning and feature engineering
+* research assistant, stanford university (2018-2020)
+	+ conducted research on natural language processing and machine learning algorithms for text classification
+	+ developed and implemented a deep learning model using tensorflow to classify text sentiment
+	+ presented research findings at the annual stanford data science conference
+
+skills:
+
+* programming languages: python, sql
+* machine learning libraries: scikit-learn, tensorflow
+* data visualization tools: tableau, power bi, matplotlib
+* deep learning frameworks: tensorflow
+* statistical analysis: hypothesis testing, confidence intervals
+* a/b testing: design and execution
+* data management: data cleaning, preprocessing, and storage
+
+achievements:
+
+* winner, stanford data science competition (2020)
+	+ developed a predictive model using scikit-learn to forecast stock prices and won first prize
+* publication, international journal of machine learning and artificial intelligence (2019)
+	+ co-authored a research paper on natural language processing and machine learning algorithms for text classification
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+references:
+available upon request.

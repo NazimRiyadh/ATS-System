@@ -1,0 +1,53 @@
+Here's a professional resume for Rahul:
+
+**Rahul**
+**DevOps Engineer**
+
+**Contact Information:**
+
+* Phone: (123) 456-7890
+* Email: [rahul@email.com](mailto:rahul@email.com)
+* LinkedIn: linkedin.com/in/rahuldevopengineer
+
+**Objective:**
+To leverage my expertise in DevOps engineering to drive innovation and efficiency in a dynamic and forward-thinking organization.
+
+**Experience Summary:**
+
+Highly skilled DevOps Engineer with 9 years of experience in designing, implementing, and maintaining scalable and secure infrastructure solutions. Proven track record of driving automation and streamlining software delivery pipelines. Proficient in leading cross-functional teams to deliver high-quality products and services.
+
+**Technical Experience:**
+
+* **DevOps Engineer**, XYZ Corporation (2018-Present)
+	+ Designed and implemented CI/CD pipelines using Jenkins, GitLab CI/CD, and Docker
+	+ Developed and deployed scalable cloud infrastructure on AWS and Azure
+	+ Collaborated with development teams to integrate automated testing and deployment scripts
+	+ Implemented monitoring and logging tools such as Prometheus, Grafana, and ELK Stack
+* **Senior DevOps Engineer**, ABC Inc. (2015-2018)
+	+ Led the implementation of Linux-based infrastructure on-premises and in the cloud
+	+ Built and managed containerized applications using Kubernetes and Docker
+	+ Configured and maintained CI/CD pipelines using GitLab CI/CD and Jenkins
+	+ Collaborated with security teams to implement secure coding practices and vulnerability management
+* **DevOps Engineer**, PQR Company (2012-2015)
+	+ Implemented and maintained Linux-based infrastructure on-premises and in the cloud
+	+ Developed and deployed automated testing and deployment scripts using Bash and Python
+	+ Collaborated with development teams to integrate automated testing and deployment scripts
+
+**Core Skills:**
+
+* **Linux**: Extensive experience with Linux distributions, including Ubuntu, CentOS, and RHEL
+* **CI/CD Pipelines**: Proficient in designing and implementing CI/CD pipelines using Jenkins, GitLab CI/CD, and Docker
+* **Cloud Platforms**: Experienced in designing and deploying scalable cloud infrastructure on AWS and Azure
+* **Containerization**: Skilled in building and managing containerized applications using Kubernetes and Docker
+* **Monitoring and Logging**: Familiar with monitoring and logging tools such as Prometheus, Grafana, and ELK Stack
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2008-2012)
+
+**Certifications:**
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Cloud Practitioner (AWS and Azure)
+
+Note: I've tailored the resume to highlight Rahul's core skills and experience as a DevOps Engineer, while keeping it concise and professional. I've also included an objective statement, experience summary, and highlighted his technical skills effectively.

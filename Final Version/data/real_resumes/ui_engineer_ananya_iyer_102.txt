@@ -1,0 +1,56 @@
+ananya iyer
+contact information:
+
+* email: [ananya.iyer@email.com](mailto:ananya.iyer@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/ananya-iyer
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and developing scalable, accessible, and responsive web applications. skilled in html, css, javascript, react, ui/ux design, and web accessibility. proficient in version control, frontend testing, and web performance optimization.
+
+technical skills:
+
+* frontend technologies: html, css, javascript, react
+* ui/ux design: sketch, figma, adobe xd
+* responsive design: mobile-first approach, media queries
+* web accessibility: wcag 2.1 guidelines, screen reader testing
+* version control: git, github
+* frontend testing: jest, enzyme
+* web performance: webpack, babel, code splitting
+
+professional experience:
+
+ui engineer, techcorp (2020-present)
+
+* designed and developed multiple web applications using react, html, and css
+* implemented responsive design principles to ensure seamless user experience across devices
+* collaborated with cross-functional teams to ensure accessibility and usability of web applications
+* conducted frontend testing using jest and enzyme to ensure applications met quality standards
+* optimized web performance using webpack and babel, resulting in 30% reduction in page load time
+
+frontend developer, startup (2018-2020)
+
+* developed multiple web applications using html, css, and javascript
+* designed and implemented ui components using react and css-in-js libraries
+* ensured web accessibility by following wcag 2.1 guidelines and conducting screen reader testing
+* collaborated with designers to implement ui/ux designs using sketch and figma
+* conducted code reviews and contributed to the improvement of code quality
+
+education:
+
+* bachelor of technology in computer science, university of delhi (2018)
+
+projects:
+
+* accessible weather app: developed a weather application using react, html, and css, ensuring accessibility and usability for users with disabilities.
+* responsive e-commerce website: designed and developed an e-commerce website using react, html, and css, ensuring a seamless user experience across devices.
+
+achievements:
+
+* certified web accessibility specialist, w3c (2020)
+* certified react developer, codecademy (2019)
+* winner, hackathon: developed a web application using react, html, and css, winning the hackathon competition (2019)
+
+references:
+
+available upon request.

@@ -1,0 +1,57 @@
+Here's a professional resume for Kelly Larson:
+
+Kelly Larson
+Machine Learning Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [kelly.larson@email.com](mailto:kelly.larson@email.com)
+* LinkedIn: linkedin.com/in/kellylarsonml
+* GitHub: github.com/kellylarsonml
+
+Professional Summary:
+Highly motivated and detail-oriented Machine Learning Engineer with 3+ years of experience in developing and deploying predictive models using Python and Scikit-learn. Proven track record of successfully implementing feature engineering and hyperparameter tuning techniques to improve model performance. Strong passion for staying up-to-date with the latest advancements in machine learning and AI.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine learning libraries: Scikit-learn, TensorFlow, PyTorch
+* Data analysis and visualization tools: Pandas, NumPy, Matplotlib, Seaborn
+* Feature engineering and selection techniques: Correlation analysis, PCA, LLE
+* Hyperparameter tuning techniques: Grid search, Random search, Bayesian optimization
+* Model evaluation metrics: Accuracy, precision, recall, F1 score, AUC-ROC
+* Operating Systems: Windows, Linux
+* Familiarity with cloud platforms: AWS, Google Cloud
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Company (2020-Present)
+
+* Developed and deployed multiple machine learning models using Scikit-learn and Python to predict customer churn, credit risk, and sales forecasts
+* Designed and implemented feature engineering techniques, including correlation analysis and PCA, to improve model performance
+* Conducted hyperparameter tuning using grid search and random search to optimize model performance
+* Collaborated with cross-functional teams to integrate machine learning models into production environments
+* Contributed to the development of a machine learning platform using TensorFlow and PyTorch
+
+Machine Learning Intern, DEF Company (Summer 2019)
+
+* Assisted in the development and deployment of a natural language processing model using Scikit-learn and Python to classify customer reviews
+* Conducted data analysis and visualization using Pandas, NumPy, and Matplotlib to understand customer behavior
+* Implemented feature engineering techniques, including tokenization and stemming, to improve model performance
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2018-2020)
+* Bachelor of Science in Computer Science, ABC University (2014-2018)
+
+Achievements:
+
+* Awarded "Best Machine Learning Project" at XYZ University's AI Conference for a project on image classification using convolutional neural networks
+* Published a research paper on "Feature Engineering for Improving Machine Learning Model Performance" in the Journal of Machine Learning Research
+* Participated in the Google Kubernetes Engine Hackathon and won 2nd place for a project on containerizing machine learning models
+
+Certifications:
+
+* Certified Machine Learning Engineer, Google Cloud (2020)
+* Certified Data Scientist, Data Science Council of America (2019)

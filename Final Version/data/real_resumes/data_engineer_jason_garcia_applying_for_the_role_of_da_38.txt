@@ -1,0 +1,60 @@
+here's a sample resume for jason garcia applying for the role of data engineer:
+
+jason garcia
+contact information:
+
+* phone: (555) 123-4567
+* email: [jason.garcia@email.com](mailto:jason.garcia@email.com)
+* linkedin: linkedin.com/in/jasongarcia
+* github: github.com/jasongarcia
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, etl, big data, and cloud platforms. proven track record of designing, implementing, and deploying scalable data infrastructure solutions. skilled in leveraging cloud technologies to optimize data processing, storage, and analytics.
+
+technical skills:
+
+* programming languages: python, sql, r
+* data engineering tools: airflow, apache beam, apache spark
+* cloud platforms: aws, gcp, azure
+* big data: hadoop, hive, pig
+* data storage: relational databases (mysql, postgresql), nosql databases (mongodb, cassandra)
+* data processing: etl (informatica powercenter, talend), data warehousing (aws redshift, google bigquery)
+* machine learning: tensorflow, pytorch, scikit-learn
+* mlops: mlflow, tensorflow extended
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* design and implement scalable data pipelines using apache beam, airflow, and aws cloudformation
+* develop and deploy machine learning models using tensorflow and scikit-learn
+* collaborate with cross-functional teams to integrate data into business applications
+* optimize data storage and processing using aws s3, redshift, and glue
+* develop and maintain data quality metrics and monitoring dashboards
+
+data engineer, def startups (2015-2018)
+
+* designed and implemented etl processes using informatica powercenter and aws glue
+* developed and deployed data warehouse solutions using aws redshift and google bigquery
+* collaborated with data scientists to integrate data into machine learning models
+* participated in the development of data governance policies and procedures
+
+education:
+
+* bachelor's degree in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, google cloud professional data engineer (2020)
+* certified aws cloud practitioner, amazon web services (2019)
+
+projects:
+
+* mlops project: developed a machine learning pipeline using mlflow, tensorflow, and aws sagemaker to predict customer churn.
+* airflow project: designed and implemented a data pipeline using airflow, apache beam, and aws cloudformation to process and transform data from multiple sources.
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for and highlight your unique skills and experiences.

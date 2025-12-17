@@ -1,0 +1,61 @@
+Here's a sample resume for Jesse Morris:
+
+Jesse Morris
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [jmorris@email.com](mailto:jmorris@email.com)
+* LinkedIn: linkedin.com/in/jesse-morris-devops
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Kubernetes, Ansible, and cloud platforms. Proven track record of improving application efficiency, scalability, and reliability. Skilled in designing and implementing automated deployment pipelines, containerization, and monitoring systems.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Kubernetes, Docker
+* Automation: Ansible, SaltStack
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, GCP, Azure
+* Operating Systems: Linux, Windows
+* Programming Languages: Python, Bash, Ruby
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Company (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Kubernetes, resulting in 30% reduction in deployment time
+* Automated deployment of containerized applications using Ansible and Docker
+* Implemented monitoring and logging using Prometheus, Grafana, and New Relic, resulting in 25% reduction in downtime
+* Collaborated with development teams to improve application performance and reliability
+* Provided technical leadership and mentorship to junior DevOps engineers
+
+DevOps Engineer, DEF Startups (2015-2018)
+
+* Implemented a containerization strategy using Docker and Kubernetes, resulting in 40% reduction in infrastructure costs
+* Designed and implemented a automation framework using Ansible and SaltStack
+* Collaborated with development teams to implement CI/CD pipelines using Jenkins and GitLab CI/CD
+* Provided technical support and troubleshooting for production applications
+
+Achievements:
+
+* 2019: Successfully implemented a cloud-native architecture using Kubernetes and AWS, resulting in 50% reduction in infrastructure costs
+* 2018: Developed and implemented a monitoring and logging system using Prometheus and Grafana, resulting in 25% reduction in downtime
+* 2017: Collaborated with development teams to improve application performance and reliability, resulting in 30% reduction in errors
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Jenkins Engineer (CJE)
+* Certified Kubernetes Administrator (CKA)
+
+References:
+
+Available upon request.
+
+This is just a sample, and you can customize it to fit your own experiences and style. Remember to use specific numbers and metrics to demonstrate the impact of your work, and to tailor your resume to the specific job you're applying for. Good luck with your job search!

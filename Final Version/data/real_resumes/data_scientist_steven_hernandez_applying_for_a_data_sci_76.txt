@@ -1,0 +1,59 @@
+here's a sample resume for steven hernandez applying for a data scientist role:
+
+steven hernandez
+contact information:
+
+* email: [steven.hernandez@email.com](mailto:steven.hernandez@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/stevenhernandez
+* github: github.com/stevenhernandez
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in developing and deploying machine learning models to drive business growth. skilled in python, machine learning, and deep learning with a strong background in data analysis, visualization, and model deployment. proficient in working with large datasets and leveraging data-driven insights to inform strategic decisions.
+
+technical skills:
+
+* programming languages: python (pytorch, tensorflow, keras)
+* machine learning: scikit-learn, xgboost, lr, svm, decision trees, random forest
+* deep learning: convolutional neural networks (cnn), recurrent neural networks (rnn), long short-term memory (lstm)
+* data analysis: pandas, numpy, matplotlib, seaborn
+* data visualization: tableau, power bi, plotly
+* operating systems: windows, linux, macos
+* cloud platforms: aws, google cloud, azure
+
+professional experience:
+
+data scientist, abc company (2018-present)
+
+* developed and deployed machine learning models to predict customer churn, leading to a 25% reduction in customer loss
+* collaborated with cross-functional teams to integrate data-driven insights into business strategy, resulting in a 15% increase in revenue
+* built and maintained large-scale datasets using python and pandas, ensuring data quality and integrity
+* utilized pytorch and tensorflow to develop and train deep learning models for image classification and natural language processing tasks
+* worked with stakeholders to design and implement data visualizations using tableau and power bi
+
+data analyst, def startups (2015-2018)
+
+* analyzed large datasets to identify trends and patterns, informing business decisions and driving growth
+* developed and maintained data visualizations using matplotlib and seaborn to communicate insights to stakeholders
+* built and deployed machine learning models using scikit-learn to predict customer behavior and optimize marketing campaigns
+* collaborated with data engineers to design and implement data pipelines using apache beam and cloud dataflow
+
+education:
+
+* master of science in data science, xyz university (2015-2017)
+	+ coursework: machine learning, deep learning, data mining, statistics, and data visualization
+* bachelor of science in computer science, abc university (2010-2014)
+	+ coursework: algorithms, data structures, computer systems, and software engineering
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified machine learning engineer, machine learning council (2018)
+
+projects:
+
+* image classification using pytorch: developed a deep learning model using pytorch to classify images into different categories, achieving an accuracy of 95%.
+* natural language processing using tensorflow: built a deep learning model using tensorflow to classify text into different categories, achieving an accuracy of 90%.
+* customer segmentation using scikit-learn: developed a machine learning model using scikit-learn to segment customers based on their behavior, resulting in a 20% increase in sales.
+
+note that this is just a sample resume, and you should customize yours to fit your specific experiences and qualifications. also, be sure to proofread your resume multiple times to catch any errors or formatting issues. good luck with your job search!

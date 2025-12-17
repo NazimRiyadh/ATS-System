@@ -1,0 +1,48 @@
+Raymond Cameron
+Contact Information:
+
+* Email: [raymond.cameron@email.com](mailto:raymond.cameron@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/raymond-cameron
+
+Summary:
+Results-driven software engineer with 5+ years of experience in designing, developing, and deploying scalable web applications using Java, Spring, and other cutting-edge technologies. Proven expertise in backend development, version control, DevOps, and testing methodologies. Seeking a challenging role that leverages my technical skills and passion for software development.
+
+Technical Skills:
+
+* Programming Languages: Java 8, Java 11, Java 17
+* Frameworks: Spring Boot, Spring MVC, Hibernate
+* Databases: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Windows, Linux, macOS
+* Version Control: Git, SVN
+* Agile Methodologies: Scrum, Kanban
+* Testing: JUnit, TestNG, Selenium
+* DevOps: Docker, Kubernetes, Jenkins
+
+Professional Experience:
+
+Senior Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple scalable web applications using Java, Spring, and Hibernate
+* Implemented RESTful APIs and microservices architecture for improved scalability and maintainability
+* Collaborated with cross-functional teams to deliver features and bug fixes in an agile environment
+* Utilized Git for version control and SVN for backup and disaster recovery
+* Implemented continuous integration and deployment using Jenkins and Docker
+* Conducted unit testing using JUnit and integration testing using Selenium
+
+Software Engineer, DEF Startups (2015-2018)
+
+* Developed multiple web applications using Java, Spring, and jQuery
+* Implemented database schema design and optimization for improved performance
+* Collaborated with designers to implement UI/UX improvements
+* Utilized SVN for version control and Git for backup and disaster recovery
+* Conducted unit testing using JUnit and integration testing using TestNG
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Scrum Master (CSM), Scrum Alliance (2019)
+* Java Certified Developer (OCPJP), Oracle Corporation (2016)

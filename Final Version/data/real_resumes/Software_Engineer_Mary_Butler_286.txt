@@ -1,0 +1,51 @@
+Here's a sample resume for Mary Butler:
+
+Mary Butler
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [mary.butler@email.com](mailto:mary.butler@email.com)
+* LinkedIn: linkedin.com/in/marybutler
+* GitHub: github.com/marybutler
+
+Professional Summary:
+Highly motivated and detail-oriented software engineer with 5+ years of experience in developing scalable, efficient, and reliable software systems. Skilled in Python, algorithms, data structures, and system design. Proven track record of delivering high-quality software solutions on time and on budget. Passionate about staying up-to-date with the latest technologies and best practices in software development.
+
+Technical Skills:
+
+* Programming languages: Python, C++, Java
+* Data structures and algorithms: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Dynamic Programming, Greedy Algorithm, Divide and Conquer
+* System design: Microservices, RESTful APIs, Database Design, Scalability, Performance Optimization
+* Development tools: Git, SVN, Jenkins, Docker, Kubernetes
+* Operating Systems: Linux, Windows, macOS
+
+Professional Experience:
+
+Software Engineer, ABC Company (2018-Present)
+
+* Designed and developed multiple features for a cloud-based e-commerce platform using Python, Django, and PostgreSQL
+* Implemented a recommendation engine using collaborative filtering and matrix factorization techniques, resulting in a 25% increase in sales
+* Collaborated with cross-functional teams to design and implement a scalable and efficient data processing pipeline using Apache Spark and Hadoop
+* Mentored junior engineers and provided code reviews to ensure high-quality code and adherence to best practices
+
+Software Engineer, DEF Startups (2015-2018)
+
+* Built a real-time data analytics platform using Python, Flask, and Redis, handling over 1 million requests per day
+* Designed and implemented a scalable and fault-tolerant system using Python, Zookeeper, and Apache Kafka
+* Implemented a data warehousing solution using Apache Hive and Spark, resulting in a 30% reduction in data processing time
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Achievements:
+
+* Winner of the 2018 Hackathon competition at DEF Startups, developing a machine learning-based chatbot using Python and TensorFlow
+* Published a research paper on "Efficient Data Processing using Apache Spark and Hadoop" at the 2019 International Conference on Data Science and Engineering
+* Completed a Python and machine learning online course with a perfect score on Coursera
+
+References:
+Available upon request.
+
+This resume showcases Mary's technical skills, professional experience, and achievements in a clear and concise manner. The format is easy to read and scan, making it simple for hiring managers to quickly identify Mary's qualifications and experience.

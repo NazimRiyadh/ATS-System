@@ -1,0 +1,55 @@
+here's a sample resume for miss sarah parks applying for the role of data engineer:
+
+miss sarah parks
+contact information:
+
+* phone: (123) 456-7890
+* email: [sarah.parks@email.com](mailto:sarah.parks@email.com)
+* linkedin: linkedin.com/in/sarahparksdata
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, etl, and cloud platforms. skilled in designing, building, and maintaining scalable data pipelines to support business intelligence and machine learning applications.
+
+technical skills:
+
+* mlops: model deployment, monitoring, and serving using tensorflow, pytorch, and scikit-learn
+* airflow: dag design, execution, and management using apache airflow
+* etl: data extraction, transformation, and loading using sql, pandas, and numpy
+* cloud platforms: aws (s3, ec2, lambda), google cloud (gcs, dataproc), azure (blob storage, databricks)
+* programming languages: python, sql, bash
+* data tools: jupyter notebook, apache beam, apache spark
+
+professional experience:
+
+data engineer, xyz corporation (2020-present)
+
+* designed and implemented data pipelines using apache airflow to support business intelligence and machine learning applications
+* developed and deployed machine learning models using tensorflow and pytorch, integrating with data pipelines for real-time predictions
+* collaborated with data scientists to design and implement etl processes using sql, pandas, and numpy
+* managed and monitored data pipelines using apache airflow, ensuring high uptime and data quality
+
+senior data analyst, abc inc. (2018-2020)
+
+* designed and implemented data visualizations using tableau and power bi to support business decision-making
+* developed and maintained etl processes using sql and pandas to support business intelligence applications
+* collaborated with data scientists to develop and deploy machine learning models using scikit-learn and tensorflow
+
+education:
+
+* bachelor of science in computer science, [university name] (2018)
+
+certifications:
+
+* certified data engineer, [certification name] (2022)
+* certified scrum master, [certification name] (2020)
+
+projects:
+
+* mlops pipeline: designed and implemented a mlops pipeline using tensorflow, pytorch, and apache airflow to support real-time predictions
+* etl process: developed and implemented an etl process using sql, pandas, and numpy to support business intelligence applications
+* cloud migration: migrated a data warehouse from on-premises to aws using aws cloudformation and aws database migration service
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for, and highlight your unique skills and experiences.

@@ -1,0 +1,59 @@
+William Murphy
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [william.murphy@email.com](mailto:william.murphy@email.com)
+* LinkedIn: linkedin.com/in/williammurphy
+
+Summary:
+Highly skilled UI Engineer with expertise in crafting responsive and visually appealing interfaces using frontend frameworks, design tools, and animation libraries. Proficient in building scalable and maintainable codebases that meet the highest standards of user experience.
+
+Technical Skills:
+
+* Frontend Frameworks:
+	+ React
+	+ Angular
+	+ Vue.js
+* Responsive Design:
+	+ Mobile-first approach
+	+ Adaptive layouts
+	+ CSS preprocessors (Sass, Less)
+* Design Tools:
+	+ Sketch
+	+ Figma
+	+ Adobe XD
+* Animation Libraries:
+	+ GSAP
+	+ AnimeJS
+	+ Velocity.js
+* Programming Languages:
+	+ JavaScript (ES6+)
+	+ HTML5
+	+ CSS3
+* Version Control:
+	+ Git
+	+ SVN
+
+Professional Experience:
+
+UI Engineer, XYZ Corporation (2018 - Present)
+
+* Designed and developed responsive interfaces for web applications using React, Sass, and Sketch
+* Collaborated with designers to implement design systems and ensure consistency across products
+* Utilized GSAP to create complex animations and interactions
+* Mentored junior engineers in best practices for frontend development and design tools
+
+Senior Frontend Developer, ABC Startups (2015 - 2018)
+
+* Led the development of multiple web applications using Angular, CSS preprocessors, and animation libraries
+* Developed and maintained a set of reusable UI components using React and Webpack
+* Worked closely with designers to ensure that design concepts were translated into functional and visually appealing interfaces
+
+Education:
+
+* Bachelor of Science in Computer Science, University of California, Los Angeles (2010 - 2014)
+
+Certifications:
+
+* Certified React Developer, Udemy (2018)
+* Certified Frontend Developer, FreeCodeCamp (2016)

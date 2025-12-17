@@ -1,0 +1,51 @@
+rohan gupta
+contact information:
+
+* email: [rohan.gupta@email.com](mailto:rohan.gupta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/rohangupta
+
+summary:
+highly motivated and detail-oriented software engineer with 4+ years of experience in designing and developing scalable, efficient, and secure software systems. proficient in a range of programming languages, including java, python, and javascript, with expertise in algorithms, data structures, and system design. proven ability to work effectively in collaborative environments and deliver high-quality results under pressure.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, rest apis, ci/cd
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, and more
+* version control: git
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple microservices using java, python, and javascript, resulting in a 30% reduction in system latency and a 25% increase in throughput.
+* developed and maintained rest apis using spring boot and node.js, ensuring seamless integration with front-end applications.
+* collaborated with cross-functional teams to design and implement ci/cd pipelines using jenkins and docker, resulting in a 40% reduction in deployment time.
+* participated in code reviews and contributed to the improvement of code quality, resulting in a 20% reduction in bugs.
+
+software engineer, def startups (2015-2018)
+
+* developed and maintained multiple web applications using python, django, and javascript, resulting in a 25% increase in user engagement.
+* designed and implemented data structures and algorithms to optimize system performance, resulting in a 20% reduction in response time.
+* collaborated with the development team to design and implement a scalable database architecture, resulting in a 30% increase in data storage capacity.
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015)
+* master of technology in software engineering, pqr university (2018)
+
+achievements:
+
+* aws certified developer - associate, amazon web services (2019)
+* certified scrum master, scrum alliance (2018)
+* codeforces rank #10 in india, codeforces (2017)
+
+personal projects:
+
+* personal website, [rohangupta.com](http://rohangupta.com) (2019)
+* machine learning project, [github.com/rohangupta/ml_project](http://github.com/rohangupta/ml_project) (2018)
+
+references:
+available upon request.

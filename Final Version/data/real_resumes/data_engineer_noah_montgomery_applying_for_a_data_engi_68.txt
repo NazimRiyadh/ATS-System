@@ -1,0 +1,61 @@
+here's a sample resume for noah montgomery applying for a data engineer role:
+
+noah montgomery
+contact information:
+
+* email: [noah.montgomery@email.com](mailto:noah.montgomery@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/noahmontgomery
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, etl, and cloud platforms. proficient in designing, building, and deploying scalable and efficient data pipelines using spark and other big data technologies. proven ability to collaborate with cross-functional teams to drive business growth through data-driven insights.
+
+technical skills:
+
+* mlops:
+	+ experience with model deployment, serving, and monitoring using kubernetes, tensorflow, and scikit-learn
+	+ familiarity with model interpretability and explainability techniques
+* airflow:
+	+ proficient in designing and deploying complex workflows using airflow
+	+ experience with airflow operators, sensors, and hooks
+* etl:
+	+ strong understanding of etl principles and best practices
+	+ experience with data transformation, cleaning, and loading using spark, python, and sql
+* cloud platforms:
+	+ experience with aws, gcp, and azure cloud platforms
+	+ familiarity with cloud-based data warehousing, analytics, and machine learning services
+* big data technologies:
+	+ proficient in spark, hadoop, and nosql databases
+	+ experience with data processing, storage, and analytics using these technologies
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and deployed scalable data pipelines using spark, airflow, and etl tools
+* collaborated with cross-functional teams to integrate data into business applications and drive data-driven decision-making
+* developed and maintained predictive models using scikit-learn, tensorflow, and pytorch
+* implemented model monitoring and explainability using techniques such as feature importance, shap values, and partial dependence plots
+
+data analyst, def startup (2016-2018)
+
+* analyzed and visualized data using tableau, power bi, and d3.js
+* developed data pipelines using python, pandas, and numpy
+* collaborated with stakeholders to identify business opportunities and create data-driven recommendations
+
+education:
+
+* bachelor of science in computer science, xyz university (2012-2016)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+personal projects:
+
+* developed a personal website using python, flask, and mongodb to showcase data engineering projects and skills
+* created a data pipeline using spark, airflow, and etl tools to process and analyze open-source datasets
+
+references:
+available upon request.

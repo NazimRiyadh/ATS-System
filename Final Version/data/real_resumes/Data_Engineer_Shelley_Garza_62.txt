@@ -1,0 +1,62 @@
+Shelley Garza
+Contact Information:
+
+* Email: [shelley.garza@email.com](mailto:shelley.garza@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/shelleygarza
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with expertise in Big Data Frameworks, Databases, Cloud Platforms, and Data Warehousing. Proficient in Python and CI/CD Tools, with a strong passion for designing and implementing scalable and efficient data systems.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop
+	+ Apache Spark
+	+ Apache Flink
+* Databases:
+	+ Relational databases (MySQL, PostgreSQL)
+	+ NoSQL databases (MongoDB, Cassandra)
+	+ Data warehousing (Snowflake, Redshift)
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Google Cloud Platform (GCP)
+	+ Microsoft Azure
+* Programming Languages:
+	+ Python
+	+ SQL
+* CI/CD Tools:
+	+ Jenkins
+	+ GitLab CI/CD
+	+ Docker
+* Data Warehousing:
+	+ ETL (Extract, Transform, Load) processes
+	+ Data modeling
+	+ Data quality and profiling
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a scalable data pipeline using Apache Spark and AWS Glue, resulting in a 30% reduction in data processing time
+* Developed and maintained a data warehouse on Snowflake, providing real-time insights to business stakeholders
+* Collaborated with cross-functional teams to integrate data from multiple sources, ensuring data consistency and quality
+* Deployed a containerized data processing application using Docker and Kubernetes, improving deployment efficiency by 50%
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Built and maintained a data infrastructure using Apache Hadoop and HDFS, processing terabytes of data daily
+* Developed ETL processes using Python and SQL, integrating data from various sources into a centralized data warehouse
+* Implemented a data quality framework using Apache Beam, ensuring data accuracy and reliability
+* Collaborated with data scientists to develop predictive models, using data visualization tools like Tableau and Power BI
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+
+References:
+Available upon request.

@@ -1,0 +1,52 @@
+here's a sample resume for todd gaines applying for the role of data scientist:
+
+todd gaines
+contact information:
+
+* email: [todd.gaines@email.com](mailto:todd.gaines@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/toddgaines
+* github: github.com/toddgaines
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in machine learning, data visualization, and data analysis. proficient in python, sql, and various data visualization tools. proven track record of extracting insights from complex data sets to drive business decisions.
+
+technical skills:
+
+* programming languages: python (pytorch, tensorflow), r
+* data analysis and visualization tools: tableau, power bi, matplotlib, seaborn
+* database management: sql, mysql
+* machine learning algorithms: linear regression, decision trees, random forest, neural networks
+* data preprocessing and feature engineering: pandas, numpy, scikit-learn
+* operating systems: windows, linux, macos
+
+experience:
+
+data scientist, abc company (2020-present)
+
+* developed and implemented machine learning models to predict customer churn and recommend personalized marketing campaigns
+* built and maintained large-scale data pipelines using python and sql to collect and process data from various sources
+* created interactive dashboards using tableau to visualize key business metrics and trends
+* collaborated with cross-functional teams to identify business opportunities and develop data-driven solutions
+
+data analyst, def start-up (2018-2020)
+
+* analyzed and visualized data to identify trends and insights in customer behavior and market trends
+* built and maintained databases using sql to store and manage large datasets
+* implemented machine learning algorithms using scikit-learn to predict customer preferences and behavior
+* worked with the product team to design and implement a/b testing and experimentation frameworks
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015-2019)
+* certified data scientist, data science council of america (2019)
+
+projects:
+
+* predicting house prices using machine learning: developed a predictive model using pytorch and scikit-learn to predict house prices based on features such as location, size, and amenities. achieved an r-squared score of 0.95.
+* analyzing customer churn using sql and tableau: built a dashboard using tableau to visualize customer churn data and identify key drivers of churn. reduced churn rate by 15% for the company.
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

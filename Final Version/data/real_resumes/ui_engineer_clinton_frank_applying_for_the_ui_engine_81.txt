@@ -1,0 +1,51 @@
+here's a sample resume for clinton frank applying for the ui engineer role:
+
+clinton frank
+contact information:
+
+* email: [clintonfrank@email.com](mailto:clintonfrank@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/clintonfrank
+* github: github.com/clintonfrank
+
+summary:
+highly skilled ui engineer with 3+ years of experience in designing and developing user interfaces for web applications. proficient in css, javascript, and react, with a strong background in ui/ux design principles and wireframing. passionate about creating intuitive and visually appealing user experiences.
+
+technical skills:
+
+* programming languages: javascript, html/css
+* front-end frameworks: react, react hooks
+* ui/ux design tools: sketch, figma, adobe xd
+* wireframing and prototyping tools: figma, invision
+* version control: git
+* operating systems: windows, macos
+
+professional experience:
+
+* ui engineer, abc company (2020-present)
+	+ designed and developed responsive user interfaces for web applications using react and css
+	+ collaborated with cross-functional teams to implement ui/ux design principles and wireframes
+	+ utilized version control systems to manage code and collaborate with team members
+	+ participated in code reviews to ensure high-quality code and best practices
+* junior ui engineer, def agency (2018-2020)
+	+ assisted in designing and developing user interfaces for web applications using html/css and javascript
+	+ created wireframes and prototypes using figma and invision
+	+ worked with designers to implement design concepts into production-ready code
+	+ participated in ui/ux design workshops to improve design skills
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+projects:
+
+* personal website: a responsive, react-based website showcasing my skills and experience as a ui engineer. (github.com/clintonfrank/personal-website)
+* to-do list app: a simple, react-based to-do list app with features like task creation, deletion, and editing. (github.com/clintonfrank/todo-list-app)
+
+certifications/awards:
+
+* certified ui engineer, ui engineer certification board (2020)
+* best ui engineer, abc company's annual awards (2020)
+
+references:
+available upon request.

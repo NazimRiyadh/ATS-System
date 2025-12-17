@@ -20,7 +20,6 @@ rag_cache/
 *.log
 rag_storage/
 output/
-data/
 embeddings/
 
 # OS

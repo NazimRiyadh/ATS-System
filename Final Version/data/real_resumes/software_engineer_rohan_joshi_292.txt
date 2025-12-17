@@ -1,0 +1,52 @@
+rohan joshi
+contact information:
+
+* email: [rohan.joshi@email.com](mailto:rohan.joshi@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/rohanjoshi
+* github: github.com/rohanjoshi
+
+summary:
+highly motivated and detail-oriented software engineer with 4+ years of experience in designing, developing, and deploying scalable and efficient software systems. proficient in multiple programming languages, including java, python, and javascript, with a strong foundation in computer science concepts, such as algorithms, data structures, and system design.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, rest apis, scalability, performance optimization
+* development frameworks: spring boot, django, node.js
+* databases: mysql, mongodb, postgresql
+* version control: git, svn
+* ci/cd: jenkins, docker, kubernetes
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+* software engineer, abc corporation (2020-present)
+	+ designed and developed multiple microservices-based systems using java, python, and javascript
+	+ implemented rest apis using spring boot, django, and node.js
+	+ collaborated with cross-functional teams to deploy and maintain scalable and efficient software systems
+	+ utilized git, svn, and jenkins for version control and ci/cd
+	+ worked on performance optimization and scalability of multiple systems
+* junior software engineer, def startups (2018-2020)
+	+ contributed to the development of multiple web applications using java, python, and javascript
+	+ implemented algorithms and data structures to optimize system performance
+	+ participated in code reviews and ensured adherence to coding standards
+	+ assisted in the deployment of multiple systems using docker and kubernetes
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, database systems, computer networks
+	+ project: designed and developed a scalable and efficient web crawler using python and java
+
+achievements:
+
+* published a research paper on "efficient resource allocation in cloud computing" in a peer-reviewed journal (2020)
+* won 1st prize in a hackathon for developing a scalable and efficient e-commerce platform using node.js and mongodb (2019)
+* participated in a coding competition and ranked top 10 in india (2018)
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified scrum master, scrum alliance (2020)

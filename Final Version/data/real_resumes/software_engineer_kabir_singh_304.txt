@@ -1,0 +1,54 @@
+kabir singh
+software engineer
+
+contact information:
+
+* email: [kabirsingh@email.com](mailto:kabirsingh@email.com)
+* phone: 555-123-4567
+* linkedin: linkedin.com/in/kabirsinghsoftware
+
+summary:
+highly skilled and motivated software engineer with 5+ years of experience in designing, developing, and deploying scalable and efficient software systems. proficient in a range of programming languages, including java, python, and javascript, with expertise in system design, algorithms, and data structures. proven track record of delivering high-quality software solutions on time and on budget.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, service-oriented architecture (soa), event-driven architecture (eda)
+* algorithms and data structures: sorting, searching, graph algorithms, database systems
+* rest apis: design and implementation of restful apis using spring boot and node.js
+* git: version control, branching, merging, and collaboration
+* ci/cd: jenkins, docker, kubernetes
+* microservices: design and development of microservices-based systems using spring cloud and node.js
+
+professional experience:
+
+* software engineer, abc corporation (2018-present)
+	+ designed and developed a scalable e-commerce platform using java, spring boot, and mysql
+	+ implemented a restful api using node.js and express.js for a mobile application
+	+ collaborated with cross-functional teams to deliver high-quality software solutions on time and on budget
+	+ contributed to the development of a microservices-based system using spring cloud and node.js
+* software development engineer, def startups (2015-2018)
+	+ designed and developed a cloud-based saas application using python, django, and aws
+	+ implemented a real-time analytics system using javascript and d3.js
+	+ participated in code reviews and ensured adherence to coding standards and best practices
+	+ collaborated with the qa team to identify and resolve defects
+
+education:
+
+* bachelor of technology in computer science, xyz university (2010-2014)
+	+ coursework: data structures, algorithms, computer systems, database systems, web development
+	+ project: developed a web-based project management tool using java, spring, and mysql
+
+achievements:
+
+* awarded "best project" in the university's annual project competition for a web-based project management tool
+* participated in a hackathon and developed a mobile application using node.js and react native
+* published a research paper on "designing efficient algorithms for big data analytics" in an international conference
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified python developer, python institute (2015)
+
+references:
+available upon request.

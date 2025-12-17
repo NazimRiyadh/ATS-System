@@ -1,0 +1,53 @@
+here's a sample resume for adam wilkinson, a data scientist candidate:
+
+adam wilkinson
+contact information:
+
+* email: [adam.wilkinson@email.com](mailto:adam.wilkinson@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/adamwilkinson
+* github: github.com/adamwilkinson
+
+summary:
+highly motivated and detail-oriented data scientist with a strong background in statistics, python programming, and deep learning. proven ability to extract insights from complex data sets and develop predictive models to drive business decisions. seeking a challenging role that leverages my technical skills and passion for data analysis.
+
+technical skills:
+
+* programming languages: python (pytorch, tensorflow, keras), r
+* deep learning frameworks: pytorch, tensorflow
+* machine learning algorithms: linear regression, decision trees, random forest, support vector machines, neural networks
+* data analysis libraries: pandas, numpy, matplotlib, seaborn
+* data visualization tools: tableau, power bi
+* operating systems: windows, linux, macos
+* agile development methodologies: scrum, kanban
+
+professional experience:
+
+* data scientist, abc corporation (2018-present)
+	+ developed and deployed multiple machine learning models using pytorch and scikit-learn to predict customer churn and improve sales forecasting
+	+ collaborated with cross-functional teams to design and implement data-driven solutions to business problems
+	+ built and maintained complex data pipelines using apache beam and airflow
+* research assistant, university of xyz (2015-2018)
+	+ conducted research in machine learning and deep learning, focusing on computer vision and natural language processing
+	+ developed and implemented novel algorithms for image classification and sentiment analysis using pytorch and tensorflow
+
+education:
+
+* ph.d. in statistics, university of xyz (2015-2018)
+	+ coursework: statistical modeling, time series analysis, machine learning, computational statistics
+	+ dissertation: "deep learning for image classification"
+* b.s. in mathematics, university of abc (2010-2014)
+	+ coursework: probability and statistics, linear algebra, calculus, data structures
+
+projects:
+
+* image classification using pytorch: developed a pytorch-based image classification model using a dataset of 10,000 images, achieving an accuracy of 95%
+* predicting customer churn using scikit-learn: built a scikit-learn-based model to predict customer churn using a dataset of 100,000 customer records, achieving an auc of 0.9
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified scikit-learn developer, scikit-learn team (2020)
+
+references:
+available upon request.

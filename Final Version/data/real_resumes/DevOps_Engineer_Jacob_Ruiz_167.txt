@@ -1,0 +1,60 @@
+Here's a sample resume for Jacob Ruiz, a DevOps Engineer candidate:
+
+Jacob Ruiz
+DevOps Engineer
+
+Contact Information:
+
+* Email: [jacob.ruiz@email.com](mailto:jacob.ruiz@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/jacobruizdevops
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in designing, implementing, and managing scalable and efficient infrastructure solutions using Kubernetes, Ansible, and Infrastructure as Code tools. Proven track record of improving application reliability, reducing downtime, and increasing team productivity. Seeking a challenging role that utilizes my technical expertise to drive business growth and innovation.
+
+Technical Skills:
+
+* Kubernetes (K8s): Deployment, scaling, and management
+* Ansible: Playbook development, automation, and configuration management
+* Infrastructure as Code (IaC): Terraform, AWS CloudFormation, and Azure Resource Manager
+* Monitoring Tools: Prometheus, Grafana, and New Relic
+* Containerization: Docker and container orchestration
+* Cloud Platforms: AWS, Azure, and Google Cloud
+* Operating Systems: Linux (Ubuntu, CentOS) and Windows
+* Scripting Languages: Python, Bash, and PowerShell
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2018-Present)
+
+* Designed and implemented a scalable and automated infrastructure using Kubernetes, Ansible, and Terraform, resulting in 30% reduction in deployment time and 25% increase in team productivity
+* Developed and maintained a comprehensive monitoring and logging system using Prometheus, Grafana, and New Relic, providing real-time insights into application performance and availability
+* Collaborated with development teams to implement infrastructure as code, reducing human error and improving consistency across environments
+* Provided technical guidance and support to junior engineers, ensuring successful onboarding and knowledge sharing
+
+Senior Systems Administrator, DEF Company (2015-2018)
+
+* Managed and maintained a hybrid cloud infrastructure using AWS, Azure, and on-premises data centers
+* Implemented a centralized monitoring and reporting system using Nagios and Splunk, improving incident response times by 40%
+* Developed and deployed custom monitoring scripts using Python and Bash, providing real-time visibility into system performance and resource utilization
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Engineer (CAE)
+* Certified Cloud Practitioner (AWS, Azure, Google Cloud)
+
+Achievements:
+
+* Winner of the 2020 DevOps World Award for "Best Use of Kubernetes in Production"
+* Featured speaker at the 2019 DevOps Summit, presenting on "Scaling Kubernetes in the Cloud"
+* Published several articles on DevOps best practices and Kubernetes adoption in industry-leading publications
+
+References:
+Available upon request.
+
+This resume structure and content are tailored to showcase Jacob's technical expertise, professional experience, and achievements in the field of DevOps Engineering. The summary and technical skills sections provide a clear overview of Jacob's qualifications, while the professional experience section highlights his achievements and responsibilities. The education and certifications sections demonstrate Jacob's commitment to ongoing learning and professional development.

@@ -1,0 +1,59 @@
+Here's a professional resume for Dominic Craig:
+
+Dominic Craig
+Contact Information:
+
+* Email: [dominic.craig@email.com](mailto:dominic.craig@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/dominiccraig
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with 8+ years of experience in designing, developing, and deploying scalable data pipelines using MLOps, Big Data, Spark, and Data Warehousing technologies. Proven track record of delivering high-quality solutions, improving data accuracy, and enhancing business insights. Seeking a challenging Data Engineer role to leverage my technical expertise and passion for data-driven decision-making.
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed a scalable data pipeline using Spark, Hadoop, and Apache Beam, resulting in a 30% reduction in data processing time and a 25% increase in data quality.
+* Collaborated with cross-functional teams to implement a Data Warehousing solution using Snowflake, resulting in a 50% reduction in reporting time and a 20% increase in business insights.
+* Developed and maintained multiple ETL (Extract, Transform, Load) processes using Python, R, and SQL, ensuring data accuracy and compliance with regulatory requirements.
+* Mentored junior data engineers and provided technical guidance on MLOps, Big Data, and Data Warehousing technologies.
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed a Big Data analytics platform using Hadoop, Spark, and NoSQL databases, resulting in a 40% increase in data insights and a 25% reduction in data storage costs.
+* Designed and implemented a real-time data pipeline using Apache Kafka, resulting in a 90% reduction in data latency and a 30% increase in data accuracy.
+* Collaborated with data scientists to develop and deploy machine learning models using scikit-learn, TensorFlow, and PyTorch, resulting in a 25% increase in model accuracy and a 15% reduction in prediction time.
+
+Education:
+
+* Master of Science in Data Science, XYZ University (2015)
+* Bachelor of Science in Computer Science, ABC University (2010)
+
+Skills:
+
+* MLOps (Model Operations)
+	+ Model deployment using TensorFlow, PyTorch, and scikit-learn
+	+ Model monitoring and maintenance using Prometheus, Grafana, and Alertmanager
+* Big Data
+	+ Hadoop, Spark, and HBase
+	+ NoSQL databases (Cassandra, MongoDB, and Couchbase)
+* Data Warehousing
+	+ Snowflake, Redshift, and BigQuery
+	+ Data modeling and ETL processes
+* Programming languages
+	+ Python, R, and SQL
+	+ Java, Scala, and C++
+* Operating Systems
+	+ Linux (Ubuntu, CentOS, and RHEL)
+	+ Windows and macOS
+
+Achievements:
+
+* Winner, ABC Corporation's Data Innovation Award (2020): Recognized for developing a scalable data pipeline using Spark and Hadoop, resulting in a 30% reduction in data processing time and a 25% increase in data quality.
+* Speaker, DEF Startups' Data Engineering Conference (2017): Presented a talk on "Real-time Data Processing using Apache Kafka" to a audience of 500+ data engineers and scientists.
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Big Data Analyst, Big Data Certification Board (2016)

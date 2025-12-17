@@ -1,0 +1,64 @@
+Here's a sample resume for Justin Yang:
+
+Justin Yang
+Cloud Engineer
+
+Contact Information:
+
+* Email: [justin.yang@email.com](mailto:justin.yang@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/justinyang
+* GitHub: github.com/justinyang
+
+Professional Summary:
+Highly skilled Cloud Engineer with 5+ years of experience in designing, implementing, and managing cloud-based infrastructure and applications. Proven track record of delivering complex cloud migration projects, optimizing cloud costs, and architecting scalable serverless solutions. Proficient in cloud networking, security, and compliance.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Cloud Migration: CloudEndure, AWS Migration Hub, Azure Migrate
+* Cloud Cost Optimization: AWS Cost Explorer, Azure Cost Estimator, Google Cloud Cost Management
+* Serverless Architecture: AWS Lambda, Azure Functions, Google Cloud Functions
+* Cloud Networking: AWS VPC, Azure Virtual Network, Google Cloud Virtual Network
+* Programming Languages: Python, Java, C#, Node.js
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Cloud Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented cloud-based infrastructure for multiple applications, resulting in 30% reduction in costs and 25% improvement in scalability
+* Migrated 10+ on-premises applications to cloud, achieving 95% success rate and reducing downtime by 50%
+* Optimized cloud costs by 20% through automation of resource provisioning and rightsizing
+* Collaborated with cross-functional teams to ensure compliance with cloud security and governance policies
+
+Senior Cloud Engineer, DEF Startups (2015-2018)
+
+* Architectured and implemented serverless solutions for multiple startups, resulting in 90% reduction in costs and 80% improvement in scalability
+* Designed and implemented cloud networking solutions, including VPCs, subnets, and security groups
+* Collaborated with development teams to ensure seamless integration of cloud services with applications
+* Provided technical guidance and support to junior engineers on cloud-related projects
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Achievements:
+
+* Certified Cloud Engineer, AWS (2019)
+* Certified Azure Developer, Microsoft (2018)
+* Certified Google Cloud Professional, Google (2017)
+* Winner, AWS Cloud Migration Challenge (2019)
+* Featured Speaker, Cloud Expo (2020)
+
+Certifications:
+
+* AWS Certified Cloud Engineer (2019)
+* Microsoft Certified Azure Developer (2018)
+* Google Cloud Certified Professional (2017)
+* CompTIA Cloud+ (2016)
+
+References:
+Available upon request.
+
+Note: This is just a sample resume, and you should customize it to fit your own experiences and qualifications. Also, make sure to proofread your resume multiple times for any grammar or formatting errors before submitting it.

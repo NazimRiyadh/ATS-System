@@ -1,0 +1,57 @@
+here's a sample resume for sarah kerr applying for the role of software engineer:
+
+sarah kerr
+contact information:
+
+* email: [sarah.kerr@email.com](mailto:sarah.kerr@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/sarahkerr
+
+summary:
+highly motivated and detail-oriented software engineer with experience in designing, developing, and testing software systems using java and other programming languages. skilled in algorithms, data structures, and system design, with a passion for solving complex problems and delivering high-quality solutions.
+
+technical skills:
+
+* programming languages: java, c++, python
+* development frameworks: spring, hibernate, maven
+* databases: mysql, mongodb, postgresql
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+* version control systems: git, svn
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple software systems using java, including a web application for e-commerce and a mobile app for food delivery
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* implemented algorithms and data structures to optimize system performance and scalability
+* conducted unit testing, integration testing, and debugging to ensure high-quality code
+* participated in code reviews and provided feedback to improve team code quality
+
+software development intern, def startups (summer 2017)
+
+* contributed to the development of a machine learning-based recommendation system using python and scikit-learn
+* assisted in designing and implementing system architecture using microservices and containerization
+* collaborated with the development team to identify and resolve technical issues
+* presented code and technical solutions to the development team and stakeholders
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+projects:
+
+* java-based chatbot: developed a chatbot using java and natural language processing to provide customer support for a fictional company
+* algorithms and data structures: implemented various algorithms and data structures, including sorting, searching, and graph algorithms, to optimize system performance and scalability
+
+certifications:
+
+* certified java developer (ocpjp)
+* certified scrum master (csm)
+
+references:
+available upon request.
+
+note that this is just a sample resume, and you should customize it to fit your own experiences and qualifications. also, be sure to proofread your resume multiple times for grammar, spelling, and formatting errors before submitting it to potential employers.

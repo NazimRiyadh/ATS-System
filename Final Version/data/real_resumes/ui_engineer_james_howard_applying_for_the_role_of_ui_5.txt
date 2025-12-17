@@ -1,0 +1,58 @@
+here's a sample resume for james howard applying for the role of ui engineer:
+
+james howard
+contact information:
+
+* phone: (123) 456-7890
+* email: [jameshoward@email.com](mailto:jameshoward@email.com)
+* linkedin: linkedin.com/in/jameshowardui
+* github: github.com/jameshowardui
+
+summary:
+highly motivated and detail-oriented ui engineer with expertise in css, javascript, and react. proven track record of delivering visually appealing and user-friendly interfaces that drive business results. skilled in ui/ux design, wireframing, and front-end development.
+
+technical skills:
+
+* programming languages: javascript (es6+), css (sass, less)
+* frameworks: react, react hooks
+* ui/ux design tools: sketch, figma, adobe xd
+* wireframing tools: figma, balsamiq
+* version control: git
+* operating systems: windows, macos
+* familiarity with: html5, css3, responsive web design, accessibility guidelines
+
+professional experience:
+
+ui engineer, abc company (2018-present)
+
+* designed and developed responsive, user-friendly interfaces for web applications using react and css
+* collaborated with cross-functional teams to gather requirements and create wireframes, prototypes, and high-fidelity designs
+* implemented ui components, layouts, and interactions using react hooks and css-in-js solutions
+* conducted accessibility audits and ensured compliance with wcag 2.1 guidelines
+* utilized sketch, figma, and adobe xd to create and iterate on design concepts
+
+junior ui engineer, def startup (2016-2018)
+
+* assisted in the development of front-end components using react and javascript
+* created wireframes and prototypes using figma and balsamiq
+* worked with designers to implement design concepts into production-ready code
+* participated in code reviews and ensured adherence to coding standards
+
+education:
+
+* bachelor of science in computer science, xyz university (2016)
+
+certifications:
+
+* certified react developer, react.org
+* certified front-end developer, frontend masters
+
+projects:
+
+* personal website: [jameshoward.io](http://jameshoward.io) (built using react and css-in-js)
+* open-source contributions: [github.com/jameshowardui](http://github.com/jameshowardui)
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should tailor yours to your specific experience and the job you're applying for.

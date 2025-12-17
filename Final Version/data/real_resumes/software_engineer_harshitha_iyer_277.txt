@@ -1,0 +1,56 @@
+harshitha iyer
+software engineer
+(contact information: email: [harshitha.iyer@email.com](mailto:harshitha.iyer@email.com) | phone: 555-555-5555)
+
+summary:
+highly motivated and detail-oriented software engineer with 4+ years of experience in designing, developing, and deploying scalable and efficient software solutions. proficient in a range of programming languages, including java, python, and javascript. proven expertise in system design, algorithms, data structures, and rest apis. strong understanding of git, ci/cd, and microservices architecture.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design
+* algorithms
+* data structures
+* rest apis
+* git
+* ci/cd
+* microservices
+
+professional experience:
+
+software engineer, abc corporation (2020-present)
+
+* designed and developed scalable software solutions using java, python, and javascript
+* collaborated with cross-functional teams to implement rest apis and microservices architecture
+* implemented ci/cd pipelines using jenkins and docker
+* utilized git for version control and collaboration
+* participated in code reviews and ensured high-quality code
+* developed and maintained documentation for software systems
+
+software developer, def startups (2018-2020)
+
+* designed and developed multiple software applications using python and javascript
+* collaborated with the development team to implement algorithms and data structures
+* implemented system design for large-scale applications
+* participated in testing and debugging of software applications
+* contributed to the development of technical documentation
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer networks, operating systems, database management systems
+	+ project: developed a web application using python and flask for a university project
+
+achievements:
+
+* awarded "best project" for a university project on developing a web application using python and flask
+* published research paper on "designing efficient algorithms for big data processing" in a national conference
+* participated in hackathons and coding challenges, winning several awards and recognition
+
+certifications:
+
+* certified scrum master (csm)
+* certified java developer (ocpjp)
+
+references:
+available upon request.

@@ -1,0 +1,62 @@
+Here's a professional resume for Sharon Wu:
+
+Sharon Wu
+Data Engineer
+
+Contact Information:
+
+* Email: [sharon.wu@email.com](mailto:sharon.wu@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/sharonwu
+
+Summary:
+
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, building, and deploying scalable data pipelines using MLOps, Airflow, Big Data, Spark, and Data Warehousing technologies. Proven track record of delivering high-quality solutions that drive business growth and improve operational efficiency.
+
+Technical Skills:
+
+* MLOps: Model deployment, model serving, and model monitoring using TensorFlow, PyTorch, and scikit-learn
+* Airflow: Workflow management, pipeline orchestration, and DAG design
+* Big Data: Hadoop, Spark, and NoSQL databases
+* Data Warehousing: Data modeling, ETL, and data governance using Snowflake and Redshift
+* Programming languages: Python, Java, and SQL
+* Operating Systems: Linux, Windows, and macOS
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2019-Present)
+
+* Designed and developed a scalable data pipeline using Airflow, Spark, and Snowflake to process 10TB of data daily, resulting in 30% reduction in data processing time
+* Built and deployed multiple machine learning models using TensorFlow and scikit-learn, with a 25% improvement in model accuracy
+* Collaborated with cross-functional teams to design and implement data governance policies, ensuring data quality and compliance
+* Mentored junior engineers in data engineering best practices, improving team efficiency by 20%
+
+Senior Data Analyst, DEF Startups (2015-2019)
+
+* Designed and developed data visualizations using Tableau and Power BI, resulting in a 50% increase in user engagement
+* Analyzed large datasets using Spark and Hadoop, identifying trends and insights that informed business decisions
+* Developed and maintained data models using SQL and NoSQL databases, ensuring data consistency and accuracy
+* Collaborated with product teams to design and implement A/B testing, resulting in a 20% increase in conversion rates
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015)
+* Bachelor of Science in Computer Science, ABC University (2013)
+
+Achievements:
+
+* Airflow Certified Developer, awarded by Airbnb (2020)
+* Apache Spark Certified Developer, awarded by Databricks (2019)
+* Data Warehousing Certified Professional, awarded by Snowflake (2018)
+
+Certifications:
+
+* Airflow Certified Developer
+* Apache Spark Certified Developer
+* Data Warehousing Certified Professional
+
+References:
+
+Available upon request.
+
+This is just a sample, and you should customize your resume to fit your specific experience and the job you're applying for. Remember to use specific numbers and metrics to quantify your achievements, and to highlight your unique skills and experiences. Good luck with your job search!

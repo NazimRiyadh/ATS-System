@@ -1,0 +1,38 @@
+**candidate profile: jagrav saxena**
+
+**role:** data scientist
+
+**key strengths:**
+
+* strong analytical skills, with experience in data analysis and interpretation
+* excellent communication skills, with the ability to present findings effectively
+* proficient in microsoft excel, with experience in data manipulation and analysis
+* familiarity with data management concepts and database systems
+
+**key areas for improvement:**
+
+* **machine learning:** jagrav lacks hands-on experience with machine learning algorithms and techniques, which is a critical aspect of data science. during the interview, he struggled to explain the concept of supervised learning and its applications.
+* **statistics:** although jagrav has a basic understanding of statistical concepts, he lacks in-depth knowledge of statistical modeling and hypothesis testing. he found it challenging to explain the difference between parametric and non-parametric tests.
+* **data visualization:** jagrav is not proficient in data visualization tools such as tableau, power bi, or d3.js. he relied heavily on excel's built-in charting capabilities, which is not sufficient for data science roles.
+* **big data:** jagrav has limited experience with big data technologies such as hadoop, spark, or nosql databases. he was unfamiliar with the concept of distributed computing and parallel processing.
+* **programming:** although jagrav has some experience with python, his proficiency is limited to basic scripting tasks. he lacks experience with r programming language, which is widely used in data science.
+* **experience:** jagrav's experience in data science is mostly limited to data analysis and reporting. he lacks experience in data mining, predictive modeling, or natural language processing.
+
+**concerns raised during the interview:**
+
+* jagrav struggled to complete a simple data visualization task using tableau, citing a lack of experience with the tool.
+* he was unable to explain the concept of dimensionality reduction and its applications in data science.
+* he was unfamiliar with the concept of gradient boosting and its use in machine learning algorithms.
+* he found it challenging to explain the difference between a correlation and causation.
+
+**potential for growth:**
+
+despite the gaps in jagrav's skills, he demonstrated a strong willingness to learn and grow. he was enthusiastic about the opportunity to learn new tools and technologies, and he expressed a desire to develop his skills in machine learning, statistics, and programming. with further training and exposure, jagrav has the potential to develop into a competent data scientist. the interviewer suggested that jagrav focus on developing his skills in machine learning, statistics, and data visualization, and provide him with resources to learn new tools and technologies.
+
+**recommendations:**
+
+* provide jagrav with training in machine learning, statistics, and programming (python and r).
+* expose jagrav to data visualization tools such as tableau, power bi, or d3.js.
+* assign jagrav projects that focus on data mining, predictive modeling, or natural language processing.
+* provide jagrav with opportunities to work with big data technologies such as hadoop, spark, or nosql databases.
+* encourage jagrav to participate in online courses, workshops, or conferences to stay updated with the latest trends and technologies in data science.

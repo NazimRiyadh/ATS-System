@@ -1,0 +1,57 @@
+tanvi bansal
+data engineer
+
+contact information:
+
+* email: [tanvi.bansal@email.com](mailto:tanvi.bansal@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/tanvibansal
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in designing, developing, and deploying scalable data pipelines using python, sql, and various data engineering tools. proven track record of delivering high-quality data products and solutions to drive business growth and decision-making.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: etl, airflow, spark, data modeling
+* cloud platforms: aws
+* containerization: docker
+* orchestration: kubernetes
+* data warehousing: design and implementation
+* operating systems: windows, linux
+
+professional experience:
+
+data engineer, abc corporation (2020-present)
+
+* designed and developed a scalable etl pipeline using python, airflow, and spark to extract data from various sources and load it into a data warehouse
+* developed a data modeling framework using dimensional modeling techniques to define data structures and relationships
+* implemented a data warehousing solution using aws redshift and developed etl processes to load data into the warehouse
+* collaborated with cross-functional teams to design and deploy data products and solutions
+* implemented docker and kubernetes to containerize and deploy data engineering applications
+
+junior data engineer, def startups (2018-2020)
+
+* assisted in the design and development of data pipelines using python, sql, and etl tools
+* developed and maintained data models and data warehouses using various data modeling techniques
+* participated in code reviews and ensured adherence to coding standards and best practices
+* collaborated with data scientists and analysts to develop and deploy data products and solutions
+
+education:
+
+* master of science in computer science, xyz university (2018)
+* bachelor of technology in computer science, abc university (2016)
+
+achievements:
+
+* data engineering hackathon winner, def conference (2020)
+* best paper award, ghi journal of data science (2019)
+* participant, data engineering bootcamp, ijk university (2018)
+
+certifications:
+
+* certified data engineer, abc institute (2020)
+* aws certified developer - associate, amazon web services (2019)
+
+references:
+available upon request.

@@ -1,0 +1,44 @@
+**Kunal**
+**Contact Information:**
+
+* Email: [kunal@email.com](mailto:kunal@email.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/kunal
+
+**Summary:**
+Results-driven data professional with 4.3 years of experience in data analysis and engineering. Skilled in data warehousing, ETL, and data visualization. Proven track record of delivering high-quality results in competitive environments.
+
+**Professional Experience:**
+
+* **Data Analyst, ABC Corporation (2020-2022)**
+	+ Designed and implemented data pipelines using Python and Apache Beam to process 10 million records per day
+	+ Developed and maintained data visualizations using Tableau and Power BI to support business decision-making
+	+ Collaborated with cross-functional teams to identify business needs and develop data-driven solutions
+* **Data Scientist, DEF Startup (2018-2020)**
+	+ Built and deployed machine learning models using scikit-learn and TensorFlow to predict customer churn
+	+ Designed and implemented data quality checks using pandas and NumPy to ensure data accuracy
+	+ Presented insights and recommendations to stakeholders using data storytelling techniques
+
+**Competitions and Achievements:**
+
+* **Kaggle Competitions:** 4.3/5 rating, 10th place in "House Prices: Advanced Regression Techniques" (2019), 5th place in "Titanic: Machine Learning from Disaster" (2018)
+* **Data Science Bowl:** 2nd place in "Housing Prices: Advanced Regression Techniques" (2020)
+* **HackerRank:** 95th percentile in SQL, 85th percentile in Python
+
+**Education:**
+
+* **Bachelor of Science in Computer Science, XYZ University (2018)**
+	+ Coursework: Data Structures, Algorithms, Computer Systems, Database Systems
+
+**Skills:**
+
+* Programming languages: Python, SQL
+* Data engineering tools: Apache Beam, Apache Spark
+* Data visualization tools: Tableau, Power BI
+* Machine learning libraries: scikit-learn, TensorFlow
+* Operating Systems: Windows, Linux
+
+**Certifications:**
+
+* **Certified Data Engineer, Data Science Council of America (2020)**
+* **Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2019)**

@@ -1,0 +1,65 @@
+Here's a sample resume for Michael Lewis:
+
+Michael Lewis
+System Administrator
+
+Contact Information:
+
+* Email: [mlewis@email.com](mailto:mlewis@email.com)
+* Phone: 555-123-4567
+* LinkedIn: linkedin.com/in/michaellewissysadmin
+
+Professional Summary:
+Highly skilled and experienced System Administrator with expertise in Windows Server, Active Directory, and System Monitoring. Proven track record of providing exceptional IT support and ensuring high uptime of critical systems. Possesses a strong understanding of IT infrastructure, network security, and troubleshooting techniques.
+
+Technical Skills:
+
+* Windows Server 2012/2016/2019
+* Active Directory (AD) Domain Services
+* System Monitoring (SCOM, Nagios)
+* Backup and Recovery (Veeam, Acronis)
+* Networking (TCP/IP, DNS, DHCP)
+* Scripting (PowerShell, Batch)
+* Security (firewalls, access control policies)
+
+Work Experience:
+
+System Administrator, ABC Corporation (2018-Present)
+
+* Manage and maintain Windows Server infrastructure, including AD Domain Services, DNS, and DHCP
+* Implement and monitor system monitoring tools (SCOM, Nagios) to ensure high uptime and alert on potential issues
+* Develop and implement backup and recovery strategies (Veeam, Acronis) to ensure data integrity
+* Collaborate with IT teams to resolve complex technical issues and improve overall IT infrastructure
+* Developed and implemented PowerShell scripts to automate routine tasks and improve efficiency
+
+Server Administrator, DEF Company (2015-2018)
+
+* Managed and maintained Windows Server 2012/2016 environment, including AD Domain Services, DNS, and DHCP
+* Implemented and monitored system monitoring tools (SCOM) to ensure high uptime and alert on potential issues
+* Developed and implemented backup and recovery strategies (Veeam) to ensure data integrity
+* Collaborated with IT teams to resolve complex technical issues and improve overall IT infrastructure
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Microsoft Certified: Windows Server 2016 ( MCSA: Windows Server 2016)
+* Microsoft Certified: Active Directory (MCSA: Active Directory)
+
+Achievements:
+
+* Successfully implemented a new system monitoring tool (SCOM) that reduced downtime by 30% and improved overall IT infrastructure
+* Developed and implemented a PowerShell script that automated routine tasks and improved efficiency by 40%
+* Collaborated with IT teams to resolve complex technical issues and improve overall IT infrastructure, resulting in a 25% reduction in help desk tickets
+
+Professional Memberships:
+
+* Microsoft Certified Professionals Association (MCPA)
+* IT Professionals Association (ITPA)
+
+References:
+Available upon request.
+
+This is just a sample resume, and you should customize it to fit your specific experience and qualifications. Remember to use clear and concise language, and use bullet points to break up large blocks of text. Good luck with your job search!

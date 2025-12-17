@@ -1,0 +1,52 @@
+here's a sample resume for penny house applying for a software engineer role:
+
+penny house
+contact information:
+
+* address: 123 main st, anytown, usa 12345
+* phone: (555) 555-5555
+* email: [penny.house@email.com](mailto:penny.house@email.com)
+* linkedin: linkedin.com/in/pennyhouse
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying software applications. proficient in multiple programming languages, including java, c++, and python. strong problem-solving skills and passion for learning new technologies.
+
+technical skills:
+
+* programming languages: java, c++, python
+* development frameworks: spring, hibernate, django
+* databases: mysql, postgresql, mongodb
+* operating systems: windows, linux
+* agile methodologies: scrum, kanban
+* version control: git, svn
+* cloud platforms: aws, azure
+
+professional experience:
+
+* software engineer, abc corporation (2018-present)
+	+ designed and developed multiple software applications using java and c++ for various clients.
+	+ collaborated with cross-functional teams to identify and prioritize project requirements.
+	+ implemented unit testing and integration testing for all code changes.
+	+ deployed applications to production environments using continuous integration and deployment pipelines.
+* junior software engineer, def startup (2015-2018)
+	+ participated in the development of a mobile app using python and django.
+	+ contributed to the design and implementation of a machine learning algorithm using c++ and scikit-learn.
+	+ collaborated with the qa team to identify and fix bugs in the application.
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+	+ coursework: data structures, algorithms, computer systems, database systems, software engineering
+
+projects:
+
+* personal project: developed a web scraper using python and beautifulsoup to extract data from a website. (2019)
+* open-source contribution: contributed to the development of a java library for data analysis using apache commons. (2017)
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified python developer, python institute (2018)
+
+references:
+available upon request.

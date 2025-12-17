@@ -1,0 +1,52 @@
+here's a sample resume for angel price applying for the role of software engineer:
+
+angel price
+contact information:
+
+* email: [angel.price@email.com](mailto:angel.price@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/angelprice
+* github: github.com/angelprice
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in c++, python, and data structures. proven ability to design and implement scalable software systems. strong passion for problem-solving and continuous learning.
+
+technical skills:
+
+* programming languages: c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: microservices, containerization (docker), cloud computing (aws)
+* development tools: git, jenkins, jira
+* database management: mysql, mongodb
+* operating systems: windows, linux
+
+professional experience:
+
+* software engineer, [company name] (20xx-20xx)
+	+ designed and developed multiple software systems using c++ and python, resulting in a 30% increase in system efficiency
+	+ collaborated with cross-functional teams to identify and resolve technical issues
+	+ implemented data structures and algorithms to improve system performance
+	+ participated in code reviews and ensured adherence to coding standards
+* intern, [company name] (20xx-20xx)
+	+ contributed to the development of a cloud-based application using python and aws
+	+ worked on a team to design and implement a microservices-based system
+	+ assisted in debugging and troubleshooting software issues
+
+education:
+
+* bachelor of science in computer science, [university name] (20xx-20xx)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+projects:
+
+* [project name]: a c++ implementation of a binary search tree, including data structure design and algorithm optimization
+* [project name]: a python-based web scraper using beautifulsoup and scrapy, which extracted data from multiple websites
+* [project name]: a dockerized microservices-based system using python and flask, which demonstrated containerization and cloud computing concepts
+
+certifications/awards:
+
+* certified associate in python programming, python institute
+* winner, [hackathon name] (20xx), for developing a machine learning-based solution using python and scikit-learn
+
+references:
+available upon request.

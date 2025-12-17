@@ -1,0 +1,56 @@
+here's a sample resume for ashley ray applying for a data scientist role:
+
+ashley ray
+contact information:
+
+* email: [ashley.ray@email.com](mailto:ashley.ray@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/ashleyraydatascientist
+* github: github.com/ashleyrayds
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, deep learning, sql, and data visualization. proven track record of delivering high-quality analytics projects that drive business insights and inform strategic decisions. skilled in extracting insights from complex data sets and communicating findings effectively to both technical and non-technical stakeholders.
+
+technical skills:
+
+* programming languages: python (expert), r, sql, matlab
+* deep learning: tensorflow, keras, pytorch
+* data visualization: tableau, power bi, matplotlib, seaborn
+* data storage: mysql, postgresql, mongodb
+* machine learning: scikit-learn, xgboost
+* operating systems: windows, linux, macos
+
+professional experience:
+
+data scientist, abc company (jan 2020 - present)
+
+* designed and developed predictive models using deep learning techniques to forecast sales and customer behavior
+* built and maintained large-scale databases using mysql and postgresql
+* created interactive dashboards using tableau to visualize key performance indicators and share insights with stakeholders
+* collaborated with cross-functional teams to integrate data-driven insights into business strategy
+* developed and led workshops on data science best practices and python programming for junior analysts
+
+junior data analyst, def startups (jun 2018 - dec 2019)
+
+* assisted in data collection, cleaning, and analysis using sql and python
+* built and maintained data visualizations using matplotlib and seaborn to present findings to stakeholders
+* conducted a/b testing and statistical analysis to inform business decisions
+* worked closely with the product team to integrate data-driven insights into product development
+
+education:
+
+* bachelor of science in computer science, xyz university (2018)
+* master of science in data science, abc university (2020)
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+projects:
+
+* predicting house prices using deep learning: built a regression model using keras and tensorflow to predict house prices based on features such as number of bedrooms, square footage, and location.
+* analyzing customer churn: conducted exploratory data analysis and developed a predictive model using xgboost to identify factors contributing to customer churn in a telecommunications company.
+* data visualization for a non-profit: created interactive dashboards using tableau to visualize fundraising progress and share insights with stakeholders.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and highlight your unique skills and experiences.

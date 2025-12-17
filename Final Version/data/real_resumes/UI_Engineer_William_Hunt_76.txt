@@ -1,0 +1,71 @@
+William Hunt
+UI Engineer Candidate
+
+Contact Information:
+
+* Email: [william.hunt@email.com](mailto:william.hunt@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/williamhuntui
+
+Summary:
+Highly skilled UI Engineer with extensive experience in designing and developing responsive, user-friendly interfaces using modern frontend frameworks. Proficient in version control systems and animation libraries, with a strong passion for creating visually appealing and engaging user experiences.
+
+Technical Skills:
+
+* Frontend Frameworks:
+	+ React
+	+ Angular
+	+ Vue.js
+* Responsive Design:
+	+ Mobile-first approach
+	+ Adaptive design
+	+ Cross-browser compatibility
+* Version Control:
+	+ Git
+	+ SVN
+* Animation Libraries:
+	+ CSS Animations
+	+ GSAP
+	+ Anime.js
+* Other:
+	+ HTML5
+	+ CSS3
+	+ JavaScript
+	+ Webpack
+	+ Babel
+
+Professional Experience:
+
+UI Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed responsive, interactive interfaces for web applications using React and Angular
+* Collaborated with cross-functional teams to ensure seamless integration with backend services
+* Implemented animations and micro-interactions using CSS Animations and GSAP
+* Maintained and improved the codebase using Git and Webpack
+* Participated in code reviews and ensured adherence to coding standards
+
+Frontend Developer, DEF Startups (2015-2018)
+
+* Built responsive, mobile-friendly interfaces using HTML5, CSS3, and JavaScript
+* Utilized Vue.js to develop reusable UI components and widgets
+* Integrated third-party libraries and services, such as APIs and payment gateways
+* Worked with designers to implement design specifications and create visually appealing interfaces
+* Contributed to the development of a custom version control system using SVN
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified UI Engineer, UI Engineering Institute (2019)
+* Certified Frontend Developer, Frontend Development Institute (2016)
+
+Personal Projects:
+
+* Developed a responsive, animated website using React and GSAP
+* Created a responsive, mobile-friendly to-do list app using Vue.js and Firebase
+* Built a custom, animated UI component library using CSS Animations and Anime.js
+
+References:
+Available upon request.

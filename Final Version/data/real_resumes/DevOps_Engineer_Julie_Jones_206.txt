@@ -1,0 +1,57 @@
+Julie Jones
+DevOps Engineer
+
+Contact Information:
+
+* Email: [juliejones@email.com](mailto:juliejones@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/juliejonesdevops
+
+Summary:
+Highly skilled DevOps Engineer with 5+ years of experience in designing, implementing, and maintaining scalable and secure infrastructure on cloud platforms. Proficient in Docker, Infrastructure as Code, and monitoring tools. Proven track record of improving deployment efficiency, reducing downtime, and enhancing overall system reliability.
+
+Technical Skills:
+
+* Docker
+* Infrastructure as Code (IaC) with Terraform and Ansible
+* Monitoring tools: Prometheus, Grafana, New Relic
+* Cloud platforms: AWS, Azure, GCP
+* Operating Systems: Linux (Ubuntu, CentOS), Windows
+* Scripting languages: Python, Bash
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+DevOps Engineer, XYZ Corporation (2018-Present)
+
+* Designed and implemented scalable containerized applications using Docker and Kubernetes
+* Developed and maintained Infrastructure as Code (IaC) using Terraform and Ansible for AWS and Azure
+* Implemented monitoring and logging tools (Prometheus, Grafana, New Relic) to improve system reliability and performance
+* Collaborated with development teams to improve deployment efficiency and reduce downtime
+* Implemented automated testing and deployment scripts using Python and Bash
+
+Senior System Administrator, ABC Company (2015-2018)
+
+* Managed and maintained large-scale server infrastructure on AWS and Azure
+* Implemented monitoring and logging tools to improve system reliability and performance
+* Developed and implemented scripts using Python and Bash to automate tasks and improve efficiency
+* Collaborated with development teams to improve deployment efficiency and reduce downtime
+
+Achievements:
+
+* Improved deployment efficiency by 30% through the implementation of automated testing and deployment scripts
+* Reduced downtime by 40% through the implementation of monitoring and logging tools
+* Improved system reliability by 25% through the implementation of Infrastructure as Code (IaC)
+* Collaborated with development teams to improve code quality and reduce technical debt
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* Certified DevOps Engineer, [Certification Name] (2019)
+* Certified Cloud Practitioner, [Certification Name] (2018)
+
+References:
+Available upon request.

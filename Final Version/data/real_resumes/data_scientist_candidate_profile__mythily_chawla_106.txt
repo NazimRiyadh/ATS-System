@@ -1,0 +1,38 @@
+**candidate profile: mythily chawla**
+
+**interview date:** [insert date]
+**role:** data scientist
+**interviewer's notes:**
+
+mythily presented herself as a detail-oriented and organized individual with a strong background in research. however, upon review of our conversation, it became clear that there were several areas where her skills did not align with the requirements of the data scientist role.
+
+**key areas of concern:**
+
+1. **lack of proficiency in machine learning:** mythily demonstrated a limited understanding of machine learning concepts and algorithms. she struggled to describe her experience with supervised and unsupervised learning, and her responses indicated a lack of familiarity with popular ml frameworks such as scikit-learn or tensorflow.
+2. **insufficient statistical knowledge:** mythily's grasp of statistical concepts, including hypothesis testing and regression analysis, was not up to par. her responses suggested a lack of comfort with statistical modeling and interpretation of results.
+3. **limited data visualization skills:** while mythily mentioned being familiar with tableau, her examples of data visualizations were basic and did not demonstrate a deep understanding of data storytelling. she also did not mention experience with other popular data visualization tools like power bi or d3.js.
+4. **limited programming skills:** although mythily has experience with sql, her proficiency in programming languages like python and r was not evident. she struggled to write even simple code snippets during the interview, which raised concerns about her ability to work with large datasets.
+5. **limited experience with big data:** mythily's experience with big data tools and technologies, such as hadoop or spark, was non-existent. her responses suggested a lack of understanding of distributed computing and scalability.
+6. **limited familiarity with finance and retail:** mythily's experience with finance and retail domains was limited, and she did not demonstrate a deep understanding of industry-specific challenges and opportunities.
+7. **lack of familiarity with certain tools and technologies:** mythily was not familiar with various tools and technologies commonly used in data science, such as apache kafka, apache cassandra, or jupyter notebooks.
+
+**task-based concerns:**
+
+during the interview, mythily struggled with several tasks, including:
+
+1. **data preprocessing:** she had difficulty preprocessing a sample dataset, including handling missing values and outliers.
+2. **exploratory data analysis:** her approach to exploratory data analysis was not thorough, and she did not identify key patterns or insights in the data.
+3. **model evaluation:** mythily struggled to evaluate the performance of a simple machine learning model, including metrics and visualization of results.
+
+**potential for growth and development:**
+
+despite the areas of concern, we believe that mythily has potential for growth and development. with further training and exposure to the required skills and technologies, she could bridge the gaps identified during the interview. in particular, we would recommend:
+
+1. **online courses and tutorials:** enroll in online courses and tutorials to improve her understanding of machine learning, statistics, data visualization, and programming languages like python and r.
+2. **project-based learning:** engage in project-based learning to apply her skills to real-world problems and build a portfolio of work.
+3. **mentorship and coaching:** provide mentorship and coaching to help mythily develop her skills and address specific areas of concern.
+4. **domain-specific training:** offer domain-specific training to help mythily gain a deeper understanding of finance and retail industries and their associated challenges and opportunities.
+
+**conclusion:**
+
+while mythily demonstrated some strengths, including attention to detail and research skills, her lack of proficiency in key areas of data science poses a significant challenge. however, with targeted training and development, we believe that mythily could grow into a skilled data scientist.

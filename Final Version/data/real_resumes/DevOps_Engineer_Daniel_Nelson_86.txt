@@ -1,0 +1,67 @@
+Here's a professional resume for Daniel Nelson:
+
+Daniel Nelson
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [dnelson@email.com](mailto:dnelson@email.com)
+* LinkedIn: linkedin.com/in/danielnelsondevops
+* GitHub: github.com/dnelson
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Kubernetes, Monitoring Tools, and Cloud Platforms. Proven track record of delivering scalable and reliable systems, and a passion for automation and continuous improvement. Seeking a challenging role that leverages my skills and experience to drive business success.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes (GKE, AKS, EKS)
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Scripting Languages: Python, Bash
+* Operating Systems: Linux (Ubuntu, CentOS), Windows
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Kubernetes to automate the deployment of microservices applications
+* Configured and managed Prometheus and Grafana for monitoring and alerting on application performance
+* Implemented automated scaling and load balancing using Kubernetes and AWS Auto Scaling
+* Collaborated with development teams to improve application resilience and reliability
+
+Senior DevOps Engineer, DEF Startups (2018-2020)
+
+* Led the implementation of a cloud-native architecture using Kubernetes and Docker on AWS
+* Developed and maintained a custom monitoring and logging system using ELK Stack and Grafana
+* Implemented automated deployment and rollback of application changes using Jenkins and GitLab CI/CD
+* Collaborated with security teams to ensure compliance with industry standards and best practices
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Achievements:
+
+* Successfully deployed a microservices application on Kubernetes, achieving 99.99% uptime and 50% reduction in application latency
+* Improved application deployment time by 75% using Jenkins and Kubernetes automation
+* Implemented a custom monitoring and logging system, reducing mean time to detect (MTTD) issues by 50%
+* Collaborated with development teams to achieve 30% reduction in application errors and 25% reduction in support requests
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified DevOps Engineer (CDE)
+* Certified AWS Solution Architect (CSA)
+
+References:
+Available upon request.
+
+Note:
+
+* The resume is structured to highlight Daniel's technical skills, professional experience, and achievements in a clear and concise manner.
+* The summary and professional experience sections are designed to showcase Daniel's expertise and accomplishments in DevOps engineering.
+* The technical skills section lists Daniel's technical expertise, including tools, languages, and platforms.
+* The achievements section highlights Daniel's successful projects and accomplishments, including metrics and statistics.
+* The certifications section lists Daniel's relevant certifications, demonstrating his commitment to professional development and industry standards.

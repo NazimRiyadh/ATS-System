@@ -1,0 +1,61 @@
+here's a sample resume for cheryl cunningham applying for the role of data scientist:
+
+cheryl cunningham
+contact information:
+
+* address: [insert address]
+* phone: [insert phone number]
+* email: [insert email]
+* linkedin: [insert linkedin profile url]
+
+summary:
+highly motivated and detail-oriented data scientist with a strong background in statistics, machine learning, and data visualization. proven track record of extracting insights from complex data sets and communicating findings effectively to stakeholders. skilled in a range of tools and technologies, including sql, python, and r.
+
+technical skills:
+
+* programming languages:
+	+ python ( numpy, pandas, scikit-learn)
+	+ r (dplyr, tidyr, caret)
+	+ sql (mysql, postgresql)
+* machine learning/deep learning:
+	+ supervised and unsupervised learning algorithms (e.g. linear regression, decision trees, clustering, neural networks)
+	+ deep learning frameworks (e.g. tensorflow, pytorch)
+* data visualization:
+	+ data visualization tools (e.g. tableau, power bi, matplotlib, seaborn)
+	+ data storytelling and presentation skills
+* statistics:
+	+ probability and statistics (e.g. hypothesis testing, confidence intervals)
+	+ time series analysis and forecasting
+	+ bayesian inference
+
+experience:
+
+data scientist, xyz corporation (2018-present)
+
+* developed and deployed predictive models using python and r to drive business insights and improve customer engagement
+* collaborated with cross-functional teams to design and implement data-driven solutions for marketing, sales, and product development
+* built and maintained complex databases using sql and data visualization tools to communicate findings to stakeholders
+
+data analyst, abc startup (2015-2018)
+
+* analyzed customer behavior and market trends using statistical models and data visualization tools
+* developed and maintained dashboards to track key performance indicators (kpis) and provide insights to leadership
+* worked with team members to design and implement a/b testing experiments to optimize product features
+
+education:
+
+* master of science in statistics, [university name] (2015)
+* bachelor of science in mathematics, [university name] (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting customer churn using machine learning: developed a predictive model using python and scikit-learn to identify customers at risk of churning. implemented a recommendation system to retain high-value customers.
+* time series analysis of stock prices: analyzed historical stock prices using r and arima models to forecast future prices. built a dashboard using tableau to visualize findings and communicate insights to stakeholders.
+
+references:
+available upon request.

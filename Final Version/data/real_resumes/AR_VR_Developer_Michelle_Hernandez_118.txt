@@ -1,0 +1,55 @@
+Here's a sample resume for Michelle Hernandez:
+
+Michelle Hernandez
+Contact Information:
+
+* Email: [michelle.hernandez@email.com](mailto:michelle.hernandez@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/michellehernandezdev
+* GitHub: github.com/michellehernandez
+
+Summary:
+Highly motivated and detail-oriented AR/VR Developer with 5+ years of experience in creating immersive experiences using Unity, C#, and 3D modeling tools. Skilled in spatial computing, augmented reality markers, and spatial audio design. Proficient in working with cross-functional teams to deliver high-quality projects on time.
+
+Professional Experience:
+
+Senior AR/VR Developer, XYZ Corporation (2020-Present)
+
+* Led the development of multiple AR/VR projects, including a flagship AR app and a VR training simulation
+* Designed and implemented spatial audio experiences using Unity's audio tools and plugins
+* Collaborated with designers to create 3D models and animations for AR and VR experiences
+* Implemented AR markers and spatial computing techniques to enable seamless user interactions
+* Mentored junior developers and provided code reviews to ensure high-quality development practices
+
+AR/VR Developer, ABC Startup (2018-2020)
+
+* Developed AR experiences for mobile and web platforms using Unity and C#
+* Created 3D models and animations for AR experiences using Blender and Maya
+* Implemented spatial computing techniques to enable user interactions with virtual objects
+* Collaborated with designers to create immersive AR experiences
+* Participated in code reviews and ensured adherence to coding standards
+
+Education:
+
+* Bachelor of Science in Computer Science, University of California, Los Angeles (2015-2019)
+* Certificate in 3D Modeling and Animation, University of California, Los Angeles (2018)
+
+Skills:
+
+* Programming languages: C#, UnityScript, JavaScript
+* Game engines: Unity, Unreal Engine
+* 3D modeling tools: Blender, Maya, 3ds Max
+* Spatial computing and AR markers: Vuforia, ARKit, ARCore
+* Audio design: Unity's audio tools, plugins, and spatial audio design
+* Operating systems: Windows, macOS, Linux
+
+Achievements:
+
+* Unity Certified Developer, Unity Technologies (2020)
+* AR/VR Development Challenge Winner, Google Cloud Next (2019)
+* Featured Speaker, AR/VR Conference, Los Angeles (2018)
+
+Projects:
+
+* AR App for Furniture Shopping: Developed an AR app that allows users to view and interact with virtual furniture in their homes using AR markers and spatial computing techniques.
+* VR Training Simulation: Created a VR training simulation for a Fortune 500 company, utilizing Unity and C

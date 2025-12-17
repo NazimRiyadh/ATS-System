@@ -1,0 +1,53 @@
+here's a sample resume for mark gilbert applying for the role of data scientist:
+
+mark gilbert
+contact information:
+
+* email: [mark.gilbert@email.com](mailto:mark.gilbert@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/markgilbertds
+* github: github.com/markgilbert
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, deep learning, sql, and data visualization. proven track record of extracting insights from complex data sets and developing predictive models to drive business growth. proficient in working with large datasets and collaborating with cross-functional teams to drive data-driven decision making.
+
+technical skills:
+
+* programming languages: python (pytorch, tensorflow)
+* data analysis and visualization tools: pandas, numpy, matplotlib, seaborn, tableau, power bi
+* machine learning frameworks: scikit-learn, keras
+* database management: mysql, postgresql
+* operating systems: windows, linux
+* version control: git
+
+professional experience:
+
+* data scientist, abc company (2018-present)
+	+ extracted insights from large datasets to inform business strategy and drive revenue growth
+	+ developed and deployed predictive models using machine learning algorithms and deep learning techniques
+	+ collaborated with cross-functional teams to design and implement data-driven solutions
+	+ presented findings and recommendations to senior leadership and stakeholders
+* data analyst, def startups (2015-2018)
+	+ analyzed sales and marketing data to inform business strategy and optimize campaign performance
+	+ developed reports and dashboards using sql and tableau
+	+ worked closely with product and marketing teams to develop data-driven solutions
+
+education:
+
+* master of science in data science, xyz university (2015)
+	+ coursework: statistics, machine learning, data mining, data visualization, and big data
+* bachelor of science in mathematics, abc university (2010-2014)
+	+ coursework: calculus, linear algebra, probability, statistics, and mathematical physics
+
+projects:
+
+* predicting stock prices using deep learning: built a deep learning model using pytorch to predict stock prices based on historical data
+* anomaly detection in time series data: developed a python script using pandas and scikit-learn to detect anomalies in time series data
+* data visualization using tableau: created interactive dashboards using tableau to visualize sales and marketing data
+
+certifications/awards:
+
+* certified data scientist, data science council of america (2018)
+* winner, xyz university data science competition (2015)
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for, and highlight your unique skills and experiences.

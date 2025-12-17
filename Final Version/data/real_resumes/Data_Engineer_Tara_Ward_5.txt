@@ -1,0 +1,55 @@
+Here's a professional resume for Tara Ward:
+
+Tara Ward
+Data Engineer
+
+Contact Information:
+
+* Email: [tara.ward@email.com](mailto:tara.ward@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/taraward
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using MLOps, Airflow, ETL, Big Data, Spark, and Data Warehousing. Proven track record of delivering high-quality solutions that drive business growth and improve operational efficiency.
+
+Technical Skills:
+
+* MLOps: TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers
+* Airflow: DAG design, task scheduling, and workflow automation
+* ETL: Data ingestion, transformation, and loading using Apache Beam, Spark, and Python
+* Big Data: Hadoop, Spark, NoSQL databases (HBase, Cassandra), and distributed computing
+* Data Warehousing: Snowflake, Redshift, and Starburst Presto
+* Programming languages: Python, Scala, Java, and SQL
+* Operating Systems: Windows, Linux, and macOS
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2018-Present)
+
+* Designed and developed a scalable data pipeline using Airflow, Spark, and Big Data technologies to process 10TB of data daily, resulting in a 30% reduction in processing time and a 25% increase in data quality
+* Collaborated with data scientists to integrate machine learning models into production using MLOps and TensorFlow, achieving a 20% improvement in model accuracy
+* Implemented a data warehousing solution using Snowflake, Redshift, and Starburst Presto, providing real-time analytics and business insights to stakeholders
+* Mentored junior engineers and led cross-functional teams to deliver high-quality solutions on time and within budget
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed and deployed ETL pipelines using Apache Beam, Spark, and Python to process 1TB of data daily, resulting in a 40% reduction in data latency and a 20% increase in data accuracy
+* Designed and implemented a Big Data solution using Hadoop, Spark, and NoSQL databases (HBase, Cassandra), processing 100GB of data daily
+* Collaborated with data analysts to develop data visualizations and reports using Tableau and Power BI, providing business insights to stakeholders
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Certified Data Scientist (CDS)
+
+Achievements:
+
+* Recipient of the ABC Company's Excellence in Innovation Award (2019)
+* Contributor to the Data Engineering community on GitHub (100+ stars, 50+ forks)
+
+References:
+Available upon request.

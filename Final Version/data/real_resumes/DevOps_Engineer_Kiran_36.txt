@@ -1,0 +1,52 @@
+Here's a professional resume for Kiran:
+
+**Kiran**
+**DevOps Engineer**
+
+**Contact Information:**
+
+* Email: [kiran@email.com](mailto:kiran@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/kiran
+
+**Objective:**
+To leverage my expertise in containerization, cloud platforms, and CI/CD pipelines to deliver high-quality software solutions as a DevOps Engineer.
+
+**Summary:**
+Highly motivated and detail-oriented DevOps Engineer with 3 years of experience in designing, implementing, and managing scalable and efficient software systems. Proficient in containerization, cloud platforms, and CI/CD pipelines, with a strong passion for automation and Continuous Integration.
+
+**Technical Skills:**
+
+* Containerization: Docker, Kubernetes, Container Orchestration
+* Cloud Platforms: AWS, Azure, Google Cloud
+* CI/CD Pipelines: Jenkins, GitLab CI/CD, CircleCI
+* Operating Systems: Linux, Windows
+* Scripting Languages: Python, Bash
+* Agile Methodologies: Scrum, Kanban
+
+**Experience:**
+
+**DevOps Engineer, XYZ Inc. (2019-Present)**
+
+* Designed and implemented CI/CD pipelines using Jenkins and GitLab CI/CD to automate software testing and deployment
+* Configured and managed containerized applications using Docker and Kubernetes on AWS and Azure
+* Collaborated with development teams to implement infrastructure as code using Terraform and Ansible
+* Monitored and optimized system performance using Prometheus and Grafana
+
+**DevOps Engineer, ABC Corp. (2018-2019)**
+
+* Implemented cloud-based infrastructure using AWS and Azure to support scalable applications
+* Managed containerized applications using Docker and Kubernetes on Google Cloud
+* Developed and deployed CI/CD pipelines using Jenkins and CircleCI
+* Collaborated with development teams to implement automation scripts using Python and Bash
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, [University Name] (2015-2019)
+
+**Certifications:**
+
+* Certified DevOps Engineer, [Certification Name] (2020)
+* Certified Cloud Practitioner, [Certification Name] (2019)
+
+I hope this helps! Let me know if you need any changes.

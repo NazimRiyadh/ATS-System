@@ -1,0 +1,55 @@
+here's a sample resume for timothy nelson:
+
+timothy nelson
+contact information:
+
+* email: [timothy.nelson@email.com](mailto:timothy.nelson@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/timothy-nelson
+* github: github.com/timothy-nelson
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in machine learning, deep learning, and data visualization. proven track record of developing and deploying predictive models that drive business growth. skilled in working with large datasets, sql, and data visualization tools to communicate insights effectively.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning: scikit-learn, tensorflow, keras
+* deep learning: pytorch, theano
+* data visualization: tableau, power bi, matplotlib, seaborn
+* database management: mysql, postgresql
+* operating systems: windows, linux, macos
+
+experience:
+
+data scientist, abc company (2018-present)
+
+* developed and deployed multiple predictive models using machine learning and deep learning techniques, resulting in 25% increase in sales
+* collaborated with cross-functional teams to identify business opportunities and develop data-driven solutions
+* designed and implemented data pipelines using sql and python to collect and process large datasets
+* created interactive dashboards using tableau to communicate insights to stakeholders
+* mentored junior team members on machine learning and data visualization best practices
+
+data analyst, def startups (2015-2018)
+
+* analyzed large datasets to identify trends and patterns using sql and python
+* developed and maintained complex sql queries to extract insights from large databases
+* created data visualizations using matplotlib and seaborn to communicate findings to stakeholders
+* collaborated with product teams to develop data-driven product features
+
+education:
+
+* master of science in data science, xyz university (2015)
+
+projects:
+
+* image classification using deep learning: developed a pytorch-based image classification model that achieved 95% accuracy on a public dataset
+* predictive maintenance using machine learning: built a scikit-learn-based predictive model that reduced maintenance costs by 30% for a manufacturing company
+* data visualization using tableau: created an interactive dashboard to visualize and communicate insights on sales trends and customer behavior
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+i hope this sample resume helps! remember to customize your resume to the specific job description and highlight your unique skills and experiences.

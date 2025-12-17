@@ -1,0 +1,54 @@
+Zachary Pratt
+Contact Information:
+
+* Email: [zpratt@email.com](mailto:zpratt@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/zpratt
+
+Summary:
+Highly motivated software engineer with expertise in Java, algorithmic problem-solving, and data structures. Proven ability to design, develop, and test scalable software systems using agile methodologies. Proficient in version control systems and API development.
+
+Technical Skills:
+
+* Programming languages: Java (8+ years of experience)
+* Data structures and algorithms: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, and Hash Tables
+* Testing frameworks: JUnit, Mockito
+* Version control systems: Git (submodule management, branching, and merging)
+* Agile methodologies: Scrum, Kanban
+* API development: RESTful APIs, Spring Framework
+* Operating Systems: Windows, macOS, Linux
+* Familiarity with cloud platforms: AWS, Azure
+
+Professional Experience:
+
+Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple features for a large-scale e-commerce platform using Java and Spring Framework
+* Collaborated with cross-functional teams to identify and prioritize project requirements
+* Implemented automated testing using JUnit and Mockito, resulting in a 30% reduction in defects
+* Utilized Git for version control, managing multiple branches and merging code changes
+* Participated in code reviews, providing feedback to improve code quality and maintainability
+* Deployed applications to production using Docker and Kubernetes
+
+Software Engineer Intern, DEF Startups (Summer 2017)
+
+* Developed a web scraper using Java and Selenium to extract data from a popular e-commerce website
+* Designed and implemented a RESTful API using Spring Boot to expose the scraped data
+* Collaborated with the development team to integrate the API with the existing application
+* Participated in code reviews and contributed to the development of the project
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Projects:
+
+* E-commerce Platform: Designed and developed a scalable e-commerce platform using Java and Spring Framework, featuring a RESTful API, automated testing, and continuous integration.
+* Algorithmic Challenges: Participated in various algorithmic challenges on platforms like LeetCode, HackerRank, and CodeWars, demonstrating expertise in data structures and algorithms.
+
+Certifications:
+
+* Certified Java Developer: Oracle Certified Java Developer (OCPJP) certification, demonstrating expertise in Java programming language.
+
+References:
+Available upon request.

@@ -1,0 +1,59 @@
+Here's a sample resume for Shannon Berger, a Machine Learning Engineer candidate:
+
+Shannon Berger
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [shannon.berger@email.com](mailto:shannon.berger@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/shannonbergerml
+* GitHub: github.com/shannonberger
+
+Summary:
+Highly skilled Machine Learning Engineer with 5+ years of experience in developing and deploying AI models using Scikit-learn, TensorFlow, and PyTorch. Proven track record of successfully leading projects from concept to deployment, with a strong focus on model interpretability, model optimization, and model deployment. Proficient in large-scale data processing, and experienced in working with big data technologies such as Apache Spark and Hadoop.
+
+Technical Skills:
+
+* Programming languages: Python, R, Java
+* Machine Learning frameworks: Scikit-learn, TensorFlow, PyTorch
+* Deep learning libraries: Keras, Theano
+* Big data technologies: Apache Spark, Hadoop, NoSQL databases (e.g. MongoDB, Cassandra)
+* Operating Systems: Linux, Windows, macOS
+* Data processing tools: Apache Beam, Apache Airflow
+
+Professional Experience:
+
+Senior Machine Learning Engineer, ABC Corporation (2020-Present)
+
+* Led a team of 3 engineers to develop and deploy a predictive model for customer churn using Scikit-learn and TensorFlow, resulting in a 20% reduction in customer churn
+* Designed and implemented a data pipeline using Apache Beam and Apache Airflow to process 10 million transactions per day
+* Collaborated with cross-functional teams to integrate the model into the company's CRM system, resulting in a 15% increase in sales
+* Mentored junior engineers on machine learning concepts, data preprocessing, and model deployment
+
+Machine Learning Engineer, DEF Startups (2018-2020)
+
+* Developed and deployed a real-time object detection model using PyTorch and OpenCV, resulting in a 95% accuracy rate
+* Worked with the product team to integrate the model into the company's mobile app, resulting in a 30% increase in user engagement
+* Contributed to the development of a recommendation engine using Scikit-learn and Apache Spark, resulting in a 25% increase in sales
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2018)
+	+ Coursework: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
+	+ Thesis: "Improving Model Interpretability using Feature Importance and Partial Dependence Plots"
+* Bachelor of Science in Computer Science, ABC University (2016)
+
+Achievements:
+
+* Winner, ABC Hackathon (2019): Developed a chatbot using PyTorch and OpenCV that won first prize in the hackathon
+* Best Paper Award, DEF Conference (2018): Presented a paper on "Improving Model Interpretability using Feature Importance and Partial Dependence Plots" and received the best paper award
+
+Certifications:
+
+* Certified Machine Learning Engineer, ABC Institute (2020)
+* Certified Data Scientist, DEF Institute (2019)
+
+References:
+Available upon request.

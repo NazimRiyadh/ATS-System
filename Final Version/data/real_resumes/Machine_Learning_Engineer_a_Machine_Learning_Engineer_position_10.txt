@@ -1,0 +1,60 @@
+Here's a sample resume for a Machine Learning Engineer position:
+
+Brett King
+Contact Information:
+
+* Email: [bking@email.com](mailto:bking@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/brettkingml
+* GitHub: github.com/brettking
+
+Summary:
+Highly skilled Machine Learning Engineer with 5+ years of experience in developing and deploying scalable machine learning models using Python, Scikit-learn, TensorFlow, and PyTorch. Proven track record of improving model performance through hyperparameter tuning and experimentation. Strong passion for staying up-to-date with the latest advancements in the field.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine learning frameworks: Scikit-learn, TensorFlow, PyTorch
+* Hyperparameter tuning: Grid search, Random search, Bayesian optimization
+* Data preprocessing: Pandas, NumPy
+* Data visualization: Matplotlib, Seaborn
+* Operating Systems: Linux, Windows
+* Cloud platforms: AWS, Google Cloud
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Corporation (2018-Present)
+
+* Developed and deployed multiple machine learning models using Scikit-learn, TensorFlow, and PyTorch to improve customer churn prediction, recommendation systems, and predictive maintenance
+* Conducted thorough hyperparameter tuning using Grid search, Random search, and Bayesian optimization to improve model performance
+* Collaborated with cross-functional teams to integrate machine learning models into existing software systems
+* Monitored model performance and updated models as necessary to maintain high accuracy
+* Mentored junior engineers on best practices for machine learning development and deployment
+
+Machine Learning Engineer, DEF Startups (2015-2018)
+
+* Built and deployed multiple machine learning models using Scikit-learn and TensorFlow to improve customer segmentation, predictive analytics, and content recommendation
+* Conducted data preprocessing, feature engineering, and model selection to improve model accuracy
+* Collaborated with data scientists to integrate machine learning models into existing data pipelines
+* Developed and maintained documentation for machine learning models and data pipelines
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+Achievements:
+
+* Developed and deployed a customer churn prediction model using TensorFlow that resulted in a 20% reduction in customer churn
+* Improved model accuracy for a recommendation system by 15% through hyperparameter tuning and feature engineering
+* Collaborated with a team to develop a predictive maintenance model using PyTorch that resulted in a 30% reduction in maintenance costs
+* Published a research paper on hyperparameter tuning using Bayesian optimization in a top-tier machine learning conference
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2018)
+
+References:
+Available upon request.
+
+Note that this is just a sample, and you should customize your resume to fit your specific experience and the job you're applying for. Also, make sure to proofread your resume multiple times for any grammar or formatting errors. Good luck with your job search!

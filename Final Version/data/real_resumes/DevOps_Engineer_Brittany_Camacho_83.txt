@@ -1,0 +1,60 @@
+Here's a professional resume for Brittany Camacho:
+
+Brittany Camacho
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [brittany.camacho@email.com](mailto:brittany.camacho@email.com)
+* LinkedIn: linkedin.com/in/brittanycamacho
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Docker, Kubernetes, and Infrastructure as Code. Proven track record of leveraging automation tools to improve efficiency, scalability, and reliability of software systems. Skilled in monitoring tools and passionate about driving innovation through technology.
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented CI/CD pipelines using Jenkins, GitLab CI/CD, and Docker to automate testing, building, and deployment of software applications
+* Deployed and managed containerized applications using Kubernetes and Docker, resulting in a 30% reduction in deployment time
+* Created and maintained Infrastructure as Code (IaC) using Terraform, ensuring consistency and reproducibility of infrastructure configurations
+* Monitored application performance using Prometheus, Grafana, and New Relic, identifying bottlenecks and implementing optimizations
+* Collaborated with cross-functional teams to design and implement scalable and secure infrastructure solutions
+
+Senior DevOps Engineer, DEF Startups (2015-2018)
+
+* Developed and implemented a Docker-based CI/CD pipeline, reducing deployment time by 50%
+* Implemented a Kubernetes cluster to manage containerized applications, resulting in a 25% reduction in resource utilization
+* Created and maintained IaC using AWS CloudFormation, ensuring consistency and reproducibility of infrastructure configurations
+* Designed and implemented monitoring tools using Prometheus, Grafana, and New Relic, improving application performance by 20%
+* Mentored junior engineers in DevOps practices and tools
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, Docker
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, AWS CloudFormation, Ansible
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Programming Languages: Python, Java, Bash
+* Operating Systems: Linux, Windows
+* Cloud Platforms: AWS, GCP, Azure
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified DevOps Engineer (CDE)
+* Certified Cloud Practitioner (CCP)
+
+Achievements:
+
+* Winner of the 2019 DevOps Engineer of the Year award at ABC Corporation
+* Featured speaker at the 2020 DevOps Conference, presenting on "Containerization and Orchestration with Kubernetes"
+* Developed and maintained an open-source DevOps tool, used by over 1,000 organizations worldwide
+
+References:
+Available upon request.
+
+This resume highlights Brittany's expertise in CI/CD, Docker, Kubernetes, and Infrastructure as Code, as well as her experience with monitoring tools and cloud platforms. The clear structure and concise bullet points make it easy to scan and understand her professional experience and achievements.

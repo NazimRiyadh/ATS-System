@@ -1,0 +1,53 @@
+harshitha joshi
+ui engineer
+
+contact information:
+
+* email: [harshitha.joshi@email.com](mailto:harshitha.joshi@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/harshithajoshi
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and developing user interfaces for web applications. proficient in html, css, javascript, react, and ui/ux design principles. strong understanding of responsive design, web accessibility, and frontend testing. proficient in version control using git. passionate about delivering high-performance and accessible web applications.
+
+technical skills:
+
+* programming languages: html, css, javascript, react
+* ui/ux design principles
+* responsive design
+* web accessibility (wcag 2.1)
+* version control: git
+* frontend testing: jest, enzyme
+* web performance optimization: webpack, babel
+
+professional experience:
+
+ui engineer, techcorp (2020-present)
+
+* designed and developed user interfaces for multiple web applications using html, css, javascript, and react
+* implemented responsive design principles to ensure optimal user experience across various devices
+* collaborated with cross-functional teams to ensure web accessibility and compliance with wcag 2.1 guidelines
+* instrumented frontend testing using jest and enzyme to ensure high-quality code
+* optimized web application performance using webpack and babel
+
+junior ui engineer, fintech inc. (2018-2020)
+
+* contributed to the development of multiple web applications using html, css, javascript, and react
+* assisted in implementing responsive design principles and web accessibility guidelines
+* collaborated with backend engineers to integrate apis and ensure seamless user experience
+* participated in code reviews and ensured high-quality code
+
+education:
+
+* bachelor of science in computer science, university of mumbai (2018)
+
+achievements:
+
+* completed a solo project, "e-commerce website", using react and deployed on netlify
+* participated in a hackathon, "design for accessibility", and won 2nd place
+* published a blog post, "ui/ux design principles for web applications", on medium
+
+certifications:
+
+* certified ui/ux designer, uie (2020)
+* certified web developer, w3cx (2019)

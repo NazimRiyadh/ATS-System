@@ -1,0 +1,58 @@
+here's a sample resume for elizabeth sexton applying for a data scientist role:
+
+elizabeth sexton
+contact information:
+
+* email: [elizabeth.sexton@email.com](mailto:elizabeth.sexton@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/elizabethsexton
+* github: github.com/elizabethsexton
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in statistics, machine learning, and deep learning. skilled in extracting insights from complex data sets, developing predictive models, and communicating results effectively to stakeholders. proficient in sql and experienced in working with large datasets.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning libraries: scikit-learn, tensorflow, pytorch
+* deep learning frameworks: keras, theano
+* statistics and data visualization tools: pandas, numpy, matplotlib, seaborn
+* operating systems: windows, linux, macos
+* familiarity with cloud platforms: aws, google cloud, azure
+
+professional experience:
+
+data scientist, abc company (2020-present)
+
+* built and deployed machine learning models using scikit-learn and tensorflow to predict customer churn and recommend personalized products
+* worked with a team to design and implement a data warehouse using aws redshift and sql
+* developed and maintained dashboards using tableau and power bi to visualize key business metrics
+* collaborated with cross-functional teams to identify business opportunities and develop data-driven solutions
+
+data analyst, def start-up (2018-2020)
+
+* collected and analyzed data from various sources, including social media and customer feedback, to inform business decisions
+* built predictive models using r and applied statistical techniques to identify trends and patterns
+* worked with the development team to implement data-driven features in the product
+* presented findings and recommendations to stakeholders, including ceo and product managers
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: machine learning, deep learning, statistics, data visualization, and data mining
+	+ thesis: "a comparative study of machine learning algorithms for predicting customer churn"
+* bachelor of science in mathematics, abc university (2015)
+	+ coursework: probability, statistics, linear algebra, and calculus
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting airbnb prices: built a regression model using scikit-learn to predict airbnb prices in new york city
+* recommendation system: developed a recommendation system using tensorflow to suggest products based on user behavior and preferences
+* customer segmentation: built a clustering model using k-means to segment customers based on demographic and purchase behavior data
+
+i hope this sample resume helps! remember to customize your own resume to fit your specific experiences and the job you're applying for.

@@ -1,0 +1,56 @@
+Here's a professional resume for Angela Chavez:
+
+Angela Chavez
+Data Engineer
+
+Contact Information:
+
+* Email: [angela.chavez@email.com](mailto:angela.chavez@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/angela-chavez-data-engineer
+
+Professional Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data systems. Proficient in MLOps, Airflow, ETL, Big Data, Cloud Platforms, and Data Warehousing. Proven track record of delivering high-quality solutions that drive business growth and improve data-driven decision-making.
+
+Technical Skills:
+
+* MLOps: Model deployment, model serving, and model monitoring
+* Airflow: DAG design, workflow automation, and task scheduling
+* ETL: Data extraction, transformation, and loading using various tools and technologies
+* Big Data: Hadoop, Spark, and NoSQL databases
+* Cloud Platforms: AWS, Azure, and Google Cloud
+* Data Warehousing: Data modeling, ETL, and data visualization using various tools and technologies
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed a scalable data pipeline using Airflow, ETL, and Big Data technologies to process 100 million records per day
+* Built and deployed multiple machine learning models using MLOps and deployed them to production using model serving platforms
+* Collaborated with cross-functional teams to design and implement data warehousing solutions using AWS Redshift
+* Improved data quality and accuracy by 30% through data validation and data cleansing
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed and deployed a real-time data processing pipeline using Apache Spark and Kafka to process 10 million events per second
+* Designed and implemented a data warehouse using AWS Glue and Athena to support business intelligence and analytics
+* Collaborated with data scientists to develop and deploy machine learning models using R and Python
+* Improved data processing time by 50% through optimization of pipeline workflows and task scheduling
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2018)
+* Certified Cloud Practitioner - AWS, AWS (2016)
+
+Achievements:
+
+* Winner of the ABC Corporation's Innovation Award for designing and developing a scalable data pipeline using Airflow and Big Data technologies
+* Published a paper on "Designing Scalable Data Pipelines using Airflow and Big Data Technologies" at the 2019 Data Science Conference
+* Featured speaker at the 2020 Data Engineering Conference on "Best Practices for Designing and Deploying Machine Learning Models using MLOps"
+
+References:
+Available upon request.

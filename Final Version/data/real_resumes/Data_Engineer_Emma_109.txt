@@ -1,0 +1,62 @@
+Here's a resume for Emma applying for a Data Engineer position:
+
+**Emma**
+**Contact Information:**
+
+* Email: [emma@email.com](mailto:emma@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/emma
+* GitHub: github.com/emma
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 4.4 years of experience in designing, implementing, and maintaining large-scale data systems. Proven track record of delivering high-quality solutions and driving business growth through data-driven insights.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, SQL
+* Data engineering tools: Apache Beam, Spark, Hadoop, Airflow
+* Data storage: MySQL, PostgreSQL, Cassandra, S3
+* Data processing: Apache Kafka, Amazon Kinesis
+* Operating Systems: Linux, Windows
+
+**Professional Experience:**
+
+**Data Engineer, ABC Corporation (2018-Present)**
+
+* Designed and implemented a data pipeline to collect, process, and analyze customer data, resulting in a 30% increase in sales
+* Developed and maintained a data warehouse to store and manage large-scale datasets, reducing data retrieval time by 90%
+* Collaborated with cross-functional teams to identify business opportunities and develop data-driven solutions
+* Mentored junior engineers to improve team productivity and knowledge sharing
+
+**Data Analyst, DEF Startups (2015-2018)**
+
+* Analyzed customer behavior and preference data to inform marketing strategies, resulting in a 25% increase in customer engagement
+* Designed and implemented A/B testing framework to optimize website and landing page performance
+* Developed and maintained data visualizations and reports to communicate insights to stakeholders
+
+**Education:**
+
+* **Bachelor of Science in Computer Science, XYZ University (2015)**
+	+ GPA: 3.8/4.0
+	+ Relevant courses: Data Structures, Algorithms, Database Systems, Computer Networks
+
+**Competitions and Achievements:**
+
+* **Winner, Data Science Bowl (2019)**
+	+ Developed a machine learning model to predict deforestation rates, outperforming competitors by 15%
+	+ Recognized as one of the top 10 data scientists in the competition
+* **Finalist, Kaggle Machine Learning Competition (2018)**
+	+ Ranked in the top 5% of competitors, achieving a 92% accuracy score
+	+ Published a detailed write-up of the competition and my approach on Kaggle
+
+**Certifications:**
+
+* **Certified Data Engineer, Big Data Analytics (2019)**
+	+ Completed a comprehensive course on data engineering, covering topics such as data processing, storage, and analytics
+	+ Passed a rigorous exam to demonstrate expertise in data engineering
+* **Certified Scrum Master, Scrum Alliance (2018)**
+	+ Completed a course on Agile development and Scrum framework
+	+ Passed a certification exam to demonstrate knowledge and skills in Scrum methodology
+
+**References:**
+Available upon request.

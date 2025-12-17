@@ -1,0 +1,57 @@
+Kenneth Tucker
+Software Engineer
+
+Contact Information:
+
+* Email: [ktucker@email.com](mailto:ktucker@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/kennethtucker
+
+Summary:
+Highly skilled software engineer with expertise in backend development, version control, DevOps, and testing. Proficient in designing and implementing scalable, efficient, and reliable software systems. Strong understanding of API design, implementation, and integration.
+
+Technical Skills:
+
+* Programming languages: Java, Python, C#
+* Frameworks: Spring Boot, Django, ASP.NET
+* Databases: MySQL, PostgreSQL, MongoDB
+* Version Control: Git, SVN
+* DevOps: Docker, Kubernetes, Jenkins
+* Testing: JUnit, PyUnit, NUnit
+* API: RESTful API, GraphQL
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Senior Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed scalable backend systems using Java, Spring Boot, and MySQL
+* Implemented API endpoints using RESTful API and GraphQL
+* Utilized Git for version control and Jenkins for continuous integration and deployment
+* Collaborated with cross-functional teams to resolve issues and improve system reliability
+* Conducted code reviews and ensured adherence to coding standards
+
+Software Engineer, DEF Startups (2015-2018)
+
+* Developed multiple web applications using Python, Django, and PostgreSQL
+* Implemented automated testing using JUnit and PyUnit
+* Worked with DevOps team to deploy applications to production using Docker and Kubernetes
+* Contributed to code refactoring and optimization to improve system performance
+* Participated in code reviews and ensured code quality
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Scrum Master (CSM)
+* Certified Java Developer (OCPJP)
+
+Projects:
+
+* Personal Project: Developed a RESTful API using Python and Flask to manage personal finance
+* Open-Source Contribution: Contributed to a popular open-source project using Java and Spring Boot
+
+References:
+Available upon request.

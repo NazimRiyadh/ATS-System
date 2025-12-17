@@ -1,0 +1,74 @@
+here is a sample resume for tammy townsend applying for the role of data scientist:
+
+tammy townsend
+contact information:
+
+* address: 123 main st, anytown, usa 12345
+* phone: (555) 555-5555
+* email: [tammy.townsend@email.com](mailto:tammy.townsend@email.com)
+* linkedin: linkedin.com/in/tammytownsend
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, and deep learning. proficient in extracting insights from complex datasets and communicating findings to stakeholders. proven track record of improving business outcomes through data-driven decision making.
+
+technical skills:
+
+* programming languages:
+	+ python (2.7, 3.x)
+	+ r
+	+ sql
+* data science tools:
+	+ pandas
+	+ numpy
+	+ scikit-learn
+	+ tensorflow
+	+ keras
+	+ pytorch
+* machine learning:
+	+ supervised and unsupervised learning
+	+ regression, classification, clustering
+	+ neural networks, deep learning
+* statistics:
+	+ probability theory
+	+ hypothesis testing
+	+ confidence intervals
+* data visualization:
+	+ matplotlib
+	+ seaborn
+	+ plotly
+	+ tableau
+
+experience:
+
+data scientist, abc company (2018-present)
+
+* collected and analyzed large datasets to inform business decisions
+* developed and deployed predictive models using python and machine learning libraries
+* collaborated with cross-functional teams to integrate data insights into product development
+* created interactive visualizations using tableau to communicate findings to stakeholders
+
+research assistant, def university (2015-2018)
+
+* assisted in designing and conducting experiments to test hypotheses
+* collected and analyzed data using python and r
+* presented research findings at conferences and published papers in peer-reviewed journals
+
+education:
+
+* master of science in statistics, def university (2015-2017)
+* bachelor of science in mathematics, abc university (2011-2015)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* python certification, datacamp (2018)
+
+projects:
+
+* predicting customer churn: developed a predictive model using python and scikit-learn to predict customer churn for a telecom company. achieved an accuracy of 90% on the test dataset.
+* image classification: built a neural network using tensorflow to classify images of dogs and cats. achieved an accuracy of 95% on the test dataset.
+
+references:
+available upon request.
+
+i hope this helps! remember to tailor your resume to the specific job you're applying for, and highlight your unique skills and experiences. good luck with your job search!

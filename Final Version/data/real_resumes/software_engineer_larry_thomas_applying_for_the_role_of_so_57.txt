@@ -1,0 +1,56 @@
+here's a sample resume for larry thomas applying for the role of software engineer:
+
+larry thomas
+contact information:
+
+* email: [larry.thomas@email.com](mailto:larry.thomas@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/larrythomas
+* github: github.com/larrythomas
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software applications. proficient in java, python, and algorithms, with a strong background in data structures and system design. passionate about writing clean, efficient, and well-documented code.
+
+technical skills:
+
+* programming languages: java, python, c++, javascript
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, graph algorithms, dynamic programming, greedy algorithms
+* system design: microservices, distributed systems, load balancing, caching
+* agile methodologies: scrum, kanban
+* version control: git, svn
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc company (2018 - present)
+
+* designed and developed multiple features for a cloud-based e-commerce platform using java and python
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* implemented efficient data structures and algorithms to optimize system performance
+* participated in code reviews and provided feedback to improve code quality
+* deployed applications to production using continuous integration and continuous deployment (ci/cd) pipelines
+
+software development intern, def company (summer 2016)
+
+* assisted in the development of a machine learning model using python and scikit-learn
+* contributed to the design and implementation of a web scraper using python and beautifulsoup
+* collaborated with team members to identify and resolve technical issues
+* participated in code reviews and learned from experienced engineers
+
+education:
+
+* bachelor of science in computer science, xyz university (2015 - 2019)
+* coursework: data structures, algorithms, computer systems, software engineering, web development
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified python programmer, python institute (2020)
+
+projects:
+
+* personal project: developed a web crawler using python and scrapy to extract data from multiple websites (github: github.com/larrythomas/web-crawler)
+* open-source contribution: contributed to the development of a machine learning library using python and tensorflow (github: github.com/larrythomas/machine-learning-library)
+
+note: this is just a sample resume, and you should customize it to fit your specific experience and qualifications. also, make sure to proofread your resume multiple times for any grammar or formatting errors before submitting it.

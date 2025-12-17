@@ -1,0 +1,55 @@
+here's a sample resume for luis sampson applying for the role of data engineer:
+
+luis sampson
+contact information:
+
+* email: [luis.sampson@email.com](mailto:luis.sampson@email.com)
+* phone: 555-123-4567
+* linkedin: linkedin.com/in/luisampson
+* github: github.com/luisampson
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, building, and maintaining large-scale data processing systems. proficient in etl, big data, cloud platforms, and spark technologies. proven track record of delivering high-quality data solutions on time and within budget.
+
+technical skills:
+
+* programming languages: java, python, scala
+* etl tools: informatica powercenter, talend
+* big data technologies: hadoop, spark, hive
+* cloud platforms: aws, azure, gcp
+* data processing frameworks: apache spark, apache flink
+* databases: mysql, postgresql, cassandra
+* operating systems: windows, linux, unix
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and developed etl pipelines using informatica powercenter to integrate data from various sources
+* built and maintained large-scale spark clusters on aws to process real-time data streams
+* collaborated with data scientists to develop and deploy machine learning models using apache spark mllib
+* ensured data quality and integrity by implementing data validation, data governance, and data security best practices
+
+junior data engineer, def start-up (2015-2018)
+
+* developed and deployed data pipelines using apache flink to process real-time data from iot sensors
+* worked with the data science team to build and deploy predictive models using spark mllib
+* collaborated with the devops team to design and deploy scalable data infrastructure on aws
+* participated in the design and implementation of data governance and data security policies
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* aws certified developer - associate, aws (2018)
+
+projects:
+
+* real-time stock market data processing: designed and developed a real-time data processing pipeline using apache spark and aws to process stock market data and provide insights to financial analysts.
+* iot sensor data processing: developed a data pipeline using apache flink to process real-time data from iot sensors and provide insights to industrial engineers.
+
+references:
+available upon request.

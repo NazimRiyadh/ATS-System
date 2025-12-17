@@ -1,0 +1,59 @@
+Here's a sample professional resume for Katrina Martin:
+
+Katrina Martin
+Cloud Architect
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [katrina.martin@email.com](mailto:katrina.martin@email.com)
+* LinkedIn: linkedin.com/in/katrinamartin
+
+Summary:
+Highly skilled Cloud Architect with 8+ years of experience in designing, implementing, and managing scalable and secure cloud infrastructure on AWS and GCP. Proven expertise in Terraform, Kubernetes, and Cloud Security. Strong understanding of cloud architecture principles and ability to lead cross-functional teams in cloud migration and optimization projects.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, GCP
+* Infrastructure as Code: Terraform
+* Containerization: Kubernetes
+* Cloud Security: IAM, Network Security, Data Encryption
+* Operating Systems: Linux, Windows
+* Scripting Languages: Bash, Python
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Cloud Architect, CloudOps Inc. (2018-Present)
+
+* Designed and implemented cloud infrastructure for large-scale enterprise clients on AWS and GCP, resulting in 30% cost savings and 25% increase in application performance.
+* Led a team of 5 engineers in migrating a monolithic on-prem application to a cloud-native architecture, reducing deployment time by 90% and improving scalability by 500%.
+* Developed and maintained Terraform configurations for multiple cloud environments, ensuring consistency and reproducibility of infrastructure.
+* Collaborated with security teams to implement cloud security best practices, including IAM, network security, and data encryption.
+
+Senior Cloud Engineer, CloudSpark (2015-2018)
+
+* Designed and implemented cloud infrastructure for startup clients on AWS and GCP, resulting in 20% increase in application performance and 15% reduction in costs.
+* Worked with development teams to implement containerization using Kubernetes, resulting in 80% reduction in deployment time and 90% increase in scalability.
+* Developed and maintained scripts for automating cloud infrastructure provisioning and deployment, reducing manual errors by 90%.
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Google Cloud Certified - Professional Cloud Developer
+* Terraform Certified Associate
+
+Achievements:
+
+* Cloud Architecture Award, CloudOps Inc. (2020)
+* Team Lead Award, CloudSpark (2017)
+* Presenter, AWS re:Invent Conference (2019)
+
+References:
+Available upon request.
+
+This is just a sample resume, and you should tailor yours to your specific experiences and the job you're applying for. Remember to use clear and concise language, and to highlight your achievements and technical skills.

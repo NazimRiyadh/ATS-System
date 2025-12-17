@@ -1,0 +1,55 @@
+Pedro Lara
+Data Engineer
+
+Contact Information:
+
+* Email: [pedro.lara@email.com](mailto:pedro.lara@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/pedrolara
+
+Summary:
+Highly motivated and experienced Data Engineer with expertise in designing and developing scalable data pipelines, leveraging cloud platforms, and utilizing ETL tools to extract insights from complex datasets. Proficient in Python programming and experienced in implementing CI/CD tools to ensure efficient and reliable data processing.
+
+Technical Skills:
+
+* Programming Languages: Python (PySpark, Pandas, NumPy)
+* Data Pipelines: Apache Beam, Apache Spark, AWS Glue
+* ETL Tools: Talend, Informatica PowerCenter
+* Cloud Platforms: AWS (S3, Glue, Lambda), Google Cloud (BigQuery, Cloud Storage)
+* CI/CD Tools: Jenkins, GitLab CI/CD
+* Databases: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Windows, Linux (Ubuntu, CentOS)
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2020-Present)
+
+* Design and develop scalable data pipelines using Apache Beam and AWS Glue to process large datasets
+* Implement ETL processes using Talend to extract data from multiple sources and load into data warehouses
+* Develop and maintain data processing applications using Python and PySpark
+* Collaborate with cross-functional teams to integrate data pipelines with business applications
+* Optimize data processing workflows using CI/CD tools and automated testing frameworks
+
+Junior Data Analyst, DEF Startups (2018-2020)
+
+* Assisted in designing and developing data pipelines using Apache Spark and Python
+* Processed and analyzed large datasets using Pandas and NumPy
+* Developed and maintained data visualizations using Tableau and Power BI
+* Collaborated with data scientists to integrate data with machine learning models
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Python Developer, Python Institute (2018)
+
+Projects:
+
+* Data Pipeline for IoT Sensor Data: Designed and developed a data pipeline using Apache Beam and AWS Glue to process IoT sensor data from a large-scale industrial facility.
+* ETL Process for Customer Data: Implemented an ETL process using Talend to extract customer data from multiple sources and load into a data warehouse for analytics purposes.
+
+References:
+Available upon request.

@@ -1,0 +1,50 @@
+Angela Wilson
+Data Engineer
+
+Contact Information:
+
+* Email: [awilson@email.com](mailto:awilson@email.com)
+* Phone: 555-123-4567
+* LinkedIn: linkedin.com/in/angelawilson
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with extensive experience in designing, developing, and deploying scalable data pipelines and architectures using Big Data Frameworks, Cloud Platforms, and Data Warehousing solutions. Proven expertise in CI/CD Tools, Databases, and Cloud-based data platforms.
+
+Technical Skills:
+
+* Programming Languages: Python, Java, SQL
+* Big Data Frameworks: Hadoop, Spark, Flink
+* Databases: MySQL, PostgreSQL, MongoDB, Cassandra
+* Cloud Platforms: AWS (S3, EC2, Lambda), Azure (Blob Storage, HDInsight), GCP (Dataproc, Bigtable)
+* Data Warehousing: AWS Redshift, GCP BigQuery
+* CI/CD Tools: Jenkins, Docker, Kubernetes
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed scalable data pipelines using Apache Spark, Hadoop, and Flink for processing large datasets
+* Implemented data warehousing solutions using AWS Redshift and GCP BigQuery for business intelligence and reporting
+* Deployed cloud-based data platforms using AWS, Azure, and GCP for improved data processing and analytics
+* Utilized CI/CD Tools like Jenkins, Docker, and Kubernetes for automating build, test, and deployment processes
+* Collaborated with cross-functional teams to integrate data pipelines with business applications and services
+
+Senior Data Analyst, DEF Startups (2015-2018)
+
+* Developed and maintained databases using MySQL, PostgreSQL, and MongoDB for data storage and retrieval
+* Designed and implemented data visualization dashboards using Tableau and Power BI for business insights and reporting
+* Worked with data scientists to integrate data pipelines with machine learning models for predictive analytics
+* Ensured data quality and integrity by implementing data validation and error handling mechanisms
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2019)
+* Certified Cloud Practitioner, AWS (2018)
+
+References:
+Available upon request.

@@ -1,0 +1,57 @@
+Here's a professional resume for Angela Harris, a Data Engineer candidate:
+
+Angela Harris
+Contact Information:
+
+* Email: [angela.harris@email.com](mailto:angela.harris@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/angela-harris-data-engineer
+* GitHub: github.com/aharrisdata
+
+Professional Summary:
+Highly motivated and experienced Data Engineer with a strong background in ETL, Cloud Platforms, Spark, and Data Warehousing. Proven track record of designing, developing, and deploying scalable data pipelines and architectures that drive business insights. Skilled in leading cross-functional teams and collaborating with stakeholders to deliver high-quality data solutions.
+
+Technical Summary:
+
+* Experienced in designing, developing, and deploying data pipelines using ETL tools (e.g., Informatica PowerCenter, Talend)
+* Strong expertise in cloud platforms (e.g., AWS, Azure, GCP) and cloud-based data warehousing (e.g., Redshift, BigQuery)
+* Proficient in big data processing using Apache Spark and its ecosystem (e.g., Spark SQL, Spark Streaming)
+* Familiarity with data warehousing concepts and data modeling techniques
+* Strong understanding of data governance, data quality, and data security principles
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2018-Present)
+
+* Designed, developed, and deployed a cloud-based data warehousing solution using Amazon Redshift and AWS Glue, resulting in a 30% reduction in reporting time for business stakeholders
+* Led a team of junior data engineers to develop and maintain a data pipeline using Apache Spark and Apache Beam, which processed over 10 TB of data per day
+* Collaborated with cross-functional teams to design and implement a data governance framework, ensuring data quality and compliance with regulatory requirements
+* Presented data insights and recommendations to senior leadership, resulting in a 25% increase in sales revenue
+
+Data Engineer, DEF Corporation (2015-2018)
+
+* Designed and developed ETL processes using Informatica PowerCenter, resulting in a 20% reduction in data processing time
+* Developed and maintained a data warehouse using Oracle Exadata, which supported business analytics and reporting for over 1,000 users
+* Worked with data scientists to develop and deploy machine learning models using Apache Spark and Python
+* Participated in a team that implemented a data security framework, ensuring data protection and compliance with regulatory requirements
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2019)
+* Certified Apache Spark Developer, Apache Software Foundation (2017)
+
+Skills:
+
+* Programming languages: Java, Python, Scala
+* ETL tools: Informatica PowerCenter, Talend, AWS Glue
+* Cloud platforms: AWS, Azure, GCP
+* Big data processing: Apache Spark, Apache Beam
+* Data warehousing: Amazon Redshift, BigQuery, Oracle Exadata
+* Operating Systems: Windows, Linux, macOS
+
+References:
+Available upon request.

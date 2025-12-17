@@ -1,0 +1,61 @@
+Here's a sample resume for Whitney Trujillo:
+
+Whitney Trujillo
+Contact Information:
+
+* Email: [whitney.trujillo@email.com](mailto:whitney.trujillo@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/whitneytrujillo
+* GitHub: github.com/whitneytrujillo
+
+Professional Summary:
+
+Results-driven Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using MLOps, ETL, Big Data, and Cloud Platforms. Proven track record of delivering high-quality data engineering solutions that drive business growth and improve decision-making. Skilled in Spark, Data Warehousing, and Cloud-based technologies.
+
+Technical Skills:
+
+* Programming languages: Python, Java, Scala
+* Data engineering tools: Apache Spark, Apache Airflow, AWS Glue, Google Cloud Dataflow
+* Cloud platforms: AWS, GCP, Azure
+* Big Data technologies: Hadoop, Kafka, Cassandra
+* Data warehousing: Snowflake, Amazon Redshift
+* MLOps: TensorFlow, PyTorch, Scikit-learn
+* ETL tools: Informatica, Talend
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed a scalable data pipeline using Spark, Airflow, and AWS Glue to process 10TB of data daily, reducing processing time by 50%
+* Built and maintained a data warehouse using Snowflake to support business intelligence and analytics
+* Collaborated with cross-functional teams to develop and deploy machine learning models using TensorFlow and PyTorch
+* Implemented data quality checks and data governance using Apache Kafka and Cassandra
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Designed and developed ETL processes using Informatica and Talend to integrate data from multiple sources
+* Built and deployed a data lake using Hadoop and Hive to support big data analytics
+* Collaborated with data scientists to develop and deploy machine learning models using Scikit-learn and Spark
+* Implemented data security and access controls using AWS IAM and Azure Active Directory
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Achievements:
+
+* Successfully led a team to develop and deploy a cloud-based data engineering platform using AWS and GCP, resulting in a 30% reduction in costs and a 25% increase in data processing capacity
+* Developed and deployed a real-time data pipeline using Apache Kafka and Spark, supporting business decision-making and improving customer experience
+* Collaborated with data scientists to develop and deploy a predictive maintenance model using TensorFlow and Spark, resulting in a 20% reduction in maintenance costs
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Cloud Engineer, AWS Certified Developer - Associate (2018)
+
+References:
+
+Available upon request.
+
+This is just a sample, and you should customize your resume to fit your specific experience and qualifications. Remember to use clear and concise language, and to use bullet points to break up large blocks of text. Good luck with your job application!

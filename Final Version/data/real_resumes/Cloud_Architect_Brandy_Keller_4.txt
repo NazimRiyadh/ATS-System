@@ -1,0 +1,62 @@
+Here is a professional resume for Brandy Keller, a Cloud Architect candidate:
+
+Brandy Keller
+Cloud Architect
+
+Contact Information:
+
+* Email: [bkeller@email.com](mailto:bkeller@email.com)
+* Phone: (555) 555-5555
+* LinkedIn: linkedin.com/in/brandykeller
+* GitHub: github.com/brandykeller
+
+Professional Summary:
+
+Results-driven Cloud Architect with 8+ years of experience in designing, deploying, and managing scalable and secure cloud infrastructure on AWS, GCP, and other cloud platforms. Skilled in Terraform, Kubernetes, and Cloud Security, with a strong passion for innovation and excellence. Proven track record of delivering projects on time, on budget, and with exceptional quality.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, GCP, Azure
+* Infrastructure as Code (IaC): Terraform, CloudFormation
+* Containerization: Kubernetes, Docker
+* Cloud Security: IAM, CloudTrail, CloudWatch, Security Groups
+* Networking: VPC, Subnets, Routes, Load Balancers
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Cloud Architect, XYZ Corporation (2018-Present)
+
+* Designed and deployed multiple cloud-based applications on AWS and GCP, resulting in 30% reduction in infrastructure costs and 25% increase in application availability
+* Implemented Terraform for infrastructure as code management, reducing deployment time by 75% and improving version control
+* Developed and maintained a secure cloud architecture, ensuring compliance with industry standards and regulatory requirements
+* Collaborated with cross-functional teams to design and implement cloud-based solutions, resulting in 20% increase in business productivity
+
+Senior Cloud Engineer, ABC Startup (2015-2018)
+
+* Designed and deployed a cloud-based SaaS application on AWS, resulting in 500% increase in user adoption and 20% increase in revenue
+* Implemented Kubernetes for container orchestration, reducing deployment time by 90% and improving application scalability
+* Developed a cloud security framework, ensuring compliance with industry standards and regulatory requirements
+* Collaborated with the development team to design and implement cloud-based solutions, resulting in 15% increase in business productivity
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* GCP Certified Professional Cloud Developer
+* Terraform Certified Associate
+
+Achievements:
+
+* Winner of the 2020 AWS re:Invent Hackathon, designing and deploying a cloud-based application on AWS
+* Featured speaker at the 2019 GCP Next Conference, presenting on "Cloud Security Best Practices"
+* Recipient of the 2018 XYZ Corporation Innovation Award, for designing and deploying a cloud-based application on AWS
+
+References:
+
+Available upon request.
+
+I hope this helps! Remember to customize your resume to fit your specific experience and the job you're applying for. Good luck with your job search!

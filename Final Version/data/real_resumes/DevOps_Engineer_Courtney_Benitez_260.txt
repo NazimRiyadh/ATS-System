@@ -1,0 +1,63 @@
+Here's a sample resume for Courtney Benitez:
+
+Courtney Benitez
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [courtney.benitez@email.com](mailto:courtney.benitez@email.com)
+* LinkedIn: linkedin.com/in/courtneybenitez
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Docker, Kubernetes, Ansible, and Infrastructure as Code. Proven track record of delivering scalable and efficient solutions on cloud platforms, with a focus on automating deployment and improving collaboration between development and operations teams.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Ansible, Terraform, AWS CloudFormation
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Operating Systems: Linux, Windows
+* Scripting Languages: Bash, Python, Ruby
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Docker, resulting in a 30% reduction in deployment time and a 25% increase in deployment frequency
+* Migrated a legacy application to a Kubernetes-based architecture, improving scalability and reliability by 50%
+* Automated infrastructure provisioning using Ansible, reducing manual errors and improving consistency across environments
+* Collaborated with development teams to implement Infrastructure as Code practices, improving collaboration and reducing the risk of configuration drift
+
+Senior Systems Administrator, DEF Company (2018-2020)
+
+* Managed a team of systems administrators, providing technical guidance and support for a team of 10 engineers
+* Designed and implemented a disaster recovery plan for a critical business application, reducing downtime by 75%
+* Implemented a cloud-based monitoring and logging solution using AWS CloudWatch and ELK Stack, improving incident response and reducing Mean Time To Resolve (MTTR) by 40%
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Achievements:
+
+* Certified DevOps Engineer, DevOps Institute (2020)
+* Certified Kubernetes Administrator, Cloud Native Computing Foundation (2019)
+* Certified Ansible Developer, Red Hat (2018)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Associate (2019)
+* Azure Certified Solutions Architect (2018)
+
+Personal Projects:
+
+* Developed and open-sourced a Docker-based CI/CD tool for automating deployment of web applications
+* Contributed to several open-source projects on GitHub, including Ansible and Kubernetes
+
+References:
+Available upon request.
+
+Note: The above is just a sample, and you should customize your resume to fit your specific experience and the job you are applying for.

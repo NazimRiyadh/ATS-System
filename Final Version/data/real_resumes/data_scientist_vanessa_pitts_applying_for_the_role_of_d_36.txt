@@ -1,0 +1,56 @@
+here's a sample resume for vanessa pitts applying for the role of data scientist:
+
+vanessa pitts
+contact information:
+
+* email: [vanessapitts@email.com](mailto:vanessapitts@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/vanessapitts
+* github: github.com/vanessapitts
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in analyzing and interpreting complex data sets. skilled in python, statistics, sql, and data visualization. proven track record of delivering actionable insights to drive business growth.
+
+technical skills:
+
+* programming languages: python ( numpy, pandas, scikit-learn, tensorflow), r
+* data manipulation and analysis: sql, pandas, numpy
+* data visualization: matplotlib, seaborn, plotly
+* machine learning: scikit-learn, tensorflow
+* operating systems: windows, linux
+
+professional experience:
+
+data scientist, abc company (2018-present)
+
+* analyzed large datasets to identify trends and patterns, using python and sql to extract insights
+* built predictive models using scikit-learn and tensorflow to forecast customer behavior
+* created interactive dashboards using plotly and tableau to communicate findings to stakeholders
+* collaborated with cross-functional teams to inform business decisions and drive growth
+
+data analyst, def start-up (2015-2018)
+
+* extracted and analyzed data from various sources to identify areas of improvement
+* developed and maintained databases using sql and python to support business operations
+* created visualizations using matplotlib and seaborn to communicate insights to stakeholders
+* worked with the development team to integrate data into product features
+
+education:
+
+* master of science in statistics, xyz university (2015)
+* bachelor of science in mathematics, abc university (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting customer churn using machine learning: built and deployed a machine learning model using scikit-learn and tensorflow to predict customer churn. achieved 85% accuracy and a 20% reduction in customer churn.
+* analyzing healthcare data using sql and python: analyzed a large dataset of healthcare claims to identify trends and patterns. created visualizations and recommendations to inform business decisions.
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and the specific job description you're applying for. remember to proofread carefully and use clear, concise language to showcase your skills and achievements. good luck with your job application!

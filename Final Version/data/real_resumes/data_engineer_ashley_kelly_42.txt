@@ -1,0 +1,49 @@
+here is a sample resume for ashley kelly applying for the role of data engineer:
+
+ashley kelly
+contact information:
+
+* email: [ashley.kelly@email.com](mailto:ashley.kelly@email.com)
+* phone: (555) 555-5555
+* linkedin: linkedin.com/in/ashleykelly
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data pipelines using airflow, cloud platforms, and spark. proven track record of delivering high-quality solutions on time and driving business growth through data-driven insights.
+
+technical skills:
+
+* airflow: experienced in designing, building, and managing complex workflows with airflow, including scheduling, monitoring, and debugging.
+* cloud platforms: proficient in deploying and managing applications on cloud platforms such as aws, gcp, and azure, including experience with cloudformation, cloud deployment manager, and cloud functions.
+* spark: skilled in developing and optimizing large-scale data processing jobs using spark, including experience with spark core, spark sql, and spark mllib.
+* programming languages: python, java, scala
+* operating systems: linux, windows
+* databases: mysql, postgresql, cassandra
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* designed and developed a scalable data pipeline using airflow, spark, and cloud platforms to process 10b+ events per day.
+* built and deployed multiple data products, including a data warehouse, data lake, and data visualization dashboard, using cloud platforms and spark.
+* collaborated with cross-functional teams to integrate data into business applications and drive business growth through data-driven insights.
+* implemented data governance and security best practices to ensure compliance with regulatory requirements.
+
+data analyst, def company (2015-2018)
+
+* developed and maintained complex data models and dashboards using python, java, and spark.
+* collaborated with business stakeholders to identify data requirements and develop data-driven solutions.
+* implemented data quality and data governance processes to ensure data accuracy and compliance.
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified cloud professional, cloud computing certification board (2018)
+
+references:
+available upon request.
+
+i hope this sample resume helps! let me know if you'd like me to make any changes.

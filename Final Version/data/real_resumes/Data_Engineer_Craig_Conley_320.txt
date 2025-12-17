@@ -1,0 +1,57 @@
+Here is a professional resume for Craig Conley:
+
+Craig Conley
+Contact Information:
+
+* Email: [craig.conley@email.com](mailto:craig.conley@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/craigconley
+
+Professional Summary:
+Highly motivated and experienced Data Engineer with a strong background in MLOps, Airflow, ETL, and Cloud Platforms. Proven track record of designing, developing, and deploying scalable and reliable data pipelines. Skilled in leveraging cloud-based technologies to drive business growth and insights.
+
+Technical Skills:
+
+* Programming languages: Python, Java, SQL
+* Cloud platforms: AWS, GCP, Azure
+* MLOps: TensorFlow, PyTorch, Scikit-learn
+* Airflow: DAGs, Operators, Sensors
+* ETL: Apache Beam, Apache Spark
+* Data storage: Relational databases (MySQL, PostgreSQL), NoSQL databases (MongoDB, Cassandra)
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple data pipelines using Airflow, Apache Beam, and Apache Spark to process large-scale datasets
+* Collaborated with cross-functional teams to integrate data pipelines with machine learning models, resulting in a 30% increase in model accuracy
+* Implemented data governance and security best practices to ensure data compliance and integrity
+* Mentored junior engineers to improve team productivity and knowledge sharing
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed and deployed ETL pipelines using Apache Beam and Apache Spark to process real-time data feeds
+* Designed and implemented data warehousing solutions using AWS Redshift and GCP BigQuery
+* Worked with data scientists to integrate data pipelines with machine learning models, resulting in a 25% increase in model performance
+* Participated in architecture reviews to ensure scalability, reliability, and maintainability of data systems
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* Recipient of the "Best Data Engineer" award at ABC Corporation (2020)
+* Published a paper on "Designing Scalable Data Pipelines using Airflow and Apache Beam" at the International Conference on Data Science (2019)
+* Mentored a team of junior engineers to develop a data science project that won the "Best Project" award at the company hackathon (2017)
+
+Certifications:
+
+* Certified Data Engineer, Google Cloud Platform (2019)
+* Certified Cloud Architect, AWS (2018)
+
+References:
+Available upon request.
+
+Note: This is a sample resume, please make sure to customize it to fit your specific experience and the job you're applying for. Also, proofread your resume multiple times for any grammar or formatting errors.

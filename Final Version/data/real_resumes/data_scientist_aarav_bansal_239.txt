@@ -1,0 +1,53 @@
+aarav bansal
+contact information:
+
+* email: [aarabansal@email.com](mailto:aarabansal@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/aarabansal
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in analyzing and interpreting complex data to inform business decisions. proficient in python, statistics, machine learning, sql, and data visualization. skilled in building and deploying predictive models using scikit-learn and tensorflow.
+
+technical skills:
+
+* programming languages: python
+* statistics and machine learning: scikit-learn, tensorflow
+* data visualization: matplotlib, seaborn, plotly
+* databases: mysql, postgresql
+* operating systems: windows, linux
+* familiarity with cloud platforms: aws, gcp
+
+professional experience:
+
+data scientist, abc corporation (2020-present)
+
+* developed and deployed predictive models using scikit-learn and tensorflow to improve customer engagement and retention
+* analyzed and interpreted large datasets to inform business decisions, resulting in a 25% increase in sales
+* collaborated with cross-functional teams to design and implement a/b testing experiments, resulting in a 30% increase in conversion rates
+* designed and implemented data visualization dashboards using matplotlib, seaborn, and plotly to communicate insights to stakeholders
+
+junior data analyst, def startup (2018-2020)
+
+* collected and cleaned large datasets from various sources, including apis and databases
+* built and deployed statistical models using scikit-learn to predict customer behavior
+* collaborated with the product team to design and implement experiments, resulting in a 20% increase in user engagement
+* created data visualizations using matplotlib and seaborn to communicate insights to stakeholders
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: machine learning, deep learning, natural language processing, data visualization
+	+ thesis: "an empirical study of deep learning for image classification"
+* bachelor of science in computer science, pqr university (2016)
+	+ coursework: algorithms, data structures, computer systems, database systems
+
+achievements:
+
+* winner, abc corporation hackathon (2020): developed a predictive model using scikit-learn and tensorflow that accurately predicted customer churn, resulting in a 25% reduction in churn rate
+* best poster, def startup conference (2019): presented a research paper on the application of a/b testing in marketing, resulting in a 30% increase in conversion rates
+* recipient, xyz university best thesis award (2018): awarded for outstanding research in the field of deep learning for image classification
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)

@@ -1,0 +1,53 @@
+Kelsey Downs
+Contact Information:
+
+* Email: [kelsey.downs@email.com](mailto:kelsey.downs@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/kelsyeesh
+
+Summary:
+Highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software applications using Java, Algorithm, and Data Structure. Proven expertise in Web Development, DevOps, Testing, and API development. Passionate about delivering high-quality software solutions that meet business requirements.
+
+Technical Skills:
+
+* Programming languages: Java, Python
+* Algorithm and Data Structure: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
+* Web Development: Spring Boot, Hibernate, Angular, React
+* DevOps: Docker, Kubernetes, Jenkins, Git
+* Testing: JUnit, Mockito, Selenium
+* API Development: RESTful APIs, GraphQL
+* Database: MySQL, MongoDB
+* Operating Systems: Windows, Linux
+
+Professional Experience:
+
+Software Engineer, ABC Corporation (2018 - Present)
+
+* Designed and developed multiple microservices using Java, Spring Boot, and Hibernate, resulting in a 30% reduction in development time.
+* Collaborated with the DevOps team to deploy applications on Docker and Kubernetes, improving deployment efficiency by 50%.
+* Implemented automated testing using JUnit and Mockito, reducing testing time by 70%.
+* Participated in code reviews and ensured adherence to coding standards, improving code quality by 25%.
+
+Senior Software Engineer, DEF Startups (2015 - 2018)
+
+* Led a team of 3 engineers in developing a web application using Angular and React, resulting in a 40% increase in user engagement.
+* Designed and implemented a RESTful API using Spring Boot and Hibernate, which improved API response time by 60%.
+* Collaborated with the QA team to identify and fix defects, reducing the defect rate by 40%.
+* Participated in technical planning and estimation, ensuring projects were completed on time and within budget.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Java Developer, Oracle Corporation (2016)
+* Certified Scrum Master, Scrum Alliance (2017)
+
+Projects:
+
+* Developed a machine learning model using Python and TensorFlow to predict stock prices, achieving an accuracy of 85%.
+* Designed and implemented a web scraper using Java and Selenium to extract data from multiple websites, resulting in a 90% reduction in data extraction time.
+
+References:
+Available upon request.

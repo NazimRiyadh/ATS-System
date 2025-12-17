@@ -1,0 +1,60 @@
+Here's a professional resume for Todd Ward:
+
+Todd Ward
+Data Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [todd.ward@email.com](mailto:todd.ward@email.com)
+* LinkedIn: linkedin.com/in/toddwarddata
+* GitHub: github.com/toddward
+
+Summary:
+Highly skilled Data Engineer with 5+ years of experience in designing, developing, and deploying large-scale data systems. Proficient in MLOps, Airflow, Big Data, Cloud Platforms, Spark, and other cutting-edge technologies. Proven track record of delivering complex projects on time and exceeding expectations.
+
+Technical Skills:
+
+* Programming languages: Python, Java, Scala
+* Data engineering tools: Apache Airflow, Apache Spark, Apache Hadoop
+* Cloud platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+* Big Data: HDFS, Hive, Pig, Spark SQL
+* MLOps: TensorFlow, PyTorch, Scikit-learn
+* Data visualization: Tableau, Power BI
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed a large-scale data pipeline using Apache Airflow, Spark, and AWS Glue, resulting in a 50% reduction in data processing time
+* Built and deployed a real-time data analytics platform using Apache Kafka, Spark, and Cassandra, serving 100,000+ users
+* Collaborated with cross-functional teams to design and implement data-driven solutions, resulting in a 25% increase in sales revenue
+* Mentored junior engineers and provided technical guidance on data engineering best practices
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed and deployed a data warehousing solution using Apache Hive, Pig, and HDFS, serving 10,000+ users
+* Built and maintained a data quality framework using Apache Beam and Apache Spark, resulting in a 90% reduction in data errors
+* Worked closely with data scientists to integrate machine learning models into production workflows, resulting in a 30% increase in model accuracy
+* Participated in the development of a cloud-based data analytics platform using Google Cloud Platform (GCP) and Apache Spark
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Achievements:
+
+* AWS Certified Solutions Architect - Associate (2019)
+* Certified Data Engineer, Google Cloud Platform (2018)
+* Winner, ABC Corporation's Data Engineering Hackathon (2019)
+* Featured speaker, Data Engineering Conference (2020)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Associate
+* Certified Data Engineer, Google Cloud Platform
+* Certified Apache Spark Developer
+
+References:
+Available upon request.

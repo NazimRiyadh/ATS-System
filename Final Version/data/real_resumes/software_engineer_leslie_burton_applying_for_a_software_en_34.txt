@@ -1,0 +1,53 @@
+here's a sample resume for leslie burton applying for a software engineer role:
+
+leslie burton
+contact information:
+
+* email: [leslie.burton@email.com](mailto:leslie.burton@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/leslieburton
+* github: github.com/leslieburton
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing and developing scalable software applications using java, c++, and data structures. proven expertise in system design, problem-solving, and collaboration in team-based environments.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: microservices architecture, restful apis, database design (relational and nosql)
+* agile methodologies: scrum, kanban
+* version control: git, svn
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and implemented multiple features for a large-scale e-commerce platform using java and spring boot
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* developed and maintained high-performance algorithms for data processing and analysis
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+software engineer, def startup (2015-2018)
+
+* built a scalable and efficient search engine using c++ and data structures (arrays, linked lists, trees)
+* designed and implemented a restful api for a mobile app using java and spring framework
+* worked with a team to develop and deploy a machine learning model using python and scikit-learn
+* conducted unit testing and integration testing using junit and mockito
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+projects:
+
+* e-commerce platform: designed and implemented a scalable e-commerce platform using java, spring boot, and redis. (github: github.com/leslieburton/ecommerce-platform)
+* search engine: built a scalable search engine using c++ and data structures. (github: github.com/leslieburton/search-engine)
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified c++ developer, microsoft corporation (2017)
+
+note: this is just a sample resume, and you should tailor yours to fit your specific experience and the job you're applying for.

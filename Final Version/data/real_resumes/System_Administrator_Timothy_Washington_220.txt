@@ -1,0 +1,62 @@
+Here's a professional resume for Timothy Washington:
+
+Timothy Washington
+System Administrator
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [timothy.washington@email.com](mailto:timothy.washington@email.com)
+* LinkedIn: linkedin.com/in/timothywashington
+
+Summary:
+Highly motivated and experienced System Administrator with 8+ years of experience in managing and maintaining Windows Server, Active Directory, and network infrastructure. Skilled in virtualization, system monitoring, and troubleshooting. Proven track record of improving system uptime, reducing downtime, and enhancing overall system performance.
+
+Technical Skills:
+
+* Operating Systems: Windows Server (2012, 2016, 2019), Windows 10
+* Directory Services: Active Directory (AD DS, AD LDS)
+* Networking: TCP/IP, DNS, DHCP, VPN, Firewalls
+* Virtualization: Hyper-V, VMware
+* System Monitoring: SCOM, Nagios, PowerShell
+* Scripting: PowerShell, batch
+* Cloud Services: Azure, AWS
+
+Professional Experience:
+
+Senior System Administrator, XYZ Corporation (2018-Present)
+
+* Manage and maintain Windows Server 2016 and 2019 environments, including AD DS, DNS, DHCP, and file services
+* Design and implement virtualization solutions using Hyper-V and VMware
+* Monitor and troubleshoot system performance using SCOM and Nagios
+* Develop and implement PowerShell scripts to automate system tasks and improve efficiency
+* Collaborate with IT teams to resolve complex technical issues and improve system uptime
+* Implemented Azure Active Directory and Azure Backup to enhance cloud security and disaster recovery
+
+System Administrator, ABC Company (2015-2018)
+
+* Managed and maintained Windows Server 2012 and 2016 environments, including AD DS, DNS, DHCP, and file services
+* Configured and deployed network devices, including routers, switches, and firewalls
+* Assisted in the design and implementation of a VMware virtualization solution
+* Developed and implemented Nagios scripts to monitor system performance and alert teams to potential issues
+* Collaborated with IT teams to resolve technical issues and improve system uptime
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* Microsoft Certified: Azure Administrator Associate
+* Microsoft Certified: Windows Server 2016 Administrator
+* CompTIA A+
+
+Achievements:
+
+* Improved system uptime by 30% through proactive monitoring and maintenance of Windows Server and network infrastructure
+* Reduced downtime by 25% through efficient troubleshooting and resolution of technical issues
+* Designed and implemented a cloud-based disaster recovery solution using Azure, resulting in 99.99% system availability
+* Developed and implemented a system monitoring solution using PowerShell and Nagios, resulting in 24/7 system monitoring and alerting
+
+References:
+Available upon request.

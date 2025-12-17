@@ -1,0 +1,55 @@
+here's a sample resume for mark conley applying for the role of software engineer:
+
+mark conley
+contact information:
+
+* email: [mconley@email.com](mailto:mconley@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/markconley
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable software systems. skilled in c++, python, algorithms, and data structures, with a strong passion for writing clean, efficient, and well-documented code.
+
+technical skills:
+
+* programming languages: c++, python
+* development environment: linux, windows, macos
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, dynamic programming, greedy algorithms, divide and conquer
+* database management: mysql, mongodb
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc company (2018-present)
+
+* designed and developed multiple software applications using c++ and python, with a focus on scalability, performance, and reliability
+* collaborated with cross-functional teams to identify and prioritize project requirements, and implemented solutions to meet those requirements
+* improved code quality by implementing automated testing, code reviews, and continuous integration
+* participated in code optimization, performance profiling, and bug fixing to ensure smooth software delivery
+
+software development intern, def company (summer 2017)
+
+* contributed to the development of a machine learning platform using python and scikit-learn
+* implemented data preprocessing, feature engineering, and model training pipelines
+* collaborated with data scientists to deploy models to production and monitor performance
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, database systems, computer networks, software engineering
+
+projects:
+
+* c++ simulator: a simulation framework for modeling complex systems, built using c++ and designed to scale to large datasets
+* python chatbot: a conversational ai built using python and nltk, designed to engage with users and provide personalized responses
+
+certifications:
+
+* certified scrum master, scrum alliance (2019)
+* certified java developer, oracle corporation (2018)
+
+references:
+available upon request.
+
+i hope this helps! remember to customize the resume to fit your specific experience and the job you're applying for.

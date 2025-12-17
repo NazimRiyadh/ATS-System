@@ -1,0 +1,55 @@
+Here's a professional resume for Bradley Knight:
+
+Bradley Knight
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [bradley.knight@email.com](mailto:bradley.knight@email.com)
+* LinkedIn: linkedin.com/in/bradleyknightdevops
+* GitHub: github.com/bradleyknight
+
+Professional Summary:
+Highly motivated and detail-oriented DevOps Engineer with 5+ years of experience in designing, implementing, and maintaining scalable and efficient cloud-based systems. Skilled in CI/CD pipelines, container orchestration, automation tools, and monitoring solutions. Proven track record of improving application reliability, reducing downtime, and increasing team productivity.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Container Orchestration: Kubernetes (Certified Kubernetes Administrator - CKAD)
+* Automation: Ansible (Certified Ansible Automation Professional - CAP)
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Scripting Languages: Python, Bash
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2020-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and GitLab CI/CD, resulting in a 30% reduction in deployment time
+* Configured and managed Kubernetes clusters on AWS, improving application scalability and reliability
+* Automated infrastructure provisioning using Ansible, reducing manual errors and increasing team productivity
+* Implemented monitoring and logging solutions using Prometheus, Grafana, and New Relic, providing real-time insights into application performance
+* Collaborated with cross-functional teams to resolve production issues, ensuring minimal downtime and optimal user experience
+
+DevOps Engineer, DEF Startups (2018-2020)
+
+* Developed and maintained CI/CD pipelines using CircleCI and GitHub Actions, ensuring smooth deployment of microservices
+* Designed and implemented containerization using Docker and Kubernetes, improving application portability and efficiency
+* Automated testing and validation using Python and Bash scripts, reducing manual testing time by 50%
+* Collaborated with the development team to resolve technical debt, improving code quality and reliability
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2018)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKAD)
+* Certified Ansible Automation Professional (CAP)
+* AWS Certified Developer - Associate
+
+Achievements:
+
+* Winner of the 2020 DevOps Engineer of the Year award at the ABC Corporation hackathon
+* Published a blog post on "Container Orchestration using Kubernetes" on the DEF Startups blog
+* Contributed to the development of an open-source project on GitHub, earning a star rating of 500+

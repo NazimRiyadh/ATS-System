@@ -1,0 +1,46 @@
+**candidate profile: larisa rathore**
+
+**overview**
+
+larisa rathore is a candidate with a strong foundation in mathematics and computer science, but her experience and skills are not directly aligned with the requirements of the software engineer role. while she has a keen interest in the field, there are several areas where she falls short, including software development, algorithms, version control, database management, and web development.
+
+**key areas for improvement**
+
+* **software development**: larisa lacks hands-on experience in software development, which is a critical aspect of the software engineer role. she has not worked on any projects that require writing clean, efficient, and well-documented code. her understanding of software development principles, such as modularity, scalability, and maintainability, is limited.
+* **algorithms and data structures**: larisa's knowledge of algorithms and data structures is basic, and she struggles to apply them to real-world problems. she has not practiced solving complex problems using these concepts, which is a critical skill for a software engineer.
+* **version control (git)**: larisa has not used git extensively, and her understanding of its features, such as branching, merging, and committing, is limited. she has not worked on a project that requires collaboration with others using git.
+* **database management**: larisa has no experience with database management systems, including database design, normalization, and querying. her understanding of database concepts, such as indexing, caching, and optimization, is limited.
+* **web development**: larisa has not worked on any web development projects, and her knowledge of web technologies, such as html, css, and javascript, is basic. she has not built a web application from scratch.
+
+**concerns raised during the interview**
+
+during the interview, larisa struggled with certain tasks, such as:
+
+* writing clean, efficient, and well-documented code
+* solving complex problems using algorithms and data structures
+* understanding and applying version control concepts
+* designing and implementing a database schema
+* building a web application from scratch
+
+larisa also expressed a lack of familiarity with certain tools and technologies, such as:
+
+* agile development methodologies
+* continuous integration and continuous deployment (ci/cd) pipelines
+* containerization using docker
+* cloud platforms, such as aws or azure
+
+**potential for growth**
+
+while larisa's current skills and experience are not directly aligned with the requirements of the software engineer role, she has a strong foundation in mathematics and computer science. with further training or exposure, she could potentially develop the necessary skills to excel in this role. however, it would require significant effort and dedication to bridge the gap between her current skills and the requirements of the position.
+
+**recommendations**
+
+based on the interview, we recommend that larisa:
+
+* focus on developing her software development skills, including writing clean, efficient, and well-documented code
+* practice solving complex problems using algorithms and data structures
+* learn and master version control tools, such as git
+* gain experience with database management systems, including database design, normalization, and querying
+* build a web development project from scratch to develop her knowledge of web technologies
+
+by addressing these areas of improvement, larisa can increase her chances of success in the software engineer role and become a valuable contributor to the team.

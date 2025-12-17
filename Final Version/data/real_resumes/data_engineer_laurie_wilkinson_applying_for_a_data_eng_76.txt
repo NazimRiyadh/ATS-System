@@ -1,0 +1,57 @@
+here's a sample resume for laurie wilkinson applying for a data engineer role:
+
+laurie wilkinson
+contact information:
+
+* email: [laurie.wilkinson@email.com](mailto:laurie.wilkinson@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/lauriewilkinson
+
+summary:
+highly motivated and experienced data engineer with expertise in mlops, etl, big data, and cloud platforms. skilled in designing, developing, and deploying scalable data pipelines using spark and other technologies. proven ability to work with cross-functional teams to deliver high-quality data solutions.
+
+technical skills:
+
+* programming languages: python, scala, java
+* big data technologies: hadoop, spark, hive, pig
+* cloud platforms: aws, gcp, azure
+* data engineering tools: apache beam, airflow, nifi
+* machine learning operations (mlops): tensorflow, pytorch, scikit-learn
+* data storage: nosql databases (e.g. cassandra, mongodb), relational databases (e.g. mysql, postgresql)
+* data visualization: tableau, power bi, d3.js
+
+professional experience:
+
+senior data engineer, abc company (2018-present)
+
+* designed and developed large-scale data pipelines using spark, hive, and pig to process and analyze petabytes of data
+* implemented mlops workflows using tensorflow and pytorch to deploy machine learning models in production
+* collaborated with data scientists to develop and deploy data products using cloud-based platforms (aws, gcp)
+* mentored junior data engineers to improve team's productivity and efficiency
+
+data engineer, def startup (2015-2018)
+
+* developed and maintained etl workflows using apache beam and airflow to integrate data from various sources
+* designed and deployed data warehouses using hadoop and spark to support business intelligence and analytics
+* worked with cross-functional teams to deliver data-driven insights to stakeholders
+* improved data quality and reduced data latency by 30% through process improvements
+
+education:
+
+* bachelor's degree in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, cloudera (2016)
+* certified cloud practitioner, aws (2018)
+
+projects:
+
+* developed a real-time data pipeline using spark and kafka to process iot sensor data
+* built a machine learning model using scikit-learn to predict customer churn using historical data
+* created a data visualization dashboard using tableau to display sales trends for a retail company
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your own experiences and the job description you're applying for.

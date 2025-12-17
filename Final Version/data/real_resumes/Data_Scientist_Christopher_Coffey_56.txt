@@ -1,0 +1,53 @@
+Christopher Coffey
+Data Scientist
+
+Contact Information:
+
+* Email: [christopher.coffey@email.com](mailto:christopher.coffey@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/christophercoffey
+
+Summary:
+Highly motivated and detail-oriented Data Scientist with expertise in Python, data manipulation, machine learning, statistics, and probability. Proven track record of extracting insights from complex data sets and communicating findings through compelling data visualizations.
+
+Technical Skills:
+
+* Programming languages: Python (2.x, 3.x), R
+* Data manipulation libraries: Pandas, NumPy, Matplotlib
+* Machine learning libraries: scikit-learn, TensorFlow
+* Data visualization libraries: Seaborn, Plotly
+* Operating Systems: Windows, Linux
+* Familiarity with cloud-based platforms: AWS, Google Cloud
+
+Professional Experience:
+
+Data Analyst, ABC Company (2018-Present)
+
+* Analyzed large datasets to identify trends and insights, resulting in a 25% increase in sales for the company
+* Developed and implemented predictive models using machine learning algorithms to forecast customer behavior
+* Created data visualizations using Seaborn and Plotly to communicate findings to stakeholders
+* Collaborated with cross-functional teams to integrate data-driven insights into business decisions
+
+Data Science Intern, DEF Startups (Summer 2017)
+
+* Worked with a team to develop a predictive model using Python and scikit-learn to identify potential customers for a new product launch
+* Conducted statistical analysis to identify correlations between customer demographics and purchasing behavior
+* Created data visualizations using Matplotlib and Seaborn to present findings to the startup team
+
+Education:
+
+* Bachelor of Science in Mathematics, XYZ University (2015-2019)
+	+ Coursework: Probability, Statistics, Linear Algebra, Calculus, Computer Science
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2018)
+
+Projects:
+
+* Predicting House Prices using Regression Analysis: Developed a regression model using Python and scikit-learn to predict house prices based on various features such as number of bedrooms, square footage, and location.
+* Customer Segmentation using K-Means Clustering: Used Python and scikit-learn to segment customers based on demographics, purchase history, and behavior.
+
+References:
+Available upon request.

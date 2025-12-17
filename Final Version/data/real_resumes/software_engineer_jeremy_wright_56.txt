@@ -1,0 +1,59 @@
+here is a sample resume for jeremy wright applying for the role of software engineer:
+
+jeremy wright
+contact information:
+
+* address: [insert address]
+* phone: [insert phone number]
+* email: [insert email]
+* linkedin: [insert linkedin profile url]
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in python, data structures, and system design. proficient in designing and developing scalable, efficient, and reliable software solutions. strong problem-solving skills with a passion for learning and staying up-to-date with industry trends.
+
+technical skills:
+
+* programming languages: python (2.x, 3.x), java
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: microservices architecture, restful apis, cloud computing (aws, azure)
+* development frameworks: flask, django
+* databases: mysql, postgresql, mongodb
+* agile methodologies: scrum, kanban
+* operating systems: windows, linux
+
+professional experience:
+
+software engineer, abc company (2018-present)
+
+* designed and developed multiple software projects using python, including a web scraping application and a data analysis tool
+* implemented data structures and algorithms to optimize system performance and scalability
+* collaborated with cross-functional teams to design and deploy restful apis and microservices architecture
+* participated in code reviews and ensured high-quality code standards
+* mentored junior engineers and contributed to knowledge sharing within the team
+
+software development intern, def company (summer 2017)
+
+* contributed to the development of a web application using flask and mongodb
+* assisted in testing and debugging of the application
+* implemented data validation and sanitization to ensure data integrity
+* participated in code reviews and learned from experienced engineers
+
+education:
+
+* bachelor of science in computer science, xyz university (2018)
+* coursework: data structures, algorithms, computer systems, computer networks, database systems, software engineering
+
+projects:
+
+* personal project: developed a natural language processing library using python and nltk, which can be used for text classification and sentiment analysis
+* collaborative project: contributed to an open-source project, a chatbot built using python and rasa, which can engage in conversation with users
+
+certifications/awards:
+
+* certified scrum master (csm), scrum alliance (2019)
+* winner, hackathon, xyz university (2018)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for, and highlight your unique skills and experiences.

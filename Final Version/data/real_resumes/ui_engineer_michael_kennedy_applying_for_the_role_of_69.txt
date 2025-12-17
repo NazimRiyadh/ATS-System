@@ -1,0 +1,52 @@
+here's a sample resume for michael kennedy applying for the role of ui engineer:
+
+michael kennedy
+contact information:
+
+* email: [michael.kennedy@email.com](mailto:michael.kennedy@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/michaelkennedyui
+* github: github.com/michaelkennedy
+
+summary:
+highly motivated and detail-oriented ui engineer with expertise in crafting engaging user interfaces using css, javascript, and wireframing techniques. proficient in creating responsive and interactive web applications that meet the needs of users. skilled in collaboration and communication, with a passion for delivering high-quality solutions on time.
+
+technical skills:
+
+* programming languages: javascript (es6+), css3
+* ui frameworks: material-ui, bootstrap
+* wireframing tools: figma, sketch
+* version control: git
+* operating systems: windows, macos
+* familiarity with: react, node.js, html5
+
+professional experience:
+
+* ui engineer, abc corporation (2018-present)
+	+ designed and developed responsive user interfaces for web applications using css3 and javascript
+	+ created wireframes and prototypes to visualize and test design concepts
+	+ collaborated with cross-functional teams to ensure design consistency and user experience
+	+ implemented accessibility features to ensure compliance with wcag guidelines
+* junior ui developer, def startups (2015-2018)
+	+ assisted in designing and developing user interfaces for web applications using css3 and html5
+	+ created wireframes and prototypes to visualize and test design concepts
+	+ participated in code reviews to ensure high-quality code
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+projects:
+
+* responsive webpage: a responsive webpage built using html5, css3, and javascript, showcasing my ability to create a visually appealing and interactive user interface.
+* to-do list app: a to-do list app built using react, node.js, and mongodb, demonstrating my ability to create a robust and scalable web application.
+* wireframing example: a wireframing example showcasing my ability to create clear and concise wireframes using figma.
+
+certifications:
+
+* certified ui engineer, ui engineering certification program (2019)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize it to fit your own experiences and the job you're applying for.

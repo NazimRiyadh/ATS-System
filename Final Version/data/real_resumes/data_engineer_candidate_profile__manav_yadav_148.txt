@@ -1,0 +1,34 @@
+**candidate profile: manav yadav**
+
+**role:** data engineer
+
+**interview findings:**
+
+manav yadav demonstrated a good grasp of fundamental programming concepts, such as data structures, algorithms, and software design patterns. however, his proficiency in critical data engineering skills was not fully aligned with the requirements of the data engineer role. specifically:
+
+*   **data warehousing**: manav lacked experience with data warehousing concepts, including data modeling, etl design, and data governance. he struggled to explain how he would design and implement a data warehouse for a complex business scenario.
+*   **etl processes**: although manav had some familiarity with etl tools like sql server integration services, he was not proficient in designing and implementing end-to-end etl processes, including data transformation, validation, and auditing.
+*   **big data technologies (hadoop, spark)**: manav had limited exposure to big data technologies, including hadoop and spark. he was unfamiliar with hadoop's distributed file system (hdfs) and spark's in-memory computing capabilities.
+*   **database administration**: manav's understanding of database administration concepts, such as database design, indexing, and query optimization, was not comprehensive. he struggled to explain how he would troubleshoot database performance issues or design a database schema for a high-traffic application.
+*   **cloud services (aws, azure)**: manav had no experience with cloud services, including aws and azure. he was not familiar with cloud-based data warehousing, data processing, and machine learning services.
+
+during the interview, manav faced difficulties with tasks that required hands-on experience with data engineering tools and technologies. for example:
+
+*   he struggled to design and implement a data pipeline using apache beam, citing lack of familiarity with the tool.
+*   he was unable to explain the differences between various big data technologies, such as hadoop, spark, and flink.
+*   he had trouble with database administration tasks, such as optimizing database queries or designing indexes.
+
+**potential for growth:**
+
+despite these gaps in his skills and experience, manav demonstrated a strong desire to learn and grow as a data engineer. he was open to feedback and willing to take on new challenges. with additional training and exposure to data engineering tools and technologies, manav has the potential to bridge the gaps in his skills and become a proficient data engineer.
+
+**recommendations:**
+
+to help manav develop the skills and experience required for the data engineer role, we recommend the following:
+
+*   provide additional training on data warehousing, etl processes, big data technologies, database administration, and cloud services.
+*   offer hands-on experience with data engineering tools and technologies, such as apache beam, hadoop, spark, and aws.
+*   pair manav with experienced data engineers who can mentor and guide him in his learning journey.
+*   encourage manav to participate in online communities and forums related to data engineering to stay up-to-date with industry trends and best practices.
+
+by providing manav with the necessary training and support, we can help him develop the skills and experience required to become a successful data engineer.

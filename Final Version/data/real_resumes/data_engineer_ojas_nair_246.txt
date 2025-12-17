@@ -1,0 +1,32 @@
+**ojas nair**
+**data engineer**
+
+a seasoned data professional with a stronghold in designing, developing, and maintaining large-scale data systems. as a seasoned data engineer, i bring to the table expertise in data warehousing, etl processes, big data technologies, database administration, and cloud services. my domain experience spans logistics, finance, healthcare, and e-commerce, having worked on diverse projects that optimized business outcomes through data-driven insights.
+
+**key skills:**
+
+* **data warehousing:** expertise in designing and deploying scalable data warehouses using tools like aws redshift, snowflake, and google bigquery.
+* **etl processes:** proficient in developing efficient etl pipelines using tools like apache nifi, apache beam, and aws glue.
+* **big data technologies:** strong foundation in hadoop, spark, and nosql databases like cassandra and mongodb.
+* **database administration:** experience in administering large-scale databases, including mysql, postgresql, and oracle.
+* **cloud services:** proficient in deploying and managing cloud-based data solutions using aws, azure, and google cloud platform.
+
+**domain experience:**
+
+* **logistics:** developed a real-time tracking system using iot sensors, apache kafka, and spark to optimize logistics operations for a leading e-commerce company.
+* **finance:** designed and implemented a data warehouse for a financial services firm, using aws redshift and tableau to provide business insights to stakeholders.
+* **healthcare:** worked on a project to integrate medical records with electronic health records using hl7, fhir, and apache kafka.
+* **e-commerce:** deployed a recommendation engine using apache mahout, spark, and hadoop to improve customer engagement for an online retailer.
+
+**noteworthy achievements:**
+
+* successfully led a team to develop a big data analytics platform using spark, hadoop, and nosql databases, resulting in a 30% increase in sales for a leading retail company.
+* designed and implemented a cloud-based data warehouse using aws redshift and tableau, reducing data processing time by 50% for a financial services firm.
+
+**enthusiasm to contribute:**
+
+as a detail-oriented and analytical professional, i thrive in environments that require innovative problem-solving and strategic thinking. i am excited about the prospect of contributing to a dynamic team that values data-driven decision making. my passion for data engineering, combined with my experience in diverse domains, enables me to quickly adapt to new technologies and business requirements.
+
+**potential to excel and grow:**
+
+i am confident in my ability to learn and grow with the organization, leveraging my skills in emerging technologies like ai, ml, and cloud native architecture. my strengths in collaboration, communication, and problem-solving make me an ideal fit for a team-oriented environment. i am eager to take on new challenges and contribute to the organization's success, driving business outcomes through data-driven insights and innovative solutions.

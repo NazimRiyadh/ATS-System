@@ -1,0 +1,56 @@
+here's a sample resume for walter novak applying for a data scientist role:
+
+walter novak
+contact information:
+
+* email: [waltersnovak@email.com](mailto:waltersnovak@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/waltersnovak
+* github: github.com/waltersnovak
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in extracting insights from complex data sets usingpython, statistics, and deep learning techniques. proven track record of delivering high-impact projects that drive business growth. skilled in data visualization, sql, and machine learning model development.
+
+technical skills:
+
+* programming languages: python (pandas, numpy, scikit-learn, keras), r (optional)
+* data visualization tools: matplotlib, seaborn, plotly, tableau
+* machine learning frameworks: tensorflow, pytorch, scikit-learn
+* sql: mysql, postgresql, sqlite
+* operating systems: windows, linux, macos
+* familiarity with cloud platforms: aws, google cloud, microsoft azure
+
+professional experience:
+
+data scientist, abc corporation (2019-present)
+
+* developed and deployed multiple machine learning models using python and scikit-learn to predict customer churn, credit risk, and demand forecasting
+* worked with cross-functional teams to design and implement data visualization dashboards using tableau and plotly
+* built and maintained complex datasets using sql and etl processes
+* collaborated with business stakeholders to identify business problems and develop data-driven solutions
+
+data analyst, def company (2016-2019)
+
+* analyzed customer data to identify trends and patterns using python and pandas
+* created data visualizations using matplotlib and seaborn to communicate insights to stakeholders
+* developed and maintained sql queries to extract data from large databases
+* worked with team members to design and implement data analytics projects
+
+education:
+
+* master of science in data science, xyz university (2016)
+* bachelor of science in statistics, abc university (2014)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting student outcomes: developed a machine learning model using tensorflow and scikit-learn to predict student grades based on demographic and academic features
+* credit risk modeling: built a credit risk model using pytorch and scikit-learn to predict creditworthiness based on credit history and demographic features
+* natural language processing: implemented a text classification model using keras and scikit-learn to classify customer reviews as positive, negative, or neutral
+
+references:
+available upon request.

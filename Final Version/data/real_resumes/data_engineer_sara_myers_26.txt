@@ -1,0 +1,60 @@
+here is a sample resume for sara myers applying for the data engineer role:
+
+sara myers
+contact information:
+
+* email: [sara.myers@email.com](mailto:sara.myers@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/saramyers
+* github: github.com/saramyers
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, etl, and cloud platforms. proven track record of designing and implementing scalable data pipelines to drive business insights. proficient in spark and experienced in working with large datasets.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: apache airflow, apache spark, aws glue, google cloud dataflow
+* cloud platforms: aws, gcp, azure
+* data science tools: tensorflow, pytorch, scikit-learn
+* mlops: model serving, model deployment, model monitoring
+* etl: data warehousing, data transformation, data quality
+* databases: relational databases (mysql, postgresql), nosql databases (mongodb, cassandra)
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and implemented a scalable data pipeline using apache airflow to process and analyze large datasets
+* developed and deployed machine learning models using tensorflow and pytorch on aws sagemaker
+* collaborated with cross-functional teams to integrate data engineering solutions into business applications
+* implemented data warehousing and etl processes using aws glue and gcp dataflow
+* ensured data quality and integrity through data validation and monitoring
+
+data engineer, def startup (2015-2018)
+
+* built and maintained data pipelines using apache spark and hadoop for data processing and analysis
+* developed and deployed data visualizations using tableau and power bi
+* worked with data scientists to integrate data engineering solutions into machine learning models
+* implemented data security and governance policies using aws iam and gcp iam
+* collaborated with data analysts to develop data-driven insights and recommendations
+
+education:
+
+* bachelor's degree in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering institute (2019)
+* certified cloud practitioner, aws (2018)
+
+personal projects:
+
+* mlops project: built and deployed a machine learning model using tensorflow and pytorch on aws sagemaker to predict customer churn
+* data warehouse project: designed and implemented a data warehouse using aws redshift and gcp bigquery to analyze customer behavior
+* data visualization project: developed a data visualization dashboard using tableau and power bi to analyze sales trends
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experiences and the job you're applying for.

@@ -1,0 +1,55 @@
+tanvi rao
+contact information:
+
+* email: [tanvirao@email.com](mailto:tanvirao@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/tanvirao
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, building, and maintaining large-scale data processing systems. skilled in data modeling, etl, data warehousing, and big data technologies such as spark and airflow. proficient in cloud computing platforms like aws and containerization using docker and kubernetes.
+
+technical skills:
+
+* programming languages: python, sql
+* big data technologies: spark, airflow
+* data modeling and warehousing: data modeling, data warehousing
+* cloud computing: aws
+* containerization: docker, kubernetes
+* etl tools: etl
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc company (2020-present)
+
+* design, develop, and maintain large-scale data processing systems using python, spark, and airflow
+* collaborate with cross-functional teams to identify business requirements and design data models to meet those needs
+* develop and implement data pipelines using etl tools to extract, transform, and load data from various sources
+* work with data scientists to design and implement data warehousing solutions using aws and spark
+* develop and deploy containerized applications using docker and kubernetes
+* ensure data consistency, integrity, and security across all data systems
+
+senior data analyst, def company (2018-2020)
+
+* designed and developed data models to support business intelligence and data analytics initiatives
+* developed and implemented data pipelines using etl tools to extract, transform, and load data from various sources
+* worked with data scientists to design and implement data visualization dashboards using tableau and power bi
+* collaborated with cross-functional teams to identify business requirements and design data models to meet those needs
+* developed and deployed reports and dashboards using sql and python
+
+education:
+
+* master of science in computer science, xyz university (2018)
+* bachelor of technology in computer science, pqr university (2016)
+
+achievements:
+
+* designed and developed a data pipeline using airflow and spark to extract, transform, and load data from multiple sources, resulting in a 30% reduction in processing time
+* developed and implemented a data warehousing solution using aws and spark, resulting in a 25% reduction in query time
+* collaborated with cross-functional teams to design and implement a data model to support a business intelligence initiative, resulting in a 20% increase in sales
+* developed and deployed a containerized application using docker and kubernetes, resulting in a 40% reduction in deployment time
+
+certifications:
+
+* certified data engineer, data science council of america (2020)
+* certified cloud practitioner, aws (2019)

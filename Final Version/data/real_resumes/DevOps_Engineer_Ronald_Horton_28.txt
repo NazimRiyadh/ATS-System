@@ -1,0 +1,58 @@
+Here is a professional resume for Ronald Horton, a skilled DevOps Engineer:
+
+Ronald Horton
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [ronald.horton@email.com](mailto:ronald.horton@email.com)
+* LinkedIn: linkedin.com/in/ronaldhorton
+* GitHub: github.com/ronaldhorton
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in Docker, Kubernetes, Ansible, and Infrastructure as Code. Proven track record of delivering scalable, secure, and reliable systems on cloud platforms. Skilled in monitoring tools and automation, with a passion for driving innovation and improving operational efficiency.
+
+Technical Skills:
+
+* Containerization: Docker, Kubernetes
+* Automation: Ansible, Infrastructure as Code (IaC)
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, GCP
+* Operating Systems: Linux, Windows
+* Scripting Languages: Python, Bash
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a scalable containerization solution using Docker and Kubernetes, resulting in a 30% reduction in deployment time and a 25% increase in system uptime.
+* Developed and maintained a comprehensive Ansible playbook for automating infrastructure provisioning, resulting in a 90% reduction in manual errors and a 70% reduction in provisioning time.
+* Collaborated with the development team to implement a continuous integration and continuous deployment (CI/CD) pipeline using Jenkins and GitLab CI/CD, resulting in a 40% reduction in build time and a 20% increase in deployment frequency.
+* Monitored system performance using Prometheus and Grafana, identifying and resolving issues before they impacted end-users.
+* Provided technical guidance and support to the development team on cloud platform best practices and DevOps tools.
+
+Infrastructure Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented a highly available and scalable infrastructure using AWS, resulting in a 99.99% uptime and a 50% reduction in costs.
+* Developed and maintained a comprehensive monitoring and alerting system using New Relic and PagerDuty, resulting in a 90% reduction in mean time to detect (MTTD) and a 70% reduction in mean time to resolve (MTTR).
+* Collaborated with the development team to implement a continuous integration and continuous deployment (CI/CD) pipeline using Jenkins and GitLab CI/CD, resulting in a 30% reduction in build time and a 20% increase in deployment frequency.
+* Provided technical guidance and support to the development team on cloud platform best practices and DevOps tools.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified DevOps Engineer, Linux Academy (2019)
+* Certified Cloud Practitioner, AWS (2017)
+* Certified Scrum Master, Scrum Alliance (2016)
+
+Achievements:
+
+* Winner of the ABC Corporation's "Innovator of the Year" award (2020)
+* Featured speaker at the DEF Startups' "DevOps Summit" (2018)
+* Published article on "Containerization and Orchestration" in the XYZ University's "Computer Science Journal" (2015)
+
+References:
+Available upon request.

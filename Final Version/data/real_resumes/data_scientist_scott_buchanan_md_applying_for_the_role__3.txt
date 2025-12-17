@@ -1,0 +1,69 @@
+here's a sample resume for scott buchanan md applying for the role of data scientist:
+
+scott buchanan md
+contact information:
+
+* phone: (123) 456-7890
+* email: [scott.buchanan@email.com](mailto:scott.buchanan@email.com)
+* linkedin: linkedin.com/in/scottbuchananmd
+* twitter: @scottbuchananmd
+
+summary:
+
+highly motivated and detail-oriented data scientist with a strong background in medical research and programming. proven expertise in python, machine learning, sql, and data visualization. skilled in extracting insights from complex data sets and communicating findings effectively to both technical and non-technical stakeholders.
+
+education:
+
+* md, johns hopkins university school of medicine (2010-2016)
+	+ completed coursework in biostatistics and epidemiology
+	+ conducted research in health outcomes and policy analysis
+
+technical skills:
+
+* programming languages:
+	+ python (expert)
+	+ sql (expert)
+	+ r (intermediate)
+* machine learning:
+	+ supervised and unsupervised learning
+	+ model evaluation and selection
+	+ hyperparameter tuning
+* data visualization:
+	+ tableau (expert)
+	+ power bi (intermediate)
+	+ matplotlib and seaborn (expert)
+* databases:
+	+ mysql
+	+ postgresql
+	+ mongodb
+
+experience:
+
+* clinical research fellow, johns hopkins university (2016-2018)
+	+ designed and implemented data collection protocols for multiple clinical trials
+	+ analyzed and interpreted large datasets using python and r
+	+ presented research findings at national conferences
+* data analyst, xyz health insurance company (2018-2020)
+	+ built and maintained databases using sql and etl processes
+	+ developed predictive models using machine learning techniques
+	+ created data visualizations to communicate insights to stakeholders
+* data scientist, abc medical device company (2020-present)
+	+ led data-driven product development initiatives
+	+ collaborated with cross-functional teams to design and implement a/b testing experiments
+	+ developed and maintained data infrastructure using cloud-based services
+
+projects:
+
+* predicting patient outcomes using electronic health records: developed and evaluated a predictive model using machine learning techniques to identify high-risk patients. [github repository](https://github.com/scottbuchanan/patient_outcomes)
+* analyzing healthcare disparities using data visualization: created interactive dashboards to communicate healthcare disparities to stakeholders using tableau and power bi. [tableau public story](https://public.tableau.com/shared/.../disparities)
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+references:
+
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your specific experience and the job you're applying for. remember to proofread your resume multiple times for errors and typos!

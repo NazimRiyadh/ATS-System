@@ -1,0 +1,63 @@
+Here's a sample resume for Angela Butler:
+
+Angela Butler
+Data Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [angela.butler@email.com](mailto:angela.butler@email.com)
+* LinkedIn: linkedin.com/in/angela-butler
+
+Summary:
+Highly motivated and experienced Data Engineer with expertise in MLOps, Airflow, Big Data, and Cloud Platforms. Proven track record of designing, building, and deploying scalable data pipelines and machine learning models. Skilled in cloud-based data engineering, data warehousing, and data analytics. Proficient in multiple programming languages, including Python, SQL, and Scala.
+
+Technical Skills:
+
+* Programming languages: Python, SQL, Scala, R
+* Cloud platforms: AWS, GCP, Azure
+* Data engineering tools: Airflow, Apache Beam, Apache Spark
+* Big Data technologies: Hadoop, Spark, Hive
+* Data warehousing: Snowflake, Redshift
+* Machine learning: TensorFlow, scikit-learn, PyTorch
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2018-Present)
+
+* Designed and implemented multiple large-scale data pipelines using Apache Beam and Airflow, resulting in 30% reduction in data processing time.
+* Built and deployed multiple machine learning models using TensorFlow and scikit-learn, achieving 25% improvement in model accuracy.
+* Collaborated with cross-functional teams to design and implement data warehousing solutions using Snowflake and Redshift.
+* Mentored junior data engineers and developers to improve team productivity and knowledge sharing.
+
+Data Engineer, DEF Company (2015-2018)
+
+* Designed and implemented data processing workflows using Apache Spark and Hadoop, resulting in 40% reduction in data processing time.
+* Developed and deployed multiple data visualizations using Tableau and Power BI, improving business decision-making by 20%.
+* Collaborated with data scientists to develop and deploy machine learning models using scikit-learn and TensorFlow.
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015)
+* Bachelor of Science in Computer Science, ABC University (2010)
+
+Certifications:
+
+* Certified Data Engineer, Google Cloud Platform (2020)
+* Certified Machine Learning Engineer, TensorFlow (2019)
+
+Achievements:
+
+* Recipient of the ABC Company's "Data Engineer of the Year" award (2020)
+* Published papers on MLOps and data engineering at the IEEE International Conference on Data Engineering (2019)
+
+Personal Projects:
+
+* Developed a real-time data processing pipeline using Apache Beam and Airflow, which can process 10 million events per second.
+* Built a machine learning model using scikit-learn and TensorFlow to predict stock prices, achieving 85% accuracy.
+
+References:
+Available upon request.
+
+This is just a sample, and you should customize your resume to fit your specific experience and the job you're applying for. Remember to use clear and concise language, and to highlight your achievements and skills throughout the resume. Good luck with your job search!

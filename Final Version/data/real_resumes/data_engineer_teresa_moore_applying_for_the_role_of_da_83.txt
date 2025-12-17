@@ -1,0 +1,56 @@
+here's a sample resume for teresa moore applying for the role of data engineer:
+
+teresa moore
+contact information:
+
+* email: [teresamoore@email.com](mailto:teresamoore@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/teresamoore
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, etl, big data, and cloud platforms. possesses excellent problem-solving skills and a strong passion for designing and implementing scalable data infrastructure solutions.
+
+technical skills:
+
+* programming languages: python, scala, java
+* data engineering tools: apache spark, apache beam, apache airflow
+* cloud platforms: aws, gcp, azure
+* big data technologies: hadoop, hbase, hive
+* data storage: relational databases (mysql, postgresql), nosql databases ( mongodb, cassandra)
+* machine learning: scikit-learn, tensorflow, pytorch
+* data science: pandas, numpy, matplotlib, seaborn
+* devops: docker, kubernetes, git
+
+professional experience:
+
+data engineer, abc company (2020-present)
+
+* designed and implemented scalable data pipelines using apache spark and apache beam to process large datasets
+* developed and deployed machine learning models using scikit-learn and tensorflow on aws sagemaker
+* collaborated with cross-functional teams to design and implement data warehouses using aws redshift and amazon quicksight
+* mentored junior engineers to improve code quality and efficiency
+* conducted data quality checks and ensured data accuracy using data validation techniques
+
+junior data engineer, def startups (2018-2020)
+
+* assisted in designing and implementing etl processes using apache beam and apache spark
+* developed and deployed data visualizations using tableau and power bi
+* collaborated with data scientists to design and implement machine learning models using scikit-learn and tensorflow
+* implemented data security measures to protect sensitive data using aws iam and azure active directory
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified data engineer, certified data scientist (cds)
+* certified cloud practitioner, aws
+
+projects:
+
+* personal project: developed a real-time recommender system using apache spark, apache cassandra, and python using tensorflow
+* hackathon project: built a data pipeline using apache beam and apache bigquery to process and analyze large datasets
+
+references:
+available upon request.

@@ -1,0 +1,56 @@
+ishaan chopra
+software engineer
+
+contact information:
+
+* email: [ishaan.chopra@email.com](mailto:ishaan.chopra@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ishaanchopra
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable software systems. proficient in java, python, javascript, and strong understanding of algorithms, data structures, and system design principles. proficient in rest apis, git, ci/cd, and microservices.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: experienced in designing scalable and efficient software systems
+* algorithms: strong understanding of various algorithms and data structures
+* rest apis: proficient in designing and implementing restful apis
+* git: experienced in using git for version control and collaboration
+* ci/cd: familiar with continuous integration and continuous deployment pipelines
+* microservices: experienced in designing and deploying microservices-based systems
+
+professional experience:
+
+software engineer, abc company (2020-present)
+
+* designed and developed multiple features for a web application using java, python, and javascript
+* implemented restful apis for data exchange between microservices
+* collaborated with cross-functional teams to identify and prioritize features
+* implemented ci/cd pipelines using jenkins and docker
+* deployed multiple microservices-based systems using kubernetes
+
+software engineer, def startups (2018-2020)
+
+* developed multiple features for a mobile application using java and python
+* implemented algorithms and data structures to optimize system performance
+* designed and implemented a restful api for data exchange between microservices
+* collaborated with cross-functional teams to identify and prioritize features
+* implemented git for version control and collaboration
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer networks, database systems, and operating systems
+	+ project: designed and developed a web crawler using java and python
+
+achievements:
+
+* certified java developer, oracle corporation (2020)
+* certified python developer, python institute (2019)
+* published research paper, international journal of computer science and engineering (2018)
+
+certifications:
+
+* certified java developer, oracle corporation (2020)
+* certified python developer, python institute (2019)

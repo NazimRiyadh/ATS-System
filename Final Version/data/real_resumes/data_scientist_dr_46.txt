@@ -1,0 +1,54 @@
+here's a sample resume for dr. darlene martinez dds applying for a data scientist role:
+
+dr. darlene martinez, dds
+
+contact information:
+
+* phone: (555) 555-5555
+* email: [dmartinez@email.com](mailto:dmartinez@email.com)
+* linkedin: linkedin.com/in/darlenemartinezdds
+* github: github.com/darlenemartinez
+
+summary:
+highly motivated and detail-oriented data scientist with a strong background in machine learning, deep learning, and data visualization. proven ability to analyze complex data sets and extract valuable insights. seeking a challenging role that leverages my technical skills to drive business growth and improve decision-making.
+
+professional experience:
+
+* research assistant, university of [university name] (20xx-20xx)
+	+ assisted in designing and implementing machine learning models for predictive analytics using python and scikit-learn.
+	+ developed and deployed a deep learning model using tensorflow and keras to classify medical images.
+	+ contributed to the development of a data visualization dashboard using tableau and power bi.
+* private practice dentist, [practice name] (20xx-20xx)
+	+ managed a high-volume dental practice, ensuring efficient patient flow and excellent patient care.
+	+ analyzed patient data to identify trends and opportunities for process improvement.
+	+ implemented data-driven marketing campaigns to increase patient acquisition.
+
+education:
+
+* dds, university of [university name] (20xx-20xx)
+* certificate in data science, [certification name] (20xx)
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning libraries: scikit-learn, tensorflow, keras, pytorch
+* deep learning frameworks: tensorflow, keras, pytorch
+* data visualization tools: tableau, power bi, matplotlib, seaborn
+* operating systems: windows, linux, macos
+* familiarity with cloud platforms: aws, gcp, azure
+
+projects:
+
+* predicting patient outcomes using machine learning: developed a predictive model using python and scikit-learn to forecast patient outcomes based on demographic and clinical data.
+* medical image classification using deep learning: built a deep learning model using tensorflow and keras to classify medical images based on disease presence.
+* data visualization dashboard: created a data visualization dashboard using tableau to track patient flow and identify areas for process improvement.
+
+certifications:
+
+* certified data scientist, data science council of america (20xx)
+* certified analytics professional, institute for operations research and the management sciences (20xx)
+
+references:
+available upon request.
+
+as a dds with a strong background in data science, dr. martinez can leverage her technical skills and experience to drive business growth and improve decision-making in a data scientist role. her unique blend of clinical and technical expertise makes her an attractive candidate for companies looking to integrate data science into their operations.

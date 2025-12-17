@@ -1,0 +1,37 @@
+**name:** mythily dixit
+
+**role:** data engineer
+
+mythily is a seasoned data professional with a strong foundation in data engineering, warehousing, and analytics. with a proven track record in designing, developing, and deploying large-scale data systems, she brings a unique blend of technical expertise and domain experience to the table.
+
+**key strengths:**
+
+* **data warehousing:** mythily is well-versed in designing and implementing data warehouses using industry-leading tools such as amazon redshift, google bigquery, and azure synapse analytics. her expertise in data modeling, etl processes, and data quality ensures that data is accurate, complete, and easily accessible for business insights.
+* **etl processes:** with experience in developing scalable etl (extract, transform, load) processes using tools like apache beam, apache nifi, and informatica powercenter, mythily can efficiently extract, transform, and load data from various sources, including cloud-based services and on-premises systems.
+* **big data technologies:** mythily is proficient in working with big data technologies such as hadoop, spark, and nosql databases like cassandra and mongodb. her knowledge of distributed computing frameworks like apache storm and apache flink enables her to design and implement real-time data processing pipelines.
+* **database administration:** with expertise in database administration, mythily can design, implement, and manage databases for various use cases, including data warehousing, data lakes, and transactional systems. her experience with database migration, performance tuning, and backup/recovery processes ensures high availability and data integrity.
+* **cloud services:** mythily is well-versed in cloud-based services such as aws (amazon web services) and azure, with expertise in deploying and managing data services like amazon redshift, amazon s3, and azure blob storage.
+
+**domain experience:**
+
+mythily brings domain experience in **logistics and supply chain management**, where she worked with a leading logistics company to design and implement a data warehousing solution that improved supply chain visibility by 30%. her experience in this domain has equipped her with a deep understanding of the complex data flows and requirements of logistics and supply chain industries.
+
+mythily also has experience in **finance**, where she worked with a leading financial services firm to develop a data analytics platform that improved risk management by 25%. her expertise in financial data processing, risk modeling, and predictive analytics has made her a valuable asset in this domain.
+
+**healthcare:**
+
+mythily's experience in healthcare includes working with a leading healthtech company to develop a data platform that improved patient outcomes by 20%. her knowledge of healthcare data standards, regulatory requirements, and data governance has made her a trusted advisor in this domain.
+
+**noteworthy achievements:**
+
+* designed and implemented a data warehousing solution for a leading logistics company, resulting in a 30% improvement in supply chain visibility.
+* developed a data analytics platform for a leading financial services firm, resulting in a 25% improvement in risk management.
+* collaborated with a leading healthtech company to develop a data platform that improved patient outcomes by 20%.
+
+**enthusiasm to contribute:**
+
+mythily is passionate about using data engineering to drive business insights and improve decision-making. she is excited about the prospect of joining an organization where she can leverage her skills and experience to contribute to the success of the business. her enthusiasm, combined with her technical expertise and domain experience, make her an ideal candidate for a data engineer role.
+
+**potential to excel and grow:**
+
+mythily is a quick learner, always eager to take on new challenges and expand her skill set. her experience in working with cross-functional teams and her ability to communicate complex technical concepts to non-technical stakeholders make her an excellent team player. with her strong foundation in data engineering and analytics, mythily is well-positioned to excel in a data engineer role and grow within the organization.

@@ -1,0 +1,57 @@
+Here is a professional resume for Tonya Bush:
+
+Tonya Bush
+Cloud Engineer
+
+Contact Information:
+
+* Email: [tonya.bush@email.com](mailto:tonya.bush@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/tonyabush
+
+Professional Summary:
+Highly motivated and experienced Cloud Engineer with a strong background in Cloud Migration, Cloud Cost Optimization, and Serverless Architecture. Proven track record of designing and implementing scalable, secure, and cost-effective cloud solutions. Skilled in scripting languages such as Python and PowerShell, and experienced in automating cloud deployments using tools like Terraform and Ansible.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Cloud Services: EC2, S3, Lambda, CloudFormation, CloudWatch
+* Serverless Architecture: AWS Lambda, Azure Functions, Google Cloud Functions
+* Scripting Languages: Python, PowerShell
+* Automation Tools: Terraform, Ansible
+* Cloud Cost Optimization: Reserved Instances, Spot Instances, Cost Allocation Tags
+* Cloud Migration: AWS Migration Hub, Azure Site Recovery, Google Cloud Migrate
+
+Professional Experience:
+
+Cloud Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented cloud infrastructure for multiple applications, resulting in 30% reduction in costs and 25% increase in scalability
+* Migrated on-premises applications to cloud platforms, resulting in 99.99% uptime and 50% reduction in maintenance costs
+* Developed and implemented cloud cost optimization strategies, resulting in 20% reduction in cloud spend
+* Collaborated with cross-functional teams to design and implement serverless architecture for multiple applications
+
+Senior Systems Administrator, DEF Company (2015-2018)
+
+* Managed and maintained on-premises infrastructure, including servers, storage, and network devices
+* Developed and implemented automation scripts using PowerShell and Python to streamline deployment and maintenance processes
+* Collaborated with development teams to design and implement cloud-based solutions for multiple applications
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Associate
+* Azure Certified Solutions Architect - Associate
+* Google Cloud Certified - Professional Cloud Developer
+
+Achievements:
+
+* Winner of the 2020 AWS re:Invent Hackathon for designing and implementing a scalable and cost-effective cloud solution for a fictional company
+* Featured speaker at the 2019 Cloud Expo on "Designing and Implementing Serverless Architecture for Multiple Applications"
+* Recipient of the 2018 ABC Corporation Award for Excellence in Cloud Engineering
+
+References:
+Available upon request.

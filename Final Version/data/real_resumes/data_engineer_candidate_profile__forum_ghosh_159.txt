@@ -1,0 +1,34 @@
+**candidate profile: forum ghosh**
+
+**interview date:** march 10, 2023
+
+**interviewer:** data engineering team
+
+**position:** data engineer
+
+**summary:**
+
+forum ghosh demonstrated a strong foundation in programming skills, particularly in languages such as python and sql. however, the interview revealed areas where his skills did not align with the job requirements for the data engineer role. notably, he lacked proficiency in data warehousing, etl processes, big data technologies (hadoop, spark), database administration, and cloud services (aws, azure).
+
+**technical skills assessment:**
+
+* programming languages: forum has a strong grasp of python and basic sql knowledge. however, his proficiency in languages like java, scala, or c++ is limited.
+* data warehousing: he has limited experience with data warehousing concepts, etl processes, and data modeling. his understanding of dw design patterns and data governance is also not well-developed.
+* big data technologies: forum lacks hands-on experience with hadoop, spark, and other big data technologies. he has not worked with nosql databases or data processing frameworks like apache flink.
+* database administration: his database administration skills are not well-represented, with limited experience in database design, performance tuning, and backup/recovery processes.
+* cloud services: forum has not utilized cloud services like aws, azure, or gcp for data engineering tasks. his understanding of cloud-based data platforms and services is limited.
+
+**concerns raised during the interview:**
+
+* difficulty with designing and implementing etl processes: forum struggled to explain the etl process and design patterns, indicating a need for further education in this area.
+* limited familiarity with data warehousing tools: he was not familiar with data warehousing tools like informatica, talend, or aws glue, which are commonly used in the industry.
+* lack of hands-on experience with big data technologies: forum's lack of experience with hadoop, spark, and other big data technologies may hinder his ability to work with large datasets and complex data processing tasks.
+* insufficient experience with database administration: his limited database administration skills may impact his ability to manage and maintain databases, ensuring data consistency and integrity.
+
+**potential for growth:**
+
+while forum's skills did not fully align with the job requirements, he demonstrated a strong willingness to learn and grow. with further training and exposure to the required technologies and tools, he may develop the necessary skills to become a proficient data engineer. the company could consider providing additional training or mentorship to help forum bridge the gaps in his skills.
+
+**recommendation:**
+
+based on the interview, it is recommended that forum ghosh be considered for further evaluation or training to address the skill gaps identified. this may involve providing additional training, mentorship, or on-the-job experience to help him develop the necessary skills to succeed in the data engineer role.

@@ -1,0 +1,56 @@
+tanvi iyer
+contact information:
+
+* email: [tanvi.iyer@email.com](mailto:tanvi.iyer@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/tanvi-iyer
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in extracting insights from complex data sets using statistical and machine learning techniques. proficient in python, sql, and data visualization tools. proven track record of delivering high-impact projects that drive business growth.
+
+technical skills:
+
+* programming languages: python
+* machine learning: scikit-learn, tensorflow
+* deep learning: tensorflow
+* data visualization: tableau, matplotlib, seaborn
+* a/b testing: google optimize
+* statistical analysis: hypothesis testing, confidence intervals
+* sql: relational databases, sql queries
+* operating systems: windows, linux
+* familiarity with cloud-based platforms: aws, gcp
+
+professional experience:
+
+data scientist, xyz corporation (2020-present)
+
+* developed and implemented predictive models using scikit-learn and tensorflow to improve customer churn prediction accuracy by 25%
+* collaborated with cross-functional teams to design and execute a/b testing experiments using google optimize, resulting in 15% increase in conversion rates
+* built and maintained large-scale databases using sql and relational databases, ensuring data consistency and integrity
+* created interactive dashboards using tableau to communicate insights to stakeholders, leading to informed business decisions
+
+data analyst, abc startups (2018-2020)
+
+* analyzed large datasets to identify trends and patterns using statistical and machine learning techniques, presenting findings to senior management
+* developed and maintained data pipelines using python and sql to ensure data quality and integrity
+* conducted a/b testing experiments using google optimize, resulting in 10% increase in engagement rates
+
+education:
+
+* master of science in data science, stanford university (2018)
+	+ coursework: machine learning, deep learning, data visualization, statistical analysis
+	+ thesis: "an empirical study of the impact of social media on public opinion"
+* bachelor of science in computer science, university of michigan (2015)
+	+ coursework: algorithms, data structures, computer systems, probability and statistics
+
+achievements:
+
+* winner, data science competition, stanford university (2018)
+	+ developed a predictive model using scikit-learn and tensorflow that outperformed industry benchmarks in a kaggle competition
+* best poster award, data science conference (2019)
+	+ presented research on a/b testing and its applications in marketing, resulting in a 20% increase in poster views
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)

@@ -1,0 +1,56 @@
+Here's a professional resume for Shelly Garcia:
+
+Shelly Garcia
+Contact Information:
+
+* Email: [shelly.garcia@email.com](mailto:shelly.garcia@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/shellygarcia
+* GitHub: github.com/shellygarcia
+
+Professional Summary:
+Highly skilled Data Engineer with 5+ years of experience in designing, developing, and deploying large-scale data processing systems on cloud platforms. Proven expertise in MLOps, ETL, Big Data, Data Warehousing, and Spark. Demonstrated ability to work effectively with cross-functional teams to deliver high-quality data solutions on time and on budget.
+
+Technical Skills:
+
+* Programming languages: Python, Java, Scala
+* Big Data technologies: Hadoop, Spark, Hive, Pig
+* Cloud platforms: AWS, GCP, Azure
+* Data Warehousing: Amazon Redshift, Google BigQuery, Snowflake
+* Data Engineering: MLOps, ETL, Data Pipelines, Data Quality
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed large-scale data processing systems on AWS and GCP, utilizing Hadoop, Spark, and Hive
+* Built and maintained ETL pipelines to integrate data from various sources, ensuring data quality and consistency
+* Collaborated with data scientists to develop and deploy machine learning models, using MLOps practices
+* Implemented data warehousing solutions using Amazon Redshift and Google BigQuery
+* Worked with cross-functional teams to deliver high-quality data solutions, ensuring timely and budget-friendly delivery
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed and deployed data pipelines using Apache Beam and Apache Airflow
+* Designed and implemented data warehousing solutions using Snowflake and Google BigQuery
+* Worked with data scientists to develop and deploy machine learning models, using Spark and Python
+* Collaborated with product teams to integrate data-driven insights into product development
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2019)
+* Certified Big Data Developer, Hadoop Developer Certification (2016)
+
+Achievements:
+
+* Successfully designed and deployed a large-scale data processing system on AWS, reducing data processing time by 50% and increasing data quality by 25%
+* Developed and deployed a machine learning model using MLOps practices, resulting in a 30% increase in sales revenue
+* Implemented a data warehousing solution using Amazon Redshift, reducing data querying time by 75% and increasing data accessibility by 90%
+
+References:
+Available upon request.

@@ -1,0 +1,55 @@
+here's a resume for robert reid applying for the role of ui engineer:
+
+robert reid
+contact information:
+
+* email: [robert.reid@email.com](mailto:robert.reid@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/robertreidui
+* github: github.com/robertreid
+
+summary:
+highly motivated and detail-oriented ui engineer with expertise in crafting visually appealing and user-friendly interfaces using cutting-edge technologies. proficient in react, css, and ui/ux design principles. profound understanding of front-end development and passionate about collaborating with cross-functional teams to deliver exceptional user experiences.
+
+technical skills:
+
+* programming languages: javascript, html, css
+* frameworks and libraries: react, redux, react router
+* design tools: sketch, figma, adobe xd
+* css preprocessors: sass, less
+* version control: git
+* operating systems: macos, windows
+
+experience:
+
+ui engineer, abc company (2020-present)
+
+* designed and developed high-performance, responsive ui components using react and css
+* collaborated with the design team to implement ui/ux designs and iterate on feedback
+* optimized ui components for accessibility and performance using aria attributes, web vitals, and lighthouse
+* participated in code reviews to ensure adherence to coding standards and best practices
+* mentored junior engineers on front-end development and ui/ux design principles
+
+senior front-end developer, def agency (2018-2020)
+
+* built scalable and maintainable front-end applications using react, redux, and css
+* worked closely with designers to implement ui/ux designs and create prototypes
+* optimized application performance using web performance optimization techniques
+* developed and maintained style guides for consistent ui branding
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2018)
+
+certifications:
+
+* certified react developer, react training (2020)
+* certified ui/ux designer, nielsen norman group (2019)
+
+personal projects:
+
+* developed a personal portfolio website using react and css, showcasing ui/ux design skills
+* contributed to open-source projects on github, including a react-based ui library
+
+references:
+available upon request.

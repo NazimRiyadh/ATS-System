@@ -1,0 +1,52 @@
+aarav sharma
+contact information:
+
+* email: [a.arav.sharma@gmail.com](mailto:a.arav.sharma@gmail.com)
+* phone: +1-123-456-7890
+* linkedin: linkedin.com/in/aaravsharma
+
+summary:
+highly motivated and detail-oriented data engineer with 4+ years of experience in designing, developing, and implementing large-scale data processing systems. proficient in a range of technologies including python, sql, etl, airflow, spark, and cloud platforms. proven track record of delivering high-quality data solutions that drive business growth and improve decision-making.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: etl, airflow, spark, docker, kubernetes
+* data warehousing: aws redshift, snowflake
+* cloud platforms: aws, azure
+* data modeling: er diagrams, data governance
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and developed a real-time data ingestion pipeline using python, etl, and airflow to process 100 million records per day
+* built a scalable data warehousing solution using aws redshift and spark to support business intelligence and reporting
+* collaborated with cross-functional teams to implement data governance policies and ensure data quality
+* developed and deployed dockerized containers using kubernetes to improve deployment efficiency and reduce costs
+
+junior data engineer, def startups (2016-2018)
+
+* assisted in designing and implementing a data processing pipeline using python, sql, and spark to process 10 million records per day
+* worked with the data modeling team to develop er diagrams and data governance policies
+* participated in the development of a data warehousing solution using snowflake and aws
+
+education:
+
+* master of science in data science, xyz university (2016)
+* bachelor of technology in computer science, abc university (2014)
+
+achievements:
+
+* data science hackathon winner (2017): developed a predictive model using python, spark, and aws to win the data science hackathon
+* published research paper: published a research paper on "real-time data ingestion using python and etl" in the journal of data science
+* certified data engineer: certified data engineer by the data science council of america
+
+certifications:
+
+* certified data engineer, data science council of america
+* certified aws data engineer, aws
+
+references:
+available upon request.

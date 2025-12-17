@@ -1,0 +1,57 @@
+Here's a sample resume for Kimberly Harris:
+
+Kimberly Harris
+Cloud Engineer
+
+Contact Information:
+
+* Email: [kimberly.harris@email.com](mailto:kimberly.harris@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/kimberlyharris
+
+Summary:
+Highly skilled Cloud Engineer with 5+ years of experience in designing, implementing, and optimizing cloud-based solutions. Proficient in Cloud Cost Optimization, Serverless Architecture, and Scripting technologies. Proven track record of reducing cloud costs by 30% and improving application performance by 25%.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Serverless Architecture: AWS Lambda, Azure Functions, Google Cloud Functions
+* Scripting: Python, Bash, PowerShell
+* Cloud Cost Optimization: Cost Explorer, Reserved Instances, Spot Instances
+* Agile Methodologies: Scrum, Kanban
+* Operating Systems: Windows, Linux
+* Databases: Relational (MySQL, PostgreSQL), NoSQL (MongoDB, Cassandra)
+
+Professional Experience:
+
+Senior Cloud Engineer, ABC Corporation (2020-Present)
+
+* Designed and implemented serverless architecture for a high-traffic e-commerce application, reducing costs by 40% and improving application performance by 30%.
+* Developed and maintained cloud-based scripts to automate deployment, scaling, and monitoring of applications.
+* Collaborated with cross-functional teams to plan and execute cloud migrations, resulting in 25% reduction in total cost of ownership.
+
+Cloud Engineer, DEF Startups (2018-2020)
+
+* Built and deployed cloud-based infrastructure for multiple startups, including scalable compute resources and object storage.
+* Optimized cloud costs by 30% through reserved instance purchases and spot instance utilization.
+* Worked with development teams to implement cloud-based CI/CD pipelines, improving deployment efficiency by 50%.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* AWS Certified Cloud Practitioner - Professional (2020)
+* Azure Certified: Azure Developer Associate (2019)
+
+Achievements:
+
+* Winner of the 2020 AWS re:Invent Hackathon for innovative use of AWS services
+* Featured speaker at the 2019 AWS Summit for talk on cloud cost optimization
+* Recognized as a top contributor to the AWS Community Builders program
+
+References:
+Available upon request.
+
+This structure and content showcase Kimberly's technical skills, professional experience, and achievements, making her a strong candidate for the role of Cloud Engineer. The clear and concise format makes it easy for hiring managers to quickly assess her qualifications and experience.

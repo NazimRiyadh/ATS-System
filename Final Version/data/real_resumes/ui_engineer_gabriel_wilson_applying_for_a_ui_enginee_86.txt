@@ -1,0 +1,58 @@
+here's a sample resume for gabriel wilson applying for a ui engineer role:
+
+gabriel wilson
+contact information:
+
+* email: [gabriel.wilson@email.com](mailto:gabriel.wilson@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/gabrielwilson
+* github: github.com/gabrielwilson
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and developing scalable and responsive user interfaces using modern web technologies. skilled in css, javascript, and react, with a strong passion for creating intuitive and user-centered experiences.
+
+technical skills:
+
+* programming languages: javascript (es6+), html5, css3
+* front-end frameworks: react, redux
+* css preprocessors: sass, less
+* ui libraries: material-ui, ant design
+* build tools: webpack, babel
+* testing frameworks: jest, enzyme
+* version control: git
+
+professional experience:
+
+ui engineer, abc company (2019-present)
+
+* designed and developed responsive and scalable user interfaces for web applications using react and css
+* collaborated with cross-functional teams to identify and prioritize ui requirements
+* implemented accessibility features and ensured compliance with wcag 2.1 guidelines
+* optimized ui components for performance and usability using react hooks and performance optimization techniques
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+senior front-end developer, def agency (2017-2019)
+
+* developed and maintained complex front-end applications using javascript, html5, and css3
+* worked with designers to implement ui designs and ensure pixel-perfect rendering
+* implemented responsive design patterns and ensured cross-browser compatibility
+* participated in code reviews and contributed to the development of coding standards and best practices
+* mentored junior developers and provided guidance on front-end development best practices
+
+education:
+
+* bachelor of science in computer science, xyz university (2017)
+
+certifications:
+
+* certified front-end developer, front-end masters (2018)
+
+personal projects:
+
+* developed and maintained a personal portfolio website using react and typescript
+* contributed to open-source projects on github, including a react-based ui library
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

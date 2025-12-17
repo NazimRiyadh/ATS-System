@@ -1,0 +1,57 @@
+tanvi gupta
+contact information:
+
+* email: [tanvigupta@email.com](mailto:tanvigupta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/tanvigupta
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in developing and deploying machine learning models, statistical analysis, and data visualization. proficient in python, machine learning algorithms, and data visualization tools. proven track record of delivering high-quality results and driving business growth through data-driven insights.
+
+professional experience:
+
+data scientist, abc corporation (2019-present)
+
+* developed and deployed machine learning models using scikit-learn and tensorflow to predict customer churn, recommend products, and optimize marketing campaigns
+* conducted statistical analysis and data visualization to identify trends and patterns in customer behavior and market trends
+* collaborated with cross-functional teams to design and implement a/b testing experiments to measure the impact of marketing campaigns and product features
+* built and maintained datasets, including data preprocessing, cleaning, and feature engineering
+* utilized sql to query and analyze large datasets and provide data-driven insights to stakeholders
+
+data analyst, def startups (2018-2019)
+
+* analyzed customer data to identify trends and patterns in customer behavior and market trends
+* developed and implemented statistical models to predict customer churn and recommend products
+* created data visualizations to communicate insights to stakeholders and drive business decisions
+* assisted in the development and deployment of machine learning models using scikit-learn and tensorflow
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: machine learning, deep learning, natural language processing, data visualization, and statistical analysis
+	+ thesis: "predicting customer churn using machine learning techniques"
+* bachelor of science in mathematics, pqr university (2016)
+
+skills:
+
+* programming languages: python, r
+* machine learning algorithms: scikit-learn, tensorflow
+* data visualization tools: matplotlib, seaborn, tableau
+* statistical analysis: hypothesis testing, regression analysis
+* data storage and management: sql, nosql
+* operating systems: windows, linux, macos
+
+achievements:
+
+* improved customer retention by 15% through data-driven insights and recommendations
+* increased marketing campaign roi by 20% through a/b testing and optimization
+* developed and deployed a machine learning model that predicted customer churn with 85% accuracy
+* published research paper on "predicting customer churn using machine learning techniques" in a leading industry conference
+
+certifications:
+
+* certified data scientist, data science council of america (dasca)
+* certified analytics professional, institute for operations research and the management sciences (informs)
+
+references:
+available upon request.

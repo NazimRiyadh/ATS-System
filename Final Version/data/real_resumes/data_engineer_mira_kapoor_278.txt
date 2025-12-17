@@ -1,0 +1,54 @@
+mira kapoor
+data engineer
+
+contact information:
+
+* email: [mirakapoor@email.com](mailto:mirakapoor@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/mirakapoor
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying large-scale data systems. skilled in python, sql, etl, airflow, spark, and data modeling. proven ability to work with distributed systems, cloud platforms, and containerization technologies. passionate about building scalable and efficient data architectures.
+
+technical skills:
+
+* programming languages: python
+* databases: sql, nosql (e.g. cassandra, mongodb)
+* etl tools: airflow, spark
+* data modeling: entity-relationship modeling, data warehousing
+* cloud platforms: aws (s3, ec2, rds, redshift)
+* containerization: docker, kubernetes
+* data warehousing: snowflake, amazon redshift
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc company (2020-present)
+
+* designed and developed large-scale data pipelines using python, airflow, and spark to integrate data from various sources
+* built and deployed data models using sql and data modeling techniques to support business intelligence and analytics
+* collaborated with cross-functional teams to implement data-driven solutions using cloud platforms (aws) and containerization technologies (docker, kubernetes)
+* developed and maintained data warehouses using snowflake and amazon redshift to support business intelligence and reporting
+* improved data processing efficiency by 30% through optimization of etl processes and data modeling
+
+data engineer, def startups (2018-2020)
+
+* built and maintained data pipelines using python, etl tools, and spark to integrate data from various sources
+* designed and developed data models using sql and data modeling techniques to support business intelligence and analytics
+* collaborated with data scientists to implement machine learning models using spark and python
+* deployed data pipelines using docker and kubernetes to ensure scalability and reliability
+
+education:
+
+* master of science in computer science, xyz university (2015-2017)
+	+ coursework: data science, machine learning, database systems, operating systems
+	+ thesis: "design and implementation of a scalable data pipeline using apache spark and airflow"
+
+achievements:
+
+* aws certified data engineer (2019)
+* certified apache spark developer (2018)
+* recipient of the xyz university award for outstanding contribution to data science (2017)
+
+references:
+available upon request.

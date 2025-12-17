@@ -1,0 +1,58 @@
+mira sharma
+contact information:
+
+* email: [mira.sharma@email.com](mailto:mira.sharma@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/mirasharma
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data systems. proficient in a range of technologies including python, sql, etl, airflow, spark, and data warehousing. proven track record of delivering high-quality solutions on time and within budget.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: etl, airflow, spark
+* data modeling: data warehousing, data architecture
+* cloud platforms: aws
+* containerization: docker
+* orchestration: kubernetes
+* operating systems: linux, windows
+* data visualization tools: tableau, power bi
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and developed a scalable data pipeline using python, spark, and airflow to process 100m+ records daily
+* built and maintained a data warehouse on aws redshift, incorporating data from multiple sources
+* implemented docker and kubernetes to containerize and orchestrate data engineering tasks
+* collaborated with cross-functional teams to design and implement data modeling and data architecture
+* improved data quality by 30% through data profiling and data validation
+
+data engineer, def startups (2015-2018)
+
+* developed etl processes in python and sql to integrate data from various sources
+* implemented data modeling and data warehousing using aws and redshift
+* created data visualizations using tableau and power bi to support business decision-making
+* worked on a team to design and implement a data pipeline using apache kafka and spark streaming
+
+education:
+
+* master of science in computer science, xyz university (2015)
+	+ coursework: data mining, database systems, computer systems, data structures and algorithms
+* bachelor of science in computer science, pqr university (2013)
+
+certifications:
+
+* aws certified developer - associate
+* certified data engineer, google cloud
+
+achievements:
+
+* winner, abc corporation hackathon (2019) - developed a data pipeline using python, spark, and airflow to process 100m+ records daily
+* featured speaker, def conference (2018) - presented on "designing and implementing scalable data pipelines using python and spark"
+* published research paper, xyz journal (2016) - "designing efficient data warehouses using data modeling and data architecture"
+
+references:
+available upon request.

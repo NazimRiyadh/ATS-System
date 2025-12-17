@@ -1,0 +1,65 @@
+Here's a sample resume for Nicole Reynolds:
+
+Nicole Reynolds
+UI Engineer
+
+Contact Information:
+
+* Email: [nreynolds@email.com](mailto:nreynolds@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/nicolerreynolds
+* GitHub: github.com/nicolerreynolds
+
+Professional Summary:
+
+Highly skilled UI Engineer with 5+ years of experience in designing and developing user interfaces for web applications. Proficient in HTML, CSS, and React, with a strong understanding of front-end development principles and best practices. Proven track record of delivering high-quality, responsive, and accessible UI components that meet business requirements and user needs.
+
+Technical Skills:
+
+* Programming languages: HTML, CSS, JavaScript
+* Frameworks: React, Redux
+* Libraries: Material-UI, Bootstrap
+* Tools: Webpack, Babel, Jest
+* Operating Systems: Windows, macOS, Linux
+* Version Control: Git
+
+Professional Experience:
+
+Senior UI Engineer, ABC Company (2018-Present)
+
+* Designed and developed responsive, mobile-first UI components for a suite of web applications
+* Collaborated with cross-functional teams to identify and prioritize feature requests and technical debt
+* Implemented accessibility best practices to ensure compliance with WCAG 2.1 guidelines
+* Mentored junior engineers in front-end development best practices and techniques
+* Participated in code reviews to ensure high-quality code and adherence to coding standards
+
+UI Engineer, DEF Agency (2015-2018)
+
+* Built and maintained UI components for multiple web applications using React and Redux
+* Worked closely with designers to implement UI designs and ensure pixel-perfect implementation
+* Optimized UI components for performance and responsiveness
+* Collaborated with QA engineers to identify and fix UI-related bugs
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* Developed and maintained a reusable UI component library that reduced code duplication by 30%
+* Implemented a caching mechanism for UI components, resulting in a 20% reduction in page load times
+* Collaborated with the design team to implement a new UI design system, resulting in a 25% increase in user engagement
+
+Certifications:
+
+* Certified React Developer, React Training Center (2017)
+* Certified Front-end Developer, Front-end Masters (2015)
+
+Relevant Projects:
+
+* [Personal Project 1: Todo List App](https://github.com/nicolerreynolds/todo-list-app)
+* [Personal Project 2: Weather App](https://github.com/nicolerreynolds/weather-app)
+
+References:
+
+Available upon request.

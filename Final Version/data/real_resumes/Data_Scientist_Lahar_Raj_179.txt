@@ -1,0 +1,55 @@
+Here is a detailed dummy resume for candidate Lahar Raj, who is interviewing for the role of Data Scientist:
+
+**Lahar Raj**
+**Contact Information:**
+
+* Email: [lahar.raj@example.com](mailto:lahar.raj@example.com)
+* Phone: (123) 456-7890
+
+**Objective:**
+To leverage my analytical skills and passion for data-driven decision making as a Data Scientist, where I can contribute to the growth of the organization and continuously learn and develop my skills.
+
+**Skills:**
+
+* Programming languages: Python, R, SQL
+* Machine Learning: Scikit-learn, TensorFlow, Keras
+* Data Visualization: Matplotlib, Seaborn, Tableau
+* Data Preprocessing: Pandas, NumPy
+* Statistics: Hypothesis testing, Regression analysis, Time series analysis
+* Operating Systems: Windows, Linux
+* Tools: Jupyter Notebook, Git, Docker
+* Familiarity with cloud platforms: AWS, Google Cloud
+
+**Experience:**
+
+* **Data Analyst, XYZ Analytics (Intern)** (2022 - 2023)
+	+ Collected and analyzed data from various sources to identify trends and insights
+	+ Built predictive models using regression and classification algorithms
+	+ Created interactive dashboards using Tableau to present findings to stakeholders
+* **Junior Data Scientist, ABC Corporation (Intern)** (2021 - 2022)
+	+ Worked on a project to build a recommender system using collaborative filtering
+	+ Developed and deployed a natural language processing model using NLTK and spaCy
+	+ Collaborated with cross-functional teams to integrate data insights into business decisions
+* **Personal Projects:**
+	+ Built a machine learning model to predict house prices using historical data
+	+ Created a web scrapers using BeautifulSoup and Scrapy to collect data from various websites
+	+ Developed a chatbot using Rasa and Dialogflow to assist users with queries
+
+**Education:**
+
+* **Bachelor of Science in Computer Science**, University of California, Berkeley (2022)
+* **Certificate in Data Science**, Data Science Council of America (DASCA) (2021)
+
+**Languages Known:**
+
+* English (Native)
+* Hindi (Fluent)
+* Spanish (Basic)
+
+**Work Environment Preference:**
+
+* Experience level: Beginner
+* Work environment: Hybrid (Remote and In-office)
+* Availability: Monday to Friday, 9am to 5pm
+
+Note: This is a sample resume and may not reflect the actual experience or qualifications of a real candidate.

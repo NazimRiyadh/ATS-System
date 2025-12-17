@@ -1,0 +1,56 @@
+aarav singh
+contact information:
+
+* email: [aarsingh@example.com](mailto:aarsingh@example.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/aaravsingh
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable, efficient, and reliable software systems. proficient in a range of programming languages, including java, python, and javascript, with expertise in system design, algorithms, data structures, and rest apis.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design and architecture
+* algorithms and data structures
+* rest apis
+* git
+* ci/cd
+* microservices
+* agile methodologies
+
+professional experience:
+
+software engineer, techcorp (2020-present)
+
+* designed and developed multiple microservices using java and python, resulting in a 30% increase in system performance and a 25% reduction in latency
+* implemented rest apis using spring boot and flask, with over 100k api requests per day
+* collaborated with cross-functional teams to design and implement ci/cd pipelines using jenkins and gitlab ci/cd
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+junior software engineer, codebridge (2018-2020)
+
+* developed and maintained multiple web applications using javascript, html, and css
+* designed and implemented data structures and algorithms to optimize system performance
+* worked on a team to design and implement a restful api using node.js and express.js
+* participated in technical discussions and provided input on system design and architecture
+
+education:
+
+* bachelor of technology in computer science, delhi technological university (2015-2019)
+	+ coursework: data structures, algorithms, computer networks, operating systems, database systems
+	+ project: developed a web-based dashboard using python and django to monitor and analyze system performance
+
+achievements:
+
+* winner, hackathon 2019: developed a chatbot using python and natural language processing (nlp) techniques, which ranked top 3 in the hackathon
+* published in international journal of computer science and engineering (ijcse): published a research paper on "optimizing system performance using data structures and algorithms"
+* certified in aws certified developer - associate: completed the aws certified developer - associate certification program to demonstrate expertise in designing and developing scalable, secure, and reliable cloud-based systems
+
+certifications:
+
+* aws certified developer - associate
+* certified scrum master (csm)
+
+references:
+available upon request.

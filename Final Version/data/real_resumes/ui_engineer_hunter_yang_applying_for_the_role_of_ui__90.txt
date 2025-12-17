@@ -1,0 +1,58 @@
+here's a sample resume for hunter yang applying for the role of ui engineer:
+
+hunter yang
+contact information:
+
+* email: [hunter.yang@email.com](mailto:hunter.yang@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/hunteryang
+* github: github.com/hunteryang
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in building scalable and user-friendly web applications using html, javascript, and react. proficient in designing and implementing visually appealing and responsive ui components. strong understanding of front-end development principles and best practices.
+
+technical skills:
+
+* programming languages: html, javascript, react
+* front-end frameworks: react, redux
+* libraries: react router, react query
+* tools: webpack, babel, eslint
+* version control: git
+* operating systems: windows, macos
+
+professional experience:
+
+ui engineer, abc company (2019-present)
+
+* designed and developed responsive and user-friendly ui components for web applications using react and html/css
+* collaborated with back-end engineers to integrate ui components with api endpoints
+* implemented redux for state management and react router for client-side routing
+* conducted code reviews and ensured adherence to coding standards and best practices
+* participated in agile development processes and contributed to sprint planning and estimation
+
+front-end developer, def startups (2018-2019)
+
+* built responsive ui components using html, css, and javascript for web applications
+* utilized react to create reusable and modular ui components
+* integrated third-party libraries and apis into web applications
+* collaborated with designers to implement ui/ux design specifications
+* participated in code reviews and ensured code quality and maintainability
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015-2019)
+
+projects:
+
+* personal portfolio: a responsive web application built using react and html/css, showcasing my skills and experience as a ui engineer.
+* to-do list app: a simple to-do list application built using react and redux, demonstrating my understanding of state management and client-side routing.
+
+certifications:
+
+* certified react developer, react training program (2020)
+* certified front-end developer, front-end masters (2019)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experiences and the job you're applying for.

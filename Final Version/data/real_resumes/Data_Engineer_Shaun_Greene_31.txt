@@ -1,0 +1,59 @@
+Here's a professional resume for Shaun Greene:
+
+Shaun Greene
+Contact Information:
+
+* Email: [shaun.greene@email.com](mailto:shaun.greene@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/shaungreene
+* GitHub: github.com/shaungreene
+
+Professional Summary:
+Highly motivated and experienced Data Engineer with a strong background in MLOps, Cloud Platforms, and Big Data technologies. Proven track record of delivering scalable and efficient data solutions, with expertise in Spark, Data Warehousing, and Cloud-based architectures. Skilled in designing and implementing data pipelines, data governance, and data quality frameworks. Collaborative team player with excellent communication and problem-solving skills.
+
+Technical Skills:
+
+* Programming languages: Python, Java, Scala
+* Cloud Platforms: AWS, GCP, Azure
+* Big Data Technologies: Apache Spark, Hadoop, NoSQL databases (e.g., Cassandra, MongoDB)
+* Data Warehousing: Amazon Redshift, Google BigQuery, Snowflake
+* Data Engineering Tools: Airflow, Apache Beam, Kafka
+* Machine Learning: scikit-learn, TensorFlow, PyTorch
+* Data Governance: Apache Atlas, Apache Ranger
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2018-Present)
+
+* Designed and implemented scalable data pipelines for batch and real-time data processing using Apache Spark and AWS Glue
+* Built and maintained a data warehouse on Amazon Redshift, integrating data from multiple sources using AWS Lake Formation
+* Developed and deployed machine learning models using scikit-learn and TensorFlow on AWS SageMaker
+* Collaborated with cross-functional teams to design and implement data governance frameworks using Apache Atlas and Apache Ranger
+* Mentored junior engineers in data engineering best practices and provided technical guidance on data-related projects
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented data pipelines for data warehousing and business intelligence using Apache Beam and Google BigQuery
+* Built and maintained a real-time data processing system using Apache Kafka and Apache Spark
+* Developed and deployed data quality frameworks using Apache Airflow and Apache Beam
+* Collaborated with data scientists to design and implement machine learning models using scikit-learn and PyTorch
+* Worked with stakeholders to understand business requirements and design data solutions to meet those needs
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional, Amazon Web Services (2019)
+* Google Cloud Certified - Professional Data Engineer, Google Cloud (2020)
+
+Achievements:
+
+* Developed and deployed a scalable data pipeline for a major retail client, resulting in a 30% reduction in data processing time and a 25% increase in data quality
+* Designed and implemented a real-time data processing system for a financial services client, resulting in a 90% reduction in data latency and a 50% increase in data accuracy
+* Collaborated with a cross-functional team to design and implement a data governance framework for a major healthcare client, resulting in a 40% reduction in data errors and a 30% increase in data compliance
+
+References:
+Available upon request.

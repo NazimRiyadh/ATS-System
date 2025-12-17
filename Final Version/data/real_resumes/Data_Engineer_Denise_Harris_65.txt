@@ -1,0 +1,57 @@
+Denise Harris
+Data Engineer
+
+Contact Information:
+
+* Email: [denise.harris@email.com](mailto:denise.harris@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/deniseharris
+
+Summary:
+Highly skilled Data Engineer with 5+ years of experience in designing, developing, and deploying large-scale data processing systems, data pipelines, and data warehousing solutions. Proficient in Big Data Frameworks, Data Pipelines, ETL Tools, Databases, and Cloud Platforms. Strong expertise in Python programming language and experience in working with various databases and cloud platforms.
+
+Technical Skills:
+
+* Big Data Frameworks: Hadoop, Spark, Flink
+* Data Pipelines: Apache Beam, Apache Airflow
+* ETL Tools: Informatica PowerCenter, Talend
+* Databases: MySQL, PostgreSQL, Oracle
+* Cloud Platforms: AWS, GCP, Azure
+* Programming Language: Python
+* Data Warehousing: Data modeling, data loading, data processing
+
+Professional Experience:
+
+Senior Data Engineer, Data Solutions Inc. (2018-Present)
+
+* Designed and developed large-scale data processing systems using Hadoop and Spark
+* Built and deployed data pipelines using Apache Beam and Apache Airflow
+* Developed and maintained ETL processes using Informatica PowerCenter and Talend
+* Worked with cross-functional teams to implement data warehousing solutions
+* Collaborated with data scientists to develop and deploy machine learning models
+
+Data Engineer, Data Analytics Firm (2015-2018)
+
+* Developed and maintained databases using MySQL and PostgreSQL
+* Designed and implemented data pipelines using Apache Beam and Apache Airflow
+* Built and deployed data warehousing solutions using Oracle and AWS
+* Worked with data engineers to develop and deploy data processing systems using Hadoop and Spark
+* Collaborated with data analysts to develop and deploy data visualization tools
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Big Data Engineer, Big Data Certification Board (2018)
+
+Projects:
+
+* Designed and developed a large-scale data processing system for a retail company using Hadoop and Spark
+* Built and deployed a data pipeline for a healthcare company using Apache Beam and Apache Airflow
+* Developed and maintained a data warehousing solution for a financial company using Oracle and AWS
+
+References:
+Available upon request.

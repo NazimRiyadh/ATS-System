@@ -1,0 +1,74 @@
+Here's a sample resume for Stacey Francis, a DevOps Engineer candidate:
+
+Stacey Francis
+DevOps Engineer
+
+Contact Information:
+
+* Email: [stacey.francis@email.com](mailto:stacey.francis@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/staceyfrancis
+* GitHub: github.com/staceyfrancis
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Docker, Infrastructure as Code, and Cloud Platforms. Proven track record of improving deployment efficiency, reducing downtime, and increasing team productivity. Skilled in automating manual processes, optimizing system performance, and ensuring high availability of applications.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, AWS CloudFormation, Azure Resource Manager
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Operating Systems: Linux, Windows
+* Programming Languages: Python, Bash, PowerShell
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Docker to automate deployment of web applications
+* Migrated infrastructure to AWS Cloud using Terraform, resulting in 30% reduction in costs and 25% improvement in deployment speed
+* Collaborated with cross-functional teams to develop and deploy containerized applications using Kubernetes
+* Implemented monitoring and logging tools to improve system visibility and troubleshooting efficiency
+* Participated in on-call rotations to ensure 24/7 system availability
+
+DevOps Engineer, DEF Startups (2015-2018)
+
+* Developed and maintained infrastructure as code using AWS CloudFormation, resulting in 20% reduction in deployment time
+* Implemented automated testing and validation using GitLab CI/CD, reducing manual testing time by 40%
+* Collaborated with engineering teams to develop and deploy cloud-based applications using Azure
+* Designed and implemented a disaster recovery plan using SQL Server and Azure Backup
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* Certified in AWS Certified Developer – Associate (2019)
+* Certified in Azure Developer Associate (2018)
+* Featured speaker at DevOpsDays conference (2019)
+* Published articles on DevOps and Cloud Computing on popular industry blogs
+
+Certifications:
+
+* AWS Certified Developer – Associate
+* Azure Developer Associate
+* Docker Certified Associate
+
+Tools and Software:
+
+* Jenkins
+* Docker
+* Terraform
+* AWS CloudFormation
+* Azure Resource Manager
+* Kubernetes
+* GitLab CI/CD
+* CircleCI
+* Python
+* Bash
+* PowerShell
+
+This is just a sample, and you should tailor your resume to your specific experience and the job you're applying for. Remember to highlight your achievements and the value you can bring to the company. Good luck with your job search!

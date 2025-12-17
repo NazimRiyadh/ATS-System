@@ -1,0 +1,52 @@
+here's a sample resume for harold rivera:
+
+harold rivera
+contact information:
+
+* email: [harold.rivera@email.com](mailto:harold.rivera@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/haroldrivera
+* github: github.com/haroldrivera
+
+summary:
+highly motivated and detail-oriented software engineer with experience in designing and developing scalable, efficient, and reliable software solutions using java, c++, and other programming languages. skilled in algorithms, data structures, and system design. strong problem-solving skills and excellent communication skills.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, greedy, dynamic programming, recursion
+* system design: microservices, restful apis, database design, cloud computing (aws, azure)
+* development tools: git, jenkins, maven, gradle, eclipse, intellij idea
+* operating systems: windows, linux, macos
+
+professional experience:
+
+* software engineer, abc company (2018-present)
+	+ designed and developed multiple software applications using java and c++ for clients in the finance and healthcare industries.
+	+ collaborated with cross-functional teams to identify requirements and design solutions.
+	+ implemented and tested software components using unit testing and integration testing frameworks.
+	+ participated in code reviews and ensured adherence to coding standards.
+* software development intern, def company (summer 2017)
+	+ assisted in the development of a web application using java and spring framework.
+	+ contributed to the design and implementation of algorithms for data processing.
+	+ collaborated with the qa team to identify and fix bugs.
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2018)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+projects:
+
+* e-commerce website: designed and developed an e-commerce website using java, spring framework, and mysql.
+* chatbot: developed a chatbot using java and natural language processing (nlp) techniques.
+* sorting algorithm visualizer: created a visualizer for sorting algorithms using java and javafx.
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified c++ programmer, bjarne stroustrup (2018)
+
+references:
+available upon request.

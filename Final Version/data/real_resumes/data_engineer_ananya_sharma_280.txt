@@ -1,0 +1,52 @@
+ananya sharma
+contact information:
+
+* email: [ananya.sharma@email.com](mailto:ananya.sharma@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ananyasharma
+
+summary:
+highly motivated data engineer with 5+ years of experience in designing, developing, and deploying large-scale data systems. proficient in a range of technologies including python, sql, etl, airflow, spark, data modeling, and cloud platforms like aws. proven track record of delivering high-quality data solutions that drive business growth and improve operational efficiency.
+
+professional experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* designed and implemented a scalable data warehousing solution using aws redshift, leveraging etl processes and airflow workflows to automate data pipeline management.
+* collaborated with cross-functional teams to develop and maintain data models, ensuring data consistency and integrity across various systems.
+* utilized spark and python to build data processing pipelines, leveraging libraries such as pandas and numpy for data manipulation and analysis.
+* implemented containerization using docker and orchestration using kubernetes to deploy and manage data engineering applications.
+
+data engineer, def startups (2018-2020)
+
+* developed and maintained etl pipelines using python and sql to extract, transform, and load data from various sources into a centralized data warehouse.
+* built and deployed data processing applications using spark, leveraging libraries such as pyspark and spark sql for data manipulation and analysis.
+* designed and implemented data models using entity-relationship diagrams and sql schema design, ensuring data consistency and integrity.
+* collaborated with data scientists to develop and deploy machine learning models, leveraging data engineering expertise to optimize model performance and scalability.
+
+education:
+
+* master of science in computer science, xyz university (2018)
+* bachelor of technology in computer science, abc university (2016)
+
+skills:
+
+* programming languages: python, sql
+* data engineering tools: etl, airflow, spark, data modeling
+* cloud platforms: aws
+* containerization: docker
+* orchestration: kubernetes
+* data warehousing: aws redshift
+* data modeling: entity-relationship diagrams, sql schema design
+* operating systems: linux, windows
+
+achievements:
+
+* developed and deployed a scalable data pipeline using airflow and spark, resulting in a 30% reduction in data processing time and a 25% reduction in costs.
+* designed and implemented a data warehousing solution using aws redshift, resulting in a 40% increase in data accessibility and a 20% increase in business intelligence insights.
+* collaborated with data scientists to develop and deploy a machine learning model using spark and python, resulting in a 25% increase in model accuracy and a 15% reduction in model training time.
+
+certifications:
+
+* certified data engineer, data engineering certification board (2020)
+* certified aws developer, aws certification (2019)

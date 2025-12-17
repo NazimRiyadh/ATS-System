@@ -1,0 +1,55 @@
+Here's a sample resume for Mrs. Megan Rowe:
+
+Megan Rowe
+Contact Information:
+
+* Email: [megan.rowe@email.com](mailto:megan.rowe@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/meganrowe
+
+Professional Summary:
+Highly motivated and detail-oriented QA Engineer with 5+ years of experience in automated testing, performance testing, and test case development. Skilled in Selenium and passionate about delivering high-quality software products. Proven track record of improving test efficiency, reducing defects, and ensuring timely project delivery.
+
+Technical Skills:
+
+* Automated Testing: Selenium, TestNG, Appium
+* Performance Testing: JMeter, LoadRunner
+* Test Case Development: TestRail, TestLink
+* Programming Languages: Java, Python, C#
+* Operating Systems: Windows, Linux, macOS
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+QA Engineer, XYZ Corporation (2018-Present)
+
+* Designed and developed automated test scripts using Selenium and TestNG to ensure 99% test coverage
+* Conducted performance testing using JMeter to identify and mitigate bottlenecks, resulting in a 30% reduction in application response time
+* Developed and maintained test cases using TestRail, ensuring 95% test coverage and 0% defect leakage
+* Collaborated with development teams to identify and prioritize defects, ensuring timely project delivery
+* Mentored junior team members on test automation best practices and tooling
+
+QA Engineer, ABC Inc. (2015-2018)
+
+* Developed and executed manual test cases for web and mobile applications, resulting in a 20% reduction in defects
+* Conducted exploratory testing to identify and report defects, resulting in a 15% reduction in defect leakage
+* Participated in Agile development teams, ensuring timely delivery of high-quality software products
+* Collaborated with cross-functional teams to identify and prioritize testing efforts
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2015)
+
+Certifications:
+
+* Certified Scrum Master (CSM), Scrum Alliance (2018)
+* Certified Associate in Software Testing (CAST), International Software Testing Qualifications Board (2016)
+
+Achievements:
+
+* Recipient of the "Best QA Engineer of the Year" award at XYZ Corporation (2020)
+* Published a paper on "Automated Testing Using Selenium and TestNG" at the International Conference on Software Testing (2019)
+* Developed and maintained a testing framework that reduced test execution time by 40% and improved test coverage by 25%
+
+References:
+Available upon request.

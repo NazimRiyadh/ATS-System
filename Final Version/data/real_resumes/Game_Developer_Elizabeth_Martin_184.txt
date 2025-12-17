@@ -1,0 +1,30 @@
+Here's a sample resume for Elizabeth Martin:
+
+Elizabeth Martin
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [elizabeth.martin@email.com](mailto:elizabeth.martin@email.com)
+* LinkedIn: linkedin.com/in/elizabethmartin
+* GitHub: github.com/elizabethmartin
+
+Summary:
+Highly motivated and detail-oriented game developer with 5+ years of experience in creating immersive gaming experiences using Unreal Engine, C#, and 3D modeling techniques. Skilled in game physics, gameplay programming, and AI development. Proficient in agile development methodologies and passionate about delivering high-quality products on time.
+
+Technical Skills:
+
+* Programming languages: C#, C++, Blueprints (Unreal Engine)
+* Game engines: Unreal Engine 4, Unity
+* 3D modeling tools: Maya, 3ds Max, Blender
+* Game physics engines: PhysX, Havok
+* Version control systems: Git, Perforce
+* Agile development methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior Game Developer, GameDev Studio (2018-Present)
+
+* Led the development of multiple AAA titles using Unreal Engine 4, including a team of 10 developers
+* Designed and implemented game physics systems, including ragdoll simulation and soft body dynamics
+* Collaborated with artists to integrate 3D models and textures into the game engine
+* Implemented AI behaviors using C

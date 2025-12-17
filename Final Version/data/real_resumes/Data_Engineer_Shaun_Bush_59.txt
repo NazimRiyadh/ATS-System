@@ -1,0 +1,49 @@
+Shaun Bush
+Contact Information:
+
+* Email: [shaun.bush@email.com](mailto:shaun.bush@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/shaunbush
+
+Summary:
+Results-driven data engineer with expertise in designing, developing, and deploying scalable data pipelines and ETL processes using Python and various data warehousing tools. Proven track record of leveraging CI/CD tools to automate testing, deployment, and monitoring of data engineering workflows.
+
+Technical Skills:
+
+* Programming languages: Python
+* Data pipelines: Airflow, AWS Glue
+* ETL tools: Apache Beam, AWS Glue
+* Data warehousing: Amazon Redshift, Google BigQuery
+* CI/CD tools: Jenkins, GitLab CI/CD
+* Operating Systems: Linux, Windows
+* Database Management: MySQL, PostgreSQL
+
+Professional Experience:
+
+* Data Engineer, ABC Corporation (20XX-20XX)
+	+ Designed and developed complex data pipelines using Apache Beam and AWS Glue to merge and transform data from various sources into a unified data warehouse.
+	+ Implemented automated testing, deployment, and monitoring of data engineering workflows using Jenkins and GitLab CI/CD.
+	+ Collaborated with data analysts to design and develop data models and data visualizations to support business decisions.
+	+ Ensured data quality and integrity by implementing data validation and data cleansing processes.
+* Junior Data Engineer, DEF Startups (20XX-20XX)
+	+ Built and maintained data pipelines using Python and Apache Beam to process and transform data from various sources.
+	+ Worked with data scientists to design and develop data models and data visualizations to support machine learning models.
+	+ Assisted in the development of ETL processes using AWS Glue and Apache Beam.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (20XX-20XX)
+* Certificate in Data Science, ABC University (20XX-20XX)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (20XX)
+* Certified Scrum Master, Scrum Alliance (20XX)
+
+Personal Projects:
+
+* Data Pipeline for Sports Analytics: Designed and developed a data pipeline using Python and Apache Beam to process and transform sports data from various sources.
+* ETL Process for Healthcare Data: Built and maintained an ETL process using AWS Glue and Apache Beam to process and transform healthcare data from various sources.
+
+References:
+Available upon request.

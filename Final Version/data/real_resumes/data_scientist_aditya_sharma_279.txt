@@ -1,0 +1,55 @@
+aditya sharma
+contact information:
+
+* email: [aditya.sharma@email.com](mailto:aditya.sharma@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/adityasharma
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in leveraging statistical and machine learning techniques to drive business growth. skilled in python, sql, and data visualization tools, with a strong foundation in statistical analysis and machine learning algorithms.
+
+technical skills:
+
+* programming languages: python
+* data analysis and visualization tools: matplotlib, seaborn, plotly
+* machine learning libraries: scikit-learn, tensorflow
+* statistical analysis: hypothesis testing, regression analysis
+* data storage and management: sql, nosql databases
+* operating systems: windows, linux
+* familiarity with: a/b testing, bayesian methods
+
+professional experience:
+
+data scientist, abc corporation (2020-present)
+
+* collaborated with cross-functional teams to design and implement data-driven solutions, resulting in a 25% increase in sales
+* developed and deployed multiple machine learning models using scikit-learn and tensorflow, achieving an accuracy of 95%
+* conducted a/b testing to optimize user engagement, resulting in a 30% increase in user retention
+* created data visualizations using matplotlib and seaborn to communicate insights to stakeholders
+
+data analyst, def startups (2018-2020)
+
+* analyzed large datasets to identify trends and patterns, informing business decisions
+* developed and maintained sql databases to store and manage large datasets
+* built statistical models using regression analysis and hypothesis testing to predict user behavior
+* created data visualizations using plotly to communicate findings to stakeholders
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: machine learning, deep learning, natural language processing, data visualization
+	+ thesis: "applying machine learning techniques to predict customer churn"
+* bachelor of engineering in computer science, abc university (2016)
+	+ coursework: algorithms, data structures, computer systems, operating systems
+
+achievements:
+
+* winner, xyz university data science competition (2018)
+	+ developed a predictive model using scikit-learn and tensorflow that achieved a 90% accuracy rate
+* published paper, "applying machine learning techniques to predict customer churn" (2020)
+	+ presented research findings at the annual data science conference
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)

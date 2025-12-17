@@ -1,0 +1,52 @@
+here's a sample resume for jeremy hill applying for a software engineer role:
+
+jeremy hill
+contact information:
+
+* address: 123 main st, anytown, usa 12345
+* phone: (555) 123-4567
+* email: [jeremy.hill@email.com](mailto:jeremy.hill@email.com)
+* linkedin: linkedin.com/in/jeremyhillsoftware
+
+summary:
+highly motivated and detail-oriented software engineer with a strong background in designing, developing, and testing software applications using java, c++, and python. proficient in algorithms and data structures, with excellent problem-solving skills and a passion for building scalable and efficient software solutions.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, dynamic programming, recursion
+* operating systems: windows, linux, macos
+* development tools: git, maven, gradle, visual studio code, intellij idea
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+* software engineer, xyz corporation (20xx-20xx)
+	+ designed and developed multiple software applications using java and c++ for clients in the finance and healthcare industries.
+	+ collaborated with cross-functional teams to identify requirements, design solutions, and implement features.
+	+ implemented data structures and algorithms to optimize system performance and scalability.
+	+ participated in code reviews, testing, and debugging to ensure high-quality software releases.
+* software development intern, abc startups (summer 20xx)
+	+ contributed to the development of a cloud-based platform using python and flask.
+	+ worked on building a recommendation system using collaborative filtering and natural language processing techniques.
+	+ assisted in testing and debugging the application to ensure stability and performance.
+
+education:
+
+* bachelor of science in computer science, anytown university (20xx-20xx)
+	+ coursework: data structures, algorithms, computer systems, database systems, software engineering, computer networks
+
+projects:
+
+* personal project: developed a scalable web crawler using python and beautifulsoup to extract data from websites.
+* university project: designed and implemented a game using java and the java 2d api, featuring ai-powered opponent logic.
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (20xx)
+* certified java developer, oracle corporation (20xx)
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should tailor your own resume to fit your specific experiences and the job you're applying for. remember to proofread your resume multiple times for grammar, spelling, and formatting errors before submitting it to potential employers.

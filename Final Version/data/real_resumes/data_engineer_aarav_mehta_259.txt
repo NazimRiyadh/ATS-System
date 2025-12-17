@@ -1,0 +1,61 @@
+aarav mehta
+contact information:
+
+* email: [aaravmehta@email.com](mailto:aaravmehta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/aaravmehta
+* github: github.com/aaravmehta
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data processing systems. skilled in python, sql, etl, airflow, spark, and data modeling. proficient in cloud-based technologies such as aws, docker, and kubernetes. proven ability to work in a team environment and deliver projects on time.
+
+technical skills:
+
+* programming languages: python, sql
+* data integration: etl, airflow
+* big data processing: spark
+* data modeling: database design, data warehousing
+* cloud computing: aws
+* containerization: docker
+* orchestration: kubernetes
+* data warehousing: data modeling, etl, data quality
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and developed etl pipelines using airflow and python to extract data from various sources, transform, and load into a data warehouse.
+* developed and maintained data processing systems using spark, python, and sql to process large datasets.
+* collaborated with cross-functional teams to design and implement data models, ensuring data consistency and accuracy.
+* implemented data quality checks and monitoring tools using python and sql to ensure data accuracy and integrity.
+* deployed and managed containerized applications using docker and kubernetes on aws.
+
+data analyst, def startups (2015-2018)
+
+* developed and maintained databases using sql and python to store and analyze customer data.
+* designed and implemented data visualizations using tableau and power bi to present insights to stakeholders.
+* collaborated with business stakeholders to identify data needs and develop data-driven solutions.
+* developed and maintained data processing scripts using python and sql to extract, transform, and load data into databases.
+
+education:
+
+* master of science in computer science, xyz university (2015)
+	+ coursework: data mining, machine learning, database systems, and operating systems.
+	+ thesis: "design and implementation of a distributed data processing system using spark and python".
+* bachelor of science in computer science, abc university (2010-2014)
+	+ coursework: data structures, algorithms, computer systems, and web development.
+
+achievements:
+
+* designed and developed a data processing system using spark and python that increased data processing time by 90%.
+* implemented data quality checks and monitoring tools using python and sql that reduced data errors by 95%.
+* collaborated with a team to design and develop a data warehouse using aws and etl processes that increased data availability by 99%.
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified aws cloud practitioner, amazon web services (2018)
+
+references:
+available upon request.

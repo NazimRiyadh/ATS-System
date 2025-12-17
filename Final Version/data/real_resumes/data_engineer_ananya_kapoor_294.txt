@@ -1,0 +1,58 @@
+ananya kapoor
+contact information:
+
+* email: [ananya.kapoor@email.com](mailto:ananya.kapoor@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ananyakapoor
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data systems. proficient in a range of technologies including python, sql, etl, airflow, spark, data modeling, aws, docker, and kubernetes. proven track record of delivering high-quality solutions that drive business growth.
+
+technical skills:
+
+* programming languages: python
+* relational databases: sql
+* etl tools: etl, apache beam
+* data processing frameworks: apache airflow, apache spark
+* data modeling: data warehousing, data governance
+* cloud platforms: aws
+* containerization: docker
+* orchestration: kubernetes
+* data warehousing: snowflake, redshift
+
+professional experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* design and develop large-scale data pipelines using apache airflow and apache beam
+* develop and maintain data models for data warehousing and data governance
+* collaborate with cross-functional teams to integrate data from various sources
+* optimize data processing and storage using apache spark and aws
+* deploy and manage containerized applications using docker and kubernetes
+
+data engineer, def startups (2018-2020)
+
+* designed and developed etl processes using python and sql
+* built and maintained data models for data warehousing and data governance
+* developed and deployed data pipelines using apache airflow and apache beam
+* collaborated with data scientists to integrate data from various sources
+* implemented data quality checks and data validation using python and sql
+
+education:
+
+* master of science in data science, xyz university (2018)
+* bachelor of technology in computer science, abc university (2016)
+
+achievements:
+
+* successfully developed and deployed a data pipeline that reduced data processing time by 80% and improved data quality by 95%
+* designed and developed a data model that improved data governance by 90% and reduced data latency by 75%
+* collaborated with cross-functional teams to integrate data from various sources, resulting in a 25% increase in business growth
+
+certifications:
+
+* aws certified developer - associate
+* certified data engineer, data science council of america
+
+references:
+available upon request.

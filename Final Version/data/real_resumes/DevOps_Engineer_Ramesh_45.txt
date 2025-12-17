@@ -1,0 +1,49 @@
+Here's a professional resume for Ramesh:
+
+**Ramesh**
+**DevOps Engineer**
+
+**Contact Information:**
+
+* Email: [ramesh@email.com](mailto:ramesh@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/rameshdevops
+
+**Objective:**
+To leverage my 9 years of experience in DevOps engineering to drive efficiency, scalability, and innovation in a dynamic and forward-thinking organization.
+
+**Summary:**
+Highly skilled DevOps Engineer with 9 years of experience in designing, implementing, and managing scalable and efficient infrastructure solutions. Proficient in Kubernetes, CI/CD pipelines, and Linux, with a strong background in automation, monitoring, and troubleshooting.
+
+**Technical Skills:**
+
+* **Kubernetes**: Experience with cluster deployment, scaling, and management
+* **CI/CD Pipelines**: Proficient in Jenkins, GitLab CI/CD, and Travis CI
+* **Linux**: Expertise in Linux system administration, scripting, and troubleshooting
+* **Automation**: Strong experience with Ansible, Puppet, and Chef
+* **Monitoring and Logging**: Familiarity with Prometheus, Grafana, and ELK Stack
+* **Cloud Platforms**: Experience with AWS, Azure, and Google Cloud
+
+**Experience Summary:**
+
+* **DevOps Engineer**, ABC Corporation (2018-Present)
+	+ Designed and implemented scalable CI/CD pipelines for multiple microservices-based applications
+	+ Deployed and managed Kubernetes clusters for production environments
+	+ Developed and maintained Linux-based infrastructure for multiple applications
+	+ Collaborated with cross-functional teams to resolve production issues and improve overall system reliability
+* **Senior Linux Systems Administrator**, DEF Company (2015-2018)
+	+ Managed and maintained large-scale Linux-based infrastructure for multiple applications
+	+ Developed and implemented automation scripts using Ansible and Puppet
+	+ Troubleshot and resolved complex Linux-related issues in production environments
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+**Certifications:**
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Linux Professional (CLP)
+
+**References:**
+Available upon request.

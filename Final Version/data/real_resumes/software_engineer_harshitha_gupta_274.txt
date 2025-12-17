@@ -1,0 +1,65 @@
+harshitha gupta
+contact information:
+
+* email: [harshithagupta@email.com](mailto:harshithagupta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/harshithagupta
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software applications. proficient in multiple programming languages, including java, python, and javascript. skilled in system design, algorithms, data structures, rest apis, and microservices. strong understanding of cloud computing and devops principles.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: design principles, scalability, security
+* algorithms and data structures: time complexity, space complexity, sorting, searching
+* rest apis: design, implementation, testing
+* version control: git
+* continuous integration and deployment: jenkins, docker
+* microservices architecture: design, implementation, testing
+* cloud computing: aws, azure
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+senior software engineer, abc corporation (2018-present)
+
+* designed and developed multiple microservices-based applications using java, python, and javascript
+* implemented rest apis using spring boot, django, and node.js
+* collaborated with cross-functional teams to design and implement system architecture
+* implemented automated testing and deployment using jenkins and docker
+* utilized git for version control and continuous integration
+* participated in code reviews and ensured adherence to coding standards
+
+software engineer, def startups (2015-2018)
+
+* developed multiple web applications using java, python, and javascript
+* designed and implemented database schemas using mysql and mongodb
+* implemented system design principles for scalability and security
+* collaborated with the devops team to deploy applications on cloud platforms
+* utilized version control systems like git and svn
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015)
+
+achievements:
+
+* winner of the abc corporation hackathon (2019) for developing a scalable microservices-based application using java and spring boot
+* published a paper on "designing scalable microservices architecture" at the international conference on software engineering (2018)
+* awarded the "best software engineer" award at def startups (2017)
+
+certifications:
+
+* certified scrum master (csm)
+* certified java developer (ocpjp)
+* certified python developer (pcap)
+
+projects:
+
+* designed and developed a real-time analytics platform using java, spring boot, and apache kafka
+* developed a machine learning-based chatbot using python, tensorflow, and flask
+* implemented a scalable e-commerce application using javascript, node.js, and mongodb
+
+references:
+available upon request.

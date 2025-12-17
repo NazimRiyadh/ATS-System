@@ -1,0 +1,58 @@
+ananya bansal
+contact information:
+
+* email: [ananya.bansal@email.com](mailto:ananya.bansal@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ananyabansal
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying large-scale data processing systems. proficient in a range of technologies including python, sql, etl, airflow, spark, and cloud platforms such as aws. proven track record of delivering high-quality data solutions that drive business growth.
+
+technical skills:
+
+* programming languages: python
+* databases: sql, nosql
+* etl tools: apache beam, aws glue
+* data processing frameworks: apache spark, apache flink
+* data warehousing: amazon redshift, google bigquery
+* cloud platforms: amazon web services (aws), google cloud platform (gcp)
+* containerization: docker, kubernetes
+* data modeling: entity-relationship modeling, data warehousing
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and developed large-scale data processing systems using apache spark, apache beam, and aws glue to extract insights from customer data
+* built and maintained data pipelines using airflow to automate data processing and ensure high-quality data delivery
+* collaborated with cross-functional teams to design and implement data models, etl workflows, and data visualizations to support business decisions
+* developed and deployed containerized applications using docker and kubernetes to improve scalability and reliability
+* implemented data warehousing solutions using amazon redshift and google bigquery to provide fast and efficient data analysis
+
+data engineer, def startups (2015-2018)
+
+* built and maintained data pipelines using apache spark and aws glue to extract insights from customer data
+* designed and implemented data models using entity-relationship modeling to support data analysis and visualization
+* developed and deployed etl workflows using apache beam to automate data processing and ensure high-quality data delivery
+* collaborated with data scientists to develop and deploy machine learning models using scikit-learn and tensorflow
+* implemented data warehousing solutions using amazon redshift to provide fast and efficient data analysis
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015)
+
+achievements:
+
+* aws certified data engineer: passed the aws certified data engineer exam to demonstrate expertise in designing, building, and deploying scalable data architectures on aws
+* apache spark certification: passed the apache spark certification exam to demonstrate expertise in building scalable and fault-tolerant data processing systems using apache spark
+* published research paper: published a research paper on "large-scale data processing using apache spark and hadoop" in the international journal of computer science and engineering
+
+certifications:
+
+* aws certified data engineer
+* apache spark certification
+* docker certified associate
+* kubernetes certified administrator
+
+references:
+available upon request.

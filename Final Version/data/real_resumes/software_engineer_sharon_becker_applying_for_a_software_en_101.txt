@@ -1,0 +1,55 @@
+here's a sample resume for sharon becker applying for a software engineer role:
+
+sharon becker
+contact information:
+
+* address: [insert address]
+* phone: [insert phone number]
+* email: [sharon.becker@email.com](mailto:sharon.becker@email.com)
+* linkedin: [insert linkedin profile url]
+* github: [insert github profile url]
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software systems. proficient in multiple programming languages, including java, c++, and python. strong understanding of data structures and system design principles. passionate about collaborative team environments and delivering high-quality software solutions.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: restful apis, microservices architecture, load balancing, caching
+* development tools: git, jenkins, maven, gradle
+* operating systems: windows, linux, macos
+* familiarity with agile development methodologies and version control systems
+
+professional experience:
+
+software engineer, abc company (2018-present)
+
+* designed and developed multiple software features for a large-scale e-commerce platform using java, c++, and python
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* implemented data structures and algorithms to optimize system performance and scalability
+* participated in code reviews and ensured adherence to coding standards and best practices
+* deployed software solutions using jenkins and docker
+
+software development intern, def company (summer 2015)
+
+* contributed to the development of a mobile app using java and android studio
+* assisted in testing and debugging of the app to ensure high-quality releases
+* collaborated with the design team to create user interface components and layouts
+* participated in agile development meetings and provided input on project planning and estimation
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+certifications/awards:
+
+* certified java developer, oracle corporation (2019)
+* winner, hackathon challenge, def company (2016)
+
+projects:
+
+* personal project: developed a machine learning-based chatbot using python and the natural language toolkit (nltk) library
+* open-source contribution: contributed to the java-based apache commons project on github
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experiences and the job you're applying for. good luck with your job search!

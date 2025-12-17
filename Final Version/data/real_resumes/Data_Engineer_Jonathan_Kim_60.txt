@@ -1,0 +1,70 @@
+Jonathan Kim
+Contact Information:
+
+* Email: [jonathan.kim@email.com](mailto:jonathan.kim@email.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/jonathankim
+
+Summary:
+Highly motivated and experienced Data Engineer with expertise in designing, developing, and deploying scalable data pipelines and architectures on cloud platforms. Skilled in Big Data frameworks, databases, and data warehousing, with a strong background in data engineering and analytics.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop
+	+ Apache Spark
+	+ Apache Flink
+	+ Apache Storm
+* Data Pipelines:
+	+ Apache Airflow
+	+ Apache NiFi
+	+ AWS Glue
+* Databases:
+	+ Relational databases (MySQL, PostgreSQL)
+	+ NoSQL databases (MongoDB, Cassandra)
+	+ Time-series databases (InfluxDB, OpenTSDB)
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud Platform (GCP)
+* Data Warehousing:
+	+ Amazon Redshift
+	+ Google BigQuery
+	+ Snowflake
+* Programming Languages:
+	+ Python
+	+ Java
+	+ Scala
+	+ SQL
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed scalable data pipelines using Apache Beam and AWS Glue for ingesting and processing large datasets
+* Built and maintained data warehouses on Amazon Redshift and Google BigQuery for business intelligence and analytics
+* Collaborated with data scientists to develop and deploy machine learning models using Apache Spark and TensorFlow
+* Implemented data quality checks and data governance policies using Apache Airflow and AWS Lake Formation
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed and deployed real-time data processing systems using Apache Storm and Apache Flink
+* Designed and implemented data pipelines using Apache NiFi for data integration and ETL
+* Worked with cross-functional teams to implement data-driven solutions using data visualization tools like Tableau and Power BI
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+* Master of Science in Data Science, ABC University (2014-2016)
+
+Certifications:
+
+* AWS Certified Data Engineer - Specialty
+* Google Cloud Certified - Professional Data Engineer
+
+Projects:
+
+* Data Lake Architecture: Designed and implemented a data lake architecture using Apache Hadoop and Spark for storing and processing large datasets
+* Real-time Analytics: Developed a real-time analytics platform using Apache Storm and Apache Flink for processing high-volume data streams
+* Data Warehouse Optimization: Optimized a data warehouse on Amazon Redshift for improved query performance and data retrieval times

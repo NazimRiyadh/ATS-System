@@ -1,0 +1,56 @@
+ishaan iyer
+ui engineer
+
+contact information:
+
+* email: [ishaan.iyer@email.com](mailto:ishaan.iyer@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ishaan-iyer
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and developing user-centered interfaces for web applications. skilled in html, css, javascript, react, and ui/ux design. proficient in responsive design, web accessibility, and frontend testing. profound understanding of web performance and version control.
+
+technical skills:
+
+* programming languages: html, css, javascript
+* frontend frameworks: react
+* ui/ux design tools: sketch, figma, adobe xd
+* responsive design: mobile-first approach
+* web accessibility: wcag 2.1 guidelines
+* version control: git
+* frontend testing: jest, enzyme
+* web performance: optimizing load times, caching, and code splitting
+
+professional experience:
+
+ui engineer, abc company (2020-present)
+
+* designed and developed user-centered interfaces for web applications using react, html, and css
+* collaborated with cross-functional teams to ensure responsive design and accessibility best practices
+* implemented automated testing using jest and enzyme to ensure frontend reliability
+* optimized web performance by reducing load times and implementing caching mechanisms
+* contributed to the development of a frontend architecture that met the company's performance and scalability goals
+
+frontend developer, def startups (2018-2020)
+
+* developed responsive web applications using html, css, and javascript
+* utilized ui/ux design tools to create wireframes and prototypes for new features
+* implemented web accessibility features to ensure compliance with wcag 2.1 guidelines
+* collaborated with backend developers to integrate frontend features with api endpoints
+* participated in code reviews and ensured adherence to coding standards
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+* coursework: data structures, algorithms, computer systems, web development, and human-computer interaction
+
+achievements:
+
+* react conf 2020: attended the react conf 2020 conference and learned about the latest features and best practices in react development
+* ui design challenge: participated in a ui design challenge organized by a prominent design community and received recognition for outstanding design work
+* open-source contributions: contributed to open-source projects on github, including a popular react library, and gained experience in collaborative development
+
+certifications:
+
+* certified web accessibility specialist (cwas), web accessibility initiative (2020)
+* certified react developer, react training institute (2019)

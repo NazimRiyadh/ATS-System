@@ -1,0 +1,64 @@
+Here's a professional resume for Scott Mueller:
+
+Scott Mueller
+System Administrator
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [scott.mueller@email.com](mailto:scott.mueller@email.com)
+* LinkedIn: linkedin.com/in/scottmueller
+
+Professional Summary:
+
+Highly motivated and experienced System Administrator with a strong background in Linux/Unix, Active Directory, Virtualization, and System Monitoring. Proven track record of delivering high-quality services, ensuring system uptime, and optimizing system performance. Skilled in troubleshooting complex technical issues, implementing security measures, and collaborating with cross-functional teams to achieve business objectives.
+
+Technical Skills:
+
+* Operating Systems: Linux (Red Hat, CentOS), Unix (Solaris, AIX), Windows Server
+* Virtualization: VMware, KVM, Xen
+* System Monitoring: Nagios, Prometheus, Grafana
+* Active Directory: Microsoft, Samba
+* Scripting: Bash, Python, PowerShell
+* Networking: TCP/IP, DNS, DHCP
+
+Work Experience:
+
+Senior System Administrator
+ABC Corporation (2018-Present)
+
+* Manage and maintain a fleet of 200 Linux and Unix servers, ensuring 99.99% uptime and optimal performance
+* Implement and monitor system monitoring tools (Nagios, Prometheus, Grafana) to detect and resolve issues proactively
+* Collaborate with DevOps team to implement containerization (Docker) and orchestration (Kubernetes) for web application deployment
+* Develop and maintain scripts (Bash, Python) for automated system tasks, such as backups, updates, and patching
+
+System Administrator
+XYZ Inc. (2015-2018)
+
+* Managed and maintained a team of junior system administrators, providing guidance and training on system administration tasks
+* Implemented and configured Active Directory (Microsoft) for 500+ users, ensuring secure and efficient authentication
+* Migrated 100+ servers from Windows Server to Linux (Red Hat), resulting in significant cost savings and improved performance
+* Conducted regular security audits and implemented security measures to protect against threats
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* Awarded "System Administrator of the Year" by ABC Corporation (2020)
+* Completed Microsoft Certified Solutions Expert (MCSE) certification in Data Center (2018)
+* Published articles on Linux and Unix administration in industry publications (2015-2018)
+
+Certifications:
+
+* CompTIA Linux+ (2015)
+* CompTIA Unix+ (2015)
+* VMware VCP (2018)
+* Microsoft Certified Solutions Expert (MCSE) - Data Center (2018)
+
+References:
+
+Available upon request.
+
+I hope this helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

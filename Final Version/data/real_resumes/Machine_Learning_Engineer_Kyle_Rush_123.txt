@@ -1,0 +1,63 @@
+Here's a professional resume for Kyle Rush:
+
+Kyle Rush
+Machine Learning Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [kyle.rush@email.com](mailto:kyle.rush@email.com)
+* LinkedIn: linkedin.com/in/kylerushml
+* GitHub: github.com/kylerushml
+
+Summary:
+Highly motivated and detail-oriented Machine Learning Engineer with 3+ years of experience in developing and deploying scalable machine learning models using TensorFlow and other popular frameworks. Skilled in feature engineering, hyperparameter tuning, and model optimization. Proficient in working with large datasets and collaborating with cross-functional teams to drive business growth.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine learning frameworks: TensorFlow, scikit-learn, PyTorch
+* Data science tools: NumPy, pandas, Matplotlib, Seaborn
+* Operating systems: Linux, Windows
+* Agile development methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior Machine Learning Engineer, ABC Company (2020-Present)
+
+* Developed and deployed multiple machine learning models using TensorFlow, resulting in a 25% increase in revenue
+* Collaborated with data engineers to design and implement data pipelines, ensuring high-quality data for model training
+* Conducted hyperparameter tuning using techniques such as grid search, random search, and Bayesian optimization
+* Worked with cross-functional teams to integrate machine learning models into production environments
+
+Machine Learning Engineer, DEF Startup (2018-2020)
+
+* Built and deployed a recommendation system using TensorFlow, resulting in a 30% increase in user engagement
+* Designed and implemented feature engineering pipelines using scikit-learn and pandas
+* Conducted A/B testing and experimentation to validate model performance and identify areas for improvement
+* Collaborated with data scientists to explore new data sources and features for model improvement
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2018)
+	+ Coursework: Machine Learning, Natural Language Processing, Computer Vision
+	+ Thesis: "Improving the Performance of Deep Neural Networks using Transfer Learning and Data Augmentation"
+
+Achievements:
+
+* Winner, ABC Company's Hackathon (2020): Developed a winning entry in a hackathon, showcasing the application of machine learning in a real-world business problem
+* Published Research Paper, XXX Conference (2019): Published a research paper on the application of transfer learning in deep neural networks, presented at a top-tier conference
+* Certified Data Scientist, Data Science Council of America (2019): Earned a certification in data science, demonstrating expertise in data science concepts and techniques
+
+Projects:
+
+* TensorFlow-based Recommendation System: Developed a recommendation system using TensorFlow and deployed it to a production environment
+* Feature Engineering Pipeline: Designed and implemented a feature engineering pipeline using scikit-learn and pandas, resulting in improved model performance
+* Kaggle Competition Participant: Participated in multiple Kaggle competitions, showcasing skills in data science and machine learning
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified TensorFlow Developer, TensorFlow Certification Program (2020)
+
+This is just a sample resume, and you should tailor yours to your specific experiences and qualifications. Remember to proofread carefully and use clear, concise language throughout. Good luck with your job search!

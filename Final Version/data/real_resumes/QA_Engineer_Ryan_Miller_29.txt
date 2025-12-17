@@ -1,0 +1,54 @@
+Here's a sample resume for Ryan Miller:
+
+Ryan Miller
+Contact Information:
+
+* Address: 123 Main St, Anytown, USA 12345
+* Phone: (555) 555-5555
+* Email: [ryan.miller@email.com](mailto:ryan.miller@email.com)
+* LinkedIn: linkedin.com/in/ryanmillerqa
+
+Professional Summary:
+Highly skilled and detail-oriented QA Engineer with 5+ years of experience in manual and automated testing, bug tracking, and performance testing. Proficient in a range of testing methodologies and tools, with a strong passion for delivering high-quality software products. Proven track record of identifying and reporting defects, collaborating with cross-functional teams, and driving process improvements.
+
+Technical Skills:
+
+* Programming languages: Java, Python, C#
+* Testing frameworks: JUnit, TestNG, PyUnit
+* Testing tools: Selenium, Appium, JIRA, TestRail
+* Bug tracking: JIRA, Trello
+* Performance testing: LoadRunner, JMeter
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+
+Work Experience:
+
+* QA Engineer, ABC Company (2018-Present)
+	+ Conducted manual and automated testing of software applications to ensure quality and stability
+	+ Identified and reported defects to development teams, resulting in 90% defect reduction
+	+ Collaborated with cross-functional teams to develop and implement testing strategies and processes
+	+ Utilized performance testing tools to optimize application performance and reduce latency
+	+ Developed and maintained test cases, test data, and test environments
+* Junior QA Engineer, DEF Company (2015-2018)
+	+ Assisted in manual and automated testing of software applications
+	+ Conducted bug tracking and reporting using JIRA and Trello
+	+ Participated in code reviews and provided feedback on testing methodologies
+	+ Collaborated with development teams to identify and resolve defects
+
+Achievements:
+
+* Improved defect density by 30%: Implemented a testing strategy that resulted in a significant reduction in defects, resulting in improved product quality and reduced re-work
+* Reduced test cycle time by 20%: Developed and implemented automated testing scripts using Selenium and Appium, resulting in faster test execution and reduced manual testing efforts
+* Improved collaboration with development teams: Established a strong working relationship with development teams, resulting in improved communication and reduced defects
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* ISTQB Certified Tester Foundation Level, ISTQB (2016)
+* Certified Scrum Master, Scrum Alliance (2019)
+
+References:
+Available upon request.

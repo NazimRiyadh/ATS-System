@@ -1,0 +1,56 @@
+diya sharma
+data scientist
+
+contact information:
+
+* email: [diya.sharma@email.com](mailto:diya.sharma@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/diya-sharma
+
+summary:
+highly motivated and detail-oriented data scientist with 4+ years of experience in developing and implementing data-driven solutions using machine learning, statistical analysis, and data visualization techniques. proven track record of driving business growth through data-driven insights and recommendations.
+
+technical skills:
+
+* programming languages: python (proficient)
+* statistics and machine learning: scikit-learn, tensorflow
+* data visualization: matplotlib, seaborn, plotly
+* sql: query optimization, data modeling
+* a/b testing: design and implementation of experiments
+* deep learning: neural networks, convolutional neural networks
+* statistical analysis: hypothesis testing, confidence intervals
+
+professional experience:
+
+data scientist, xyz corporation (2020-present)
+
+* developed and deployed machine learning models to predict customer churn, resulting in a 20% reduction in churn rate
+* collaborated with cross-functional teams to design and implement a/b testing experiments, resulting in a 15% increase in conversion rate
+* built and maintained data pipelines to extract insights from large datasets, using sql and python
+* created interactive dashboards to visualize data insights, using tableau and power bi
+
+senior data analyst, abc startups (2018-2020)
+
+* led the development of a predictive model to forecast sales, resulting in a 12% increase in sales revenue
+* conducted statistical analysis to identify trends and patterns in customer behavior, informing business decisions
+* designed and implemented data visualization reports to communicate insights to stakeholders
+* collaborated with data engineers to design and implement data pipelines to extract insights from large datasets
+
+education:
+
+* master of science in data science, stanford university (2018)
+	+ coursework: machine learning, statistics, data visualization, data mining
+	+ thesis: "applying deep learning to predict customer churn"
+* bachelor of science in computer science, university of california, berkeley (2016)
+	+ coursework: algorithms, data structures, computer systems, probability and statistics
+
+achievements:
+
+* data science competition winner, kaggle (2019): won 1st prize in a competition to predict stock prices using machine learning
+* research assistant, stanford university (2017-2018): assisted in the development of a machine learning model to predict thyroid cancer diagnosis
+* presented at international conferences: presented research papers at icml and ijcai conferences
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)

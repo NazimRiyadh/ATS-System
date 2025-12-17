@@ -1,0 +1,54 @@
+Jennifer Austin
+Contact Information:
+
+* Email: [jennifer.austin@email.com](mailto:jennifer.austin@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/jennifer-austin-software-engineer
+
+Summary:
+Highly motivated and detail-oriented software engineer with expertise in Java, algorithmic thinking, and software development. Proficient in web development, backend development, and DevOps practices.
+
+Technical Skills:
+
+* Programming languages: Java
+* Data Structures and Algorithms: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting, Searching, Dynamic Programming
+* Web Development: Spring, Hibernate, RESTful APIs
+* Backend Development: Node.js, Express.js, MongoDB
+* Version Control: Git, SVN
+* DevOps: Docker, Kubernetes, Jenkins, Maven
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Software Engineer, XYZ Corporation (2018-Present)
+
+* Designed, developed, and deployed multiple web applications using Java, Spring, and Hibernate
+* Collaborated with cross-functional teams to identify and prioritize project requirements
+* Implemented RESTful APIs and integrated with frontend applications
+* Utilized Git for version control and Jenkins for continuous integration and deployment
+* Participated in code reviews and ensured high-quality code standards
+
+Software Development Intern, ABC Startups (Summer 2016)
+
+* Assisted in the development of a mobile application using Node.js and Express.js
+* Worked on data modeling and database design using MongoDB
+* Implemented unit tests and integration tests using Jest
+* Contributed to the development of a continuous integration and deployment pipeline using Docker and Kubernetes
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2015-2019)
+
+Certifications:
+
+* Certified Scrum Master (CSM), Scrum Alliance (2020)
+* Certified Java Developer, Oracle Corporation (2019)
+
+Projects:
+
+* Developed a web scraper using Java, regex, and multithreading to extract data from a website
+* Built a chatbot using Node.js, Express.js, and natural language processing to answer frequently asked questions
+* Created a to-do list application using React, Node.js, and MongoDB
+
+References:
+Available upon request.

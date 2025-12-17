@@ -1,0 +1,54 @@
+here's a sample resume for richard fry:
+
+richard fry
+contact information:
+
+* address: [insert address]
+* phone: [insert phone number]
+* email: [insert email]
+* linkedin: [insert linkedin profile url]
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in java, c++, and data structures. proven track record of delivering high-quality software solutions and keen interest in system design. proficient in designing scalable, efficient, and maintainable software systems.
+
+technical skills:
+
+* programming languages: java, c++
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: microservices architecture, restful apis, databases (mysql, mongodb), front-end frameworks (react, angular)
+* development tools: git, jenkins, docker, kubernetes
+* operating systems: windows, linux
+
+professional experience:
+
+software engineer, abc company (2020-present)
+
+* designed and developed multiple software applications using java and c++ for clients in the finance and healthcare industries.
+* collaborated with cross-functional teams to identify and prioritize project requirements and deliver high-quality software solutions.
+* implemented data structures and algorithms to optimize system performance and scalability.
+
+software development intern, def startups (summer 2019)
+
+* contributed to the development of a mobile app using java and android sdk.
+* participated in code reviews and provided feedback to improve code quality and maintainability.
+* assisted in testing and debugging of the application to ensure bug-free releases.
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, web development, database systems
+
+projects:
+
+* personal project: developed a web scraper using java and spring boot to extract data from a popular e-commerce website.
+* university project: designed and implemented a search engine using c++ and data structures to index and retrieve documents from a corpus of text.
+
+certifications/awards:
+
+* certified java developer, oracle (2020)
+* recipient of the best project award, xyz university (2019)
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize your resume to fit your specific experiences and qualifications. also, be sure to proofread your resume multiple times for grammar and formatting errors before submitting it.

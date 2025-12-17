@@ -1,0 +1,61 @@
+Here's a sample resume for Eric Mcconnell:
+
+Eric Mcconnell
+Full Stack Developer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [eric.mcconnell@email.com](mailto:eric.mcconnell@email.com)
+* LinkedIn: linkedin.com/in/ericmcconnell
+* GitHub: github.com/ericmcconnell
+
+Professional Summary:
+Highly motivated and experienced Full Stack Developer with a strong background in JavaScript, React, and Node.js. Proven track record of delivering scalable, efficient, and well-architected applications. Skilled in database management, API design, and collaboration with cross-functional teams. Proficient in a range of development tools and technologies, with a passion for staying up-to-date with industry trends and best practices.
+
+Technical Skills:
+
+* Programming languages: JavaScript, HTML/CSS
+* Frameworks: React, Node.js
+* Databases: MySQL, MongoDB
+* APIs: RESTful APIs, GraphQL
+* Development tools: Git, npm, Webpack, Babel
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Senior Full Stack Developer, ABC Company (2018-Present)
+
+* Designed and developed multiple full-stack applications using React, Node.js, and MongoDB
+* Collaborated with cross-functional teams to deliver high-quality software products
+* Implemented RESTful APIs and GraphQL APIs to enable seamless data exchange between applications
+* Utilized Git and GitHub for version control and collaboration
+* Mentored junior developers to improve their coding skills and knowledge
+
+Full Stack Developer, DEF Startup (2015-2018)
+
+* Built and maintained multiple full-stack applications using React, Node.js, and MySQL
+* Designed and implemented database schema to optimize data retrieval and storage
+* Collaborated with designers to implement responsive and user-friendly interfaces
+* Utilized Webpack and Babel to optimize application performance and scalability
+* Participated in code reviews to ensure high-quality code and best practices
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+* Coursework: Data Structures, Algorithms, Computer Systems, Software Engineering, Web Development
+
+Achievements:
+
+* Developed and deployed a high-traffic e-commerce application using React, Node.js, and MongoDB, resulting in a 30% increase in sales
+* Improved application performance by 50% through optimization and caching techniques
+* Collaborated with a team to develop a machine learning model using TensorFlow and Node.js, resulting in a 25% increase in accuracy
+* Participated in coding challenges and hackathons, winning multiple awards and recognition
+
+Certifications:
+
+* Certified Full Stack Developer, Fullstack.io (2019)
+* Certified Node.js Developer, Node.js (2018)
+
+References:
+Available upon request.

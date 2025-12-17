@@ -1,0 +1,56 @@
+here is a sample resume for sabrina ross applying for a software engineer role:
+
+sabrina ross
+contact information:
+
+* phone: (123) 456-7890
+* email: [sross@email.com](mailto:sross@email.com)
+* linkedin: linkedin.com/in/sabrinaross
+* github: github.com/sabrinaross
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in developing scalable and efficient software solutions using java, c++, and other programming languages. proven expertise in algorithms, data structures, and system design. skilled in problem-solving, debugging, and collaborating with cross-functional teams to deliver high-quality software products.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, dynamic programming, greedy algorithms, divide and conquer
+* system design: microservices, apis, database design, scalability, performance optimization
+* development tools: git, maven, gradle, eclipse, intellij idea
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc company (2018-present)
+
+* designed and developed multiple features for a large-scale e-commerce platform using java and spring framework
+* collaborated with qa engineers to identify and resolve bugs, improving overall product quality
+* contributed to the development of a scalable and efficient search engine using c++ and algorithms
+* participated in code reviews and provided feedback to improve code quality and design
+
+software engineer, def startups (2015-2018)
+
+* developed multiple mobile applications using java and android sdk
+* worked on a team to design and implement a machine learning model using python and scikit-learn
+* contributed to the development of a web application using javascript and reactjs
+* participated in pair programming sessions to improve coding skills and share knowledge
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified c++ developer, c++ institute (2017)
+
+projects:
+
+* developed a personal project, a social media platform using java and spring framework, available on github
+* contributed to an open-source project, a web scraper using python and beautiful soup, available on github
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and style. also, be sure to proofread your resume multiple times for any errors in grammar, spelling, or formatting.

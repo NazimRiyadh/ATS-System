@@ -1,0 +1,69 @@
+Here's a sample resume for Matthew Jennings:
+
+Matthew Jennings
+Data Engineer
+
+Contact Information:
+
+* Email: [matthew.jennings@email.com](mailto:matthew.jennings@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/matthewjennings
+* GitHub: github.com/matthewjennings
+
+Summary:
+
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, building, and maintaining large-scale data processing systems. Proficient in a range of technologies including Airflow, ETL, Big Data, Cloud Platforms, and Spark. Proven track record of delivering complex data engineering projects on time and on budget.
+
+Technical Skills:
+
+* Programming languages: Python, Java, Scala
+* Data processing frameworks: Apache Airflow, Apache Beam, Apache Spark
+* Big Data platforms: Hadoop, Spark, NoSQL databases
+* Cloud platforms: AWS, GCP, Azure
+* ETL tools: Apache NiFi, Talend
+* Data storage: relational databases, NoSQL databases, data lakes
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a scalable data pipeline using Apache Airflow, Apache Beam, and Spark to process 10TB of data per day
+* Built and maintained a data warehouse in AWS Redshift to support business intelligence and analytics
+* Collaborated with data scientists to develop and deploy machine learning models using Spark and TensorFlow
+* Mentored junior engineers and provided technical guidance on data engineering projects
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed and deployed a data ingestion pipeline using Apache NiFi and Talend to process 1TB of data per day
+* Built and maintained a data lake in Hadoop to store and process large datasets
+* Worked with cross-functional teams to design and implement data visualizations using Tableau and Power BI
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Google Cloud Platform (2019)
+* Certified Associate in Data Science, Data Science Council of America (2018)
+
+Achievements:
+
+* Developed and deployed a real-time data streaming pipeline using Apache Kafka and Spark to process 100,000 events per second
+* Implemented a data quality framework using Apache Spark and Python to ensure data accuracy and completeness
+* Built and maintained a cloud-based data warehouse using AWS Redshift to support business intelligence and analytics
+* Participated in a hackathon and developed a predictive maintenance model using Spark and TensorFlow that resulted in a 20% reduction in maintenance costs
+
+Personal Projects:
+
+* Developed a real-time data streaming pipeline using Apache Kafka and Spark to process 100,000 events per second
+* Built and maintained a data lake in Hadoop to store and process large datasets
+* Created a data visualization dashboard using Tableau and Power BI to display key business metrics
+
+References:
+
+Available upon request.
+
+This is just a sample resume, and you should tailor it to your specific experience and qualifications. Remember to proofread your resume multiple times to ensure it's error-free and easy to read. Good luck with your job application!

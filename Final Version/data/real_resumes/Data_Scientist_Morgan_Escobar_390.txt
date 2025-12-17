@@ -1,0 +1,60 @@
+Here's a sample resume for Morgan Escobar:
+
+Morgan Escobar
+Data Scientist
+
+Contact Information:
+
+* Email: [mescobar@email.com](mailto:mescobar@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/morganesobar
+* GitHub: github.com/morganesobar
+
+Summary:
+
+Highly motivated and detail-oriented Data Scientist with 3+ years of experience in developing and deploying machine learning models, analyzing large datasets, and creating data visualizations. Proficient in Python, Statistics, Deep Learning, SQL, and Data Visualization tools. Proven track record of delivering high-quality results and collaborating with cross-functional teams to drive business decisions.
+
+Professional Experience:
+
+Data Scientist, ABC Company (2020-Present)
+
+* Designed and developed multiple machine learning models using Python, TensorFlow, and scikit-learn to predict customer churn, credit risk, and demand forecasting
+* Analyzed large datasets (up to 100 million rows) to identify trends, patterns, and correlations using SQL, Pandas, and NumPy
+* Created interactive data visualizations using Tableau, Power BI, and D3.js to communicate insights to stakeholders
+* Collaborated with business stakeholders to develop data-driven strategies and recommendations, resulting in a 25% increase in sales revenue
+* Mentored junior data scientists and engineers to improve team productivity and knowledge sharing
+
+Data Analyst, DEF Start-Up (2018-2020)
+
+* Collected, cleaned, and processed large datasets using Python, Pandas, and NumPy
+* Built and deployed predictive models using scikit-learn and TensorFlow to forecast sales, customer acquisition, and retention
+* Created data visualizations using Matplotlib, Seaborn, and Plotly to communicate findings to stakeholders
+* Worked with cross-functional teams to develop data-driven marketing campaigns, resulting in a 30% increase in website traffic
+
+Education:
+
+* Master of Science in Data Science, University of California, Los Angeles (2018)
+	+ Coursework: Machine Learning, Deep Learning, Natural Language Processing, Data Visualization, and Statistics
+* Bachelor of Science in Mathematics, University of California, Berkeley (2016)
+
+Skills:
+
+* Programming languages: Python, SQL, R
+* Machine learning frameworks: TensorFlow, scikit-learn
+* Data visualization tools: Tableau, Power BI, D3.js, Matplotlib, Seaborn, Plotly
+* Data analysis libraries: Pandas, NumPy, scikit-learn, statsmodels
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+
+Achievements:
+
+* Winner, Data Science Hackathon, 2020: Developed a predictive model using TensorFlow and scikit-learn to forecast energy consumption, winning 1st prize
+* Best Paper Award, International Conference on Data Science, 2019: Presented research on "Deep Learning for Image Classification" and received the Best Paper Award
+* Mentor, Data Science Mentorship Program, 2018-2019: Mentored junior data scientists and engineers to improve team productivity and knowledge sharing
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2018)
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

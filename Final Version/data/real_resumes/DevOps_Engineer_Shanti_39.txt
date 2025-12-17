@@ -1,0 +1,52 @@
+Here's a professional resume for Shanti, a DevOps Engineer:
+
+**Shanti**
+**DevOps Engineer**
+
+**Contact Information:**
+
+* Email: [shanti@email.com](mailto:shanti@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/shantidevops
+
+**Objective:**
+To leverage my expertise in DevOps engineering to design, implement, and optimize scalable cloud-based systems, ensuring high availability, security, and efficiency.
+
+**Experience Summary:**
+Highly motivated and detail-oriented DevOps Engineer with 3 years of experience in designing, deploying, and maintaining complex cloud-based systems. Proficient in Kubernetes, containerization, and Linux, with a strong passion for automation and continuous improvement.
+
+**Professional Experience:**
+
+**DevOps Engineer, ABC Company (2020-Present)**
+
+* Designed and deployed containerized applications using Kubernetes and Docker, ensuring scalable and high-availability systems.
+* Implemented continuous integration and continuous deployment (CI/CD) pipelines using Jenkins and GitLab.
+* Configured and managed Linux systems, including Red Hat Enterprise Linux and Ubuntu.
+* Collaborated with cross-functional teams to identify and resolve technical issues, improving overall system reliability and performance.
+* Implemented monitoring and logging tools, such as Prometheus and ELK Stack, to ensure system visibility and troubleshoot issues.
+
+**DevOps Engineer, DEF Startup (2018-2020)**
+
+* Designed and implemented cloud-based infrastructure using AWS and Azure, ensuring scalability and cost-effectiveness.
+* Developed and maintained scripts using Python and Bash, automating tasks and improving efficiency.
+* Collaborated with development teams to ensure smooth deployment and integration of applications.
+* Conducted regular security audits and implemented security best practices to ensure system security.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2018)
+
+**Core Skills:**
+
+* **Containerization:** Kubernetes, Docker, container orchestration
+* **Linux:** Red Hat Enterprise Linux, Ubuntu, Linux system administration
+* **Cloud Computing:** AWS, Azure, cloud infrastructure design
+* **Automation:** Python, Bash, Jenkins, GitLab CI/CD
+* **Monitoring and Logging:** Prometheus, ELK Stack, monitoring and logging tools
+
+**Certifications:**
+
+* Certified Kubernetes Administrator (CKA)
+* Red Hat Certified System Administrator (RHCSA)
+
+I hope this helps! Let me know if you need any modifications or additions.

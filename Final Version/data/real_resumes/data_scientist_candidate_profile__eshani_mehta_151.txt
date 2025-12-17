@@ -1,0 +1,33 @@
+**candidate profile: eshani mehta**
+
+**interview feedback and assessment**
+
+eshani mehta demonstrated a strong background in computer science, with a solid foundation in programming concepts and software development. however, upon closer examination, it became clear that her skills and experience did not fully align with the requirements of the data scientist role.
+
+**key areas for improvement**
+
+1. **machine learning**: eshani's understanding of machine learning concepts was limited, and she struggled to apply them to real-world problems. she lacked hands-on experience with popular machine learning libraries such as scikit-learn and tensorflow.
+2. **statistics**: eshani's statistical knowledge was not comprehensive, and she had difficulty with advanced statistical concepts such as hypothesis testing, confidence intervals, and regression analysis.
+3. **data visualization**: while eshani was familiar with basic data visualization tools, she did not possess the skills to create complex, interactive visualizations using tools like tableau or d3.js.
+4. **big data**: eshani's experience with big data technologies such as hadoop, spark, and nosql databases was non-existent. she lacked understanding of data warehousing, etl processes, and data governance.
+5. **programming**: although eshani was proficient in programming concepts, her proficiency in python and r was limited. she had difficulty with complex programming tasks, such as data wrangling, and struggled with debugging code.
+6. **experience**: eshani's experience in handling large datasets, working with apis, and collaborating with cross-functional teams was limited. she had difficulty with project management, time estimation, and stakeholder communication.
+
+**concerns raised during the interview**
+
+1. **difficulty with certain tasks**: eshani struggled with tasks that required advanced statistical knowledge, machine learning, and data visualization skills.
+2. **familiarity with specific tools**: eshani was not familiar with popular data science tools such as jupyter notebook, pandas, numpy, and matplotlib.
+3. **lack of exposure to relevant technologies**: eshani's lack of experience with big data technologies, cloud computing platforms, and containerization tools (e.g., docker) was a concern.
+
+**potential for growth**
+
+despite the gaps in eshani's skills and experience, she demonstrated a strong desire to learn and grow. with further training and exposure to the required technologies, she has the potential to develop into a skilled data scientist. it is recommended that she focus on building her skills in machine learning, statistics, data visualization, and big data technologies. additionally, she should work on developing her programming skills in python and r, as well as her experience in handling large datasets and collaborating with cross-functional teams.
+
+**recommendations**
+
+1. **take online courses**: eshani should take online courses to learn machine learning, statistics, data visualization, and big data technologies.
+2. **work on personal projects**: eshani should work on personal projects that involve data science tasks, such as data wrangling, visualization, and machine learning.
+3. **join online communities**: eshani should join online communities, such as kaggle, reddit (r/machinelearning and r/datascience), and data science forums, to stay updated with industry trends and best practices.
+4. **participate in data science competitions**: eshani should participate in data science competitions to gain hands-on experience and build her portfolio.
+
+by providing constructive feedback and highlighting areas for improvement, we hope to help eshani grow and develop into a skilled data scientist.

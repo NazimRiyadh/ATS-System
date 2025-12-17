@@ -1,0 +1,58 @@
+Here is a sample professional resume for Marissa Thomas:
+
+Marissa Thomas
+DevOps Engineer
+
+Contact Information:
+
+* Email: [marissa.thomas@email.com](mailto:marissa.thomas@email.com)
+* Phone: (555) 555-5555
+* LinkedIn: linkedin.com/in/marissathomas
+* GitHub: github.com/marissathomas
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a proven track record of designing, implementing, and maintaining scalable and efficient cloud-based infrastructure systems. Proficient in Docker, Kubernetes, and Infrastructure as Code (IaC) tools, with a strong understanding of monitoring tools and cloud platforms. Passionate about automation, continuous integration, and delivery.
+
+Technical Skills:
+
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, Ansible
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Automation: Jenkins, GitLab CI/CD
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a containerized application using Docker and Kubernetes, resulting in a 30% reduction in deployment time and a 25% increase in scalability
+* Developed and maintained a comprehensive infrastructure as code (IaC) framework using Terraform, ensuring consistency and reproducibility across all environments
+* Implemented a monitoring and logging framework using Prometheus, Grafana, and New Relic, providing real-time insights into application performance and reliability
+* Collaborated with cross-functional teams to design and implement a cloud-based infrastructure on AWS, resulting in a 40% reduction in costs and a 20% increase in efficiency
+
+DevOps Engineer, DEF Company (2018-2020)
+
+* Developed and maintained a Jenkins-based CI/CD pipeline, ensuring automated builds, tests, and deployments across all environments
+* Implemented a Docker-based containerization strategy, resulting in a 50% reduction in deployment time and a 30% increase in scalability
+* Collaborated with the development team to design and implement a microservices architecture using Kubernetes, resulting in a 25% increase in productivity and a 15% reduction in errors
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* AWS Certified DevOps Engineer - Professional
+* Google Cloud Certified - Professional Cloud Developer
+
+Achievements:
+
+* Awarded "DevOps Engineer of the Year" by XYZ Company (2020)
+* Published a paper on "Containerization and Orchestration in Cloud-Native Applications" at the International Conference on Cloud Computing (2019)
+* Participated in the Open Source Software (OSS) community, contributing to popular projects such as Docker and Kubernetes
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to tailor your own resume to your specific experience and the job you're applying for.

@@ -1,0 +1,57 @@
+here's a sample resume for ray stuart applying for the role of data engineer:
+
+ray stuart
+contact information:
+
+* email: [ray.stuart@email.com](mailto:ray.stuart@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/raystuart
+* github: github.com/raystuart
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in designing, developing, and deploying scalable data pipelines using airflow, etl tools, and big data technologies. proficient in cloud platforms and proficient in leading cross-functional teams to drive data-driven decision making.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: apache airflow, apache beam, apache nifi
+* etl tools: informatica powercenter, talend
+* big data technologies: hadoop, spark, hive
+* cloud platforms: aws, gcp, azure
+* data stores: relational databases (mysql, postgresql), nosql databases (cassandra, mongodb)
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc company (2018-present)
+
+* designed, developed, and deployed scalable data pipelines using airflow and etl tools to integrate data from various sources
+* collaborated with data scientists to develop and deploy machine learning models using big data technologies
+* led a team of data engineers to design and implement a cloud-based data warehouse on aws
+* implemented data governance and quality control measures to ensure data accuracy and reliability
+* mentored junior data engineers to improve team productivity and knowledge sharing
+
+data engineer, def company (2015-2018)
+
+* developed and maintained etl processes using informatica powercenter and talend to integrate data from multiple sources
+* designed and implemented data pipelines using apache nifi to process real-time data feeds
+* collaborated with data analysts to develop and deploy reports and dashboards using big data technologies
+* participated in the design and implementation of a cloud-based data lake on gcp
+* implemented data security and access control measures to ensure data confidentiality and integrity
+
+education:
+
+* bachelor's degree in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2020)
+* certified cloud architect, aws certified solutions architect - associate (2019)
+
+projects:
+
+* developed a scalable data pipeline using apache airflow and etl tools to integrate data from multiple sources
+* designed and implemented a cloud-based data warehouse on aws using apache hive and spark
+* built a real-time data processing pipeline using apache nifi and apache kafka
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

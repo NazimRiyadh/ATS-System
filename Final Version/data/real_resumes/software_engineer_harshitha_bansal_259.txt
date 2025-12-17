@@ -1,0 +1,51 @@
+harshitha bansal
+contact information:
+
+* email: [harshitha.bansal@email.com](mailto:harshitha.bansal@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/harshithabansal
+
+summary:
+highly motivated and experienced software engineer with a strong background in java, python, javascript, and system design. proficient in designing and developing scalable, efficient, and maintainable software systems. proven track record of delivering high-quality projects on time and on budget.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, rest apis, service-oriented architecture (soa)
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, dynamic programming, greedy algorithms
+* development tools: git, jenkins, docker
+* operating systems: windows, linux
+
+professional experience:
+
+software engineer, abc technologies (2020-present)
+
+* designed and developed multiple microservices using java and python, resulting in a 30% increase in system efficiency
+* implemented rest apis using spring boot and flask, with a focus on scalability and security
+* collaborated with cross-functional teams to design and implement system architecture, resulting in a 25% reduction in system downtime
+* utilized git and jenkins for version control and continuous integration/continuous deployment (ci/cd) pipeline management
+* developed and maintained a suite of automated tests using junit and pytest, resulting in a 20% reduction in testing time
+
+software engineer, def solutions (2018-2020)
+
+* designed and developed a web application using javascript and node.js, resulting in a 40% increase in user engagement
+* implemented a data analytics system using python and mongodb, resulting in a 25% increase in data insights
+* collaborated with a team of developers to design and implement a system architecture, resulting in a 20% reduction in system complexity
+* utilized git and gitlab for version control and collaborated with the devops team to implement ci/cd pipelines
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, database systems, web development
+
+achievements:
+
+* winner, abc hackathon (2020): designed and developed a chatbot using python and natural language processing (nlp) techniques, resulting in a 90% accuracy rate
+* second place, def coding competition (2019): developed a solution using java and dynamic programming to solve a complex algorithmic problem, resulting in a 95% success rate
+* recipient, xyz university scholarship (2016-2019): awarded for academic excellence and outstanding contributions to the computer science community
+
+certifications:
+
+* certified java developer, oracle corporation (2020)
+* certified python developer, python institute (2019)

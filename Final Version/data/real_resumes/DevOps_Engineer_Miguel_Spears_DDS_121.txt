@@ -1,0 +1,62 @@
+Here's a sample resume for Miguel Spears DDS, a DevOps Engineer candidate:
+
+Miguel Spears DDS
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [miguel.spears@gmail.com](mailto:miguel.spears@gmail.com)
+* LinkedIn: linkedin.com/in/miguelspearsdds
+* GitHub: github.com/miguelspearsdds
+
+Professional Summary:
+Highly skilled DevOps Engineer with a background in dentistry, leveraging my unique blend of technical expertise and problem-solving skills to drive digital transformation and improve software delivery pipelines. Proficient in CI/CD, containerization, and infrastructure automation, with a passion for helping organizations optimize their infrastructure and operations.
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD
+* Containerization: Docker, Kubernetes
+* Infrastructure Automation: Ansible, Terraform
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Google Cloud, Azure
+* Operating Systems: Linux, Windows
+* Programming Languages: Python, Bash, PowerShell
+
+Professional Experience:
+
+DevOps Engineer, Smile Dental Group (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Docker to automate software deployment and testing
+* Utilized Kubernetes to deploy containerized applications and ensure high availability and scalability
+* Implemented Ansible for infrastructure automation and configuration management
+* Monitored application performance using Prometheus and Grafana
+* Collaborated with development and operations teams to resolve issues and improve software delivery
+
+Dentist, Smile Dental Group (2010-2018)
+
+* Managed a team of dental hygienists and assistants to provide high-quality patient care
+* Maintained accurate records and ensured compliance with regulatory requirements
+* Developed and implemented process improvements to increase efficiency and reduce costs
+* Collaborated with colleagues to improve patient satisfaction and outcomes
+
+Education:
+
+* DDS, University of California, Los Angeles (2010)
+* Bachelor of Science in Biology, University of California, Los Angeles (2006)
+
+Certifications:
+
+* AWS Certified DevOps Engineer - Professional (2019)
+* Kubernetes Certified Administrator (2018)
+* Red Hat Certified Ansible Automation Engineer (2017)
+
+Achievements:
+
+* Improved software deployment time by 90% using CI/CD pipeline
+* Reduced downtime by 99% using Kubernetes for containerized application deployment
+* Automated infrastructure configuration using Ansible, resulting in 75% reduction in manual errors
+* Improved application performance monitoring using Prometheus and Grafana, resulting in 25% reduction in mean time to detect issues
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

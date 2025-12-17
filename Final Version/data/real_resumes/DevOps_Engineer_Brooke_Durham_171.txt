@@ -1,0 +1,77 @@
+Here's a professional resume for Brooke Durham, a DevOps Engineer candidate:
+
+Brooke Durham
+DevOps Engineer
+
+Contact Information:
+
+* Email: [brooke.durham@email.com](mailto:brooke.durham@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/brookedurham
+* GitHub: github.com/brookedurham
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, containerization, and cloud computing. Skilled in Docker, Kubernetes, Ansible, and monitoring tools, with a proven track record of delivering scalable and efficient infrastructure solutions. Strong passion for automation, continuous improvement, and collaboration.
+
+Professional Experience:
+
+DevOps Engineer, XYZ Corporation (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins, Docker, and Kubernetes, resulting in a 30% reduction in deployment time and a 25% increase in release frequency.
+* Developed and maintained containerized applications using Docker and Kubernetes, ensuring high availability and scalability.
+* Implemented monitoring and logging tools (Prometheus, Grafana, ELK) to provide real-time insights into system performance and enable data-driven decision-making.
+* Collaborated with cross-functional teams to design and implement cloud-based infrastructure solutions on AWS and Azure.
+
+Senior DevOps Engineer, ABC Startups (2015-2018)
+
+* Led the implementation of a containerized application using Docker and Kubernetes, resulting in a 50% reduction in infrastructure costs and a 20% increase in application scalability.
+* Developed and maintained Ansible playbooks for automation and configuration management, ensuring consistency and efficiency across multiple environments.
+* Designed and implemented monitoring and logging solutions using Nagios, Zabbix, and Splunk, providing real-time visibility into system performance and enabling proactive issue resolution.
+* Collaborated with development teams to design and implement automated testing and validation frameworks, ensuring high-quality application delivery.
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2010-2014)
+
+Skills:
+
+* Containerization and Orchestration:
+	+ Docker
+	+ Kubernetes
+	+ Containerization best practices
+* CI/CD and Automation:
+	+ Jenkins
+	+ Ansible
+	+ Continuous Integration and Continuous Deployment (CI/CD) pipelines
+* Cloud Computing:
+	+ Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Cloud-based infrastructure design and implementation
+* Monitoring and Logging:
+	+ Prometheus
+	+ Grafana
+	+ ELK Stack
+	+ Monitoring and logging best practices
+* Programming Languages:
+	+ Python
+	+ Bash
+	+ JavaScript
+* Operating Systems:
+	+ Linux
+	+ Windows
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Expert (CAE)
+
+Achievements:
+
+* Awarded "Team Player of the Year" at XYZ Corporation (2019)
+* Published a blog post on "Containerization Best Practices" on [blog platform] (2020)
+* Presented a talk on "Kubernetes and CI/CD Pipelines" at [conference name] (2019)
+
+References:
+Available upon request.
+
+This resume is structured to highlight Brooke's technical skills, professional experience, and achievements in a clear and concise manner. The summary and professional experience sections are designed to showcase Brooke's expertise and accomplishments, while the skills and certifications sections provide a detailed overview of her technical abilities. The achievements section highlights Brooke's recognition and contributions to the field, and the references section provides a professional touch.

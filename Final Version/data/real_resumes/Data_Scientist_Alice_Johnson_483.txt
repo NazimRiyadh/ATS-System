@@ -1,0 +1,59 @@
+Here's a sample resume for Alice Johnson, a Data Scientist who was select for the role:
+
+**Alice Johnson**
+**Contact Information:**
+
+* Email: [alicejohnson@email.com](mailto:alicejohnson@email.com)
+* Phone: 555-123-4567
+* LinkedIn: linkedin.com/in/alicejohnson
+
+**Summary:**
+Highly motivated and detail-oriented Data Scientist with 5+ years of experience in data analysis, machine learning, and data visualization. Proven track record of delivering high-impact projects that drive business growth and improve decision-making. Skilled in Python, R, SQL, and Tableau, with expertise in natural language processing and deep learning.
+
+**Technical Skills:**
+
+* Programming languages: Python, R, SQL
+* Data science frameworks: scikit-learn, TensorFlow, Keras
+* Data visualization tools: Tableau, Power BI, Matplotlib, Seaborn
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+* Cloud platforms: AWS, Google Cloud Platform
+
+**Professional Experience:**
+
+* **Data Scientist, ABC Company (2018-Present)**
+	+ Designed and developed predictive models using machine learning algorithms to improve customer retention and sales forecasting
+	+ Developed and maintained a data warehouse using SQL and Tableau to provide business insights to stakeholders
+	+ Collaborated with cross-functional teams to integrate data science into business operations and drive decision-making
+	+ Led a team of data analysts to deliver high-impact projects, resulting in a 25% increase in sales and a 30% reduction in customer churn
+* **Data Analyst, DEF Company (2015-2018)**
+	+ Collected and analyzed data from various sources to identify trends and insights
+	+ Created data visualizations using Tableau and Power BI to communicate findings to stakeholders
+	+ Developed and maintained reports using SQL and R to track key performance indicators
+	+ Collaborated with business stakeholders to identify areas for improvement and develop data-driven solutions
+
+**Achievements:**
+
+* **Winner, ABC Company's Data Science Competition (2020)**
+	+ Developed a predictive model using natural language processing techniques to predict customer churn, resulting in a 20% reduction in churn rate
+* **Recipient, DEF Company's Analyst of the Quarter Award (2017)**
+	+ Developed and maintained reports using SQL and R to track key performance indicators, resulting in a 15% increase in sales
+
+**Projects:**
+
+* **Predicting Customer Churn using Machine Learning**
+	+ Developed a predictive model using scikit-learn and TensorFlow to predict customer churn, resulting in a 20% reduction in churn rate
+	+ Presented findings to stakeholders and provided recommendations for improving customer retention
+* **Natural Language Processing for Sentiment Analysis**
+	+ Developed a sentiment analysis model using Keras and NLTK to analyze customer feedback, resulting in a 25% increase in customer satisfaction
+	+ Collaborated with cross-functional teams to integrate sentiment analysis into business operations
+
+**Education:**
+
+* **Master of Science in Data Science, XYZ University (2015)**
+* **Bachelor of Science in Computer Science, ABC University (2013)**
+
+**Certifications:**
+
+* **Certified Data Scientist, Data Science Council of America (2019)**
+* **Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2018)**

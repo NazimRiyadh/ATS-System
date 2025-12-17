@@ -1,0 +1,52 @@
+Kaitlyn Johnson
+Contact Information:
+
+* Email: [kaitlyn.johnson@email.com](mailto:kaitlyn.johnson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/kaitlynjohnson
+
+Summary:
+Highly motivated Data Engineer with expertise in Big Data Frameworks, Data Pipelines, ETL Tools, Cloud Platforms, and Python. Proficient in designing, implementing, and maintaining large-scale data systems. Skilled in data warehousing and leveraging cloud platforms to optimize data processing.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop, Apache Spark, and Apache Flink
+* Data Pipelines:
+	+ Apache NiFi, Apache Airflow, and AWS Glue
+* ETL Tools:
+	+ Informatica PowerCenter, Talend, and AWS Glue
+* Cloud Platforms:
+	+ Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)
+* Programming Languages:
+	+ Python (PySpark, Pandas, NumPy, and Scikit-learn)
+* Data Warehousing:
+	+ Data modeling, ETL, and data quality control using AWS Redshift, Google BigQuery, and Azure Synapse Analytics
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2018-Present)
+
+* Designed and implemented large-scale data pipelines using Apache NiFi, Apache Airflow, and AWS Glue to process 500 million records per day
+* Developed and maintained ETL processes using Informatica PowerCenter, Talend, and AWS Glue for data integration and warehousing
+* Collaborated with cross-functional teams to design and implement data models, data quality control, and data governance
+* Utilized AWS Redshift, Google BigQuery, and Azure Synapse Analytics for data warehousing and business intelligence
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Built and maintained data pipelines using Apache Spark, Apache Flink, and Python to process 100 million records per day
+* Implemented data quality control and data governance using Apache NiFi and AWS Glue
+* Collaborated with the development team to design and implement data models and APIs using Python and PySpark
+* Utilized Apache Hadoop and Apache Flink for big data processing and analytics
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified Developer - Associate, Amazon Web Services (2019)
+* Certified Data Engineer, Data Engineering Certification Board (2018)
+
+References:
+Available upon request.

@@ -1,0 +1,55 @@
+kabir sharma
+contact information:
+
+* email: [kabir.sharma@email.com](mailto:kabir.sharma@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/kabirsharma
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in developing and implementing data-driven solutions. skilled in machine learning, deep learning, statistical analysis, and data visualization. proficient in python, sql, and various machine learning libraries.
+
+professional experience:
+
+data scientist, xyz corporation (2018-present)
+
+* developed and deployed predictive models using scikit-learn and tensorflow to improve customer engagement and retention
+* collaborated with cross-functional teams to design and implement a/b testing experiments to optimize marketing campaigns
+* built and maintained complex databases using sql to support data-driven decision-making
+* created interactive data visualizations using tableau to communicate insights to stakeholders
+* conducted statistical analysis and hypothesis testing to validate model assumptions and identify areas for improvement
+
+junior data analyst, abc startup (2015-2018)
+
+* collected and cleaned large datasets using python and sql to support business intelligence and analytics
+* built and trained machine learning models using scikit-learn to predict customer churn and identify high-value customers
+* conducted a/b testing and statistical analysis to inform marketing strategy and optimize conversion rates
+* created data visualizations using matplotlib and seaborn to communicate insights to stakeholders
+
+education:
+
+* master of science in data science, stanford university (2015)
+* bachelor of science in computer science, university of california, berkeley (2013)
+
+skills:
+
+* programming languages: python, sql
+* machine learning libraries: scikit-learn, tensorflow
+* data visualization tools: tableau, matplotlib, seaborn
+* deep learning frameworks: tensorflow, keras
+* a/b testing and statistical analysis: python, r
+* data manipulation and analysis: pandas, numpy
+* operating systems: windows, linux
+
+achievements:
+
+* winner, data science competition at stanford university (2015)
+* published paper, "predicting customer churn using machine learning" in journal of data science (2018)
+* recipient, best paper award at data science conference (2019)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+references:
+available upon request.

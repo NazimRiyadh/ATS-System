@@ -1,0 +1,61 @@
+Here's a professional resume for Diane Giles, a skilled Cloud Architect candidate:
+
+Diane Giles
+Cloud Architect
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [diane.giles@email.com](mailto:diane.giles@email.com)
+* LinkedIn: linkedin.com/in/dianegiles
+* GitHub: github.com/dianegiles
+
+Professional Summary:
+
+Highly experienced Cloud Architect with 8+ years of experience in designing and implementing scalable, secure, and efficient cloud infrastructure solutions. Skilled in AWS, Azure, Terraform, and Kubernetes, with a strong track record of delivering large-scale cloud projects for Fortune 500 companies. Proficient in cloud migration, security, and compliance, with a passion for staying up-to-date with the latest cloud technologies and trends.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure
+* Infrastructure as Code (IaC): Terraform
+* Containerization: Kubernetes
+* Cloud Migration: AWS Migration Hub, Azure Site Recovery
+* Cloud Security: AWS IAM, Azure Active Directory
+* Compliance: HIPAA, PCI-DSS
+* Programming Languages: Python, Bash, PowerShell
+* Operating Systems: Windows, Linux
+
+Professional Experience:
+
+Senior Cloud Architect, XYZ Corporation (2018-Present)
+
+* Designed and implemented a hybrid cloud infrastructure for a Fortune 500 company, using AWS and Azure, resulting in 30% cost savings and 25% increase in application performance.
+* Led a team of 5 cloud engineers in migrating a legacy application to the cloud, using Terraform and Kubernetes, resulting in 90% reduction in downtime and 40% reduction in operational costs.
+* Collaborated with security teams to implement cloud security best practices, resulting in 99.9% compliance with HIPAA regulations.
+
+Cloud Engineer, ABC Startups (2015-2018)
+
+* Designed and implemented a cloud-based infrastructure for a startup, using AWS and Terraform, resulting in 50% reduction in infrastructure costs and 20% increase in application performance.
+* Developed and implemented a cloud migration strategy for a legacy application, using AWS Migration Hub, resulting in 80% reduction in downtime and 30% reduction in operational costs.
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Microsoft Certified: Azure Solutions Architect Expert
+* Certified Information Systems Security Professional (CISSP)
+
+Achievements:
+
+* Winner of the AWS re:Invent 2020 Hackathon, for developing a cloud-based AI-powered chatbot using AWS services.
+* Finalist of the Microsoft Azure Hackathon 2019, for developing a cloud-based machine learning model using Azure services.
+* Published several articles on cloud computing and security in leading industry publications.
+
+References:
+
+Available upon request.
+
+I hope this helps! Let me know if you have any questions or need further assistance.

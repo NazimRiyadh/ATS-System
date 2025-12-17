@@ -1,0 +1,51 @@
+here's a sample resume for angela burke applying for a software engineer role:
+
+angela burke
+contact information:
+
+* email: [angela.burke@email.com](mailto:angela.burke@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/angela-burke
+* github: github.com/aburke
+
+summary:
+highly motivated and detail-driven software engineer with expertise in java, python, and algorithms. proven track record of delivering high-quality software solutions in fast-paced environments. strong passion for system design and problem-solving.
+
+technical skills:
+
+* programming languages: java, python
+* algorithms: data structures, sorting, searching, graph algorithms
+* system design: microservices, restful apis, database design
+* development tools: git, maven, gradle, docker
+* operating systems: windows, linux
+
+professional experience:
+
+* software engineer, abc corporation (2018-present)
+	+ designed and developed multiple microservices using java and spring boot
+	+ collaborated with cross-functional teams to improve system scalability and performance
+	+ implemented efficient algorithms for data processing and analysis
+	+ participated in code reviews and ensured high-quality code standards
+* junior software engineer, def startups (2016-2018)
+	+ contributed to the development of a python-based machine learning platform
+	+ worked on system design and implementation of restful apis
+	+ participated in bug fixing and debugging of production issues
+
+education:
+
+* bachelor of science in computer science, xyz university (2016)
+
+projects:
+
+* personal project: implemented a web scraper using python and beautifulsoup to extract data from a popular e-commerce website
+* open-source contribution: contributed to the development of a java-based open-source project on github, improving its scalability and performance
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified python developer, python institute (2018)
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your specific experience and the job you're applying for. also, make sure to proofread your resume multiple times to catch any errors or typos.

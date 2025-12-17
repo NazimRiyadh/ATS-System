@@ -1,0 +1,58 @@
+here's a sample resume for randall horne applying for a data scientist role:
+
+randall horne
+contact information:
+
+* email: [randall.horne@email.com](mailto:randall.horne@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/randallhorne
+* github: github.com/randallhorne
+
+summary:
+highly motivated and experienced data scientist with a strong background in statistics, machine learning, and deep learning. skilled in extracting insights from complex data sets and communicating findings effectively through data visualization. proficient in a range of programming languages and tools, including sql, python, r, and tableau.
+
+technical skills:
+
+* programming languages: python, r, sql, java
+* machine learning algorithms: linear regression, decision trees, random forest, support vector machines, neural networks
+* deep learning frameworks: tensorflow, pytorch
+* data visualization tools: tableau, power bi, matplotlib, seaborn
+* databases: mysql, postgresql
+* operating systems: windows, linux
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+data scientist, xyz corporation (2018-present)
+
+* developed and implemented predictive models using machine learning algorithms to improve customer retention and sales
+* collaborated with cross-functional teams to design and execute a/b testing experiments
+* built and maintained complex data pipelines using sql and python
+* created interactive dashboards using tableau to communicate findings to stakeholders
+* worked with stakeholders to identify business problems and develop data-driven solutions
+
+data analyst, abc startups (2015-2018)
+
+* analyzed customer data to identify trends and insights using statistical techniques
+* built and maintained databases using mysql and postgresql
+* created reports and visualizations using tableau and excel
+* assisted in the development of marketing campaigns based on data-driven insights
+
+education:
+
+* master of science in statistics, university of california, los angeles (2015)
+* bachelor of science in computer science, university of california, berkeley (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting movie ratings using recurrent neural networks: developed a deep learning model using python and keras to predict movie ratings based on user reviews
+* customer segmentation using clustering algorithms: built a clustering model using python and scikit-learn to segment customers based on demographic and behavioral data
+* visualizing crime data using tableau: created interactive dashboards using tableau to visualize crime data and identify trends and patterns
+
+references:
+available upon request.

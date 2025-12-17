@@ -1,0 +1,69 @@
+Here is a professional resume for Matthew Nguyen:
+
+Matthew Nguyen
+Contact Information:
+
+* Email: [matt.nguyen@email.com](mailto:matt.nguyen@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/mattnguyen
+* GitHub: github.com/mattnguyen
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, containerization, and cloud computing. Skilled in deploying and managing scalable infrastructure using Docker, Kubernetes, and Ansible. Proficient in Infrastructure as Code (IaC) tools and cloud platforms. Proven track record of improving reliability, scalability, and efficiency in software development and deployment processes.
+
+Technical Skills:
+
+* DevOps Tools:
+	+ Jenkins, CircleCI, GitLab CI/CD
+	+ Docker, Kubernetes, Helm
+	+ Ansible, Terraform, AWS CloudFormation
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud Platform (GCP)
+* Programming Languages:
+	+ Python
+	+ Bash
+	+ PowerShell
+* Operating Systems:
+	+ Linux (Ubuntu, CentOS)
+	+ Windows
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (Jan 2020 - Present)
+
+* Design and implement CI/CD pipelines using Jenkins and Docker
+* Deploy and manage scalable infrastructure using Kubernetes and Ansible
+* Ensure high availability and reliability of applications using load balancing and monitoring tools
+* Collaborate with development teams to identify and resolve deployment issues
+* Implement Infrastructure as Code (IaC) using Terraform and AWS CloudFormation
+
+Senior DevOps Engineer, DEF Company (Jun 2018 - Dec 2019)
+
+* Led the development and implementation of a cloud-native architecture using AWS and Kubernetes
+* Designed and implemented a CI/CD pipeline using Jenkins and Docker
+* Implemented security and compliance controls using Ansible and AWS IAM
+* Collaborated with development teams to deploy and manage microservices-based applications
+
+Achievements:
+
+* Improved deployment time by 50% using Jenkins and Docker
+* Reduced application downtime by 90% using Kubernetes and load balancing
+* Increased scalability of applications by 300% using Ansible and Terraform
+* Implemented IaC using Terraform and AWS CloudFormation, reducing manual errors by 95%
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified DevOps Engineer (CDE)
+* AWS Certified DevOps Engineer - Professional
+
+References:
+Available upon request.
+
+I hope this helps! Let me know if you have any questions or need further modifications.

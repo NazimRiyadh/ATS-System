@@ -1,0 +1,55 @@
+Here's a sample resume for Diana Davis, a Data Engineer who was select for the Data Engineer role:
+
+**Diana Davis**
+**Data Engineer**
+
+**Contact Information:**
+
+* Email: [diana.davis@email.com](mailto:diana.davis@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/dianadavis
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and maintaining large-scale data systems. Skilled in working with various data technologies, including cloud-based platforms, databases, and data warehousing solutions. Proven track record of delivering high-quality projects on time and on budget.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, SQL
+* Data technologies: Apache Hadoop, Apache Spark, Apache Kafka, Amazon Redshift, Google BigQuery
+* Databases: MySQL, PostgreSQL, Oracle
+* Data modeling and design: ER diagrams, data warehousing
+* Cloud platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+* Agile methodologies: Scrum, Kanban
+* Operating Systems: Linux, Windows
+
+**Professional Experience:**
+
+**Senior Data Engineer, XYZ Corporation (2019-Present)**
+
+* Designed and developed a real-time data processing pipeline using Apache Kafka, Apache Spark, and Amazon Redshift, resulting in a 30% reduction in data latency
+* Collaborated with cross-functional teams to implement a cloud-based data warehouse using Amazon Redshift, resulting in a 25% reduction in data processing costs
+* Developed and maintained a data analytics platform using Python, SQL, and Tableau, resulting in a 50% increase in data-driven decision making
+
+**Data Engineer, ABC Startups (2016-2019)**
+
+* Developed and deployed a data ingestion pipeline using Apache NiFi and Apache Kafka, resulting in a 90% increase in data quality
+* Designed and implemented a data warehousing solution using Amazon Redshift and PostgreSQL, resulting in a 40% reduction in data processing time
+* Collaborated with data scientists to develop and deploy machine learning models using Python, scikit-learn, and TensorFlow
+
+**Education:**
+
+* Bachelor's degree in Computer Science, Stanford University (2016)
+
+**Projects:**
+
+* **Real-time Analytics Platform**: Designed and developed a real-time analytics platform using Apache Kafka, Apache Spark, and Apache Cassandra to process and analyze data from various sources
+* **Data Ingestion Pipeline**: Developed and deployed a data ingestion pipeline using Apache NiFi and Apache Kafka to process and transform data from various sources
+* **Cloud-based Data Warehouse**: Designed and implemented a cloud-based data warehouse using Amazon Redshift and PostgreSQL to process and analyze data from various sources
+
+**Achievements:**
+
+* Awarded "Data Engineer of the Year" by XYZ Corporation in 2020
+* Published a paper on "Real-time Analytics using Apache Kafka and Apache Spark" in the proceedings of the International Conference on Data Engineering in 2019
+* Participated in the "Data Engineering Hackathon" organized by ABC Startups and won 1st prize in 2018
+
+Note: This is just a sample resume, and you should tailor your own resume to your specific experience and the requirements of the job you're applying for.

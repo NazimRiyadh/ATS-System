@@ -1,0 +1,61 @@
+Here's a sample resume for Miguel Cox:
+
+Miguel Cox
+System Administrator
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [mcox@email.com](mailto:mcox@email.com)
+* LinkedIn: linkedin.com/in/miguelcoxsupport
+
+Professional Summary:
+Highly skilled and experienced System Administrator with expertise in Linux/Unix, Active Directory, and Networking. Proven track record of successfully implementing and managing complex IT systems, ensuring high levels of uptime and security. Seeking a challenging role that utilizes my technical expertise to drive business growth and success.
+
+Technical Skills:
+
+* Operating Systems: Linux (Red Hat, Ubuntu), Unix (Solaris, AIX), Microsoft Windows Server
+* Networking: Cisco routers and switches, Firewall configuration (iptables, Windows Firewall), Network protocols (TCP/IP, DNS, DHCP)
+* Directory Services: Active Directory, LDAP, NIS
+* Scripting: Bash, Python, PowerShell
+* IT Service Management: ITIL v3 Foundation
+
+Professional Experience:
+
+System Administrator
+ABC Corporation (2018-Present)
+
+* Manage and maintain over 500 Linux servers, ensuring 99.99% uptime and high levels of security
+* Implemented and configured Active Directory for 5,000 users, providing single sign-on and authentication
+* Designed and implemented a robust network infrastructure, including firewalls and routers, to ensure secure and reliable data transfer
+* Developed and implemented scripts to automate routine tasks, reducing manual effort by 70%
+* Collaborated with cross-functional teams to troubleshoot and resolve complex technical issues
+
+Senior System Administrator
+XYZ Inc. (2015-2018)
+
+* Managed and supported 10 Windows Server 2012 R2 and 20 Linux (Ubuntu) servers, ensuring high levels of uptime and performance
+* Configured and managed Active Directory, DNS, and DHCP services for 1,000 users
+* Implemented and maintained network security, including firewalls and intrusion detection systems
+* Developed and implemented a comprehensive backup and disaster recovery plan, ensuring business continuity
+* Provided technical training and support to junior staff members, promoting knowledge sharing and growth
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* Successfully implemented a Linux-based cloud infrastructure, reducing costs by 30% and improving scalability
+* Developed and deployed a custom-built monitoring and reporting tool, improving IT service performance by 25%
+* Collaborated with the security team to implement a robust security framework, reducing security incidents by 50%
+* Achieved ITIL v3 Foundation certification, demonstrating expertise in IT service management
+
+Certifications:
+
+* CompTIA A+, CompTIA Linux+, CompTIA Security+
+* Microsoft Certified Professional, Microsoft Windows Server 2012 R2
+* ITIL v3 Foundation
+
+References:
+Available upon request.

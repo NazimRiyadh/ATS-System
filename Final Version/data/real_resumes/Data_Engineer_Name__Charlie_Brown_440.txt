@@ -1,0 +1,57 @@
+Here's a resume for Charlie Brown, the newly-hired Data Engineer:
+
+**Name:** Charlie Brown
+
+**Contact Information:**
+
+* Email: [charliebrown@peanuts.com](mailto:charliebrown@peanuts.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/charliebrownpeanuts
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience working with various data systems and tools. Proven track record of delivering high-quality data solutions and visualizations. Skilled in data wrangling, data modeling, and data storytelling. Seeking a challenging role that will utilize my skills and experience to drive business insights and growth.
+
+**Technical Skills:**
+
+* Programming languages: Python, R, SQL
+* Data analysis and visualization tools: Tableau, Power BI, D3.js
+* Data storage and database management: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Windows, Linux, macOS
+* Agile development methodologies: Scrum, Kanban
+* Cloud platforms: AWS, Azure, Google Cloud
+
+**Work Experience:**
+
+**Data Engineer, Peanuts Inc. (2018-Present)**
+
+* Designed and developed multiple data pipelines to collect and process data from various sources, including social media, user feedback, and sales data
+* Built and maintained data warehouses and data marts to support business intelligence and data analytics
+* Collaborated with data scientists to develop predictive models and machine learning algorithms
+* Created interactive and dynamic data visualizations using Tableau and Power BI to communicate insights to stakeholders
+* Improved data quality and reduced data latency by implementing data validation and data cleansing processes
+
+**Research Assistant, Lucy's Research Lab (2015-2018)**
+
+* Assisted in designing and conducting experiments to test hypotheses and gather data
+* Collected and analyzed data using R and Python, and presented findings to research team
+* Developed and maintained data visualizations to communicate research results to stakeholders
+* Collaborated with research team to develop predictive models and statistical analyses
+
+**Projects:**
+
+* **Peanuts Social Media Analytics**: Built a data pipeline to collect and analyze social media data from various platforms, including Twitter, Facebook, and Instagram. Created interactive visualizations to track engagement and sentiment analysis.
+* **Snoopy's Sales Forecasting**: Developed a predictive model using machine learning algorithms to forecast sales data for the Peanuts catalog. Built a data warehouse to store and query sales data, and created interactive visualizations to communicate sales trends to stakeholders.
+* **Linus's Data Quality Improvement**: Implemented data validation and data cleansing processes to improve data quality and reduce data latency. Developed a data governance framework to ensure data accuracy and consistency.
+
+**Achievements:**
+
+* **Data Engineering Award**: Received the Data Engineering Award at the Peanuts Inc. annual innovation fair for designing and developing a data pipeline to collect and analyze social media data.
+* **Research Publication**: Published research on "Predictive Modeling for Sales Forecasting" in the Journal of Data Science.
+* **Certified Data Engineer**: Completed the Certified Data Engineer program at Coursera and demonstrated proficiency in data engineering concepts and tools.
+
+**Education:**
+
+* **Snoopy's School of Data Science (2010-2015)**
+* **Linus's Data Science Bootcamp (2015-2018)**
+
+I hope this resume showcases Charlie Brown's skills and experience as a Data Engineer!

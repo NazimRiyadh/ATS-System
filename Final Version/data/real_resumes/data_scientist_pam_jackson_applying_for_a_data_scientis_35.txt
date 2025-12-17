@@ -1,0 +1,57 @@
+here's a sample resume for pam jackson applying for a data scientist role:
+
+pam jackson
+contact information:
+
+* address: 123 main st, anytown, usa 12345
+* phone: (555) 555-5555
+* email: [pam.jackson@email.com](mailto:pam.jackson@email.com)
+* linkedin: linkedin.com/in/pamjackson
+
+summary:
+highly motivated and experienced data scientist with a strong background in machine learning, deep learning, and sql. proven ability to extract insights from complex data sets and develop predictive models that drive business decisions. skilled in data visualization, machine learning algorithms, and data engineering.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning: scikit-learn, tensorflow, pytorch
+* deep learning: keras, theano
+* data visualization: tableau, matplotlib, seaborn
+* database management: mysql, postgresql, mongodb
+* operating systems: windows, linux, macos
+
+professional experience:
+
+data scientist, abc company (2018-present)
+
+* develop and deploy predictive models using machine learning and deep learning algorithms to improve business outcomes
+* work with cross-functional teams to identify business problems and develop data-driven solutions
+* design and implement data pipelines using sql and python to extract insights from large datasets
+* create data visualizations and reports using tableau to communicate insights to stakeholders
+* collaborate with engineers to integrate machine learning models into production environments
+
+data analyst, def startup (2015-2018)
+
+* analyzed customer behavior and sentiment using natural language processing and machine learning techniques
+* developed and maintained databases using mysql and postgresql to store and retrieve customer data
+* created reports and visualizations using tableau to communicate insights to stakeholders
+* worked with product team to develop data-driven product recommendations
+
+education:
+
+* master of science in data science, xyz university (2015)
+* bachelor of science in computer science, abc university (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting customer churn using machine learning: developed a predictive model using scikit-learn and tensorflow to predict customer churn for a telecom company
+* image classification using deep learning: built a deep learning model using keras and theano to classify images for a computer vision project
+* data warehouse design: designed and implemented a data warehouse using mysql and postgresql to store and retrieve data for a marketing analytics project
+
+references:
+available upon request.

@@ -1,0 +1,52 @@
+here's a resume for lauren stone applying for the role of software engineer:
+
+lauren stone
+contact information:
+
+* email: [lauren.stone@email.com](mailto:lauren.stone@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/laurenstone
+* github: github.com/laurenstone
+
+summary:
+highly motivated and detail-oriented software engineer with a strong foundation in programming languages, data structures, and system design. proficient in c++, python, and experienced in developing scalable and efficient software solutions. profound understanding of computer science concepts and a passion for problem-solving.
+
+technical skills:
+
+* programming languages: c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: distributed systems, microservices, cloud computing
+* development tools: git, jenkins, docker
+* operating systems: windows, linux, macos
+
+professional experience:
+
+* software engineer, abc corporation (2018-present)
+	+ designed and developed multiple software products using c++ and python, focusing on scalability, efficiency, and reliability
+	+ collaborated with cross-functional teams to identify and prioritize project requirements
+	+ implemented data structures and algorithms to optimize system performance
+	+ participated in code reviews and ensured adherence to coding standards
+* junior software engineer, def startups (2016-2018)
+	+ contributed to the development of a cloud-based application using python and microservices architecture
+	+ worked on debugging and optimizing system performance, improving system reliability and scalability
+	+ developed and maintained documentation for software products and technical processes
+
+education:
+
+* bachelor of science in computer science, xyz university (2016)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+projects:
+
+* personal project: developed a python-based web scraper to extract data from social media platforms, utilizing thread safety and error handling techniques
+* contributed to: open-source projects on github, including a c++-based game engine and a python-based data analysis library
+
+certifications/awards:
+
+* certified java developer, oracle corporation (2017)
+* recipient of the 2018 abc corporation award for excellence in software engineering
+
+references:
+available upon request.
+
+i hope this helps! remember to tailor your resume to the specific job you're applying for, and highlight your unique experiences and skills.

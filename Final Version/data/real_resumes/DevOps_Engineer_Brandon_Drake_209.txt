@@ -1,0 +1,55 @@
+Here's a sample resume for Brandon Drake:
+
+Brandon Drake
+
+Contact Information:
+
+* Email: [brandon.drake@email.com](mailto:brandon.drake@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/brandon-drake
+* GitHub: github.com/brandon-drake
+
+Professional Summary:
+
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Kubernetes, and Infrastructure as Code. Proven track record of delivering scalable and efficient cloud-based infrastructure solutions. Skilled in a range of DevOps tools and technologies, with a passion for automation and continuous improvement.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Container Orchestration: Kubernetes, Docker
+* Infrastructure as Code: Ansible, Terraform, CloudFormation
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, GCP
+* Automation Tools: Python, Bash, PowerShell
+* Collaboration Tools: Slack, Jira, Trello
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2020-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and GitLab CI/CD, resulting in a 30% reduction in deployment time and a 25% increase in code quality.
+* Migrated a legacy application to a containerized environment using Kubernetes and Docker, achieving a 50% reduction in resource utilization and a 40% increase in scalability.
+* Developed and maintained a suite of Ansible playbooks for infrastructure provisioning and deployment, resulting in a 20% reduction in provisioning time and a 15% increase in consistency.
+* Collaborated with the engineering team to implement monitoring and logging using Prometheus, Grafana, and New Relic, resulting in a 25% reduction in mean time to detect (MTTD) and a 30% increase in mean time to resolve (MTTR).
+
+Senior Engineer, DEF Startups (2018-2020)
+
+* Designed and implemented a cloud-native architecture using AWS and Kubernetes, resulting in a 40% increase in scalability and a 30% reduction in cost.
+* Developed and maintained a range of automation scripts using Python, Bash, and PowerShell, resulting in a 20% reduction in manual intervention and a 15% increase in efficiency.
+* Collaborated with the product team to implement infrastructure as code using Terraform and CloudFormation, resulting in a 25% reduction in provisioning time and a 20% increase in consistency.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Automation Professional (CAAP)
+* Certified AWS Developer - Associate
+
+References:
+
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your resume to fit your own experiences and the specific job you're applying for.

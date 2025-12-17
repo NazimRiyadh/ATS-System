@@ -1,0 +1,30 @@
+**candidate profile: pratiti iyer**
+
+**interview summary:**
+
+pratiti iyer presented herself as a detail-oriented and analytical individual with a strong foundation in software development. however, during the interview for the data engineer role, some areas of concern arose that may impact her ability to perform the job requirements effectively.
+
+**key areas of concern:**
+
+1. **data warehousing and etl processes:** pratiti's experience with data warehousing and etl (extract, transform, load) processes was limited. she lacked hands-on experience with tools like informatica, talend, or aws glue, which are commonly used in data engineering. while she demonstrated a good understanding of the concepts, her lack of practical experience raised concerns about her ability to design and implement efficient etl processes.
+2. **big data technologies (hadoop, spark):** pratiti was not proficient in big data technologies like hadoop and spark. although she had taken courses in these topics, she had not worked on real-world projects or had hands-on experience with tools like apache hive, pig, or apache spark. this gap may hinder her ability to work with large datasets and design scalable data processing pipelines.
+3. **database administration:** pratiti's experience with database administration was limited to basic database design and schema creation. she lacked knowledge of advanced database concepts like indexing, clustering, and query optimization. this gap may impact her ability to design and optimize database schemas for large-scale data processing.
+4. **cloud services (aws, azure):** pratiti had limited experience with cloud services, including amazon web services (aws) and microsoft azure. although she was familiar with cloud concepts, she had not worked on projects that involved deploying and managing data engineering infrastructure on these platforms.
+5. **lack of experience with specific tools and technologies:** pratiti's experience with certain tools and technologies, such as apache kafka, apache nifi, or python libraries like pandas and numpy, was limited. while she demonstrated a willingness to learn, her lack of experience with these tools raised concerns about her ability to quickly adapt to new technologies.
+
+**interview feedback:**
+
+during the interview, pratiti demonstrated difficulty with certain tasks, such as designing an etl process from scratch or explaining the differences between hadoop and spark. her lack of familiarity with specific tools and technologies, such as apache kafka or aws glue, also caused some hesitation. however, she showed a positive attitude towards learning and a willingness to ask questions, which is a valuable asset.
+
+**growth potential:**
+
+while pratiti's skills did not align perfectly with the job requirements, she demonstrated potential for growth and development. with further training and exposure to the required tools and technologies, she may be able to bridge the gaps and become a proficient data engineer. her strong foundation in software development and analytical skills, combined with her eagerness to learn, make her a promising candidate for a training or development role.
+
+**recommendations:**
+
+to help pratiti grow into the data engineer role, we recommend:
+
+1. providing training or mentorship in data warehousing, etl processes, big data technologies, and cloud services.
+2. assigning projects or tasks that focus on specific tools and technologies, such as apache kafka or aws glue, to help her build practical experience.
+3. encouraging her to participate in online courses or workshops to deepen her understanding of data engineering concepts and technologies.
+4. offering regular feedback and coaching to help her address specific areas of concern and develop her skills further.

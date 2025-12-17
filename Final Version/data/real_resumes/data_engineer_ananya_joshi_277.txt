@@ -1,0 +1,59 @@
+ananya joshi
+contact information:
+
+* email: [ananya.joshi@email.com](mailto:ananya.joshi@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/ananya-joshi
+
+objective:
+to secure a challenging role as a data engineer where i can utilize my skills in data processing, engineering, and analysis to drive business growth.
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying large-scale data processing systems. proficient in a range of technologies including python, sql, etl, airflow, spark, data modeling, aws, docker, and kubernetes. proven track record of delivering high-quality solutions that meet business requirements.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: etl, airflow, spark
+* data modeling: data warehousing, data visualization
+* cloud platforms: aws
+* containerization: docker, kubernetes
+* data storage: relational databases, nosql databases
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc corporation (2020 - present)
+
+* designed and developed a data pipeline using apache airflow to process 1 tb of data in 4 hours
+* built a data warehouse using amazon redshift that improved data analysis and reporting efficiency by 30%
+* utilized docker and kubernetes to deploy a spark cluster that reduced processing time by 40%
+* collaborated with cross-functional teams to design and implement a data governance framework
+
+data engineer, def inc. (2018 - 2020)
+
+* developed a data model using sql to improve data quality and consistency across multiple systems
+* built an etl process using python and sql to extract, transform, and load data into a data warehouse
+* implemented a data visualization dashboard using tableau that improved business decision-making by 25%
+* participated in a team to design and implement a disaster recovery plan for critical data systems
+
+education:
+
+* master of science in computer science, xyz university (2018)
+	+ coursework: data mining, machine learning, database systems
+	+ thesis: "design and implementation of a real-time data processing system using apache spark and apache kafka"
+* bachelor of engineering in computer science, pqr university (2016)
+
+achievements:
+
+* published a research paper on "design and optimization of big data processing systems" in the international journal of big data intelligence
+* awarded the "best paper" at the international conference on data science and engineering
+* recognized as a "rising star" in the data science community by the data science council of america
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified cloud practitioner, amazon web services (2020)
+
+references:
+available upon request.

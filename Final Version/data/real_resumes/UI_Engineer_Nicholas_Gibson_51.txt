@@ -1,0 +1,71 @@
+Nicholas Gibson
+UI Engineer
+
+Contact Information:
+
+* Email: [ngibson@email.com](mailto:ngibson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/nicholasgibson
+* GitHub: github.com/ngibson
+
+Summary:
+Highly skilled UI Engineer with 5+ years of experience in designing and developing user interfaces for web applications using Frontend Frameworks such as React, Angular, and Vue.js. Proficient in design tools like Sketch, Figma, and Adobe XD.
+
+Technical Skills:
+
+* Frontend Frameworks:
+	+ React (Hooks, Context API, Redux)
+	+ Angular (Components, Services, Routing)
+	+ Vue.js (Components, Vuex, Router)
+* Design Tools:
+	+ Sketch
+	+ Figma
+	+ Adobe XD
+* Programming Languages:
+	+ JavaScript (ES6+)
+	+ HTML/CSS
+	+ TypeScript
+* Version Control:
+	+ Git
+	+ SVN
+* Operating Systems:
+	+ Windows
+	+ macOS
+* Familiarity with:
+	+ Webpack
+	+ Babel
+	+ Sass/SCSS
+
+Professional Experience:
+
+UI Engineer, ABC Company (2018 - Present)
+
+* Designed and developed user interfaces for web applications using React, Angular, and Vue.js
+* Collaborated with designers to create visually appealing and user-friendly interfaces
+* Implemented responsive design and accessibility features
+* Utilized design tools like Sketch and Figma to create high-fidelity designs
+* Worked with backend developers to integrate UI components with API endpoints
+
+Senior Frontend Developer, DEF Agency (2015 - 2018)
+
+* Led the development of multiple web applications using React and Angular
+* Mentored junior developers on best practices and new technologies
+* Contributed to the development of design patterns and coding standards
+* Participated in code reviews and ensured high-quality code
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Scrum Master (CSM)
+* Certified Frontend Developer (CFD)
+
+Projects:
+
+* [Project 1: To-Do List App](https://github.com/ngibson/todo-list-app) - A To-Do List app built using React and Redux
+* [Project 2: Weather App](https://github.com/ngibson/weather-app) - A Weather app built using Angular and OpenWeatherMap API
+
+References:
+Available upon request.

@@ -1,0 +1,53 @@
+here's a sample resume for dana rivas applying for the role of software engineer:
+
+dana rivas
+contact information:
+
+* address: [your address]
+* phone: [your phone number]
+* email: [your email]
+* linkedin: [your linkedin profile url]
+* github: [your github profile url]
+
+summary:
+highly motivated and detail-oriented software engineer with a strong foundation in programming languages, data structures, and algorithms. proficient in c++ and python with experience in software development, problem-solving, and collaboration. seeking a challenging role in a dynamic environment where i can utilize my skills to drive innovation and deliver high-quality software solutions.
+
+technical skills:
+
+* programming languages: c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, dynamic programming, greedy algorithms, divide and conquer
+* operating systems: windows, linux
+* agile development methodologies: scrum, kanban
+* version control systems: git
+* familiarity with: docker, kubernetes, ci/cd pipelines
+
+education:
+
+* bachelor's/master's degree in computer science, [university name], [graduation date]
+
+projects:
+
+* [project name 1]: developed a high-performance search engine using c++ and data structures, which improved search efficiency by 30%.
+* [project name 2]: built a machine learning-based chatbot using python and natural language processing techniques, which achieved an accuracy of 95% in sentiment analysis.
+* [project name 3]: implemented a concurrent programming framework using c++ and multi-threading, which improved system responsiveness by 50%.
+
+experience:
+
+* software engineer intern, [company name], [internship dates]
+	+ contributed to the development of a cloud-based e-commerce platform using c++ and python.
+	+ collaborated with cross-functional teams to design and implement features, resulting in a 25% increase in sales.
+	+ participated in code reviews, ensuring high-quality code and adherence to coding standards.
+* research assistant, [university name], [research assistant dates]
+	+ assisted in the development of a research paper on algorithmic efficiency, which was published in a peer-reviewed journal.
+	+ conducted research on emerging trends in software engineering, presenting findings at a conference.
+
+certifications/awards:
+
+* certified c++ developer, [certification name], [certification date]
+* best project award, [university name], [award date]
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your specific experience, skills, and the job you're applying for. also, proofread your resume multiple times for grammar, spelling, and formatting errors before submitting it.

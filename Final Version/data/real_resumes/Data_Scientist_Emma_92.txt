@@ -1,0 +1,54 @@
+Here's a resume for Emma applying for a Data Scientist position:
+
+**Emma**
+**Contact Information:**
+
+* Email: [emma@email.com](mailto:emma@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/emma
+
+**Summary:**
+Highly motivated and accomplished Data Scientist with 4 years of experience in extracting insights from complex data sets. Proven track record of leading cross-functional teams to drive business growth and improve decision-making. Skilled in machine learning, statistical modeling, and data visualization.
+
+**Technical Skills:**
+
+* Programming languages: Python, R, SQL
+* Machine learning libraries: scikit-learn, TensorFlow, PyTorch
+* Data visualization tools: Tableau, Power BI, D3.js
+* Operating Systems: Windows, Linux, macOS
+* Cloud platforms: AWS, Google Cloud, Azure
+
+**Professional Experience:**
+
+**Lead Data Scientist, ABC Corporation (2020-Present)**
+
+* Led a team of 3 data scientists to develop predictive models for customer churn, resulting in a 25% reduction in customer loss
+* Collaborated with business stakeholders to identify key performance indicators (KPIs) and develop data-driven strategies to improve business outcomes
+* Designed and implemented a data warehousing solution using AWS Redshift, resulting in a 30% reduction in data processing time
+* Developed and maintained a suite of data visualizations using Tableau, resulting in a 20% increase in data-driven decision-making
+
+**Data Scientist, DEF Startups (2018-2020)**
+
+* Developed and deployed machine learning models for sentiment analysis, resulting in a 25% increase in customer satisfaction
+* Collaborated with engineering teams to integrate data science models into production environments
+* Developed and maintained a data pipeline using Apache Beam, resulting in a 40% reduction in data latency
+* Presented data insights to senior leadership, resulting in a 15% increase in business revenue
+
+**Education:**
+
+* **Master of Science in Data Science, XYZ University (2018)**
+* **Bachelor of Science in Computer Science, ABC University (2016)**
+
+**Competitions:**
+
+* **4.4/5 Kaggle ranking**, participated in over 10 competitions and won 3 first-place prizes
+* **Winner, Netflix Prize Challenge**, developed a predictive model that outperformed the current state-of-the-art model by 10%
+* **Finalist, Google Analytics Competition**, developed a model that predicted website engagement metrics with 95% accuracy
+
+**Certifications:**
+
+* **Certified Data Scientist, Data Science Council of America (2019)**
+* **Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2020)**
+
+**References:**
+Available upon request.

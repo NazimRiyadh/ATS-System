@@ -1,0 +1,55 @@
+kabir iyer
+data engineer
+
+contact information:
+
+* email: [kabiriyer@email.com](mailto:kabiriyer@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/kabiriyer
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, building, and maintaining large-scale data systems. skilled in python, sql, etl, airflow, spark, data modeling, aws, docker, kubernetes, and data warehousing. proven track record of delivering high-quality solutions on time and on budget.
+
+technical skills:
+
+* programming languages: python
+* databases: sql, apache hive, apache cassandra
+* etl tools: apache beam, apache nifi
+* data processing: apache spark, apache flink
+* data integration: apache airflow, aws glue
+* data warehousing: snowflake, amazon redshift
+* cloud platforms: aws, google cloud, azure
+* containerization: docker, kubernetes
+* data modeling: er diagrams, data vault
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* designed and implemented a scalable data pipeline using apache beam, apache airflow, and aws glue to process 100m+ records daily
+* built and maintained a data warehouse on snowflake, integrating data from multiple sources using etl processes
+* developed and deployed containerized applications using docker and kubernetes on aws
+* collaborated with cross-functional teams to design and implement data models for business intelligence and analytics
+* mentored junior engineers to improve code quality and efficiency
+
+data engineer, def startup (2018-2020)
+
+* built and maintained a data processing pipeline using apache spark and apache flink to process 50m+ records daily
+* developed and deployed etl processes using apache nifi and apache beam to integrate data from multiple sources
+* designed and implemented a data warehousing solution on amazon redshift, integrating data from multiple sources using etl processes
+* collaborated with data scientists to develop and deploy machine learning models using python and scikit-learn
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, database systems, data warehousing, and machine learning
+
+achievements:
+
+* amazon certified data engineer - associate level, 2020
+* google cloud certified - professional data engineer, 2019
+* winner, abc corporation hackathon, 2020 (developed a predictive maintenance solution using machine learning and iot data)
+
+references:
+available upon request.

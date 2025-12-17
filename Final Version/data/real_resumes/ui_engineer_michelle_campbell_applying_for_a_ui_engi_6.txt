@@ -1,0 +1,56 @@
+here's a sample resume for michelle campbell applying for a ui engineer role:
+
+michelle campbell
+contact information:
+
+* email: [michelle.campbell@email.com](mailto:michelle.campbell@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/michellecampbell
+* github: github.com/michellecampbell
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and developing user interfaces that are both aesthetically pleasing and functional. skilled in html, css, react, and ui/ux design principles. proficient in creating responsive, accessible, and scalable web applications.
+
+technical skills:
+
+* front-end development: html, css (sass), javascript (es6+), react
+* ui/ux design: sketch, figma, adobe xd
+* state management: redux, react context api
+* testing frameworks: jest, enzyme
+* version control: git, github
+* agile development methodologies: scrum, kanban
+
+professional experience:
+
+ui engineer, abc company (2018-present)
+
+* designed and developed high-quality user interfaces for web applications using react and css
+* collaborated with cross-functional teams to ensure cohesive design and functionality across product lines
+* implemented responsive and accessible designs using mobile-first approach and aria attributes
+* wrote unit tests and integration tests using jest and enzyme to ensure code quality and reliability
+* participated in code reviews and contributed to improving team's coding standards and best practices
+
+ui/ux designer, def agency (2015-2018)
+
+* created wireframes, prototypes, and high-fidelity designs for web applications using sketch and figma
+* conducted user research and usability testing to inform design decisions
+* collaborated with developers to ensure design specifications were implemented correctly
+* built and maintained design systems and style guides to ensure consistency across products
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015)
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (2019)
+
+personal projects:
+
+* developed a personal website using react and css, showcasing my portfolio and skills
+* contributed to open-source projects on github, including a react-based ui component library
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize it to your specific experiences and the job you're applying for.

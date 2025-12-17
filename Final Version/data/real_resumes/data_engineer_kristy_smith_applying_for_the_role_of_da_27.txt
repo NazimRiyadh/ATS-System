@@ -1,0 +1,55 @@
+here's a sample resume for kristy smith applying for the role of data engineer:
+
+kristy smith
+contact information:
+
+* address: 123 main st, anytown, usa 12345
+* phone: (555) 555-5555
+* email: [kristy.smith@email.com](mailto:kristy.smith@email.com)
+* linkedin: linkedin.com/in/kristysmith
+
+summary:
+highly motivated and experienced data engineer with expertise in big data, cloud platforms, and spark. proven track record of designing, developing, and deploying scalable data pipelines and architectures. skilled in data engineering, analytics, and machine learning, with a strong passion for innovative solutions and collaboration.
+
+technical skills:
+
+* programming languages: python, scala, java
+* big data technologies: hadoop, spark, hive, pig
+* cloud platforms: aws, azure, google cloud platform
+* data warehousing: amazon redshift, google bigtable
+* data engineering tools: apache beam, apache nifi
+* operating systems: linux, windows
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+* data engineer, abc corporation (2018-present)
+	+ designed and developed scalable data pipelines using spark, hadoop, and hive to process large datasets
+	+ implemented data warehousing solutions using amazon redshift and google bigtable
+	+ collaborated with cross-functional teams to deliver data-driven insights and recommendations
+	+ mentored junior engineers and contributed to knowledge sharing across the organization
+* senior data analyst, def startups (2015-2018)
+	+ analyzed and visualized large datasets using python, r, and tableau
+	+ developed predictive models using machine learning algorithms and spark
+	+ worked closely with business stakeholders to identify data needs and deliver insights
+
+education:
+
+* master of science in computer science, xyz university (2015)
+	+ coursework: data mining, machine learning, database systems
+	+ thesis: "design and implementation of a real-time data processing system using spark and hadoop"
+
+certifications:
+
+* certified data engineer, data engineering council (2019)
+* certified cloud practitioner, aws (2018)
+
+projects:
+
+* real-time data processing system: designed and developed a real-time data processing system using spark, hadoop, and kafka to process large datasets
+* predictive maintenance system: developed a predictive maintenance system using machine learning algorithms and spark to predict equipment failures
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and style. also, proofread your resume multiple times to catch any errors or formatting issues.

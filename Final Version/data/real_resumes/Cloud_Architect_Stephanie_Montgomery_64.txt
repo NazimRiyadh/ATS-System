@@ -1,0 +1,65 @@
+Here's a sample resume for Stephanie Montgomery, a Cloud Architect candidate:
+
+Stephanie Montgomery
+Cloud Architect
+
+Contact Information:
+
+* Email: [stephanie.montgomery@email.com](mailto:stephanie.montgomery@email.com)
+* Phone: (555) 555-5555
+* LinkedIn: linkedin.com/in/stephaniemontgomery
+* GitHub: github.com/stephaniemontgomery
+
+Summary:
+
+Highly motivated and experienced Cloud Architect with a strong background in designing, implementing, and managing cloud infrastructure on Azure. Skilled in Terraform, Cloud Security, and DevOps practices. Proven track record of delivering complex cloud projects on time and on budget. Passionate about staying up-to-date with the latest cloud technologies and innovations.
+
+Professional Experience:
+
+Cloud Architect, ABC Corporation (2018-Present)
+
+* Design and implement cloud infrastructure on Azure, including virtual networks, storage, and compute resources
+* Ensure compliance with cloud security standards and best practices, including PCI-DSS, HIPAA, and GDPR
+* Collaborate with cross-functional teams to develop and deploy cloud-based applications, including DevOps and CI/CD pipelines
+* Develop and maintain infrastructure as code (IaC) using Terraform, ensuring consistency and reproducibility across environments
+* Lead cloud migration projects, ensuring seamless transition from on-premises to cloud environments
+* Provide technical guidance and support to development teams, ensuring alignment with cloud strategies and best practices
+
+Senior Cloud Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented cloud infrastructure on Azure, including virtual networks, storage, and compute resources
+* Developed and maintained IaC using Terraform, ensuring consistency and reproducibility across environments
+* Collaborated with development teams to develop and deploy cloud-based applications, including DevOps and CI/CD pipelines
+* Ensured compliance with cloud security standards and best practices, including PCI-DSS and HIPAA
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Microsoft Certified: Azure Developer Associate
+* Terraform Certified Associate
+* CompTIA Security+
+
+Technical Skills:
+
+* Azure (Azure Virtual Network, Azure Storage, Azure Compute, Azure Active Directory)
+* Terraform (IaC, Infrastructure as Code)
+* Cloud Security (PCI-DSS, HIPAA, GDPR, AWS Well-Architected Framework)
+* DevOps (CI/CD pipelines, Jenkins, Git)
+* Agile methodologies (Scrum, Kanban)
+* Programming languages (Python, PowerShell, Bash)
+
+Achievements:
+
+* Successfully migrated a large on-premises application to Azure, reducing costs by 30% and improving scalability by 50%
+* Developed and implemented a cloud security framework, ensuring compliance with PCI-DSS and HIPAA standards
+* Designed and implemented a Terraform-based IaC solution, ensuring consistency and reproducibility across environments
+* Led a cloud migration project, ensuring seamless transition from on-premises to cloud environments
+
+References:
+
+Available upon request.
+
+Note that this is just a sample resume, and you should tailor yours to your specific experience and the job you're applying for. Remember to proofread your resume multiple times for grammar, spelling, and formatting errors before submitting it. Good luck with your job search!

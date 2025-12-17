@@ -1,0 +1,56 @@
+here's a sample resume for robin mccarty applying for a ui engineer role:
+
+robin mccarty
+contact information:
+
+* address: [insert address]
+* phone: [insert phone number]
+* email: [insert email]
+* linkedin: [insert linkedin profile url]
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and implementing responsive, user-centered interfaces using html, javascript, and react. skilled in creating scalable and maintainable front-end codebases, with a passion for delivering high-quality user experiences.
+
+technical skills:
+
+* front-end development frameworks: react
+* programming languages: javascript, html, css
+* familiarity with: webpack, babel, es6 syntax
+* version control: git
+* operating systems: windows, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+ui engineer, abc company (2018-present)
+
+* designed and developed responsive web applications using react and html5
+* collaborated with cross-functional teams to implement new features and fix bugs
+* implemented responsive design principles to ensure seamless user experience across devices
+* utilized webpack and babel to manage code dependencies and improve build times
+* participated in code reviews to ensure high-quality code and adhere to coding standards
+
+junior front-end developer, def agency (2015-2018)
+
+* developed front-end components using html, css, and javascript
+* assisted in implementing design concepts into interactive web applications
+* collaborated with designers to ensure design consistency throughout the application
+* participated in unit testing and debugging to ensure smooth application functionality
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015)
+
+certifications:
+
+* certified react developer, codecademy (2018)
+
+personal projects:
+
+* developed a personal website using react and html5, showcasing portfolio and skills
+* contributed to open-source projects on github, including [insert project name]
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and style. remember to proofread carefully and use clear, concise language to showcase your skills and qualifications.

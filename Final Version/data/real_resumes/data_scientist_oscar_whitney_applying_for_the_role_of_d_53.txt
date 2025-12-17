@@ -1,0 +1,60 @@
+here's a sample resume for oscar whitney applying for the role of data scientist:
+
+oscar whitney
+contact information:
+
+* email: [o.whitney@email.com](mailto:o.whitney@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/oscarwhitney
+* github: github.com/oscarwhitney
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, machine learning, and deep learning. proven track record of extracting insights from complex data sets and developing predictive models that drive business outcomes.
+
+technical skills:
+
+* programming languages: python (primary), sql, r
+* machine learning libraries: scikit-learn, tensorflow, pytorch
+* deep learning frameworks: keras, theano
+* statistics and data manipulation: numpy, pandas, scipy
+* data visualization: matplotlib, seaborn, plotly
+* operating systems: windows, linux, macos
+
+professional experience:
+
+data scientist, xyz corporation (2018-present)
+
+* developed and deployed predictive models using machine learning algorithms to forecast customer churn and improve retention rates, resulting in a 25% increase in customer loyalty
+* collaborated with cross-functional teams to design and implement a/b testing framework, leading to a 30% increase in campaign effectiveness
+* built and maintained large-scale databases using sql and nosql technologies, ensuring data quality and integrity
+* created data visualizations and presentations to communicate insights and recommendations to stakeholders
+
+junior data analyst, abc startups (2015-2018)
+
+* conducted exploratory data analysis to identify trends and patterns in customer behavior, informing business strategy and product development
+* developed and maintained data pipelines using python and sql, ensuring timely and accurate data delivery
+* created reports and dashboards using tableau and power bi to track key performance indicators and business metrics
+
+education:
+
+* master of science in data science, stanford university (2015)
+* bachelor of science in statistics, university of california, berkeley (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2018)
+* certified analytics professional, institute for operations research and the management sciences (2016)
+
+projects:
+
+* personal projects:
+	+ built a deep learning model using pytorch to classify sentiment in customer reviews, achieving 90% accuracy
+	+ created a python package for data exploration and visualization, open-sourced on github
+* collaborative projects:
+	+ contributed to a research project on natural language processing using tensorflow and python, published in a top-tier conference
+	+ participated in a hackathon to develop a predictive model using machine learning algorithms, winning 1st place in the competition
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and style. also, be sure to proofread your resume multiple times for grammar, spelling, and formatting errors before submitting it.

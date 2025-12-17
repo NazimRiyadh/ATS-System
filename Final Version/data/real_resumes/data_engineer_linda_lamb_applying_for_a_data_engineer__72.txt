@@ -1,0 +1,56 @@
+here's a sample resume for linda lamb applying for a data engineer role:
+
+linda lamb
+contact information:
+
+* email: [linda.lamb@email.com](mailto:linda.lamb@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/lindalamb
+* github: github.com/lindalamb
+
+summary:
+highly skilled data engineer with expertise in designing, developing, and deploying scalable data pipelines using airflow, etl, big data, and cloud platforms. proven track record of delivering high-quality solutions that drive business insights and improve operational efficiency.
+
+technical skills:
+
+* programming languages: python, scala
+* data engineering tools: apache airflow, apache spark, apache beam
+* big data platforms: hadoop, spark, nosql databases (e.g. cassandra, hbase)
+* cloud platforms: amazon web services (aws), google cloud platform (gcp), microsoft azure
+* data warehousing: data modeling, etl design
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and developed complex data pipelines using apache airflow, apache spark, and hadoop to process large-scale datasets
+* collaborated with cross-functional teams to implement data warehousing solutions, etl processes, and data governance frameworks
+* developed and deployed scalable data processing applications on aws and gcp cloud platforms
+* mentored junior engineers and provided technical guidance to improve team efficiency and productivity
+
+data engineer, def start-up (2015-2018)
+
+* built and maintained data pipelines using apache beam and apache spark to process real-time data feeds
+* implemented data warehousing solutions using amazon redshift and google bigquery
+* developed and deployed data processing applications on aws cloud platform
+* collaborated with data analysts to design and implement data visualizations and reporting tools
+
+education:
+
+* bachelor's degree in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified cloud practitioner, aws (2017)
+
+projects:
+
+* apache airflow automation: designed and developed a fully automated data pipeline using apache airflow to process large-scale datasets for a healthcare company.
+* big data processing: developed a scalable data processing application using apache spark to process real-time data feeds for a finance company.
+
+references:
+available upon request.
+
+note: this is just a sample resume, please make sure to customize it to your own experiences and style. also, proofread multiple times for any grammar or formatting errors.

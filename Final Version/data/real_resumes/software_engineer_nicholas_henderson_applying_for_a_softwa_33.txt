@@ -1,0 +1,55 @@
+here's a sample resume for nicholas henderson applying for a software engineer role:
+
+nicholas henderson
+contact information:
+
+* phone: (123) 456-7890
+* email: [nicholas.henderson@email.com](mailto:nicholas.henderson@email.com)
+* linkedin: linkedin.com/in/nicholas-henderson
+* github: github.com/nicholas-henderson
+
+summary:
+highly motivated and detail-oriented software engineer with experience in designing and developing scalable, efficient, and maintainable software systems using java, c++, and system design principles. proficient in object-oriented programming, data structures, and algorithms, with a strong passion for learning and adapting to new technologies.
+
+technical skills:
+
+* programming languages: java, c++
+* system design patterns: microservices, service-oriented architecture (soa), event-driven architecture (eda)
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, etc.
+* development tools: eclipse, intellij idea, git, svn
+* operating systems: windows, linux, macos
+* databases: mysql, mongodb, postgresql
+
+professional experience:
+
+software engineer, abc company (20xx-20xx)
+
+* designed and developed a scalable e-commerce platform using java and spring boot, handling millions of requests per day
+* implemented a high-performance caching system using redis and a load balancer using nginx
+* collaborated with cross-functional teams to implement a microservices architecture, resulting in 30% reduction in development time and 25% improvement in system reliability
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+software development intern, def startups (summer 20xx)
+
+* contributed to the development of a mobile app using c++ and the qt framework
+* implemented a game engine using opengl and c++, resulting in a 20% increase in game performance
+* collaborated with the team to design and develop a user interface using html, css, and javascript
+
+education:
+
+* bachelor of science in computer science, xyz university (20xx-20xx)
+* coursework: data structures, algorithms, computer systems, database systems, computer networks, operating systems, and software engineering
+
+projects:
+
+* java microservices project: designed and developed a microservices architecture using java and spring boot, demonstrating the use of restful apis, message queues, and caching
+* c++ game engine: implemented a game engine using c++ and the qt framework, showcasing the use of opengl, physics engines, and game logic
+* system design project: designed and developed a scalable system using system design principles, including load balancing, caching, and queuing
+
+certifications:
+
+* certified java developer (ocpjp) - oracle corporation
+* certified c++ developer (ocpjp) - oracle corporation
+
+references:
+available upon request.

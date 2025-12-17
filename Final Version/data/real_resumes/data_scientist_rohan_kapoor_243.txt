@@ -1,0 +1,57 @@
+rohan kapoor
+contact information:
+
+* email: [rohankapoor@email.com](mailto:rohankapoor@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/rohankapoor
+
+summary:
+highly motivated and detail-oriented data scientist with 4+ years of experience in developing and deploying predictive models, analyzing complex data sets, and driving business growth through data-driven insights. proficient in a range of technical skills, including python, machine learning, and data visualization.
+
+technical skills:
+
+* programming languages: python
+* machine learning frameworks: scikit-learn, tensorflow
+* data visualization tools: matplotlib, seaborn, tableau
+* databases: sql, nosql
+* operating systems: windows, linux
+* agile methodologies: scrum, kanban
+* familiarity with cloud platforms: aws, google cloud
+
+professional experience:
+
+data scientist, xyz corporation (2020-present)
+
+* developed and deployed predictive models using scikit-learn and tensorflow to improve customer churn prediction by 30%
+* collaborated with cross-functional teams to design and implement a/b testing experiments, resulting in a 25% increase in conversion rates
+* built and maintained large-scale databases using sql and nosql technologies to support data-driven decision making
+* created interactive visualizations using tableau to communicate complex insights to stakeholders
+* worked with stakeholders to identify business problems and develop data-driven solutions
+
+data analyst, abc startups (2018-2020)
+
+* analyzed large datasets to identify trends and insights that informed business decisions
+* developed and maintained data pipelines using python and sql to support data analysis and reporting
+* created statistical models using scikit-learn to predict customer behavior and improve marketing campaigns
+* collaborated with the product team to design and implement experiments, resulting in a 20% increase in sales
+
+education:
+
+* master of science in data science, stanford university (2018)
+	+ coursework: machine learning, deep learning, natural language processing, data visualization
+	+ thesis: "predicting customer churn using machine learning techniques"
+* bachelor of engineering in computer science, indian institute of technology (2016)
+
+achievements:
+
+* winner, data science competition, stanford university (2018)
+* published research paper on "predicting customer churn using machine learning techniques" in the journal of data science (2020)
+* presented research at the international conference on machine learning (icml) (2019)
+
+certifications:
+
+* certified data scientist, data science council of america (dasca)
+* certified scrum master, scrum alliance
+
+references:
+available upon request.

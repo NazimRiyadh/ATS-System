@@ -1,0 +1,37 @@
+**candidate profile: gargi bansal**
+
+**position:** data engineer
+
+**interview notes:**
+
+gargi bansal demonstrated a strong foundation in programming languages, particularly python, and showed enthusiasm for data engineering. however, there were some areas where her skills and experience did not align with the requirements of the data engineer role.
+
+**areas for improvement:**
+
+1. **data warehousing:** gargi lacked direct experience with data warehousing concepts, including design, implementation, and maintenance of data warehouses. although she demonstrated a basic understanding of data modeling, her knowledge of data warehousing tools and techniques, such as etl (extract, transform, load) processes, was limited.
+2. **big data technologies (hadoop, spark):** gargi's experience with big data technologies was limited to using spark for data analysis, but she did not have a deep understanding of hadoop ecosystem, including hdfs, mapreduce, and yarn. she also lacked hands-on experience with spark's core components, such as spark core, spark sql, and spark mllib.
+3. **database administration:** gargi's experience with database administration was mainly focused on relational databases, such as mysql and postgresql. she lacked knowledge of nosql databases, including mongodb and cassandra, and did not have experience with database schema design, optimization, and performance tuning.
+4. **cloud services (aws, azure):** gargi did not have direct experience with cloud services, including designing and deploying cloud-based data processing pipelines, or managing cloud-based data stores. although she had some familiarity with aws, her knowledge was limited to basic concepts, such as s3 and ec2.
+5. **logistics, finance, healthcare, and analytics:** gargi's experience was mainly focused on general data analysis and machine learning, but she did not have specific experience in these domains, which are critical for a data engineer in this role.
+
+**concerns raised during the interview:**
+
+1. difficulty with etl processes: gargi struggled with designing and implementing etl processes, which are a critical aspect of data warehousing.
+2. limited familiarity with certain tools: gargi was not familiar with tools like apache nifi, apache beam, or apache airflow, which are commonly used in data engineering.
+3. lack of hands-on experience with big data technologies: gargi's lack of hands-on experience with hadoop and spark technologies raised concerns about her ability to design and implement complex data processing pipelines.
+
+**growth potential:**
+
+despite these gaps, gargi demonstrated a strong foundation in programming languages and data analysis. with further training and exposure to the areas mentioned above, she has the potential to grow into a skilled data engineer. she showed a willingness to learn and adapt, and her enthusiasm for data engineering was evident throughout the interview process.
+
+**recommendations:**
+
+to address the areas for improvement, it is recommended that gargi:
+
+1. gain hands-on experience with data warehousing tools and technologies, including etl processes, data modeling, and data warehousing design.
+2. develop a deeper understanding of big data technologies, including hadoop, spark, and their ecosystem.
+3. familiarize herself with database administration concepts, including nosql databases, database schema design, optimization, and performance tuning.
+4. gain experience with cloud services, including designing and deploying cloud-based data processing pipelines and managing cloud-based data stores.
+5. focus on developing skills in logistics, finance, healthcare, and analytics, which are critical for a data engineer in this role.
+
+overall, gargi showed promise as a data engineer, but requires further training and exposure to address the gaps in her skills and experience.

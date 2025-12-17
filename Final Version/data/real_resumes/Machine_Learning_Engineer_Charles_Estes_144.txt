@@ -1,0 +1,56 @@
+Here is a professional resume for Charles Estes:
+
+Charles Estes
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [charles.estes@email.com](mailto:charles.estes@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/charlesestes
+
+Summary:
+Highly motivated and experienced Machine Learning Engineer with expertise in building and deploying scalable machine learning models using leading frameworks such as Scikit-learn, TensorFlow, and PyTorch. Proven track record of delivering high-performing models with strong feature engineering and hyperparameter tuning skills. Strong passion for exploring new technologies and techniques to drive business value.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine learning frameworks: Scikit-learn, TensorFlow, PyTorch
+* Feature engineering: Dimensionality reduction, feature selection, data preprocessing
+* Hyperparameter tuning: Grid search, random search, Bayesian optimization
+* Data analysis and visualization: Pandas, NumPy, Matplotlib, Seaborn
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple machine learning models using Scikit-learn, TensorFlow, and PyTorch to improve prediction accuracy and model interpretability
+* Built and deployed a real-time recommendation system using TensorFlow and PyTorch, resulting in a 25% increase in sales
+* Collaborated with cross-functional teams to integrate machine learning models into production environments
+* Developed and maintained a robust testing framework to ensure model quality and reliability
+
+Machine Learning Engineer, DEF Startups (2015-2018)
+
+* Developed and deployed multiple machine learning models using Scikit-learn and TensorFlow to improve prediction accuracy and model interpretability
+* Built and maintained a scalable data pipeline using Apache Beam and Apache Spark, resulting in a 30% reduction in data processing time
+* Collaborated with data scientists to design and implement feature engineering strategies, resulting in a 20% increase in model accuracy
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015)
+* Bachelor of Science in Computer Science, ABC University (2013)
+
+Achievements:
+
+* Winner, Machine Learning Competition (2019) - Built and deployed a winning model using Scikit-learn and TensorFlow, resulting in a 30% increase in accuracy
+* Author, Research Paper (2020) - Published a research paper on "Feature Engineering for Machine Learning" in a top-tier conference
+* Speaker, Conference (2019) - Presented a talk on "Building Scalable Machine Learning Models" at a top-tier conference
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2018)
+* Certified Machine Learning Engineer, Machine Learning Council (2020)
+
+References:
+Available upon request.

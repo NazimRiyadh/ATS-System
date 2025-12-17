@@ -1,0 +1,54 @@
+here is a sample resume for a data engineer candidate named ray mcmahon:
+
+ray mcmahon
+contact information:
+
+* phone: (555) 123-4567
+* email: [ray.mcmahon@email.com](mailto:ray.mcmahon@email.com)
+* linkedin: linkedin.com/in/raymcmahon
+
+summary:
+highly motivated and experienced data engineer with expertise in mlops, big data, and spark. proven track record of designing and implementing scalable data architectures, integrating machine learning models into production environments, and optimizing data pipelines for high-performance and reliability.
+
+technical skills:
+
+* programming languages: python, java, scala
+* data engineering tools: apache spark, apache hadoop, apache kafka, apache airflow
+* machine learning frameworks: tensorflow, pytorch, scikit-learn
+* big data platforms: hadoop, spark, hbase
+* data storage: amazon s3, azure blob storage, hdfs
+* operating systems: linux, windows
+* agile project management methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and implemented a scalable data architecture using apache spark and apache kafka to process 10 tb of data per day
+* developed and deployed machine learning models using tensorflow and pytorch to predict customer churn and recommend products
+* collaborated with data scientists to integrate models into production environments and optimize data pipelines for high-performance and reliability
+* mentored junior engineers on data engineering best practices and mlops techniques
+
+data engineer, def startups (2015-2018)
+
+* built and deployed a big data platform using apache hadoop and apache spark to process 1 tb of data per day
+* developed and maintained data pipelines using apache airflow and apache beam to integrate data from various sources
+* collaborated with data analysts to design and implement data visualizations and reports using tableau and power bi
+* participated in agile project management using scrum and kanban to deliver data engineering projects on time and on budget
+
+education:
+
+* bachelor's degree in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified scrum master, scrum alliance (2018)
+
+projects:
+
+* mlops pipeline: designed and implemented a mlops pipeline using apache airflow, apache spark, and tensorflow to deploy machine learning models into production environments
+* big data platform: built and deployed a big data platform using apache hadoop and apache spark to process 1 tb of data per day
+* data visualization: developed and deployed a data visualization platform using tableau and power bi to provide insights to business stakeholders
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

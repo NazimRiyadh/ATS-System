@@ -1,0 +1,53 @@
+tanvi singh
+contact information:
+
+* phone: (123) 456-7890
+* email: [tanvi.singh@email.com](mailto:tanvi.singh@email.com)
+* linkedin: linkedin.com/in/tanvisingh
+
+summary:
+highly motivated and detail-oriented data scientist with 4+ years of experience in developing and implementing data-driven solutions using python, machine learning, and data visualization techniques. proficient in statistical analysis, a/b testing, and deep learning. skilled in leveraging data to drive business growth and optimize operational efficiency.
+
+technical skills:
+
+* programming languages: python
+* machine learning frameworks: scikit-learn, tensorflow
+* data visualization tools: tableau, matplotlib, seaborn
+* statistics and data mining: statistical analysis, a/b testing, hypothesis testing
+* database management: sql
+* operating systems: windows, linux
+
+professional experience:
+
+data scientist, abc corporation (2020-present)
+
+* developed and deployed machine learning models using python and scikit-learn to predict customer churn and optimize marketing campaigns, resulting in 25% increase in customer retention
+* designed and implemented a/b testing framework to measure the effectiveness of marketing campaigns, resulting in 15% increase in conversion rates
+* collaborated with cross-functional teams to integrate data-driven insights into business decisions, leading to 10% increase in revenue growth
+* implemented data visualization tools to present complex data insights to stakeholders, resulting in improved business acumen and decision-making
+
+junior data analyst, def startups (2018-2020)
+
+* analyzed and visualized data to identify trends and patterns, presenting findings to stakeholders and informing business decisions
+* developed statistical models to measure the impact of marketing campaigns, resulting in 20% increase in campaign effectiveness
+* collaborated with data engineers to design and implement data pipelines, resulting in 30% reduction in data processing time
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: machine learning, statistical analysis, data visualization, database management
+	+ thesis: "applying machine learning to predict customer churn"
+* bachelor of engineering in computer science, pqr university (2016)
+
+achievements:
+
+* winner, abc corporation's data science hackathon (2020)
+* featured speaker, def startups' data science conference (2019)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+references:
+available upon request.

@@ -1,0 +1,57 @@
+Here's a sample resume for Jorge Kidd:
+
+Jorge Kidd
+Contact Information:
+
+* Email: [jkidd@email.com](mailto:jkidd@email.com)
+* Phone: (555) 555-5555
+* LinkedIn: linkedin.com/in/jorgekidd
+
+Summary:
+Highly motivated and experienced Cloud Engineer with a strong background in Cloud Cost Optimization and Serverless Architecture. Proven track record of delivering large-scale cloud projects on time and within budget. Skilled in multiple cloud platforms, including AWS and Azure.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud Platform
+* Programming Languages: Python, Java, C#
+* Tools: Terraform, CloudFormation, Ansible
+* Databases: Relational (MySQL, PostgreSQL), NoSQL (MongoDB, Cassandra)
+* Operating Systems: Windows, Linux
+
+Professional Experience:
+
+Cloud Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a cloud cost optimization strategy, resulting in a 30% reduction in cloud costs
+* Built and deployed multiple serverless applications on AWS, including a real-time analytics platform and a machine learning model
+* Collaborated with the DevOps team to implement a CI/CD pipeline using Terraform and AWS CodePipeline
+* Provided technical guidance and support to development teams on cloud-related issues
+
+Senior Cloud Engineer, DEF Company (2015-2018)
+
+* Led the migration of a large on-premises application to the cloud, resulting in a 40% reduction in infrastructure costs
+* Designed and implemented a cloud-based data analytics platform using Azure and Power BI
+* Developed and deployed multiple microservices using Azure Functions and Service Fabric
+* Mentored junior engineers on cloud-related technologies and best practices
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Azure Certified Solutions Architect - Expert
+* Google Cloud Certified - Professional Cloud Developer
+
+Achievements:
+
+* Cloud Cost Optimization Award, ABC Corporation (2019)
+* Best Use of Serverless Architecture Award, DEF Company (2017)
+* AWS re:Invent 2018 - Session Speaker: "Serverless Architecture for Real-Time Analytics"
+* Published articles on cloud cost optimization and serverless architecture in industry-leading publications
+
+References:
+Available upon request.
+
+This resume highlights Jorge Kidd's technical skills, professional experience, and achievements in the field of cloud engineering, particularly in cloud cost optimization and serverless architecture. The clear structure and concise language make it easy to scan and understand.

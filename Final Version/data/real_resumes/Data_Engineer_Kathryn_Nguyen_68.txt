@@ -1,0 +1,68 @@
+Kathryn Nguyen
+Contact Information:
+
+* Email: [knguyen@email.com](mailto:knguyen@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/knguyen
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying large-scale data pipelines, databases, and data warehouses. Skilled in cloud platforms, Python, and CI/CD tools, with a strong passion for building scalable and efficient data infrastructure.
+
+Technical Skills:
+
+* Programming Languages:
+	+ Python (3.x, 2.x)
+	+ SQL (MySQL, PostgreSQL, Oracle)
+	+ Bash, Shell scripting
+* Data Pipelines:
+	+ Apache Beam
+	+ Apache Spark
+	+ AWS Glue
+	+ Airflow
+* Databases:
+	+ Relational databases (MySQL, PostgreSQL, Oracle)
+	+ NoSQL databases (MongoDB, Cassandra)
+	+ Cloud-based databases (AWS Aurora, Google Cloud SQL)
+* Cloud Platforms:
+	+ AWS (S3, EC2, Lambda, Glue, Redshift)
+	+ Google Cloud Platform (GCP) (BigQuery, Cloud Storage, Dataproc)
+	+ Azure (Blob Storage, Data Factory, HDInsight)
+* Data Warehousing:
+	+ Amazon Redshift
+	+ Google BigQuery
+	+ Snowflake
+* CI/CD Tools:
+	+ Jenkins
+	+ GitLab CI/CD
+	+ Docker
+* Other:
+	+ Jupyter Notebook
+	+ Tableau
+	+ Power BI
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed large-scale data pipelines using Apache Beam, Apache Spark, and AWS Glue to process data from various sources, including IoT devices, social media, and customer feedback.
+* Built and maintained data warehouses on Amazon Redshift and Google BigQuery, ensuring data quality, security, and scalability.
+* Collaborated with cross-functional teams to integrate data pipelines with business applications, such as CRM and ERP systems.
+* Implemented CI/CD pipelines using Jenkins and GitLab CI/CD to automate testing, deployment, and monitoring of data pipelines and data warehouses.
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed and deployed data pipelines using Python and Apache Beam to collect and process customer data from various sources, including social media and customer feedback.
+* Designed and implemented data warehouses on MySQL and PostgreSQL, ensuring data quality, security, and scalability.
+* Collaborated with data scientists to integrate data pipelines with machine learning models and provided data insights to business stakeholders.
+* Implemented data governance and quality controls using data validation and data profiling tools.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2019)
+
+References:
+Available upon request.

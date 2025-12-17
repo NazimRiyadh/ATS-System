@@ -1,0 +1,61 @@
+here's a sample resume for nicholas norman applying for the role of data engineer:
+
+nicholas norman
+contact information:
+
+* address: [insert address]
+* phone: [insert phone number]
+* email: [insert email]
+* linkedin: [insert linkedin profile url]
+
+summary:
+
+highly motivated and detail-oriented data engineer with expertise in mlops, etl, big data, and cloud platforms. proven track record of designing, developing, and deploying scalable data pipelines and machine learning models. proficient in a range of technologies, including python, java, and sql. excellent problem-solving skills and ability to work collaboratively in a team environment.
+
+technical skills:
+
+* programming languages: python, java, sql
+* cloud platforms: aws, azure, google cloud
+* big data: hadoop, spark, nosql databases (e.g., cassandra, mongodb)
+* etl: apache beam, apache nifi, informatica powercenter
+* mlops: tensorflow, pytorch, scikit-learn, model monitoring and deployment tools (e.g., mlflow, seldon)
+* data warehousing: amazon redshift, google bigquery
+* operating systems: linux, windows
+* collaboration tools: git, jira, slack
+
+professional experience:
+
+senior data engineer, abc company (2020-present)
+
+* designed and developed end-to-end data pipelines using apache beam and apache nifi for data ingestion, processing, and storage
+* developed and deployed machine learning models using tensorflow and scikit-learn for predictive analytics and business insights
+* collaborated with cross-functional teams to integrate data pipelines and models with existing applications and services
+* implemented data quality and governance processes using data validation and metadata management tools
+
+data engineer, def startups (2018-2020)
+
+* developed and maintained large-scale data processing systems using apache spark and hadoop
+* designed and implemented data warehousing and business intelligence solutions using amazon redshift and tableau
+* collaborated with data scientists to develop and deploy machine learning models for predictive analytics and business insights
+* implemented data security and access control measures using aws iam and encryption
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified data engineer, google cloud (2020)
+* certified associate in data science, data science council of america (2019)
+
+projects:
+
+* developed a real-time data pipeline using apache beam and google cloud pub/sub for iot sensor data ingestion and processing
+* built a predictive analytics model using scikit-learn and tensorflow for customer churn prediction
+* designed and implemented a data warehousing solution using amazon redshift and tableau for business intelligence and analytics
+
+references:
+
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job description.

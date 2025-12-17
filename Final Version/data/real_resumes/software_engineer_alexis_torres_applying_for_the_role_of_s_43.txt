@@ -1,0 +1,56 @@
+here's a sample resume for alexis torres applying for the role of software engineer:
+
+alexis torres
+contact information:
+
+* email: [at@alexis-torres.com](mailto:at@alexis-torres.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/alexis-torres
+* github: github.com/alexis-torres
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable, efficient, and reliable software systems. skilled in java, c++, algorithms, data structures, and system design. proficient in developing robust, maintainable, and testable code. strong problem-solving skills and passion for learning and self-improvement.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, dynamic programming, greedy algorithms, divide and conquer
+* system design: microservices architecture, restful apis, cloud computing (aws, azure), containerization (docker), orchestration (kubernetes)
+* development tools: git, maven, gradle, eclipse, intellij idea
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+software engineer, abc corporation (2020-present)
+
+* designed and developed multiple software systems using java and c++ for a large-scale e-commerce platform
+* implemented efficient algorithms and data structures to improve system performance and scalability
+* collaborated with cross-functional teams to identify and prioritize features and bug fixes
+* conducted code reviews and ensured adherence to coding standards and best practices
+* participated in code optimization and refactoring to improve system maintainability and reliability
+
+software development intern, def startups (2018-2019)
+
+* contributed to the development of a mobile app using java and android studio
+* implemented algorithms and data structures to improve app performance and user experience
+* worked closely with the qa team to identify and fix bugs
+* developed and maintained documentation for the app's codebase
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+projects:
+
+* chatbot development: developed a chatbot using java and spring boot that integrated with a messaging platform to provide customer support
+* image processing: implemented an image processing algorithm using c++ and opencv to detect objects and perform image enhancement
+* game development: developed a 2d game using java and libgdx that included features such as scoring, level design, and collision detection
+
+certifications:
+
+* certified java developer (ocpjp), oracle corporation
+* certified c++ developer (ccpd), c++ institute
+
+references:
+available upon request.

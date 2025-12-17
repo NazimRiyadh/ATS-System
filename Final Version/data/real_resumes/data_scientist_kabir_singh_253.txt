@@ -1,0 +1,57 @@
+kabir singh
+contact information:
+
+* email: [kabir.singh@email.com](mailto:kabir.singh@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/kabirsingh
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in building and deploying predictive models using machine learning algorithms. proven expertise in python, statistics, machine learning, sql, deep learning, data visualization, a/b testing, and statistical analysis. skilled in using scikit-learn and tensorflow libraries for model development.
+
+technical skills:
+
+* programming languages: python
+* statistical analysis: regression, hypothesis testing, confidence intervals
+* machine learning: supervised, unsupervised, reinforcement learning
+* deep learning: cnn, rnn, lstm
+* data visualization: matplotlib, seaborn, plotly
+* a/b testing: hypothesis testing, p-value calculation
+* sql: database design, query optimization
+* libraries: scikit-learn, tensorflow, pandas, numpy
+* operating systems: windows, linux, macos
+
+professional experience:
+
+senior data scientist, abc corporation (2018-present)
+
+* led the development of a predictive model using machine learning algorithms to forecast customer churn, resulting in a 25% reduction in churn rate.
+* collaborated with the product team to design and implement a/b testing experiments, resulting in a 15% increase in conversion rates.
+* built and deployed a deep learning model using tensorflow to classify customer sentiment, achieving an accuracy of 92%.
+* conducted statistical analysis to identify trends and patterns in customer behavior, informing business decisions.
+* worked with cross-functional teams to develop and deploy data visualizations to communicate insights to stakeholders.
+
+data scientist, def startups (2015-2018)
+
+* developed and deployed machine learning models using scikit-learn to predict customer lifetime value, resulting in a 20% increase in sales.
+* designed and implemented data pipelines using sql to collect and process customer data, resulting in a 30% reduction in data processing time.
+* conducted statistical analysis to identify areas for process improvement, resulting in a 25% reduction in operational costs.
+* collaborated with the product team to develop and deploy a/b testing experiments, resulting in a 10% increase in conversion rates.
+
+education:
+
+* master of science in data science, xyz university (2015)
+* bachelor of science in computer science, pqr university (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2018)
+* certified analytics professional, institute for operations research and the management sciences (2016)
+
+achievements:
+
+* published research paper on "predictive modeling for customer churn" in the journal of data science (2019)
+* presented at the international conference on machine learning and data science (2018)
+* featured in the data science times for "top 10 data scientists to watch" (2017)
+
+references:
+available upon request.

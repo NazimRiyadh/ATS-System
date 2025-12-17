@@ -1,0 +1,59 @@
+Here's a sample resume for Douglas Cabrera, a DevOps Engineer candidate:
+
+Douglas Cabrera
+Contact Information:
+
+* Email: [douglas.cabrera@email.com](mailto:douglas.cabrera@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/douglas-cabrera
+* GitHub: github.com/douglas-cabrera
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Kubernetes, Ansible, and Infrastructure as Code. Proven track record of delivering scalable and reliable infrastructure solutions that improve application performance and reduce downtime. Skilled in monitoring and troubleshooting complex systems, with a passion for automation and continuous improvement.
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes (GKE, AKS, EKS)
+* Infrastructure as Code: Terraform, Ansible
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, GCP, Azure
+* Scripting Languages: Bash, Python, Ruby
+* Operating Systems: Linux (Ubuntu, CentOS, RHEL), Windows
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Docker to automate the build, test, and deployment of applications
+* Configured and managed Kubernetes clusters (GKE, AKS) for multiple applications, ensuring high availability and scalability
+* Developed and maintained Ansible playbooks for infrastructure provisioning and configuration management
+* Implemented monitoring and logging tools (Prometheus, Grafana) to provide real-time insights into application performance
+* Collaborated with development teams to resolve issues and improve application reliability
+
+Infrastructure Engineer, DEF Company (2015-2018)
+
+* Designed and implemented a Terraform-based infrastructure as code solution for multiple data centers
+* Configured and managed Ansible playbooks for infrastructure provisioning and configuration management
+* Developed and maintained scripts for system monitoring and alerting using Nagios and Puppet
+* Collaborated with operations teams to resolve issues and improve infrastructure reliability
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* Designed and implemented a CI/CD pipeline that reduced deployment time by 80% and increased application availability by 95%
+* Successfully migrated a legacy application to a cloud-based platform, resulting in a 50% reduction in infrastructure costs
+* Developed and maintained a set of Ansible playbooks that automated 90% of infrastructure provisioning and configuration tasks
+
+Certifications:
+
+* Certified DevOps Engineer, DevOps Institute (2019)
+* Certified Kubernetes Administrator, Cloud Native Computing Foundation (2018)
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

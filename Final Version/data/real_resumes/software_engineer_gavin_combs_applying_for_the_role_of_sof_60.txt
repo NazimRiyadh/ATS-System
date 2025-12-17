@@ -1,0 +1,51 @@
+here's a sample resume for gavin combs applying for the role of software engineer:
+
+gavin combs
+contact information:
+
+* address: [insert address]
+* phone: [insert phone number]
+* email: [insert email]
+* linkedin: [insert linkedin profile url]
+
+summary:
+highly skilled software engineer with a strong background in c++ and experience in developing efficient algorithms and data structures. proficient in designing and implementing scalable software solutions. proficient in writing clean, well-documented, and testable code.
+
+technical skills:
+
+* programming languages: c++, java, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, dynamic programming, greedy algorithms
+* operating systems: windows, linux
+* development environments: visual studio, eclipse, intellij idea
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+* software engineer, abc company (2018-present)
+	+ designed and developed multiple software applications using c++ and java
+	+ implemented efficient algorithms and data structures to improve system performance
+	+ collaborated with cross-functional teams to identify and prioritize project requirements
+	+ participated in code reviews to ensure high-quality code
+* intern, def company (summer 2017)
+	+ assisted in the development of a mobile app using python and java
+	+ contributed to the design and implementation of algorithms for data processing
+	+ worked with the qa team to identify and resolve bugs
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, software engineering, computer networks
+
+projects:
+
+* sorting algorithm comparator: developed a c++ program to compare the efficiency of different sorting algorithms
+* graph traversal program: created a java program to traverse a graph using depth-first search and breadth-first search algorithms
+* dynamic programming library: built a c++ library to implement dynamic programming algorithms
+
+certifications:
+
+* certified associate in python programming, python institute (2019)
+
+references:
+available upon request.

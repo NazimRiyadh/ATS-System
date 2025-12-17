@@ -1,0 +1,52 @@
+Mark Hernandez
+Contact Information:
+
+* Email: [mark.hernandez@email.com](mailto:mark.hernandez@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/markhernandez
+
+Summary:
+Highly motivated and detail-oriented Software Engineer with 5+ years of experience in designing, developing, and deploying scalable software systems using Java and DevOps practices. Skilled in algorithms and data structures, with a strong focus on testing and API development.
+
+Technical Skills:
+
+* Programming languages: Java 8, Java 11
+* Software frameworks: Spring Boot, Hibernate
+* Databases: MySQL, PostgreSQL
+* Operating Systems: Linux, Windows
+* DevOps tools: Jenkins, Docker, Kubernetes
+* Agile methodologies: Scrum, Kanban
+* Testing frameworks: JUnit, TestNG
+* API development: REST, GraphQL
+
+Professional Experience:
+
+Senior Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple microservices using Java and Spring Boot, resulting in a 30% increase in system scalability
+* Implemented continuous integration and deployment (CI/CD) pipelines using Jenkins and Docker, reducing deployment time by 50%
+* Collaborated with cross-functional teams to identify and prioritize features, ensuring alignment with business objectives
+* Mentored junior engineers in algorithms, data structures, and best practices for software development
+
+Software Engineer, DEF Startups (2015-2018)
+
+* Developed and maintained multiple web applications using Java and Hibernate, with a focus on performance and scalability
+* Designed and implemented algorithms for data processing and analysis, resulting in a 25% increase in data processing efficiency
+* Collaborated with QA engineers to identify and resolve defects, ensuring high-quality software releases
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Scrum Master (CSM)
+* Certified Java Developer (OCPJP)
+
+Projects:
+
+* Developed a machine learning-based recommendation engine using Java and Spring Boot, with a focus on scalability and performance
+* Built a real-time analytics platform using Apache Kafka, Apache Storm, and Elasticsearch, with a focus on data processing and visualization
+
+References:
+Available upon request.

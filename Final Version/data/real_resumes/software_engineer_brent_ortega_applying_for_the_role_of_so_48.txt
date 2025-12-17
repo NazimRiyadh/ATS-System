@@ -1,0 +1,53 @@
+here's a sample resume for brent ortega applying for the role of software engineer:
+
+brent ortega
+contact information:
+
+* email: [brent.ortega@email.com](mailto:brent.ortega@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/brentortega
+* github: github.com/brentortega
+
+summary:
+highly motivated and detail-oriented software engineer with a strong background in c++, algorithms, and system design. proficient in designing and developing scalable, efficient, and reliable software systems. profound understanding of computer science concepts and a passion for problem-solving.
+
+technical skills:
+
+* programming languages: c++, java, python
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, dynamic programming, greedy algorithms, divide and conquer
+* system design: microservices, restful apis, database design, cache optimization
+* development frameworks: qt, boost
+* operating systems: windows, linux
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+* software engineer, abc corporation (2018-present)
+	+ designed and developed multiple features for a cloud-based application using c++ and qt framework
+	+ implemented efficient algorithms for data processing and analysis, resulting in a 30% reduction in computational time
+	+ collaborated with cross-functional teams to improve system design and architecture
+	+ participated in code reviews and ensured adherence to coding standards and best practices
+* software development intern, def startup (summer 2017)
+	+ contributed to the development of a machine learning-based project using python and scikit-learn library
+	+ implemented data structures and algorithms for efficient data processing and storage
+	+ collaborated with the development team to identify and resolve technical issues
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, database systems, computer networks, operating systems
+
+projects:
+
+* c++ chatbot: developed a chatbot using c++ and qt framework, implementing natural language processing and machine learning algorithms
+* algorithm library: created a library of algorithms in c++ for common data structures and problems, including sorting, searching, and graph algorithms
+
+certifications:
+
+* certified c++ developer, c++ institute (2019)
+* certified scrum master, scrum alliance (2020)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for, and highlight your unique skills and experiences.

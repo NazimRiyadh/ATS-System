@@ -1,0 +1,55 @@
+Renee Thomas
+Contact Information:
+
+* Email: [reneethomas@email.com](mailto:reneethomas@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/reneethomas
+
+Summary:
+Highly skilled Data Engineer with expertise in designing, developing, and deploying scalable data pipelines and architectures on cloud platforms. Proven track record of successfully implementing data warehousing solutions and ensuring data quality, security, and governance.
+
+Technical Skills:
+
+* Big Data Frameworks: Apache Hadoop, Apache Spark, Apache Kafka
+* Data Pipelines: Airflow, AWS Glue, Apache Beam
+* Databases: MySQL, PostgreSQL, MongoDB, Cassandra
+* Cloud Platforms: AWS, GCP, Azure
+* Programming Languages: Python, Scala
+* Data Warehousing: Star schema design, ETL process management
+* CI/CD Tools: Jenkins, Docker, Kubernetes
+* Data Storage: NoSQL databases, Data lakes
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2020-Present)
+
+* Designed and developed scalable data pipelines using Apache Spark and Airflow to process large datasets
+* Implemented data warehousing solution using Amazon Redshift and ETL process management using AWS Glue
+* Ensured data quality, security, and governance by implementing data validation, data encryption, and access control mechanisms
+* Collaborated with cross-functional teams to design and implement data visualizations and business intelligence solutions
+* Migrated on-premises data infrastructure to cloud-based infrastructure using AWS and GCP
+
+Data Engineer, DEF Startups (2018-2020)
+
+* Developed and deployed data pipelines using Apache Beam and Apache Kafka to process real-time data streams
+* Implemented data warehouse solution using Snowflake and ETL process management using AWS Glue
+* Collaborated with data scientists to develop and deploy machine learning models using Python and scikit-learn
+* Ensured data quality, security, and governance by implementing data validation, data encryption, and access control mechanisms
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Data Engineer, Certified Data Engineering Institute (2020)
+* Certified Cloud Practitioner, AWS Certified Cloud Practitioner (2019)
+
+Projects:
+
+* Data Lake Migration: Designed and developed a data lake migration solution using AWS Glue and Apache Spark to migrate on-premises data infrastructure to cloud-based infrastructure
+* Real-time Data Pipeline: Developed and deployed a real-time data pipeline using Apache Beam and Apache Kafka to process real-time data streams
+* Data Warehouse Optimization: Optimized data warehouse performance using Amazon Redshift and ETL process management using AWS Glue
+
+References:
+Available upon request.

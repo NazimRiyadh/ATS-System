@@ -1,0 +1,58 @@
+here's a sample resume for amanda ellison applying for the role of data engineer:
+
+amanda ellison
+contact information:
+
+* email: [amanda.ellison@email.com](mailto:amanda.ellison@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/amandaellison
+* github: github.com/amandaellison
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, etl, and cloud platforms. proven track record of designing and implementing scalable data pipelines, and expertise in deploying machine learning models in production environments.
+
+technical skills:
+
+* programming languages: python, sql
+* data processing tools: apache airflow, apache beam, pyspark
+* cloud platforms: aws, gcp, azure
+* etl tools: apache beam, aws glue, azure data factory
+* mlops: tensorflow, scikit-learn, pytorch
+* data storage: relational databases (mysql, postgresql), nosql databases (mongodb, cassandra)
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, xyz corporation (2020-present)
+
+* designed and implemented scalable data pipelines using apache airflow and apache beam
+* developed and deployed machine learning models using scikit-learn and tensorflow
+* collaborated with cross-functional teams to implement data-driven solutions
+* ensured data quality and integrity by implementing data validation and testing
+* managed and maintained data infrastructure on aws and gcp platforms
+
+data analyst, abc startups (2018-2020)
+
+* designed and implemented etl processes using aws glue and azure data factory
+* built data visualizations using tableau and power bi
+* created data dashboards to track key performance indicators (kpis)
+* collaborated with business stakeholders to gather requirements and develop data-driven solutions
+* managed and maintained data infrastructure on aws and azure platforms
+
+education:
+
+* bachelor of science in computer science, [university name] (2015-2018)
+* master of science in data science, [university name] (2018-2020)
+
+certifications:
+
+* certified data engineer, [certification name] (2020)
+* certified cloud practitioner, aws (2019)
+
+projects:
+
+* mlops pipeline using tensorflow and apache airflow: designed and implemented a scalable mlops pipeline using tensorflow and apache airflow, which was deployed to production on aws.
+* etl pipeline using apache beam: built an etl pipeline using apache beam, which was used to process large datasets on gcp.
+* data visualization dashboard using tableau: created a data visualization dashboard using tableau to track key performance indicators (kpis) for a startup.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and requirements, and highlight your unique skills and experiences.

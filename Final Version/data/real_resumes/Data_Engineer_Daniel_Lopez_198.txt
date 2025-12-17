@@ -1,0 +1,58 @@
+Here's a professional resume for Daniel Lopez:
+
+Daniel Lopez
+Contact Information:
+
+* Email: [dlopez@email.com](mailto:dlopez@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/daniellopezdataengineer
+* GitHub: github.com/dlopezdataengineer
+
+Professional Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using MLOps, Airflow, ETL, and Big Data technologies. Proven expertise in Cloud Platforms, Data Warehousing, and Data Engineering principles. Skilled in collaborating with cross-functional teams to drive business outcomes through data-driven insights.
+
+Technical Skills:
+
+* Programming languages: Python, SQL
+* Data Engineering tools: Apache Airflow, Apache Beam, AWS Glue
+* Big Data technologies: Hadoop, Spark, NoSQL databases (e.g., Cassandra, MongoDB)
+* Cloud Platforms: AWS, GCP, Azure
+* Data Warehousing: Amazon Redshift, Google BigQuery
+* MLOps: TensorFlow, PyTorch, Scikit-learn
+* Collaboration tools: Git, Jira, Slack
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed scalable data pipelines using Apache Airflow, Apache Beam, and AWS Glue to process and transform large datasets
+* Collaborated with cross-functional teams to integrate data from various sources into a centralized data warehouse (Amazon Redshift)
+* Developed and deployed machine learning models using TensorFlow and PyTorch to improve business outcomes
+* Implemented data quality checks and data governance policies to ensure data accuracy and compliance
+* Mentored junior engineers and contributed to knowledge-sharing initiatives to improve team productivity
+
+Data Engineering Team Lead, DEF Startup (2015-2018)
+
+* Led a team of 3 engineers to design, develop, and deploy data pipelines using Hadoop, Spark, and NoSQL databases
+* Collaborated with the CTO to develop a data warehousing strategy using Google BigQuery
+* Developed and implemented data governance policies to ensure data accuracy and compliance
+* Managed the team's technical roadmap and prioritized projects to drive business outcomes
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2018)
+* Certified Big Data Developer, Hortonworks (2016)
+
+Achievements:
+
+* Designed and developed a scalable data pipeline using Apache Airflow that reduced data processing time by 50%
+* Developed and deployed a machine learning model using TensorFlow that improved business outcomes by 25%
+* Collaborated with the engineering team to develop a data warehousing strategy using Google BigQuery that reduced data storage costs by 30%
+* Mentored junior engineers and contributed to knowledge-sharing initiatives that improved team productivity by 20%
+
+References:
+Available upon request.

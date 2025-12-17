@@ -1,0 +1,59 @@
+Here is a professional resume for Stephanie King:
+
+Stephanie King
+Database Administrator
+
+Contact Information:
+
+* Email: [stephanie.king@email.com](mailto:stephanie.king@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/stephaniekingdba
+
+Summary:
+Highly skilled Database Administrator with 8 years of experience in designing, implementing, and maintaining large-scale databases. Proficient in Backup and Recovery, Database Security, and Performance Tuning. Proven track record of improving database performance, reducing downtime, and ensuring data security.
+
+Technical Skills:
+
+* Database Management Systems: Oracle, Microsoft SQL Server, MySQL
+* Backup and Recovery: RMAN, SQL Server Backup, MySQL InnoDB
+* Database Security: Oracle Enterprise Manager, SQL Server Security, MySQL Security
+* Performance Tuning: SQL Tuning Advisor, Query Store, Index Tuning Wizard
+* Operating Systems: Windows, Linux, Unix
+* Scripting Languages: SQL, Python, PowerShell
+
+Professional Experience:
+
+Database Administrator, ABC Corporation (2018-Present)
+
+* Designed and implemented a high-availability database solution using Oracle RAC and SQL Server Always On
+* Improved database performance by 30% through query optimization and indexing techniques
+* Developed and implemented a comprehensive backup and recovery strategy using RMAN and SQL Server Backup
+* Ensured database security by implementing Oracle Enterprise Manager and SQL Server Security
+* Collaborated with development team to design and implement database schema changes
+
+Database Administrator, DEF Company (2015-2018)
+
+* Managed a team of 3 database administrators to ensure database uptime and performance
+* Implemented a database performance monitoring tool using SQL Tuning Advisor and Query Store
+* Developed and implemented a database security policy using MySQL Security
+* Improved database performance by 25% through indexing techniques and query optimization
+* Collaborated with development team to design and implement database schema changes
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Oracle Certified Professional (OCP)
+* Microsoft Certified Database Administrator (MCDA)
+* MySQL Certified Developer (MCD)
+
+Achievements:
+
+* Winner of the ABC Corporation's "Best Database Administrator" award (2019)
+* Featured speaker at the DEF Company's "Database Security" conference (2017)
+* Published article on "Database Performance Tuning" in the XYZ University's Computer Science Journal (2015)
+
+References:
+Available upon request.

@@ -1,0 +1,54 @@
+here's a sample resume for justin patterson applying for the role of data engineer:
+
+justin patterson
+contact information:
+
+* email: [jpatterson@email.com](mailto:jpatterson@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/justinpatterson
+* github: github.com/justinpatterson
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, big data, and cloud platforms. proven track record of designing, implementing, and deploying data pipelines and machine learning models at scale. skilled in leveraging cloud-based technologies to drive business growth and innovation.
+
+technical skills:
+
+* mlops: model deployment, model monitoring, and model versioning using tools such as mlflow, tensorflow, and scikit-learn
+* airflow: dag design, task scheduling, and workflow orchestration
+* big data: hadoop, spark, and nosql databases (e.g., cassandra, mongodb)
+* cloud platforms: aws, gcp, and azure (experience with cloud-based services such as s3, cloud storage, and blob storage)
+* programming languages: python, java, and scala
+* data engineering tools: apache beam, apache flink, and apache spark
+* operating systems: linux and windows
+
+professional experience:
+
+senior data engineer, abc company (2020-present)
+
+* designed and implemented large-scale data pipelines using airflow and apache beam to support business intelligence and machine learning workloads
+* built and deployed machine learning models using scikit-learn and tensorflow, and integrated with airflow for automated model deployment
+* collaborated with cross-functional teams to design and implement data warehousing and etl solutions using hadoop and spark
+* mentored junior data engineers and provided technical guidance on data engineering best practices
+
+data engineer, def startup (2018-2020)
+
+* developed and deployed data pipelines using apache beam and airflow to support real-time analytics and machine learning workloads
+* built and deployed data warehousing solutions using bigtable and spark sql
+* collaborated with data scientists to design and implement machine learning models using scikit-learn and tensorflow
+* implemented data quality and governance processes using apache airflow and apache beam
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* aws certified developer - associate, amazon web services (2018)
+
+projects:
+
+* mlops pipeline: designed and implemented a end-to-end mlops pipeline using airflow, mlflow, and scikit-learn to deploy and monitor machine learning models
+* big data processing: built and deployed a big data processing pipeline using apache beam and hadoop to process large-scale data sets
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

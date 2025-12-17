@@ -1,0 +1,62 @@
+Brittany Lester
+Data Engineer
+
+Contact Information:
+
+* Email: [brittany.lester@email.com](mailto:brittany.lester@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/brittanylester
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with expertise in Big Data Frameworks, ETL Tools, and Data Warehousing. Proficient in Python and experienced in implementing CI/CD Tools to ensure efficient data processing and delivery.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop (HDFS, MapReduce, YARN)
+	+ Apache Spark (Spark Core, Spark SQL, Spark Streaming)
+	+ Apache Flink
+* ETL Tools:
+	+ Apache Beam
+	+ Apache NiFi
+	+ Informatica PowerCenter
+* Data Warehousing:
+	+ Amazon Redshift
+	+ Google BigQuery
+	+ Apache Hive
+* Programming Languages:
+	+ Python (Pandas, NumPy, scikit-learn)
+	+ SQL (MySQL, PostgreSQL, Oracle)
+* CI/CD Tools:
+	+ Jenkins
+	+ GitLab CI/CD
+	+ Docker
+
+Professional Experience:
+
+Data Engineer, ABC Company (2018-Present)
+
+* Designed and implemented ETL pipelines using Apache Beam and Apache NiFi to extract, transform, and load data from various sources
+* Developed and maintained data warehouse schema using Apache Hive and Amazon Redshift
+* Utilized Python and Pandas to process and analyze large datasets
+* Collaborated with cross-functional teams to implement CI/CD pipelines using Jenkins and GitLab CI/CD
+* Ensured data quality and integrity through data validation and testing
+
+Junior Data Engineer, DEF Startups (2016-2018)
+
+* Assisted in designing and implementing data pipelines using Apache Spark and Apache Flink
+* Developed and deployed Python scripts using Pandas and NumPy to process and analyze data
+* Collaborated with data scientists to implement machine learning models using scikit-learn
+* Participated in code reviews and ensured adherence to coding standards
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2016)
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Scrum Master, Scrum Alliance (2018)
+
+References:
+Available upon request.

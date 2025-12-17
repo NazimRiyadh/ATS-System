@@ -1,0 +1,52 @@
+here's a sample resume for john burton applying for a software engineer role:
+
+john burton
+contact information:
+
+* email: [john.burton@email.com](mailto:john.burton@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/johnburton
+* github: github.com/johnburton
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying software applications using java and python. proficient in data structures and algorithms, with a strong passion for problem-solving and continuous learning.
+
+technical skills:
+
+* programming languages: java, python, c++
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, greedy, dynamic programming, recursion
+* development frameworks: spring, django, flask
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+* version control systems: git, svn
+
+professional experience:
+
+* software engineer, abc corporation (2018-present)
+	+ designed and developed multiple software applications using java and python, including a web-based dashboard and a mobile app
+	+ collaborated with cross-functional teams to identify and prioritize project requirements
+	+ implemented data structures and algorithms to optimize application performance and scalability
+	+ conducted code reviews and ensured adherence to coding standards and best practices
+* junior software engineer, def startups (2015-2018)
+	+ contributed to the development of a machine learning-based chatbot using python and natural language processing
+	+ assisted in the design and implementation of a data warehousing solution using java and sql
+	+ participated in code reviews and provided feedback to improve code quality and maintainability
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+certifications:
+
+* certified java developer, oracle (2016)
+* certified python developer, python institute (2017)
+
+projects:
+
+* personal projects: developed a few personal projects, including a web scraper using python and beautifulsoup, and a game using java and swing.
+* contributions: contributed to open-source projects on github, including a python library for natural language processing and a java framework for building restful apis.
+
+references:
+available upon request.

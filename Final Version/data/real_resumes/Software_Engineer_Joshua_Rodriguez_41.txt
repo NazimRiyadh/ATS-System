@@ -1,0 +1,57 @@
+Here is a resume for Joshua Rodriguez applying for the job role of Software Engineer:
+
+Joshua Rodriguez
+Contact Information:
+
+* Email: [joshuamrodriguez@email.com](mailto:joshuamrodriguez@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/joshuarodriguez
+
+Summary:
+Highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable and efficient backend systems. Proficient in Java, with expertise in version control, DevOps, and API development. Proven track record of delivering high-quality software solutions on time and on budget.
+
+Technical Skills:
+
+* Programming languages: Java, Python
+* Backend development frameworks: Spring Boot, RESTful APIs
+* Version control systems: Git, SVN
+* DevOps tools: Docker, Kubernetes, Jenkins
+* APIs: REST, GraphQL
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior Software Engineer, ABC Company (2018-Present)
+
+* Design and develop scalable backend systems using Java and Spring Boot framework
+* Collaborate with cross-functional teams to identify and prioritize project requirements
+* Implement and maintain RESTful APIs using Spring Boot and Swagger
+* Utilize Git for version control and Jenkins for continuous integration and deployment
+* Participate in code reviews and ensure high-quality code standards
+* Mentor junior engineers and provide guidance on software development best practices
+
+Software Engineer, DEF Startups (2015-2018)
+
+* Developed multiple web applications using Java and Python
+* Worked on multiple projects simultaneously, prioritizing tasks and meeting deadlines
+* Utilized SVN for version control and collaborated with distributed teams
+* Implemented API gateways using RESTful APIs and GraphQL
+* Participated in technical design reviews and ensured technical debt is minimized
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Scrum Master (CSM), Scrum Alliance (2019)
+* Certified Java Developer (OCPJP), Oracle Corporation (2016)
+
+Personal Projects:
+
+* Developed a personal project, a full-stack web application using Java and Spring Boot, that is deployed on AWS
+* Contributed to open-source projects on GitHub, including a Java-based RESTful API
+
+References:
+Available upon request.

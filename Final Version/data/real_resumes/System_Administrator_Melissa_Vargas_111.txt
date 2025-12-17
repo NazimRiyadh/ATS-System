@@ -1,0 +1,59 @@
+Here's a sample resume for Melissa Vargas:
+
+Melissa Vargas
+System Administrator
+
+Contact Information:
+
+* Email: [melissa.vargas@email.com](mailto:melissa.vargas@email.com)
+* Phone: 555-123-4567
+* LinkedIn: linkedin.com/in/melissavargas
+
+Professional Summary:
+Highly motivated and experienced System Administrator with a strong background in Windows Server, Active Directory, Networking, Virtualization, and System Monitoring. Proven track record of delivering reliable and efficient IT solutions in fast-paced environments. Proficient in troubleshooting and resolving complex technical issues, with excellent communication and collaboration skills.
+
+Technical Skills:
+
+* Windows Server (2008, 2012, 2016, 2019)
+* Active Directory (AD DS, AD LDS, AD FS)
+* Networking (TCP/IP, DNS, DHCP, VPN)
+* Virtualization (VMware, Hyper-V)
+* System Monitoring (SCOM, Nagios)
+* Scripting (PowerShell, Bash)
+* Cloud Computing (Azure, AWS)
+* Database Administration (SQL Server, MySQL)
+
+Professional Experience:
+
+* System Administrator, XYZ Corporation (2018-Present)
+	+ Responsible for installing, configuring, and maintaining Windows Server environments, including AD DS, DNS, and DHCP.
+	+ Implemented and managed VMware virtualization infrastructure, including vCenter Server and vSphere.
+	+ Designed and implemented a comprehensive system monitoring solution using SCOM and Nagios.
+	+ Troubleshot and resolved complex technical issues, including network connectivity and server performance issues.
+	+ Provided Tier 2 support for end-users, including troubleshooting and resolving technical issues.
+* Network Administrator, ABC Company (2015-2018)
+	+ Configured and managed network devices, including routers, switches, and firewalls.
+	+ Implemented and managed Active Directory, including user and group management.
+	+ Assisted in the implementation of a virtualization infrastructure using VMware.
+	+ Conducted regular system backups and disaster recovery testing.
+
+Achievements:
+
+* Successfully implemented a Windows Server 2016 migration project, resulting in improved server uptime and reduced downtime by 30%.
+* Designed and implemented a comprehensive system monitoring solution, resulting in improved system uptime and reduced system downtime by 25%.
+* Implemented a VMware virtualization infrastructure, resulting in improved server utilization and reduced hardware costs by 20%.
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* Microsoft Certified Solutions Expert (MCSE): Server Infrastructure (2016)
+* CompTIA A+ (2015)
+* CompTIA Network+ (2014)
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your own resume to fit your specific experiences and the job you're applying for.

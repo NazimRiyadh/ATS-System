@@ -1,0 +1,51 @@
+here's a sample resume for victoria wilkinson applying for the role of software engineer:
+
+victoria wilkinson
+contact information:
+
+* email: [victoria.wilkinson@email.com](mailto:victoria.wilkinson@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/victoriawilkinson
+* github: github.com/vwilk
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in java, python, and data structures. proven track record of designing and developing scalable, efficient, and well-documented software solutions. strong problem-solving skills and experience with algorithmic thinking.
+
+technical skills:
+
+* programming languages: java, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, graph algorithms, dynamic programming
+* system design: microservices architecture, restful apis, database design
+* development tools: git, eclipse, intellij idea, jira
+* operating systems: windows, linux, macos
+
+professional experience:
+
+* software engineer, abc company (2018-present)
+	+ designed and developed multiple features for a large-scale e-commerce platform using java and python
+	+ implemented efficient algorithms for search and recommendation systems, resulting in 30% improvement in search query response time
+	+ collaborated with cross-functional teams to design and implement restful apis for data exchange
+	+ participated in code reviews and ensured adherence to coding standards and best practices
+* junior software engineer, def startup (2016-2018)
+	+ contributed to the development of a machine learning-based chatbot using python and natural language processing techniques
+	+ developed and maintained a scalable data pipeline using apache kafka and apache spark
+	+ worked on optimizing the chatbot's response time by 25% through algorithmic improvements
+
+education:
+
+* bachelor of science in computer science, xyz university (2016)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+projects:
+
+* personal project: developed a web scraper using python and beautifulsoup to extract data from a popular e-commerce website
+* open-source contribution: contributed to the development of a popular open-source data structure library in java
+
+certifications/awards:
+
+* certified java developer, oracle (2019)
+* winner, abc hackathon (2018) for developing a innovative solution using machine learning and data structures
+
+references:
+available upon request.

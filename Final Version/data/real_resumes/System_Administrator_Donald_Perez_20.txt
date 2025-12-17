@@ -1,0 +1,64 @@
+Here's a sample resume for Donald Perez:
+
+Donald Perez
+System Administrator
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [donald.perez@email.com](mailto:donald.perez@email.com)
+* LinkedIn: linkedin.com/in/donaldperez
+
+Summary:
+Highly motivated and experienced System Administrator with over 8 years of experience in managing and maintaining complex IT infrastructure environments. Skilled in Linux/Unix, Active Directory, Networking, Virtualization, and System Monitoring. Proven track record of delivering high-quality services and improving system efficiency and reliability.
+
+Technical Skills:
+
+* Operating Systems: Linux (Red Hat, Ubuntu, CentOS), Unix (Solaris, AIX), Windows Server
+* Networking: Cisco, Juniper, HP, VMware, Cisco ASA
+* Virtualization: VMware, Hyper-V
+* System Monitoring: Nagios, Zabbix, SolarWinds
+* Active Directory: Installation, configuration, and management
+* Scripting languages: Bash, Python, PowerShell
+* Cloud platforms: AWS, Azure
+
+Professional Experience:
+
+Senior System Administrator, ABC Corporation (2018-Present)
+
+* Managed and maintained a large-scale enterprise IT infrastructure environment with over 500 servers and 10,000 users
+* Configured and implemented Active Directory, DNS, DHCP, and other network services
+* Implemented and managed VMware virtualization environment, including vSphere and vCenter
+* Designed and implemented system monitoring and alerting systems using Nagios and Zabbix
+* Collaborated with development teams to implement and support new applications and services
+* Implemented security measures to protect against cyber threats and ensure compliance with regulatory requirements
+
+System Administrator, DEF Company (2015-2018)
+
+* Managed and maintained a mid-sized IT infrastructure environment with over 100 servers and 5,000 users
+* Configured and implemented Linux and Unix operating systems, including Red Hat and Solaris
+* Implemented and managed Cisco and Juniper networking equipment, including routers and switches
+* Designed and implemented system monitoring and alerting systems using Nagios and SolarWinds
+* Collaborated with development teams to implement and support new applications and services
+* Implemented security measures to protect against cyber threats and ensure compliance with regulatory requirements
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* CompTIA A+ (2012)
+* CompTIA Network+ (2013)
+* VMware VCP-DCV (2016)
+* Microsoft MCSA: Windows Server (2017)
+
+Achievements:
+
+* Improved system uptime and reliability by 30% through proactive monitoring and maintenance
+* Reduced IT costs by 25% through virtualization and consolidation of hardware assets
+* Implemented a centralized system monitoring and alerting system, resulting in 90% reduction in incident response time
+* Collaborated with development teams to implement and support new applications and services, resulting in 25% increase in user satisfaction
+
+References:
+Available upon request.

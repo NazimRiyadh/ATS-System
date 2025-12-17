@@ -1,0 +1,51 @@
+here's a sample resume for stephanie campos applying for the role of data engineer:
+
+stephanie campos
+contact information:
+
+* email: [stephanie.campos@email.com](mailto:stephanie.campos@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/stephaniecampos
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, implementing, and maintaining large-scale data processing systems. skilled in big data technologies, cloud platforms, and spark. proven track record of delivering high-quality data solutions that drive business insights and growth.
+
+technical skills:
+
+* programming languages: java, python, scala
+* big data technologies: hadoop, spark, hive, pig, flume
+* cloud platforms: amazon web services (aws), microsoft azure, google cloud platform (gcp)
+* data processing frameworks: apache spark, apache flink, apache storm
+* databases: mysql, postgresql, cassandra, mongodb
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and implemented a large-scale data pipeline using apache spark and aws glue to process 10tb of data daily
+* developed and deployed a spark-based data processing application that increased data processing speed by 300%
+* collaborated with cross-functional teams to integrate data engineering solutions with business applications
+* mentored junior engineers on big data technologies and spark
+
+senior data analyst, def startups (2015-2018)
+
+* led the development of a data warehousing project using aws redshift and apache hive
+* designed and implemented etl processes using apache pig and apache flume to extract and load data from various sources
+* created data visualizations using tableau and power bi to support business decision-making
+* worked closely with stakeholders to understand business requirements and deliver high-quality data solutions
+
+education:
+
+* master of science in computer science, xyz university (2015)
+* bachelor of science in computer science, abc university (2010)
+
+certifications:
+
+* certified data engineer, data science council of america (dasca)
+* certified cloud practitioner, aws
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and requirements, and highlight your unique skills and experiences.

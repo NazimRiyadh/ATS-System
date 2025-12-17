@@ -1,0 +1,56 @@
+here's a sample resume for harold rogers applying for a data scientist role:
+
+harold rogers
+contact information:
+
+* email: [hrogers@email.com](mailto:hrogers@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/haroldrogers
+* github: github.com/hrogers
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in analyzing and interpreting complex data sets. skilled in python, statistics, machine learning, and sql. proven track record of delivering actionable insights that drive business growth.
+
+technical skills:
+
+* programming languages: python, r
+* data analysis and visualization tools: pandas, numpy, matplotlib, seaborn, tableau
+* machine learning algorithms: scikit-learn, tensorflow, pytorch
+* database management: sql, mysql, postgresql
+* operating systems: windows, linux, macos
+* familiarity with cloud-based platforms: aws, google cloud, azure
+
+professional experience:
+
+data scientist, abc corporation (2018-present)
+
+* analyze large datasets to identify trends and patterns, and develop predictive models to drive business growth
+* collaborate with cross-functional teams to design and implement data-driven solutions
+* develop and maintain complex statistical models using python and r
+* create interactive dashboards using tableau to visualize data insights
+* worked with sql to query and manipulate large datasets
+
+data analyst, def startups (2015-2018)
+
+* collected and analyzed data from various sources, including social media and customer feedback
+* developed and maintained databases using sql and mysql
+* created reports and visualizations to present findings to stakeholders
+* worked with python to automate data processing and analysis tasks
+
+education:
+
+* master of science in statistics, xyz university (2015)
+* bachelor of science in mathematics, abc university (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting customer churn using machine learning: developed a predictive model using python and scikit-learn to identify customers at risk of churning. achieved an accuracy of 85%
+* analyzing sports performance using data visualization: created an interactive dashboard using tableau to visualize player performance data. presented findings to the sports analytics team
+
+references:
+available upon request

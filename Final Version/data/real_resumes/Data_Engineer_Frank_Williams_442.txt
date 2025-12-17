@@ -1,0 +1,62 @@
+Here's a sample resume for Frank Williams, a Data Engineer who was reject for the Data Engineer role:
+
+**Frank Williams**
+**Contact Information:**
+
+* Email: [frankwilliams@email.com](mailto:frankwilliams@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/frankwilliamsdatascience
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 8+ years of experience in designing, building, and maintaining large-scale data systems. Proficient in a range of programming languages, including Python, Java, and SQL. Strong understanding of data warehousing, ETL processes, and data visualization.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, Scala, SQL
+* Data platforms: Amazon Redshift, Google BigQuery, Apache Hive
+* ETL tools: Apache NiFi, Apache Beam, AWS Glue
+* Data visualization: Tableau, Power BI, D3.js
+* Operating Systems: Linux, Windows, macOS
+* Agile methodologies: Scrum, Kanban
+* Cloud platforms: AWS, Azure, Google Cloud
+
+**Experience:**
+
+* **Senior Data Engineer, ABC Corporation (2018-Present)**
+	+ Designed and implemented a data warehouse on Amazon Redshift to support business intelligence and analytics
+	+ Developed and maintained ETL pipelines using Apache NiFi and Apache Beam
+	+ Collaborated with data scientists to develop machine learning models and deploy them to production
+	+ Mentored junior data engineers and provided technical guidance
+* **Data Engineer, DEF Startups (2015-2018)**
+	+ Built and maintained data pipelines on Apache Hadoop and Apache Spark
+	+ Developed data visualizations using Tableau and Power BI
+	+ Worked with cross-functional teams to design and implement data-driven solutions
+	+ Participated in code reviews and ensured adherence to coding standards
+* **Data Analyst, GHI Inc. (2012-2015)**
+	+ Analyzed and visualized data to inform business decisions
+	+ Developed reports and dashboards using SQL and Tableau
+	+ Conducted data quality checks and ensured data accuracy
+
+**Achievements:**
+
+* Improved data warehouse query performance by 30% through indexing and caching techniques
+* Reduced ETL pipeline execution time by 50% through optimization and parallelization
+* Developed and implemented a data-driven recommendation engine that increased sales by 20%
+* Successfully mentored and trained junior data engineers to take on more responsibilities
+
+**Projects:**
+
+* **Personal Project: Music Recommendation Engine**
+	+ Built a music recommendation engine using collaborative filtering and matrix factorization
+	+ Deployed the engine to a cloud-based platform using AWS and Apache Spark
+	+ Developed a user interface using React and D3.js
+* **Contributor: Apache Beam**
+	+ Contributed to the development of Apache Beam, an open-source unified data processing model
+	+ Participated in code reviews and ensured adherence to coding standards
+	+ Collaborated with other contributors to resolve issues and improve the project
+
+**Education:**
+
+* **Bachelor of Science in Computer Science, XYZ University (2012)**
+
+I hope this sample resume helps! Remember to customize it to fit your specific experience and the job you're applying for.

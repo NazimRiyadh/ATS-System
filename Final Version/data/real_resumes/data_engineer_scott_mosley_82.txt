@@ -1,0 +1,60 @@
+here's a sample resume for scott mosley, a candidate applying for the role of data engineer:
+
+scott mosley
+contact information:
+
+* email: [scott.mosley@email.com](mailto:scott.mosley@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/scottmosley
+
+summary:
+highly skilled data engineer with expertise in mlops, airflow, etl, big data, and spark. proven track record of designing, building, and deploying scalable and efficient data pipelines. proficient in working with large datasets and ensuring data quality, integrity, and security.
+
+technical skills:
+
+* mlops (machine learning operations)
+	+ experience with model deployment, monitoring, and versioning
+	+ familiarity with ml frameworks such as tensorflow, pytorch, and scikit-learn
+* airflow
+	+ designed and implemented complex data pipelines using apache airflow
+	+ utilized airflow's features for scheduling, monitoring, and error handling
+* etl (extract, transform, load)
+	+ expertise in designing and implementing etl processes using various tools and technologies
+	+ proficient in working with data warehousing and data lakes
+* big data
+	+ experience with handling large datasets using hadoop, spark, and nosql databases
+	+ familiarity with big data processing frameworks such as mapreduce, spark, and flink
+* spark
+	+ skilled in developing spark applications using scala, java, and python
+	+ experience with spark sql, dataframes, and datasets
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* designed and implemented complex data pipelines using apache airflow, resulting in 30% reduction in data processing time
+* collaborated with data scientists to develop and deploy machine learning models using mlops
+* developed and maintained etl processes using various tools and technologies, ensuring data quality and integrity
+* worked on big data projects using hadoop, spark, and nosql databases, handling datasets up to 10 tb in size
+
+junior data engineer, def startups (2015-2018)
+
+* assisted in designing and implementing data pipelines using apache spark and scala
+* developed and maintained etl processes using various tools and technologies
+* collaborated with data analysts to develop reports and dashboards using data visualization tools
+
+education:
+
+* bachelor's degree in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified apache spark developer, spark certification board (2018)
+
+projects:
+
+* mlops project: developed a mlops framework using tensorflow, airflow, and docker, resulting in 25% improvement in model deployment time
+* big data project: designed and implemented a big data pipeline using spark, hadoop, and nosql databases, handling datasets up to 5 tb in size
+
+note: this is just a sample resume, and you should customize it to fit your specific experience and the job you're applying for. remember to proofread your resume multiple times for any errors or formatting issues before submitting it.

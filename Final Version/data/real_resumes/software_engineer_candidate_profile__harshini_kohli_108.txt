@@ -1,0 +1,33 @@
+**candidate profile: harshini kohli**
+
+**job title:** software engineer
+
+**interview notes:** harshini demonstrated enthusiasm and a willingness to learn, but there were notable areas where her skills did not align with the job requirements.
+
+**key areas for improvement:**
+
+1. **software development fundamentals:** harshini's understanding of software development principles, design patterns, and software engineering methodologies was limited. she struggled to provide clear examples of her experience with coding best practices, testing, and debugging.
+2. **algorithms and data structures:** harshini's proficiency in algorithms and data structures was not evident, and she seemed uncertain about common data structures such as arrays, linked lists, stacks, and queues.
+3. **version control (git):** although she had some familiarity with version control systems, her knowledge of git was limited, and she was unclear about concepts like branching, merging, and conflict resolution.
+4. **database management:** harshini's experience with database management systems was non-existent, and she seemed unfamiliar with database design principles, normalization, and querying languages like sql.
+5. **web development:** although she had some experience with web development, her skills were not up-to-date, and she struggled to discuss modern web development frameworks, front-end and back-end separation, and responsive web design.
+6. **programming languages:** harshini's experience with programming languages was limited to python, and she was not familiar with languages like java, c++, or javascript, which are commonly used in software engineering.
+7. **testing and debugging:** harshini's approach to testing and debugging was not evident, and she seemed uncertain about testing frameworks, unit testing, and debugging techniques.
+
+**concerns raised during the interview:**
+
+* harshini struggled with certain tasks, such as designing a simple algorithm or explaining the concept of object-oriented programming.
+* she was unfamiliar with specific tools and technologies, such as docker, kubernetes, or cloud platforms like aws or azure.
+* her responses to behavioral questions, such as "tell me about a project you worked on," were not specific or detailed, indicating a lack of experience working on software engineering projects.
+
+**potential for growth:**
+
+despite the areas where harshini's skills fell short, she demonstrated a willingness to learn and grow. with further training or exposure to software engineering concepts, she may be able to bridge the gaps in her knowledge and skills. her enthusiasm and eagerness to learn are positive traits that could serve her well in a software engineering role.
+
+**recommendations for future development:**
+
+* provide harshini with training or coursework in software development fundamentals, algorithms, and data structures.
+* offer her opportunities to work on projects that utilize version control systems, database management, and web development.
+* encourage her to learn and practice programming languages like java, c++, or javascript.
+* provide guidance on testing and debugging techniques, as well as exposure to testing frameworks and debugging tools.
+* consider pairing her with a more experienced engineer to provide mentorship and support as she grows in her role.

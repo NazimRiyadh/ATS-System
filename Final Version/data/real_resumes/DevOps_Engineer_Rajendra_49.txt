@@ -1,0 +1,50 @@
+Here's a professional resume for Rajendra, a DevOps Engineer:
+
+**Rajendra**
+**DevOps Engineer**
+
+**Contact Information:**
+
+* Email: [rajendra@email.com](mailto:rajendra@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/rajendra-devops
+
+**Objective:**
+To leverage my 10 years of experience in DevOps engineering to drive efficiency, scalability, and reliability in a cloud-native environment, utilizing containerization, cloud platforms, and Linux expertise.
+
+**Summary:**
+Highly experienced DevOps Engineer with 10 years of experience in designing, implementing, and maintaining scalable and reliable systems using containerization, cloud platforms, and Linux. Proven track record of improving deployment efficiency, reducing downtime, and enhancing collaboration between development and operations teams.
+
+**Experience:**
+
+* **DevOps Engineer, ABC Corporation (2018-Present)**
+	+ Designed and implemented containerization solutions using Docker, Kubernetes, and Red Hat OpenShift
+	+ Configured and managed cloud platforms, including AWS, Azure, and Google Cloud Platform
+	+ Utilized Linux expertise to troubleshoot and resolve complex system issues
+	+ Collaborated with development teams to ensure smooth deployments and minimal downtime
+* **Senior Linux Engineer, DEF Company (2015-2018)**
+	+ Implemented and maintained Linux-based systems for web applications
+	+ Developed and deployed scripts to automate deployment, monitoring, and logging
+	+ Provided technical guidance and support to junior engineers
+* **DevOps Engineer, GHI Company (2010-2015)**
+	+ Participated in the design and implementation of continuous integration and continuous deployment (CI/CD) pipelines
+	+ Utilized tools like Jenkins, GitLab CI/CD, and Artifactory to automate testing and deployment
+
+**Core Skills:**
+
+* **Containerization:** Docker, Kubernetes, Red Hat OpenShift
+* **Cloud Platforms:** AWS, Azure, Google Cloud Platform
+* **Linux:** System administration, troubleshooting, scripting
+* **Collaboration Tools:** Git, Jenkins, GitLab CI/CD, Artifactory
+* **Programming Languages:** Python, Bash, Ansible
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2008-2012)
+
+**Certifications:**
+
+* Certified DevOps Engineer, DevOps Institute
+* Certified Linux Professional, Linux Professional Institute
+
+This resume highlights Rajendra's key skills and experience in DevOps engineering, containerization, cloud platforms, and Linux. It also includes an objective and summary to provide context and overview of his qualifications.

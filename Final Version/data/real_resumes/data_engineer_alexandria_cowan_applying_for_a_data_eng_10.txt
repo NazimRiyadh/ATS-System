@@ -1,0 +1,61 @@
+here's a sample resume for alexandria cowan applying for a data engineer position:
+
+alexandria cowan
+contact information:
+
+* email: [alexandriacowan@email.com](mailto:alexandriacowan@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/alexandriacowan
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in designing, developing, and deploying large-scale data processing systems. proficient in etl, big data, and spark technologies. proven track record of delivering high-quality data solutions that meet business requirements and drive business growth.
+
+technical skills:
+
+* programming languages: java, python, scala
+* big data technologies: hadoop, spark, hive
+* etl tools: apache beam, apache nifi
+* data storage: hdfs, cassandra, mongodb
+* data processing: apache spark, apache flink
+* operating systems: linux, windows
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and developed etl pipelines using apache beam and apache nifi to extract, transform, and load data from various sources.
+* implemented data processing workflows using apache spark and apache flink to process large-scale datasets.
+* collaborated with cross-functional teams to design and implement data warehousing solutions using hadoop and hive.
+* developed and maintained data quality checks and data validation scripts using python and java.
+* participated in agile development teams using scrum and kanban methodologies.
+
+junior data engineer, def startups (2015-2018)
+
+* assisted in designing and developing data processing workflows using apache spark and apache flink.
+* developed etl scripts using apache beam and apache nifi to extract data from various sources.
+* collaborated with data scientists to develop machine learning models using python and r.
+* participated in data quality checks and data validation scripts using python and java.
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+* master of science in data science, abc university (2015-2017)
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified apache spark developer, apache software foundation (2018)
+
+projects:
+
+* personal project: spark-based movie recommendation system (2019)
+	+ designed and developed a spark-based movie recommendation system using apache spark and apache cassandra.
+	+ implemented a collaborative filtering algorithm using spark mllib.
+	+ deployed the system on a cluster of 10 nodes.
+* personal project: apache beam-based etl pipeline (2018)
+	+ designed and developed an etl pipeline using apache beam and apache nifi to extract data from various sources.
+	+ implemented data processing workflows using apache beam and apache flink.
+	+ deployed the pipeline on a cluster of 5 nodes.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and requirements, and don't hesitate to reach out if you have any questions or need further assistance.

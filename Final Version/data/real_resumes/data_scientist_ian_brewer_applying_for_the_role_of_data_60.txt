@@ -1,0 +1,56 @@
+here's a sample resume for ian brewer applying for the role of data scientist:
+
+ian brewer
+contact information:
+
+* phone: (555) 123-4567
+* email: [ian.brewer@email.com](mailto:ian.brewer@email.com)
+* linkedin: linkedin.com/in/ianbrewer
+* github: github.com/ianbrewer
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in deep learning, sql, and data visualization. proven track record of delivering high-impact projects that drive business growth and improve decision-making. skilled in extracting insights from complex data sets and communicating findings to both technical and non-technical stakeholders.
+
+technical skills:
+
+* programming languages: python, r, sql
+* deep learning frameworks: tensorflow, keras, pytorch
+* data visualization tools: tableau, matplotlib, seaborn
+* database management: mysql, postgresql
+* operating systems: windows, linux, macos
+* familiarity with cloud platforms: aws, google cloud
+
+professional experience:
+
+data scientist, abc company (2020-present)
+
+* designed and developed machine learning models using deep learning techniques to predict customer churn and improve customer retention
+* worked closely with cross-functional teams to collect and preprocess data, and to integrate models into production workflows
+* created interactive visualizations using tableau to communicate findings to stakeholders and inform business decisions
+* collaborated with data engineers to design and implement scalable data pipelines using apache beam and apache spark
+
+data analyst, def startup (2018-2020)
+
+* analyzed large datasets to identify trends and insights using sql and data visualization tools
+* built and maintained dashboards using tableau to track key performance indicators (kpis) and monitor business performance
+* worked with product managers to design and implement a/b testing experiments to optimize product features and improve user engagement
+* developed and maintained data quality checks to ensure accuracy and reliability of data
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: machine learning, deep learning, data visualization, data mining, statistics
+	+ thesis: "applying deep learning techniques to predict customer churn"
+* bachelor of science in computer science, abc university (2015)
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+projects:
+
+* predicting customer churn using deep learning: developed a deep learning model using tensorflow to predict customer churn for a telecommunications company. achieved a 25% improvement in model accuracy compared to traditional statistical models.
+* visualizing covid-19 data: created an interactive visualization using tableau to track covid-19 cases and deaths worldwide. the visualization was featured on a popular data visualization platform.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experiences and the job you're applying for.

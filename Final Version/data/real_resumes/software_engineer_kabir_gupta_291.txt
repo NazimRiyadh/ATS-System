@@ -1,0 +1,45 @@
+kabir gupta
+contact information:
+
+* email: [kabir.gupta@email.com](mailto:kabir.gupta@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/kabirgupta
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable software systems. proficient in a range of programming languages, including java, python, and javascript. strong understanding of system design, algorithms, and data structures. passionate about working with cutting-edge technologies and contributing to innovative projects.
+
+professional experience:
+
+* senior software engineer, abc corporation (2020-present)
+	+ designed and developed multiple scalable microservices using java, python, and javascript for a cloud-based e-commerce platform.
+	+ led the implementation of rest apis using spring boot and flask, resulting in a 30% increase in api requests per second.
+	+ collaborated with cross-functional teams to implement ci/cd pipelines using jenkins and docker, reducing deployment time by 50%.
+	+ participated in code reviews and ensured adherence to coding standards and best practices.
+* software engineer, def startups (2018-2020)
+	+ developed and maintained multiple web applications using javascript, react, and node.js.
+	+ designed and implemented algorithms for a machine learning-based project, resulting in a 25% improvement in model accuracy.
+	+ collaborated with the devops team to set up and manage git repositories, ci/cd pipelines, and monitoring tools.
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer networks, operating systems, database systems, and software engineering.
+	+ project: developed a social media platform using python, django, and mysql, showcasing expertise in full-stack development.
+
+achievements:
+
+* code contributor to open-source projects: contributed to multiple open-source projects on github, including a java-based machine learning library and a python-based data visualization tool.
+* certifications: certified in aws certified developer - associate and google cloud certified - professional cloud developer.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, service-oriented architecture (soa), event-driven architecture (eda)
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, dynamic programming
+* rest apis: spring boot, flask, express.js
+* version control: git
+* ci/cd: jenkins, docker, kubernetes
+* cloud platforms: aws, google cloud platform (gcp)
+
+references:
+available upon request.

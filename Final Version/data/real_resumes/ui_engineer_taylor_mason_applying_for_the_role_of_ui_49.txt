@@ -1,0 +1,56 @@
+here's a sample resume for taylor mason applying for the role of ui engineer:
+
+taylor mason
+contact information:
+
+* email: [taylor.mason@email.com](mailto:taylor.mason@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/taylormason
+
+summary:
+highly skilled ui engineer with a strong background in designing and developing user interfaces using modern web technologies. proficient in css, javascript, and react, with a keen eye for detail and a passion for creating intuitive and visually appealing user experiences. strong understanding of wireframing principles and a proven ability to balance functionality with aesthetics.
+
+technical skills:
+
+* css (sass, less)
+* javascript (es6+)
+* react ( hooks, functional components)
+* html5
+* css preprocessors (sass, less)
+* ui frameworks (e.g. bootstrap, material-ui)
+* wireframing tools (e.g. figma, sketch)
+* version control (git)
+* agile development methodologies
+
+professional experience:
+
+ui engineer, xyz corporation (2018-present)
+
+* designed and developed multiple web applications using react, css, and javascript
+* collaborated with cross-functional teams to create user interfaces that met business requirements and user needs
+* implemented responsive design principles to ensure consistent user experiences across various devices
+* conducted a/b testing and user research to inform design decisions and improve user engagement
+* utilized wireframing and prototyping tools to test and refine ui concepts before development
+
+junior web developer, abc startup (2016-2018)
+
+* built and maintained multiple web applications using html, css, and javascript
+* assisted in the development of responsive design solutions using css preprocessors and ui frameworks
+* participated in code reviews and ensured adherence to coding standards
+* contributed to the design and development of a company-wide style guide
+
+education:
+
+* bachelor of science in computer science, [university name] (2016)
+
+certifications and training:
+
+* react certification, [certification provider] (2020)
+* ui design fundamentals, [online course provider] (2019)
+
+personal projects:
+
+* personal website: [taylormason.io](http://taylormason.io) (built using react, css, and javascript)
+* ui kit: developed a reusable ui kit using react and css, which can be used to create consistent and responsive user interfaces.
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and style. also, be sure to proofread your resume multiple times for grammar and formatting errors before submitting it to potential employers.

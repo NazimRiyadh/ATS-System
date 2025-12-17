@@ -1,0 +1,66 @@
+here's a sample resume for tyler frazier applying for a data engineer role:
+
+tyler frazier
+contact information:
+
+* email: [tyler.frazier@email.com](mailto:tyler.frazier@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/tylerfrazier
+* github: github.com/tylerfrazier
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, etl, cloud platforms, and spark. proven track record of designing, developing, and deploying scalable data pipelines and machine learning models. strong passion for innovating and improving data engineering processes and architectures.
+
+technical skills:
+
+* mlops:
+	+ model deployment and monitoring using kubernetes and prometheus
+	+ model serving using tensorflow serving and aws sagemaker
+	+ model monitoring and a/b testing using mlflow and apache airflow
+* airflow:
+	+ designing and implementing complex workflows using dags
+	+ using airflow operators to integrate with various data sources and sinks
+	+ implementing data validation and error handling using airflow
+* etl:
+	+ designing and implementing etl pipelines using apache beam and apache spark
+	+ using sql and nosql databases to store and manage data
+	+ implementing data quality checks and data governance using apache nifi
+* cloud platforms:
+	+ designing and deploying scalable data architectures on aws and gcp
+	+ using cloud-based services such as aws glue, gcp dataflow, and azure databricks
+	+ implementing data security and compliance using cloud-based security services
+* spark:
+	+ designing and implementing scalable data processing pipelines using apache spark
+	+ using spark sql and dataframe apis to process and analyze data
+	+ implementing data integration and etl using spark and apache beam
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* designed and implemented scalable data pipelines using apache spark and apache airflow
+* deployed machine learning models using mlops and tensorflow serving
+* collaborated with cross-functional teams to design and implement data-driven solutions
+* implemented data quality checks and data governance using apache nifi and apache beam
+
+data analyst, def startups (2015-2018)
+
+* designed and implemented etl pipelines using apache beam and apache spark
+* developed and deployed data visualizations using tableau and power bi
+* analyzed data to inform business decisions and optimize processes
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified apache spark developer, apache spark certification (2018)
+
+projects:
+
+* personal project: designed and implemented a real-time data pipeline using apache spark and apache airflow to process and analyze iot sensor data
+* github repository: maintained a public github repository with open-source projects and contributions to the apache spark and apache airflow communities
+
+i hope this sample resume helps! remember to customize it to fit your own experiences and style.

@@ -1,0 +1,62 @@
+Here's a sample resume for Ashley Medina, MD, Data Engineer candidate:
+
+Ashley Medina, MD
+Contact Information:
+
+* Email: [amedina@email.com](mailto:amedina@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/ashleymedina
+* GitHub: github.com/amedina
+
+Professional Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data infrastructure solutions using MLOps, ETL, Big Data, and Cloud Platforms. Proven track record of delivering high-quality data engineering projects that drive business growth and improve operational efficiency. Possesses strong technical expertise in Spark, Data Warehousing, and cloud computing environments.
+
+Technical Skills:
+
+* Programming languages: Python, Java, Scala
+* Frameworks: Apache Spark, Apache Hadoop, Apache Beam
+* Cloud Platforms: AWS, GCP, Azure
+* Data Warehousing: Snowflake, Redshift, BigQuery
+* ETL: Apache NiFi, Apache Airflow
+* Big Data: HDFS, NoSQL databases
+* MLOps: TensorFlow, PyTorch, Scikit-learn
+* Operating Systems: Linux, Windows
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+* Senior Data Engineer, ABC Corporation (2020-Present)
+	+ Led the design and implementation of a scalable data pipeline using Apache Spark and AWS Glue, resulting in a 30% reduction in data processing time and a 25% increase in data quality.
+	+ Collaborated with cross-functional teams to develop and deploy machine learning models using TensorFlow and PyTorch, achieving a 20% improvement in model accuracy and a 15% reduction in model deployment time.
+	+ Mentored junior data engineers in cloud computing, data warehousing, and big data technologies, improving team productivity and knowledge sharing.
+* Data Engineer, DEF Startups (2018-2020)
+	+ Designed and implemented an ETL pipeline using Apache NiFi and Apache Airflow, reducing data processing time by 40% and improving data quality by 25%.
+	+ Developed and deployed a data warehousing solution using Snowflake and AWS Redshift, resulting in a 50% reduction in data query time and a 20% improvement in data analytics capabilities.
+	+ Collaborated with data scientists to develop and deploy machine learning models using Scikit-learn and TensorFlow, achieving a 15% improvement in model accuracy and a 10% reduction in model deployment time.
+
+Education:
+
+* MD, University of California, San Francisco (2015-2019)
+	+ Completed a residency program in Biomedical Informatics, focusing on data analytics and machine learning.
+	+ Developed expertise in programming languages, data structures, and algorithms.
+
+Achievements:
+
+* AWS Certified Data Scientist (2020)
+* Google Cloud Certified - Professional Data Engineer (2019)
+* Recipient of the 2020 Data Engineering Award for outstanding contributions to the field of data engineering
+
+Certifications:
+
+* AWS Certified Data Scientist
+* Google Cloud Certified - Professional Data Engineer
+* Certified Scrum Master (CSM)
+* Certified Data Engineer (CDE)
+
+Projects:
+
+* Data Pipeline Automation: Designed and implemented a scalable data pipeline using Apache Spark and AWS Glue, achieving a 30% reduction in data processing time and a 25% increase in data quality.
+* Machine Learning Model Deployment: Developed and deployed a machine learning model using TensorFlow and PyTorch, achieving a 20% improvement in model accuracy and a 15% reduction in model deployment time.
+* Data Warehousing Optimization: Developed and deployed a data warehousing solution using Snowflake and AWS Redshift, resulting in a 50% reduction in data query time and a 20% improvement in data analytics capabilities.
+
+I hope this sample resume helps! Remember to tailor your resume to the specific job you're applying for, and highlight your unique skills and experiences.

@@ -1,0 +1,64 @@
+Here's a sample resume for Kelly Stafford, a DevOps Engineer:
+
+Kelly Stafford
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [kelly.stafford@email.com](mailto:kelly.stafford@email.com)
+* LinkedIn: linkedin.com/in/kellystafford
+* GitHub: github.com/kellystafford
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Kubernetes, Ansible, and Infrastructure as Code. Proven track record of improving application delivery and reducing downtime through automation and monitoring. Skilled in designing and implementing scalable and secure infrastructure solutions.
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Corporation (2020-Present)
+
+* Design and implement CI/CD pipelines using Jenkins, GitLab CI/CD, and Kubernetes to improve application delivery and reduce downtime
+* Develop and maintain Ansible playbooks to automate infrastructure provisioning and configuration
+* Collaborate with development teams to design and implement monitoring and logging solutions using Prometheus, Grafana, and ELK Stack
+* Implement Infrastructure as Code using Terraform and AWS CloudFormation to manage cloud infrastructure
+* Develop and maintain Kubernetes clusters using kubeadm and kubectl to deploy and manage containerized applications
+* Troubleshoot and resolve infrastructure and application issues using log analysis and debugging techniques
+
+DevOps Engineer, DEF Startups (2018-2020)
+
+* Designed and implemented CI/CD pipelines using GitHub Actions and CircleCI to improve application delivery
+* Developed and maintained Ansible playbooks to automate infrastructure provisioning and configuration
+* Collaborated with development teams to design and implement monitoring and logging solutions using Datadog and New Relic
+* Implemented Infrastructure as Code using AWS CloudFormation to manage cloud infrastructure
+* Developed and maintained Kubernetes clusters using kubeadm and kubectl to deploy and manage containerized applications
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, GitHub Actions, CircleCI
+* Kubernetes: kubeadm, kubectl, Kubernetes operator
+* Ansible: Ansible playbooks, Ansible modules
+* Infrastructure as Code: Terraform, AWS CloudFormation
+* Monitoring Tools: Prometheus, Grafana, ELK Stack, Datadog, New Relic
+* Cloud Platforms: AWS, Google Cloud, Azure
+* Operating Systems: Linux, Windows
+
+Achievements:
+
+* Improved application delivery time by 30% through automation of CI/CD pipelines
+* Reduced downtime by 25% through proactive monitoring and logging
+* Implemented Infrastructure as Code using Terraform, reducing infrastructure provision time by 50%
+* Developed and maintained Kubernetes clusters for multiple applications, improving deployment efficiency by 40%
+* Collaborated with development teams to design and implement monitoring and logging solutions, improving issue resolution time by 30%
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Automation Professional (CAAP)
+* Certified Cloud Practitioner (CCP)
+
+References:
+Available upon request.

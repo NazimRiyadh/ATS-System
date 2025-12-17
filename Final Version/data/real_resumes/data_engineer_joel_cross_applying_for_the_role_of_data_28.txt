@@ -1,0 +1,57 @@
+here's a sample resume for joel cross applying for the role of data engineer:
+
+joel cross
+contact information:
+
+* email: [jcross@email.com](mailto:jcross@email.com)
+* phone: (555) 555-5555
+* linkedin: linkedin.com/in/joelcross
+
+summary:
+highly motivated and experienced data engineer with expertise in designing, developing, and maintaining large-scale data pipelines using airflow, big data, and cloud platforms. skilled in leveraging spark for data processing and analytics. proven track record of delivering high-quality solutions that drive business insights and growth.
+
+technical skills:
+
+* programming languages: python, scala
+* data engineering tools: apache airflow, apache spark
+* cloud platforms: aws, gcp
+* big data: hadoop, hdfs, mapreduce
+* data processing: data ingestion, transformation, and loading
+* data storage: relational databases, nosql databases, data warehousing
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and developed large-scale data pipelines using apache airflow to process and analyze customer data
+* collaborated with cross-functional teams to implement data-driven solutions that drove business growth
+* developed and maintained spark applications for data processing and analytics
+* ensured data quality and integrity through data validation, data profiling, and data lineage
+* utilized aws cloud platform to design and deploy scalable and secure data architectures
+
+data analyst, def startups (2015-2018)
+
+* analyzed and visualized large datasets using python and spark to inform business decisions
+* developed and maintained data models and data warehouses using relational databases and nosql databases
+* collaborated with stakeholders to design and implement data-driven solutions
+* utilized hadoop and mapreduce to process and analyze large-scale data sets
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015)
+
+certifications:
+
+* certified data engineer, data engineering council (2019)
+* certified apache spark developer, spark certified professional (2018)
+
+projects:
+
+* developed a scalable data pipeline using apache airflow and spark to process and analyze customer data for a retail company
+* implemented a data warehousing solution using aws redshift and apache spark to support business intelligence and analytics for a financial services company
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and requirements, and highlight your unique skills and experiences.

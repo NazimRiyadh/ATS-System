@@ -1,0 +1,26 @@
+**candidate profile: jivin kohli - data engineer**
+
+**interview summary**
+
+jivin kohli, a candidate with a strong background in software development, presented himself for the data engineer position. while his experience in software development was valuable, his skills and experience did not align with the key requirements of the role. specifically, jivin lacked proficiency in data warehousing, etl processes, big data technologies (hadoop, spark), and cloud services (aws, azure). additionally, his experience in logics, finance, healthcare was limited.
+
+**technical gaps**
+
+during the interview, several concerns were raised regarding jivin's technical skills:
+
+1.  **data warehousing**: jivin's lack of experience with data warehousing concepts, such as data modeling and etl processes, was a significant concern. he demonstrated limited understanding of these topics, which are critical for a data engineer role.
+2.  **big data technologies**: jivin's unfamiliarity with hadoop and spark was another area of concern. as these technologies are widely used in data engineering, his lack of experience would require significant training to catch up.
+3.  **cloud services**: jivin's limited experience with cloud services, including aws and azure, raised concerns about his ability to design and implement scalable, cloud-based data solutions.
+4.  **database administration**: jivin's experience with database administration was limited, which would impact his ability to design and optimize databases for data engineering tasks.
+5.  **logics, finance, healthcare**: jivin's limited experience in these areas, which are critical for data engineering in various industries, raised concerns about his ability to apply his skills in a real-world setting.
+
+**task-related challenges**
+
+during the interview, jivin faced challenges with certain tasks, such as:
+
+1.  **designing a data pipeline**: jivin struggled to design a data pipeline, which is a critical task for a data engineer. his lack of experience with etl processes and data warehousing concepts hindered his ability to approach this task effectively.
+2.  **troubleshooting data issues**: jivin's limited experience with database administration and data warehousing made it difficult for him to troubleshoot data issues, which is an essential skill for a data engineer.
+
+**potential for growth**
+
+despite these gaps, jivin demonstrated a willingness to learn and grow. with further training and exposure to the required technologies and concepts, he has the potential to develop the necessary skills to become a successful data engineer. it would be beneficial to provide jivin with targeted training programs and mentorship to help him bridge the technical gaps mentioned.

@@ -1,0 +1,54 @@
+Here is a professional resume for Francisco Werner, a DevOps Engineer candidate:
+
+Francisco Werner
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [francisco.werner@email.com](mailto:francisco.werner@email.com)
+* LinkedIn: linkedin.com/in/franciscowerner
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, containerization, and cloud infrastructure. Proven track record of successfully implementing and managing scalable and reliable systems. Skilled in a range of technologies, including Docker, Kubernetes, and cloud platforms.
+
+Professional Experience:
+
+* DevOps Engineer, ABC Corporation (2018-Present)
+	+ Designed and implemented a CI/CD pipeline using Jenkins and GitLab CI/CD, resulting in a 30% reduction in deployment time.
+	+ Managed and maintained a containerized application using Docker and Kubernetes, with a 99.9% uptime and 20% reduction in resource utilization.
+	+ Implemented Infrastructure as Code (IaC) using Terraform and Ansible, resulting in a 50% reduction in provisioning time.
+	+ Collaborated with cross-functional teams to design and implement monitoring and logging solutions using Prometheus, Grafana, and ELK Stack.
+	+ Ensured compliance with security and regulatory standards, including PCI-DSS and HIPAA.
+* Senior Systems Administrator, DEF Startups (2015-2018)
+	+ Managed and maintained a cloud-based infrastructure using AWS and Google Cloud Platform, with a 25% reduction in costs and 15% increase in productivity.
+	+ Designed and implemented a monitoring and logging solution using Nagios and Splunk, resulting in a 20% reduction in incident response time.
+	+ Collaborated with development teams to design and implement a CI/CD pipeline using Jenkins and GitLab CI/CD, resulting in a 40% reduction in deployment time.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Cloud Platforms: AWS, Google Cloud Platform, Microsoft Azure
+* Infrastructure as Code: Terraform, Ansible, CloudFormation
+* Monitoring Tools: Prometheus, Grafana, ELK Stack, Nagios
+* Operating Systems: Linux, Windows, macOS
+* Programming Languages: Python, Bash, PowerShell
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Associate (2019)
+* Google Cloud Certified - Professional Cloud Developer (2020)
+
+Achievements:
+
+* Recipient of the ABC Corporation's "DevOps Engineer of the Year" award (2020)
+* Contributor to the Open Source project "Kubernetes on AWS" (2019)
+* Published a technical blog post on "CI/CD Pipeline Automation using Jenkins and GitLab CI/CD" (2018)
+
+References:
+Available upon request.
+
+I hope this helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

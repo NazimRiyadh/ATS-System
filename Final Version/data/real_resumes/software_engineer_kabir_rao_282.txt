@@ -1,0 +1,60 @@
+kabir rao
+contact information:
+
+* email: [kabir.rao@email.com](mailto:kabir.rao@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/kabirrao
+
+objective:
+to obtain a challenging role as a software engineer where i can utilize my technical skills and experience to contribute to the development of innovative software solutions.
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing and developing scalable, efficient, and reliable software systems. proficient in a range of programming languages, including java, python, and javascript. strong understanding of system design, algorithms, and data structures. experience with rest apis, git, ci/cd, and microservices.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices architecture, restful apis, caching, and load balancing
+* algorithms and data structures: sorting, searching, graph algorithms, and data structures
+* development tools: git, jenkins, docker, kubernetes
+* agile methodologies: scrum, kanban
+* cloud platforms: aws, azure
+
+professional experience:
+
+senior software engineer, abc corporation (2018-present)
+
+* designed and developed multiple microservices-based systems using java, python, and javascript
+* implemented restful apis using spring boot and flask
+* collaborated with cross-functional teams to design and implement system features
+* utilized git, jenkins, and docker to manage code changes and deployments
+* participated in code reviews and ensured high-quality code
+* mentored junior engineers to improve their coding skills and knowledge
+
+software engineer, def startups (2015-2018)
+
+* contributed to the development of multiple web applications using java, python, and javascript
+* implemented algorithms and data structures to optimize system performance
+* utilized git, svn, and perforce to manage code changes
+* participated in pair programming and code reviews to ensure high-quality code
+* collaborated with qa teams to identify and resolve defects
+
+education:
+
+* bachelor of technology, computer science, xyz university (2010-2014)
+	+ coursework: data structures, algorithms, computer networks, operating systems, and database systems
+
+achievements:
+
+* developed a microservices-based e-commerce platform using java and spring boot, resulting in a 30% increase in system throughput
+* implemented a caching layer using redis to improve system performance by 25%
+* participated in a hackathon and developed a real-time analytics platform using python and flask, winning the first prize
+* received the "best code contributor" award at abc corporation for outstanding contributions to the company's software projects
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (2019)
+* certified java developer (ocpjp), oracle corporation (2016)
+
+references:
+available upon request.

@@ -1,0 +1,57 @@
+here's a sample resume for daniel huff phd:
+
+daniel huff, phd
+data scientist
+
+contact information:
+
+* email: [daniel.huff@email.com](mailto:daniel.huff@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/danielhuffphd
+* github: github.com/danielhuff
+
+summary:
+highly motivated and detail-oriented data scientist with a strong background in python, statistics, deep learning, sql, and data visualization. proven track record of delivering high-quality data-driven solutions to drive business growth and inform strategic decision-making.
+
+technical skills:
+
+* programming languages: python, r
+* machine learning/deep learning: scikit-learn, tensorflow, pytorch
+* data analysis/visualization: pandas, numpy, matplotlib, seaborn, plotly
+* databases: sql, postgresql
+* operating systems: windows, linux
+* familiarity with: spark, hadoop, docker
+
+professional experience:
+
+* data scientist, xyz corporation (2018-present)
+	+ designed and developed machine learning models to predict customer churn and improve retention rates, resulting in a 25% reduction in churn.
+	+ created interactive dashboards using tableau to visualize key business metrics and inform strategic decision-making.
+	+ collaborated with cross-functional teams to integrate data-driven insights into product development and marketing strategies.
+* research assistant, abc university (2015-2018)
+	+ conducted research in statistical modeling and machine learning, publishing several papers in top-tier academic journals.
+	+ developed and taught courses on statistical inference and machine learning for undergraduate and graduate students.
+	+ worked on various research projects, including analysis of genomic data and development of predictive models for disease diagnosis.
+
+education:
+
+* phd in statistics, abc university (2015)
+	+ dissertation: "nonparametric methods for time series analysis"
+	+ coursework: statistical inference, machine learning, time series analysis, bayesian statistics
+* ms in statistics, def university (2010)
+	+ thesis: "regression analysis for high-dimensional data"
+	+ coursework: statistical computing, linear algebra, probability theory
+
+certifications:
+
+* certified data scientist (cds)
+* certified analytics professional (cap)
+
+projects:
+
+* predicting stock prices using deep learning: developed a deep learning model using pytorch to predict stock prices based on historical data.
+* analyzing customer churn using sql and python: designed and implemented a data pipeline using sql and python to analyze customer churn data and develop predictive models.
+* visualizing covid-19 data using tableau: created interactive dashboards using tableau to visualize covid-19 data and track key metrics.
+
+references:
+available upon request.

@@ -1,0 +1,54 @@
+here's a sample resume for anna hunt applying for a data scientist position:
+
+anna hunt
+contact information:
+
+* email: [anna.hunt@email.com](mailto:anna.hunt@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/annahunt
+* github: github.com/annahunt
+
+summary:
+highly motivated and detail-oriented data scientist with a strong foundation in python, statistics, and deep learning. skilled in data visualization and proficient in extracting insights from complex datasets. proven track record of delivering high-quality projects and collaborating effectively with cross-functional teams.
+
+technical skills:
+
+* programming languages: python, r
+* machine learning: deep learning frameworks (tensorflow, pytorch), scikit-learn
+* data visualization: matplotlib, seaborn, plotly, tableau
+* statistics: hypothesis testing, confidence intervals, regression analysis
+* data storage: experience with relational databases (e.g., mysql) and nosql databases (e.g., mongodb)
+* operating systems: windows, linux
+
+professional experience:
+
+data scientist, abc company (2020-present)
+
+* developed and deployed machine learning models using python and tensorflow to improve customer segmentation and retention
+* collaborated with the marketing team to design and implement a/b testing experiments to optimize campaign performance
+* created interactive data visualizations using plotly and tableau to communicate insights to stakeholders
+* worked with the engineering team to integrate new data sources and improve data quality
+
+research assistant, university of xyz (2018-2020)
+
+* conducted research on natural language processing using deep learning techniques
+* developed and implemented a sentiment analysis model using pytorch and nltk
+* presented research findings at conferences and published papers in peer-reviewed journals
+
+education:
+
+* master of science in data science, university of xyz (2018-2020)
+* bachelor of science in mathematics, university of abc (2014-2018)
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+projects:
+
+* stock price prediction using lstm networks: developed a python script using tensorflow to predict stock prices using historical data
+* text classification using word embeddings: built a text classification model using pytorch and word embeddings to classify customer reviews
+
+references:
+available upon request.

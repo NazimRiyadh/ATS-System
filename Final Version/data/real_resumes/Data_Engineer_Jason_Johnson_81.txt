@@ -1,0 +1,67 @@
+Jason Johnson
+Data Engineer
+
+Contact Information:
+
+* Email: [jason.johnson@email.com](mailto:jason.johnson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/jasonjohnson
+
+Summary:
+Highly skilled data engineer with expertise in Big Data Frameworks, Data Pipelines, Databases, and Cloud Platforms. Proven track record of designing and implementing scalable data infrastructure solutions. Proficient in Python programming language.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Hadoop
+	+ Spark
+	+ Flink
+* Data Pipelines:
+	+ Apache Beam
+	+ Airflow
+	+ NiFi
+* Databases:
+	+ MySQL
+	+ PostgreSQL
+	+ MongoDB
+	+ Cassandra
+* Cloud Platforms:
+	+ AWS (EC2, S3, RDS, SQS)
+	+ GCP (Dataproc, Bigtable, Cloud Storage)
+	+ Azure (HDInsight, Cosmos DB, Blob Storage)
+* Programming Languages:
+	+ Python (core and libraries such as Pandas, NumPy, and Scikit-learn)
+	+ SQL
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented data pipelines using Apache Beam and Airflow to process and transform large datasets
+* Developed and deployed scalable data infrastructure solutions using Hadoop and Spark on AWS and GCP
+* Collaborated with cross-functional teams to integrate data into various applications and services
+* Implemented data governance and security measures to ensure data quality and compliance
+
+Senior Software Engineer, DEF Startups (2015-2018)
+
+* Led the development of a real-time analytics platform using Apache Flink and MongoDB on AWS
+* Designed and implemented data models and APIs to integrate with various data sources and applications
+* Collaborated with data scientists to develop and deploy machine learning models using Python and Scikit-learn
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+* Masters of Science in Data Science, ABC University (2015-2017)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Cloud Practitioner, AWS (2018)
+
+Projects:
+
+* Developed a real-time data ingestion and processing pipeline using Apache Kafka and Spark on AWS (GitHub: [github.com/jasonjohnson/data-ingestion-pipeline](https://github.com/jasonjohnson/data-ingestion-pipeline))
+* Built a scalable data warehouse using PostgreSQL and Apache Flink on GCP (GitHub: [github.com/jasonjohnson/data-warehouse](https://github.com/jasonjohnson/data-warehouse))
+
+References:
+Available upon request.

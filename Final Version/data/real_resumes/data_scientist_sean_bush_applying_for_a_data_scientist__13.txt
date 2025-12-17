@@ -1,0 +1,53 @@
+here's a sample resume for sean bush applying for a data scientist role:
+
+sean bush
+contact information:
+
+* email: [sean.bush@email.com](mailto:sean.bush@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/seanbushds
+* github: github.com/seanbushds
+
+summary:
+highly motivated and detail-oriented data scientist with a strong background in python, statistics, and deep learning. proven track record of delivering high-quality projects and insights to drive business growth. proficient in working with large datasets, machine learning algorithms, and statistical modeling. passionate about staying up-to-date with the latest industry trends and advancements.
+
+technical skills:
+
+* programming languages: python (pytorch, tensorflow, keras), r, sql
+* machine learning frameworks: scikit-learn, pytorch, tensorflow
+* deep learning techniques: convolutional neural networks (cnns), recurrent neural networks (rnns), long short-term memory (lstm) networks
+* statistical modeling: linear regression, logistic regression, decision trees, random forests
+* data visualization: matplotlib, seaborn, plotly
+* data preprocessing: pandas, numpy, scikit-learn
+* operating systems: windows, linux
+
+professional experience:
+
+* data scientist, abc company (2018-present)
+	+ developed and deployed machine learning models to predict customer churn and sentiment analysis using python and scikit-learn
+	+ collaborated with cross-functional teams to integrate data science insights into business decisions
+	+ created data visualizations and reports using matplotlib and seaborn to communicate complex insights to stakeholders
+* research assistant, xyz university (2015-2018)
+	+ conducted research on deep learning techniques for image and speech recognition using pytorch and tensorflow
+	+ developed and presented research papers at international conferences
+	+ assisted in teaching data science courses to undergraduate students
+
+education:
+
+* master of science in data science, xyz university (2015-2017)
+	+ coursework: machine learning, statistical modeling, database systems, data visualization
+* bachelor of science in mathematics, abc university (2010-2014)
+	+ coursework: linear algebra, calculus, probability and statistics, computer science
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting stock prices using lstms: built and deployed a lstm-based model to predict stock prices using historical data and outperformed benchmark models by 20%
+* image classification using cnns: developed a cnn-based model to classify images into different categories with an accuracy of 95%
+
+references:
+available upon request.

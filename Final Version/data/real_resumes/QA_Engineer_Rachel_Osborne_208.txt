@@ -1,0 +1,59 @@
+Here's a sample resume for Rachel Osborne:
+
+Rachel Osborne
+Contact Information:
+
+* Email: [rachel.osborne@email.com](mailto:rachel.osborne@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/rachelosborne
+* GitHub: github.com/rachelosborne
+
+Summary:
+Highly motivated and detail-oriented QA Engineer with 5+ years of experience in manual and automated testing, bug tracking, and performance testing. Proven track record of delivering high-quality products and improving testing efficiency. Proficient in a range of testing tools and technologies, with a strong understanding of software development life cycles.
+
+Technical Skills:
+
+* Manual Testing: Test planning, test case development, test execution, and defect reporting
+* Automated Testing: Test automation frameworks (Selenium, Appium), scripting languages (Java, Python), and testing tools (TestNG, JUnit)
+* Bug Tracking: Bug tracking tools (JIRA, Trello), defect management, and tracking
+* Performance Testing: Load testing tools (JMeter, Gatling), performance metrics analysis, and optimization
+* Software Development Life Cycles: Agile, Waterfall, and Hybrid methodologies
+* Operating Systems: Windows, macOS, Linux
+* Programming Languages: Java, Python, SQL
+* Familiarity with CI/CD tools (Jenkins, Travis CI)
+
+Professional Experience:
+
+QA Engineer, ABC Corporation (2018-Present)
+
+* Designed and executed manual and automated test cases for web and mobile applications
+* Developed and maintained test automation frameworks using Selenium and Appium
+* Collaborated with cross-functional teams to identify and prioritize testing needs
+* Implemented performance testing using JMeter and Gatling, resulting in 30% reduction in application load times
+* Utilized JIRA for bug tracking and defect management, improving defect resolution time by 25%
+
+QA Tester, DEF Startups (2015-2018)
+
+* Conducted manual testing for web and mobile applications, identifying and reporting defects
+* Developed and executed test plans, test cases, and test scripts using TestNG and JUnit
+* Collaborated with development teams to reproduce and resolve defects
+* Implemented automated testing using Selenium WebDriver, reducing testing time by 40%
+
+Achievements:
+
+* Successfully implemented automated testing for a complex web application, reducing testing time by 50%
+* Improved test coverage by 30% through the development of comprehensive test plans and test cases
+* Collaborated with the development team to implement performance optimization, resulting in a 25% reduction in application load times
+* Mentored junior QA engineers in automated testing and bug tracking best practices
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified QA Professional (CQAP), Software Testing Institute (2018)
+* Certified Scrum Master (CSM), Scrum Alliance (2019)
+
+References:
+Available upon request.

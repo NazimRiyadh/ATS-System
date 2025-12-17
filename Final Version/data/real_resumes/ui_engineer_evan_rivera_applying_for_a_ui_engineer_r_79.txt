@@ -1,0 +1,56 @@
+here's a sample resume for evan rivera applying for a ui engineer role:
+
+evan rivera
+contact information:
+
+* email: [evan.rivera@email.com](mailto:evan.rivera@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/evanrivera
+* github: github.com/evanrivera
+
+summary:
+highly motivated and detail-oriented ui engineer with expertise in html, css, and react. skilled in creating visually appealing and user-friendly interfaces that drive engagement and conversion. proficient in ui/ux design principles and passionate about crafting seamless user experiences.
+
+technical skills:
+
+* programming languages: html, css, javascript (es6+)
+* frameworks: react (hooks, context api)
+* front-end build tools: webpack, babel
+* ui/ux design tools: figma, sketch, adobe xd
+* version control: git
+* operating systems: windows, macos
+* familiarity with accessibility guidelines: wcag 2.1
+
+professional experience:
+
+ui engineer, abc company (2020-present)
+
+* designed and developed multiple high-traffic web applications using react, html, and css
+* collaborated with cross-functional teams to ensure seamless integration of ui components with backend services
+* implemented responsive design patterns and optimized ui components for accessibility and performance
+* conducted a/b testing and analysis to inform design decisions and improve user experience
+* mentored junior engineers and provided guidance on best practices for ui development
+
+ui/ux designer, def agency (2018-2020)
+
+* created wireframes, prototypes, and high-fidelity designs for web and mobile applications using figma and sketch
+* conducted user research and analyzed data to inform design decisions and improve user experience
+* collaborated with development teams to ensure design specifications met technical requirements
+* developed and maintained design systems, including style guides and component libraries
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified ui/ux designer, nielsen norman group (2020)
+* certified react developer, codepath (2019)
+
+projects:
+
+* [personal portfolio website](https://evanrivera.com) - a showcase of my ui/ux design and development skills
+* [react todo list app](https://github.com/evanrivera/react-todo-list) - a simple todo list app built with react and redux
+* [accessibility-focused ui component library](https://github.com/evanrivera/accessibility-components) - a collection of accessible ui components built with react and webpack
+
+i hope this helps! remember to customize the resume to fit your own experiences and style.

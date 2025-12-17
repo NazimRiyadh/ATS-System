@@ -1,0 +1,60 @@
+Here's a sample resume for Matthew Rogers, a Cloud Engineer candidate:
+
+Matthew Rogers
+Cloud Engineer
+
+Contact Information:
+
+* Email: [matthew.rogers@email.com](mailto:matthew.rogers@email.com)
+* Phone: 555-123-4567
+* LinkedIn: linkedin.com/in/matthewrogers
+* GitHub: github.com/matthewrogers
+
+Summary:
+Highly skilled Cloud Engineer with 5+ years of experience in designing, deploying, and managing cloud-based infrastructure. Proficient in cloud migration, serverless architecture, cloud networking, and scripting. Proven track record of delivering scalable and secure cloud solutions that meet business needs.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Cloud Migration: Amazon Web Services (AWS) Migration Hub, Azure Migrate
+* Serverless Architecture: AWS Lambda, Azure Functions, Google Cloud Functions
+* Cloud Networking: Amazon VPC, Azure Virtual Network, Google Cloud Networking
+* Scripting: Python, PowerShell, Bash
+* CI/CD Tools: Jenkins, CircleCI, GitLab CI/CD
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Senior Cloud Engineer, ABC Corporation (2018-Present)
+
+* Designed and deployed cloud-based infrastructure for a large-scale enterprise application, resulting in a 30% reduction in costs and a 25% increase in scalability
+* Migrated on-premises applications to cloud-based environments, utilizing AWS Migration Hub and Azure Migrate tools
+* Implemented serverless architecture using AWS Lambda and Azure Functions, reducing server costs by 50%
+* Configured cloud networking using Amazon VPC and Azure Virtual Network, improving network security and performance
+* Developed and maintained scripts using Python, PowerShell, and Bash for automation and orchestration
+
+Cloud Engineer, DEF Startups (2015-2018)
+
+* Designed and deployed cloud-based infrastructure for a series of startups, utilizing AWS, Azure, and Google Cloud platforms
+* Developed and maintained cloud-based applications using serverless architecture, resulting in a 20% reduction in costs and a 15% increase in scalability
+* Configured cloud networking using Amazon VPC, Azure Virtual Network, and Google Cloud Networking, improving network security and performance
+* Automated deployment and orchestration using Jenkins, CircleCI, and GitLab CI/CD tools
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Microsoft Certified Azure Developer Associate
+* Google Cloud Certified - Professional Cloud Developer
+
+Achievements:
+
+* AWS Cloud Migration Challenge Winner (2019)
+* Featured speaker at Cloud Computing Conference (2020)
+* Published article on "Serverless Architecture: Best Practices" in Cloud Computing Journal (2020)
+
+References:
+Available upon request.

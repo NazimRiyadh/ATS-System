@@ -1,0 +1,59 @@
+Here's a sample resume for Jo Higgins:
+
+Jo Higgins
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [jo.higgins@email.com](mailto:jo.higgins@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/johigginsml
+* GitHub: github.com/johigginsml
+
+Professional Summary:
+Highly motivated Machine Learning Engineer with 5+ years of experience in developing and deploying scalable machine learning models using Python and Scikit-learn. Proven expertise in hyperparameter tuning and optimization. Skilled in leveraging data to drive business growth and improve operational efficiency.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine learning frameworks: Scikit-learn, TensorFlow, PyTorch
+* Hyperparameter tuning: Grid search, Random search, Bayesian optimization
+* Data preprocessing: Pandas, NumPy
+* Data visualization: Matplotlib, Seaborn
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Machine Learning Engineer, ABC Corporation (2018-Present)
+
+* Developed and deployed multiple machine learning models using Scikit-learn and TensorFlow to improve operational efficiency and reduce costs
+* Conducted hyperparameter tuning using Grid search and Random search to optimize model performance
+* Collaborated with cross-functional teams to integrate machine learning models into business workflows
+* Trained and mentored junior engineers in machine learning and data science best practices
+
+Machine Learning Engineer, DEF Startups (2015-2018)
+
+* Developed and deployed multiple machine learning models using Scikit-learn and PyTorch to improve customer engagement and retention
+* Conducted data preprocessing and feature engineering to improve model performance
+* Collaborated with data scientists to design and implement A/B testing experiments
+* Presented findings and recommendations to executive stakeholders
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015)
+	+ Coursework: Machine learning, natural language processing, computer vision
+	+ Thesis: "Hyperparameter Tuning for Deep Learning Models using Bayesian Optimization"
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2018)
+* Certified Scikit-learn Developer, Scikit-learn Community (2019)
+
+Achievements:
+
+* Improved model accuracy by 25% using hyperparameter tuning: Successfully applied hyperparameter tuning techniques to improve model performance and reduce overfitting
+* Reduced costs by 15% using machine learning: Developed and deployed a machine learning model that predicted maintenance costs and reduced unnecessary maintenance requests
+* Improved customer engagement by 30% using A/B testing: Collaborated with data scientists to design and implement A/B testing experiments that improved customer engagement and retention
+
+References:
+Available upon request.

@@ -1,0 +1,53 @@
+**Ishan**
+**Contact Information:**
+
+* Address: 123 Main St, Anytown, USA 12345
+* Phone: 555-555-5555
+* Email: [ishan@email.com](mailto:ishan@email.com)
+* LinkedIn: linkedin.com/in/ishan
+
+**Summary:**
+Highly motivated recent graduate with a strong foundation in data analysis and machine learning. Proven ability to learn quickly and adapt to new technologies. Proficient in Python, R, and SQL. Seeking an entry-level position as a Data Scientist to apply analytical skills and contribute to a team's success.
+
+**Education:**
+
+* **Bachelor's Degree in Computer Science**, XYZ University (20XX-20XX)
+	+ Coursework: Data Structures, Algorithms, Computer Systems, Machine Learning, and Database Management
+
+**Projects:**
+
+* **Predicting Customer Churn**, Kaggle Competition (20XX)
+	+ Ranked #15/500 participants with a score of 0.85 (4.8/5)
+	+ Utilized Python, scikit-learn, and pandas to build a logistic regression model
+	+ Achieved a 25% reduction in churn rate
+* **Movie Recommendation System**, Personal Project (20XX)
+	+ Built a content-based filtering system using Python and scikit-learn
+	+ Evaluated model performance using precision, recall, and F1-score
+	+ Achieved a precision of 0.85 and recall of 0.90
+
+**Skills:**
+
+* Programming languages: Python, R
+* Data analysis and visualization tools: pandas, NumPy, Matplotlib, Seaborn, Tableau
+* Machine learning libraries: scikit-learn, TensorFlow
+* Databases: MySQL, PostgreSQL
+* Operating Systems: Windows, Linux
+
+**Experience:**
+
+* **Data Analyst Intern**, ABC Company (Summer 20XX)
+	+ Assisted in data cleaning and preprocessing for a marketing campaign
+	+ Created visualizations using Tableau to present findings to stakeholders
+	+ Developed a basic understanding of SQL and database management
+* **Teaching Assistant**, XYZ University (20XX-20XX)
+	+ Assisted in teaching data structures and algorithms courses
+	+ Developed and graded assignments and quizzes
+	+ Led study groups and provided individual support to students
+
+**Certifications:**
+
+* **Certified Data Scientist**, Data Science Council of America (20XX)
+* **Certified Analytics Professional**, Institute for Operations Research and the Management Sciences (20XX)
+
+**References:**
+Available upon request.

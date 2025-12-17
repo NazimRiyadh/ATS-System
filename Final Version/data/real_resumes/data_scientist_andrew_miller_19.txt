@@ -1,0 +1,53 @@
+here's a sample resume for andrew miller, md, applying for a data scientist role:
+
+andrew miller, md
+contact information:
+
+* email: [amiller@email.com](mailto:amiller@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/andrewmillermd
+* location: new york, ny
+
+summary:
+highly motivated and detail-oriented data scientist with a strong foundation in statistics, machine learning, and data visualization. proven ability to extract insights from complex data sets and communicate findings effectively. as a medical doctor with a background in research, i bring a unique perspective to data analysis and a strong understanding of the importance of data-driven decision making.
+
+technical skills:
+
+* programming languages: python (expert), r (intermediate)
+* machine learning libraries: scikit-learn, tensorflow, pytorch
+* data visualization tools: matplotlib, seaborn, plotly, tableau
+* database management: sql (expert), nosql (intermediate)
+* operating systems: windows, linux, macos
+* familiarity with aws, azure, and google cloud platforms
+
+professional experience:
+
+* data analyst, biotech company (2018-present)
+	+ analyzed large datasets to identify trends and insights that informed business decisions
+	+ developed and maintained databases using sql to support data-driven decision making
+	+ created data visualizations using tableau to communicate findings to non-technical stakeholders
+	+ worked with cross-functional teams to develop and implement predictive models using machine learning algorithms
+* research fellow, academic institution (2015-2018)
+	+ conducted research in statistical modeling and machine learning, publishing several papers in top-tier journals
+	+ developed and maintained complex statistical models using python and r
+	+ collaborated with clinicians to design and implement data-driven studies
+	+ presented research findings at national conferences
+
+education:
+
+* md, university of michigan medical school (2015)
+	+ completed a 4-year residency program in internal medicine
+	+ conducted research in epidemiology and biostatistics
+* ms, biostatistics, university of michigan school of public health (2012-2014)
+	+ completed coursework in statistical modeling, machine learning, and data visualization
+	+ conducted research in statistical genetics
+
+certifications:
+
+* certified data scientist (cds), data science council of america (2019)
+* certified analytics professional (cap), institute for operations research and the management sciences (2018)
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize yours to fit your specific experiences and the job you're applying for. also, make sure to proofread your resume multiple times for grammar, spelling, and formatting errors before submitting it to potential employers.

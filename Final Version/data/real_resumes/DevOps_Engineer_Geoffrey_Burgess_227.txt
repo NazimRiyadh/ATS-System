@@ -1,0 +1,59 @@
+Here's a sample resume for Geoffrey Burgess, DDS, applying for a DevOps Engineer position:
+
+Geoffrey Burgess, DDS
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [geoffrey.burgess@email.com](mailto:geoffrey.burgess@email.com)
+* LinkedIn: linkedin.com/in/geoffreyburgessdds
+
+Summary:
+Highly motivated and detail-oriented DevOps Engineer with a strong background in building and deploying scalable, secure, and efficient cloud-based systems. Proven expertise in Docker, Kubernetes, Ansible, and Infrastructure as Code (IaC) tools. Passionate about leveraging automation and monitoring to drive business value and improve the overall customer experience.
+
+Professional Experience:
+
+* Senior DevOps Engineer, XYZ Corporation (2018-Present)
+	+ Designed and implemented a containerization strategy using Docker, resulting in a 30% reduction in application deployment time
+	+ Configured and managed Kubernetes clusters for multiple applications, ensuring high availability and scalability
+	+ Developed and maintained Ansible playbooks for infrastructure provisioning and deployment
+	+ Implemented monitoring tools (Prometheus, Grafana, etc.) to provide real-time insights into system performance
+	+ Collaborated with cross-functional teams to resolve complex technical issues and improve overall system reliability
+* DevOps Engineer, ABC Startups (2015-2018)
+	+ Built and deployed cloud-based infrastructure using Terraform and AWS CloudFormation
+	+ Utilized Ansible for automation of infrastructure provisioning and deployment
+	+ Implemented monitoring and logging tools (ELK Stack, etc.) to provide visibility into system performance
+	+ Collaborated with engineering teams to develop and deploy continuous integration and continuous deployment (CI/CD) pipelines
+
+Education:
+
+* DDS (Doctor of Dental Surgery), University of XYZ (2010-2014)
+	+ Completed coursework in computer science and informatics, with a focus on software development and systems design
+
+Skills:
+
+* Operating Systems: Linux, Windows
+* Containerization: Docker
+* Orchestration: Kubernetes
+* Automation: Ansible, Terraform
+* Infrastructure as Code: IaC tools (AWS CloudFormation, Terraform, etc.)
+* Monitoring Tools: Prometheus, Grafana, ELK Stack, etc.
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Programming Languages: Python, Bash, PowerShell
+
+Achievements:
+
+* Docker Certified Associate, Docker (2019)
+* Kubernetes Certified Administrator, Kubernetes (2020)
+* Certified Ansible Automation Professional, Ansible (2018)
+
+Personal Projects:
+
+* Automated Deployment of Web Applications: Developed a proof-of-concept using Docker, Kubernetes, and Ansible to automate the deployment of web applications
+* Cloud-Based Infrastructure Provisioning: Built a cloud-based infrastructure using Terraform and AWS CloudFormation, demonstrating the power of Infrastructure as Code
+
+References:
+Available upon request.
+
+I hope this sample provides a good starting point for your resume! Remember to tailor your resume to the specific job and company you're applying for, and highlight your unique experiences and skills.

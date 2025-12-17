@@ -1,0 +1,58 @@
+Here's a professional resume for Ian Chung:
+
+Ian Chung
+DevOps Engineer
+
+Contact Information:
+
+* Email: [ian.chung@email.com](mailto:ian.chung@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/ianchungdevops
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Docker, Ansible, and Infrastructure as Code. Proven track record of delivering high-quality, scalable, and secure infrastructure solutions on cloud platforms. Skilled in monitoring tools, automation, and collaboration with cross-functional teams.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Ansible, Terraform, CloudFormation
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Operating Systems: Linux, Windows
+* Programming Languages: Python, Bash, PowerShell
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2018-Present)
+
+* Designed and implemented a continuous integration and delivery pipeline using Jenkins, Docker, and Ansible, resulting in a 30% reduction in deployment time and 25% improvement in code quality
+* Developed and maintained infrastructure as code using Terraform, ensuring consistency and reproducibility across environments
+* Collaborated with development teams to implement monitoring and logging tools, reducing mean time to detect (MTTD) by 50%
+* Provided support and training to junior engineers on DevOps practices and tools
+
+Senior DevOps Engineer, DEF Startups (2015-2018)
+
+* Led a team of engineers in designing and implementing a cloud-based infrastructure using AWS, resulting in a 90% reduction in infrastructure costs and 80% improvement in scalability
+* Developed and maintained Ansible playbooks for automating infrastructure configuration and deployment
+* Implemented a monitoring and alerting system using Prometheus and Grafana, reducing mean time to recover (MTTR) by 40%
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified DevOps Engineer - Professional
+* Certified Ansible Automation Specialist
+
+Achievements:
+
+* Recipient of the ABC Company's "DevOps Engineer of the Year" award (2019)
+* Published a blog post on "Automating Infrastructure with Ansible" on a popular DevOps blog (2017)
+* Presented a talk on "CI/CD Pipelines with Jenkins and Docker" at a regional DevOps conference (2016)
+
+References:
+Available upon request.
+
+I hope this helps! Remember to tailor your resume to the specific job you're applying for, and highlight your unique experiences and skills. Good luck with your job search!

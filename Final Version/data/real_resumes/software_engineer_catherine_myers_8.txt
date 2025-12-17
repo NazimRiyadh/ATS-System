@@ -1,0 +1,48 @@
+here's a sample resume for catherine myers:
+
+catherine myers
+contact information:
+
+* address: [insert address]
+* phone: [insert phone number]
+* email: [insert email]
+* linkedin: [insert linkedin profile url]
+
+summary:
+highly motivated and detail-oriented software engineer with experience in developing scalable and efficient software solutions using java, c++, and python. strong understanding of data structures and algorithms, with a passion for problem-solving and software design.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, graph algorithms, dynamic programming
+* development environments: eclipse, intellij idea, visual studio code
+* operating systems: windows, linux
+
+professional experience:
+
+* software engineer, abc company (2018-present)
+	+ designed and developed multiple software applications using java and c++ for a variety of industries, including finance and healthcare.
+	+ collaborated with cross-functional teams to identify and prioritize project requirements and deliverables.
+	+ improved code quality and efficiency by implementing best practices and optimizing algorithms.
+* intern, def startups (summer 2017)
+	+ contributed to the development of a python-based data analysis tool for a startup company.
+	+ worked on data cleaning and preprocessing tasks, and implemented machine learning models using scikit-learn.
+
+education:
+
+* bachelor of science in computer science, xyz university (2018)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+projects:
+
+* chatbot development: developed a chatbot using python and natural language processing (nlp) techniques to interact with users and provide product recommendations.
+* sorting algorithms: implemented various sorting algorithms, including merge sort, quick sort, and heap sort, to compare their performance and efficiency.
+
+certifications/awards:
+
+* certified java developer, oracle corporation (2019)
+* recipient of the outstanding student award, xyz university (2018)
+
+references:
+available upon request.

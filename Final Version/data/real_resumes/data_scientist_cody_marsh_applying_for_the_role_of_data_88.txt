@@ -1,0 +1,58 @@
+here's a sample resume for cody marsh applying for the role of data scientist:
+
+cody marsh
+contact information:
+
+* email: [cody.marsh@email.com](mailto:cody.marsh@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/codymarsh
+* github: github.com/codymarsh
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, machine learning, and data visualization. proven track record of extracting insights from complex data sets and communicating findings effectively to stakeholders. skilled in developing and deploying predictive models, analyzing and interpreting data, and creating data-driven visualizations.
+
+technical skills:
+
+* programming languages: python (proficient), r (basic)
+* machine learning: scikit-learn, tensorflow, keras
+* data visualization: matplotlib, seaborn, plotly, tableau
+* statistics: hypothesis testing, confidence intervals, regression analysis
+* databases: mysql, postgresql
+* operating systems: windows, linux
+* agile methodologies: familiarity with scrum and kanban
+
+professional experience:
+
+data scientist, xyz corporation (2020-present)
+
+* designed and developed predictive models using machine learning algorithms to forecast sales and customer behavior
+* implemented data visualization tools to communicate insights to stakeholders and inform business decisions
+* collaborated with cross-functional teams to integrate data science into product development and improve customer experience
+* worked with large datasets to analyze and identify trends, and made recommendations to improve business outcomes
+
+data analyst, abc start-up (2018-2020)
+
+* collected and analyzed data to identify areas of improvement for a subscription-based business
+* created reports and visualizations to present findings to stakeholders and inform business decisions
+* developed and deployed predictive models to forecast customer churn
+* worked with stakeholders to identify and prioritize data-driven projects
+
+education:
+
+* master of science in statistics, university of california, berkeley (2018)
+	+ completed coursework in machine learning, data mining, and statistical computing
+* bachelor of science in mathematics, university of michigan (2016)
+	+ completed coursework in probability, statistics, and mathematical logic
+
+projects:
+
+* predicting customer churn: developed a predictive model using scikit-learn to forecast customer churn for a telecom company. achieved an accuracy of 85% in predicting churn.
+* analyzing airbnb prices: used python and pandas to collect and analyze data on airbnb prices in major cities. created visualizations to identify trends and patterns in pricing.
+* stock price prediction: developed a predictive model using tensorflow to forecast stock prices. achieved an accuracy of 80% in predicting stock prices.
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+i hope this sample resume helps! remember to customize your own resume to fit your experiences and style.

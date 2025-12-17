@@ -1,0 +1,60 @@
+Here's a sample resume for Aaron Wright:
+
+Aaron Wright
+System Administrator
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [awright@email.com](mailto:awright@email.com)
+* LinkedIn: linkedin.com/in/aaronwright
+
+Summary:
+Highly motivated and experienced System Administrator with a strong background in Active Directory, Networking, Virtualization, and System Monitoring. Proven track record of delivering high-quality technical solutions that improve system reliability, performance, and security. Adept at troubleshooting complex technical issues and collaborating with cross-functional teams to achieve business objectives.
+
+Technical Skills:
+
+* Operating Systems: Windows Server 2012-2019, Windows 10
+* Networking: TCP/IP, DNS, DHCP, VPN, Firewall
+* Virtualization: VMware, Hyper-V
+* Active Directory: AD DS, AD LDS, Group Policy
+* System Monitoring: SCOM, Nagios, Splunk
+* Scripting: PowerShell, Bash
+* Cloud Computing: Azure, AWS
+
+Professional Experience:
+
+Senior System Administrator, ABC Corporation (2018-Present)
+
+* Designed and implemented a centralized Active Directory environment for 5,000 users, resulting in a 30% reduction in IT support requests
+* Configured and managed a VMware vSphere environment supporting 100 virtual machines, achieving a 90% uptime rate
+* Developed and implemented a system monitoring framework using SCOM, Nagios, and Splunk, resulting in a 25% reduction in system downtime
+* Collaborated with network teams to design and implement a secure VPN solution, reducing external access attempts by 50%
+* Provided technical support and training to end-users, improving overall system knowledge and adoption
+
+System Administrator, DEF Company (2015-2018)
+
+* Installed and configured a Hyper-V environment supporting 20 virtual machines, achieving a 95% uptime rate
+* Managed a Windows Server 2012 R2 environment, providing technical support and maintenance for 2,000 users
+* Designed and implemented a system monitoring framework using Nagios and Splunk, resulting in a 20% reduction in system downtime
+* Collaborated with security teams to implement a secure firewall configuration, reducing internal IP scanning attempts by 40%
+* Provided technical support and training to end-users, improving overall system knowledge and adoption
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* Microsoft Certified: Azure Administrator (2019)
+* Microsoft Certified: Windows Server 2016 MCSA (2017)
+* CompTIA Security+ (2015)
+
+Achievements:
+
+* Winner of the 2019 ABC Corporation IT Innovation Award for designing and implementing a centralized Active Directory environment
+* Finalist for the 2018 DEF Company IT Team Award for outstanding system administration and technical support
+* Published a technical blog post on system monitoring using SCOM, Nagios, and Splunk, viewed over 10,000 times
+
+References:
+Available upon request.

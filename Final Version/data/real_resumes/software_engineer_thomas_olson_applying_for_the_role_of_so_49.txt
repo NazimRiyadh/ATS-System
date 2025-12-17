@@ -1,0 +1,55 @@
+here's a sample resume for thomas olson applying for the role of software engineer:
+
+thomas olson
+contact information:
+
+* email: [thomas.olson@email.com](mailto:thomas.olson@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/thomasolson
+* github: github.com/thomasolson
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software applications using java, c++, and other programming languages. proficient in algorithms and data structures, with a strong passion for problem-solving and teamwork.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, dynamic programming, greedy algorithms, divide and conquer
+* development frameworks: spring, hibernate
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple features for a large-scale e-commerce platform using java, spring, and hibernate
+* collaborated with cross-functional teams to identify and prioritize product requirements
+* implemented efficient algorithms and data structures to optimize system performance
+* participated in code reviews and ensured adherence to coding standards and best practices
+* mentored junior engineers and provided guidance on coding techniques and methodologies
+
+software developer, def startups (2015-2018)
+
+* developed multiple mobile apps using c++ and qt
+* designed and implemented algorithms for image processing and computer vision tasks
+* collaborated with designers to create user-friendly interfaces and experiences
+* participated in sprint planning and daily stand-ups to ensure project progress
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+* master of science in computer science, abc university (2018)
+
+projects:
+
+* personal project: developed a scalable web crawler using java and spring, which was deployed on a cloud platform
+* open-source contribution: contributed to the development of a popular open-source c++ library for computer vision tasks
+
+certifications:
+
+* scjp certification, oracle corporation (2016)
+* certified scrum master, scrum alliance (2019)
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

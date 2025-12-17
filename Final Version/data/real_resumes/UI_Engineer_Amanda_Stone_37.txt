@@ -1,0 +1,65 @@
+Amanda Stone
+Contact Information:
+
+* Email: [amanda.stone@email.com](mailto:amanda.stone@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/amandastone
+
+Summary:
+Highly motivated and detail-oriented UI Engineer with 5+ years of experience in designing and developing user interfaces using modern frontend frameworks. Skilled in version control, agile development methodologies, and collaboration tools. Proficient in creating responsive, accessible, and maintainable UI components.
+
+Technical Skills:
+
+* Frontend Frameworks:
+	+ React
+	+ Angular
+	+ Vue.js
+* Version Control:
+	+ Git
+	+ SVN
+* Collaboration Tools:
+	+ JIRA
+	+ Asana
+	+ Slack
+* Programming Languages:
+	+ JavaScript (ES6+)
+	+ HTML/CSS
+	+ TypeScript
+* UI Libraries:
+	+ Material-UI
+	+ Bootstrap
+* Testing Frameworks:
+	+ Jest
+	+ Cypress
+* Build Tools:
+	+ Webpack
+	+ Rollup
+
+Professional Experience:
+
+UI Engineer, XYZ Corporation (2018-Present)
+
+* Designed and developed multiple UI components using React and Material-UI for a large-scale e-commerce platform
+* Collaborated with cross-functional teams to implement UI/UX design concepts and ensured alignment with product requirements
+* Implemented automated testing using Jest and Cypress to improve test coverage and reduce bugs
+* Utilized Webpack and Rollup to optimize and bundle front-end code
+* Contributed to the development of a style guide to ensure consistency in UI components across the platform
+
+Junior UI Engineer, ABC Startups (2015-2018)
+
+* Worked on multiple projects using Angular and Bootstrap to develop responsive and accessible UI components
+* Utilized Git and SVN for version control and collaborated with teams using JIRA and Asana
+* Implemented UI/UX design concepts using HTML/CSS and JavaScript
+* Participated in code reviews and ensured adherence to coding standards
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2015)
+
+Certifications:
+
+* Certified Scrum Master (CSM), [Certification Date]
+* Certified Frontend Developer, [Certification Date]
+
+References:
+Available upon request.

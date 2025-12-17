@@ -1,0 +1,52 @@
+here's a sample resume for beverly snow:
+
+beverly snow
+contact information:
+
+* email: [beverlysnow@email.com](mailto:beverlysnow@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/beverlysnow
+* github: github.com/beverlysnow
+
+summary:
+highly motivated and experienced software engineer with a strong background in java, python, algorithms, data structures, and system design. proven track record of delivering high-quality software solutions on time and on budget. proficient in a range of software development methodologies, with a passion for continuous learning and improvement.
+
+technical skills:
+
+* programming languages: java, python
+* development frameworks: spring, django
+* databases: mysql, postgresql
+* operating systems: windows, linux, macos
+* agile development methodologies: scrum, kanban
+* version control systems: git, svn
+* cloud platforms: aws, azure
+
+professional experience:
+
+* software engineer, abc corporation (2018-present)
+	+ designed and developed multiple software applications using java and python, with a focus on scalability, reliability, and maintainability.
+	+ collaborated with cross-functional teams to identify requirements and develop solutions that met business needs.
+	+ participated in code reviews and ensured adherence to coding standards and best practices.
+	+ implemented automated testing and deployment scripts using jenkins and docker.
+* junior software engineer, def startups (2015-2018)
+	+ contributed to the development of a web application using django and mysql, resulting in a 30% increase in user engagement.
+	+ assisted in the design and implementation of algorithms and data structures to optimize system performance.
+	+ worked closely with qa engineers to identify and resolve bugs, resulting in a 25% reduction in defect density.
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+projects:
+
+* personal project: developed a machine learning-based chatbot using python and natural language processing (nlp) techniques, with a 90% accuracy rate in predicting user intent.
+* open-source contribution: contributed to the development of a popular open-source project, implementing a new algorithm that improved system performance by 20%.
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified python developer, python institute (2018)
+
+references:
+available upon request.

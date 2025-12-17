@@ -1,0 +1,60 @@
+Here's a sample resume for Diana Riggs, a DevOps Engineer candidate:
+
+Diana Riggs
+DevOps Engineer
+
+Contact Information:
+
+* Email: [diana.riggs@email.com](mailto:diana.riggs@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/dianariggs
+
+Professional Summary:
+Highly motivated and detail-oriented DevOps Engineer with 5+ years of experience in designing, implementing, and maintaining scalable and efficient infrastructure systems. Skilled in CI/CD, Ansible, Infrastructure as Code, and monitoring tools. Proven track record of improving deployment efficiency, reducing downtime, and enhancing overall system reliability.
+
+Technical Skills:
+
+* Programming languages: Python, Bash, PowerShell
+* CI/CD tools: Jenkins, GitLab CI/CD, CircleCI
+* Infrastructure as Code: Ansible, Terraform, AWS CloudFormation
+* Monitoring tools: Prometheus, Grafana, New Relic
+* Operating Systems: Linux (Ubuntu, CentOS), Windows
+* Cloud platforms: AWS, Azure, Google Cloud
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Ansible to automate deployment of web applications
+* Developed and maintained Infrastructure as Code templates using Terraform and Ansible to deploy infrastructure resources
+* Implemented monitoring and logging tools using Prometheus and Grafana to improve system visibility and reliability
+* Collaborated with development teams to resolve production issues and improve deployment efficiency
+* Improved deployment time by 30% and reduced downtime by 25% through process optimization and automation
+
+Senior Systems Administrator, DEF Company (2015-2018)
+
+* Managed and maintained large-scale Linux and Windows infrastructure environments
+* Implemented and monitored system performance using various monitoring tools
+* Collaborated with development teams to resolve production issues and improve system reliability
+* Improved system uptime by 20% and reduced mean time to recovery by 15% through process optimization and automation
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Ansible Developer (CAD)
+* Certified AWS Developer (ACD)
+* Certified ITIL Foundation (ITILF)
+
+Achievements:
+
+* Winner of the ABC Corporation's 2020 Innovation Award for implementing a CI/CD pipeline using Jenkins and Ansible
+* Recipient of the DEF Company's 2017 Excellence in System Administration Award
+* Published a blog post on "Implementing CI/CD with Ansible and Jenkins" on the ABC Corporation's blog
+
+References:
+Available upon request.
+
+This is just a sample resume, and you should customize it to fit your own experiences and style. Remember to use clear and concise language, and highlight your achievements and skills. Good luck with your job application!

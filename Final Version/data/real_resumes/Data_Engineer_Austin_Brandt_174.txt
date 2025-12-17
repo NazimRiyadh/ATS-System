@@ -1,0 +1,57 @@
+Here is a professional resume for Austin Brandt:
+
+Austin Brandt
+Data Engineer
+
+Contact Information:
+
+* Email: [austin.brandt@email.com](mailto:austin.brandt@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/austinbrandt
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, building, and maintaining large-scale data systems. Skilled in MLOps, Airflow, Cloud Platforms, Spark, and Data Warehousing. Proven ability to work effectively in a collaborative environment and deliver high-quality results under tight deadlines.
+
+Technical Skills:
+
+* Programming languages: Python, SQL
+* Data Engineering tools: Airflow, Spark, Hadoop, Hive
+* Cloud Platforms: AWS, GCP, Azure
+* Data Warehousing: Snowflake, Redshift, BigQuery
+* Machine Learning: TensorFlow, Scikit-learn
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2019-Present)
+
+* Designed and implemented a scalable data pipeline using Airflow, Spark, and Cloud Platforms to process 10TB of data daily
+* Built and maintained a data warehouse using Snowflake, providing insights to 100+ users
+* Developed and deployed machine learning models using TensorFlow and Scikit-learn, resulting in 25% increase in sales
+* Collaborated with cross-functional teams to implement data-driven decision-making processes
+* Mentored junior engineers to improve team efficiency and knowledge sharing
+
+Data Engineer, DEF Start-Up (2017-2019)
+
+* Designed and implemented a data pipeline using Spark and Hadoop to process 1TB of data daily
+* Built and maintained a data warehouse using Redshift, providing insights to 50+ users
+* Developed and deployed data visualizations using Tableau, resulting in 30% increase in user engagement
+* Collaborated with data scientists to develop and deploy machine learning models using Scikit-learn
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2017)
+
+Achievements:
+
+* Winner of the ABC Corporation Hackathon (2020) for developing a predictive model using Spark and TensorFlow
+* Recipient of the DEF Start-Up Innovation Award (2018) for developing a data visualization dashboard using Tableau
+* Published a research paper on "Scalable Data Processing using Airflow and Spark" in the Journal of Data Science (2020)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2019)
+* Certified Cloud Practitioner, AWS (2018)
+
+References:
+Available upon request.

@@ -1,0 +1,54 @@
+here's a sample resume for april ford applying for a software engineer position:
+
+april ford
+contact information:
+
+* address: [insert address]
+* phone: [insert phone number]
+* email: [april.ford@email.com](mailto:april.ford@email.com)
+* linkedin: [insert linkedin profile url]
+* github: [insert github profile url]
+
+summary:
+highly motivated and detail-oriented software engineer with a strong foundation in java, algorithms, and system design. proficient in designing, developing, and testing software applications with a focus on scalability, reliability, and performance. strong problem-solving skills and a passion for staying up-to-date with the latest technologies and trends.
+
+technical skills:
+
+* programming languages: java, python
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, dynamic programming, greedy algorithms
+* system design: microservices architecture, restful apis, database design, cloud computing (aws)
+* development tools: eclipse, intellij idea, git, svn, agile methodologies (scrum)
+* operating systems: windows, linux
+* familiarity with: docker, kubernetes, apache kafka, apache spark
+
+professional experience:
+
+* software engineer, abc company (2018-present)
+	+ designed and developed multiple software applications using java and python
+	+ collaborated with cross-functional teams to identify and prioritize project requirements
+	+ implemented algorithms and data structures to optimize system performance and scalability
+	+ participated in code reviews and ensured high-quality code standards
+* junior software engineer, def startups (2016-2018)
+	+ contributed to the development of a cloud-based saas application using java and spring framework
+	+ worked on system design and architecture for scalability and reliability
+	+ implemented unit tests and integration tests to ensure code quality
+
+education:
+
+* bachelor of science in computer science, xyz university (2016)
+	+ coursework: data structures, algorithms, computer systems, database systems, software engineering
+
+projects:
+
+* personal project: developed a web scraper using java and selenium to extract data from multiple websites
+* university project: designed and implemented a distributed system using java and apache kafka to process and analyze large-scale data
+
+certifications:
+
+* certified java developer, oracle corporation (2018)
+* certified scrum master, scrum alliance (2019)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experiences and the job you're applying for.

@@ -1,0 +1,54 @@
+here's a sample resume for paul matthews applying for the role of software engineer:
+
+paul matthews
+contact information:
+
+* address: 123 main st, anytown, usa 12345
+* phone: (555) 555-5555
+* email: [paul.matthews@email.com](mailto:paul.matthews@email.com)
+* linkedin: linkedin.com/in/paulmatthewssoftware
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying large-scale software systems. skilled in a range of programming languages, including java, c++, and python, with a strong foundation in data structures and system design.
+
+technical skills:
+
+* programming languages: java, c++, python, javascript
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: microservices, restful apis, object-oriented design, functional programming
+* development tools: git, maven, gradle, junit, intellij idea
+* operating systems: windows, linux, macos
+* familiarity with: docker, kubernetes, aws, azure
+
+professional experience:
+
+software engineer, abc company (2018-present)
+
+* designed and developed multiple software systems using java and c++, including a cloud-based saas platform and a high-performance trading system
+* collaborated with cross-functional teams to identify and prioritize project requirements, leading to improved product quality and customer satisfaction
+* implemented unit tests and integration tests using junit and mockito, resulting in a 30% reduction in bugs and defects
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+junior software engineer, def startups (2015-2018)
+
+* contributed to the development of multiple software products using python and javascript, including a mobile app and a web application
+* worked on a team to design and implement a chatbot using natural language processing and machine learning
+* developed and maintained a blog on software engineering topics, including articles on data structures and system design
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+	+ coursework: data structures, algorithms, computer systems, software engineering, web development
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified python developer, python institute (2015)
+
+projects:
+
+* personal projects: developed a few personal projects, including a machine learning library for image classification and a web crawler using python and scrapy.
+* open-source contributions: contributed to several open-source projects on github, including a java-based machine learning library and a python-based web framework.
+
+references:
+available upon request.

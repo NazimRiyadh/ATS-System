@@ -1,0 +1,62 @@
+here's a sample resume for gary mendez:
+
+gary mendez
+contact information:
+
+* email: [gary.mendez@email.com](mailto:gary.mendez@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/garymendez
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, cloud platforms, and spark. proven track record of designing, implementing, and deploying scalable data pipelines and machine learning models in cloud environments. passionate about leveraging technology to drive business insights and innovation.
+
+technical skills:
+
+* mlops:
+	+ experience with mlops tools such as mlflow, aws sagemaker, and google cloud ai platform
+	+ strong understanding of model deployment, model serving, and model monitoring
+* airflow:
+	+ proficient in airflow 2.0 and dag design
+	+ experience with airflow operators, such as bash, python, and sql
+* cloud platforms:
+	+ aws certified developer - associate
+	+ google cloud certified - professional cloud developer
+	+ experience with cloud infrastructure, including ec2, s3, and cloud storage
+* spark:
+	+ experience with apache spark and spark sql
+	+ familiarity with spark streaming and structured streaming
+* programming languages:
+	+ python (3.x)
+	+ java
+	+ sql
+* databases:
+	+ experience with relational databases (mysql, postgresql)
+	+ familiarity with nosql databases (hbase, cassandra)
+
+professional experience:
+
+senior data engineer, abc company (2020-present)
+
+* designed and implemented scalable data pipelines using airflow and spark
+* developed and deployed machine learning models using mlops tools and cloud platforms
+* collaborated with data scientists to integrate models into production workflows
+* ensured data quality, data governance, and compliance with regulatory requirements
+
+data engineer, def startups (2018-2020)
+
+* built and maintained data infrastructure using cloud platforms and spark
+* created and deployed data pipelines using airflow and python
+* worked with cross-functional teams to integrate data into business applications
+* participated in code reviews and ensured code quality and maintainability
+
+education:
+
+* master of science in computer science, xyz university (2015-2017)
+* bachelor of science in computer science, abc university (2010-2014)
+
+certifications:
+
+* aws certified developer - associate (2020)
+* google cloud certified - professional cloud developer (2019)
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and style. also, be sure to proofread your resume multiple times for grammar and spelling errors before submitting it to potential employers.

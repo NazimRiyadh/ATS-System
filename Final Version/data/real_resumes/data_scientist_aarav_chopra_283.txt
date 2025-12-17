@@ -1,0 +1,53 @@
+aarav chopra
+
+contact information:
+
+* email: [aarav.chopra@email.com](mailto:aarav.chopra@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/aaravchopra
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in developing and implementing data-driven solutions. proficient in a range of tools and techniques, including python, r, and sql, with expertise in machine learning, deep learning, and data visualization. proven track record of delivering high-impact projects and driving business growth through data-driven insights.
+
+technical skills:
+
+* programming languages: python (3+ years), r (1 year)
+* machine learning frameworks: scikit-learn (3+ years), tensorflow (2+ years)
+* databases: mysql (3+ years), postgresql (1 year)
+* data visualization tools: matplotlib (3+ years), seaborn (2+ years), tableau (1 year)
+* statistics and math: linear algebra, calculus, probability and statistics
+* a/b testing and statistical analysis: a/b testing frameworks (e.g. optimizely), statistical analysis libraries (e.g. scipy)
+
+professional experience:
+
+senior data scientist, xyz corporation (2020-present)
+
+* developed and implemented predictive models using scikit-learn and tensorflow to drive business growth and improve customer engagement
+* collaborated with cross-functional teams to design and execute a/b testing experiments, resulting in 25% increase in conversion rates
+* built and maintained large-scale datasets using sql and data warehousing tools, ensuring data integrity and quality
+* created data visualizations using matplotlib and seaborn to communicate insights to non-technical stakeholders
+* mentored junior data scientists and engineers to improve team capabilities and knowledge sharing
+
+data scientist, abc startups (2018-2020)
+
+* designed and developed machine learning models using scikit-learn and tensorflow to improve product recommendations and user experience
+* conducted statistical analysis and a/b testing to optimize marketing campaigns and improve conversion rates
+* built and maintained databases using mysql and postgresql, ensuring data consistency and integrity
+* created data visualizations using tableau to communicate insights to stakeholders
+* collaborated with product managers to develop and launch new features and products
+
+education:
+
+* bachelor's degree in computer science, stanford university (2018)
+* master's degree in data science, university of california, berkeley (2020)
+
+projects:
+
+* predicting customer churn: developed a predictive model using scikit-learn to predict customer churn, resulting in 30% reduction in churn rates
+* image classification: built a deep learning model using tensorflow to classify images, achieving 95% accuracy
+* recommendation system: developed a recommendation system using collaborative filtering and content-based filtering, resulting in 25% increase in sales
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)

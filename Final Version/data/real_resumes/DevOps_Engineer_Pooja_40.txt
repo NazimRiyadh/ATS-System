@@ -1,0 +1,53 @@
+Here's a professional resume for Pooja, tailored to the role of DevOps Engineer:
+
+**Pooja**
+**DevOps Engineer**
+
+**Contact Information:**
+
+* Email: [pooja@email.com](mailto:pooja@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/pooja-devops
+
+**Objective:**
+To leverage my 9 years of experience in DevOps engineering to drive digital transformation, improve efficiency, and ensure high availability of software systems in a dynamic and innovative environment.
+
+**Summary of Experience:**
+Highly skilled DevOps Engineer with 9 years of experience in designing, implementing, and maintaining scalable, secure, and reliable software systems. Proven track record of successfully deploying and managing applications on cloud platforms, containerizing applications, and automating deployment and monitoring processes using Linux and DevOps tools.
+
+**Technical Skills:**
+
+* **Linux**: Expert-level proficiency in Linux operating systems, including Red Hat Enterprise Linux and Ubuntu.
+* **Cloud Platforms**: Experience with Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP) for infrastructure as a service (IaaS) and platform as a service (PaaS).
+* **Containerization**: Strong knowledge of containerization using Docker, Kubernetes, and container orchestration tools.
+* **Automation**: Skilled in automating deployment, monitoring, and logging processes using tools such as Ansible, Jenkins, and Prometheus.
+* **Scripting**: Proficient in Python, Bash, and PowerShell scripting languages.
+* **Agile Methodologies**: Experience with Scrum and Kanban methodologies.
+
+**Professional Experience:**
+
+* **DevOps Engineer**, ABC Corporation (2019-Present)
+	+ Designed and implemented scalable, secure, and reliable infrastructure on AWS and GCP.
+	+ Containerized applications using Docker and Kubernetes.
+	+ Automated deployment and monitoring processes using Ansible and Prometheus.
+	+ Collaborated with development teams to identify and resolve infrastructure-related issues.
+* **Senior DevOps Engineer**, DEF Company (2015-2019)
+	+ Led the design and implementation of cloud infrastructure on Azure and AWS.
+	+ Implemented automation scripts using Python and PowerShell.
+	+ Managed and monitored application performance using Prometheus and Grafana.
+	+ Collaborated with cross-functional teams to improve overall system reliability and availability.
+* **DevOps Engineer**, GHI Inc. (2012-2015)
+	+ Designed and implemented Linux-based infrastructure for multiple applications.
+	+ Automated deployment and monitoring processes using Ansible and Nagios.
+	+ Collaborated with development teams to identify and resolve infrastructure-related issues.
+
+**Education:**
+
+* Bachelor's degree in Computer Science, XYZ University (2012)
+
+**Certifications:**
+
+* Certified DevOps Engineer, DevOps Institute (2018)
+* Certified Linux Professional, Linux Professional Institute (2015)
+
+I hope this helps! Let me know if you have any questions or if you need further modifications.

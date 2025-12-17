@@ -1,0 +1,61 @@
+Here's a sample resume for Brandon Hurst:
+
+Brandon Hurst
+System Administrator
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [brandon.hurst@email.com](mailto:brandon.hurst@email.com)
+* LinkedIn: linkedin.com/in/brandonhurst
+
+Summary:
+Highly skilled and experienced System Administrator with 8+ years of experience in managing and maintaining complex IT infrastructures. Proficient in Linux/Unix, Active Directory, Networking, Virtualization, and System Monitoring. Proven track record of improving system reliability, efficiency, and security. Strong problem-solving skills and excellent communication abilities.
+
+Technical Skills:
+
+* Operating Systems: Linux (Red Hat, Ubuntu), Unix (Solaris, AIX), Windows Server
+* Networking: Cisco, Juniper, HP Networking, DNS, DHCP, Firewall configuration
+* Virtualization: VMware, VirtualBox, KVM
+* System Monitoring: Nagios, Prometheus, Grafana, Splunk
+* Active Directory: Domain Controller, Group Policy, User and Group Management
+* Scripting: Bash, Python, PowerShell
+* Cloud Computing: Amazon Web Services (AWS), Microsoft Azure
+
+Professional Experience:
+
+System Administrator, ABC Corporation (2018-Present)
+
+* Manage and maintain a large-scale Linux/Unix infrastructure, including servers, storage, and networking equipment
+* Implement and manage Active Directory, including user and group management, Group Policy, and domain controller configuration
+* Design and implement a virtualization solution using VMware, resulting in a 30% reduction in hardware costs and a 25% improvement in system uptime
+* Monitor and troubleshoot system performance issues using Nagios, Prometheus, and Grafana
+* Develop and implement scripting solutions using Bash, Python, and PowerShell to automate system administration tasks
+
+Senior System Administrator, DEF Company (2015-2018)
+
+* Managed and maintained a mixed-OS environment, including Windows Server, Linux, and Unix
+* Implemented and managed a network segmentation solution using Cisco and Juniper networking equipment
+* Developed and implemented a system monitoring solution using Nagios, resulting in a 20% reduction in system downtime
+* Collaborated with the IT team to design and implement a cloud computing solution using AWS, resulting in a 40% reduction in infrastructure costs
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* CompTIA Server+ (2015)
+* Cisco Certified Network Associate (CCNA) (2016)
+* VMware VCP-510 (2017)
+* Red Hat Certified Engineer (RHCE) (2018)
+
+Achievements:
+
+* Successfully implemented a virtualization solution that resulted in a 30% reduction in hardware costs and a 25% improvement in system uptime
+* Developed and implemented a system monitoring solution that resulted in a 20% reduction in system downtime
+* Collaborated with the IT team to design and implement a cloud computing solution that resulted in a 40% reduction in infrastructure costs
+* Improved system security by implementing a secure password policy and regular security audits
+
+References:
+Available upon request.

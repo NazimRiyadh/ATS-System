@@ -1,0 +1,53 @@
+Here's a detailed dummy resume for candidate Ujjwal Gupta, who is interviewing for the role of Data Scientist:
+
+**Ujjwal Gupta**
+**Contact Information:**
+
+* Email: [ujjwal.gupta@email.com](mailto:ujjwal.gupta@email.com)
+* Phone: 555-123-4567
+
+**Objective:**
+To leverage my analytical skills and passion for data-driven decision making as a Data Scientist, driving business growth and innovation through data insights.
+
+**Skills:**
+
+* Programming languages: Python, R, SQL
+* Machine Learning frameworks: Scikit-learn, TensorFlow, PyTorch
+* Data visualization tools: Tableau, Power BI, Matplotlib, Seaborn
+* Operating Systems: Windows, Linux
+* Familiarity with big data technologies: Hadoop, Spark
+* Experience with cloud platforms: AWS, Google Cloud
+
+**Experience:**
+
+* **Data Analyst**, ABC Consulting (Jan 2020 - Jun 2022)
+	+ Collected and analyzed large datasets to identify trends and insights for business stakeholders
+	+ Developed and maintained complex SQL queries to extract data from various sources
+	+ Created interactive dashboards using Tableau to present findings to clients
+	+ Worked on a team to design and implement a predictive model to forecast sales using Python and Scikit-learn
+* **Data Science Intern**, DEF Corporation (Jun 2019 - Dec 2019)
+	+ Assisted in the development of a machine learning model to classify customer churn using R and Caret
+	+ Collaborated with the data engineering team to design and implement a data pipeline using Apache Spark
+	+ Presentated findings and recommendations to senior leadership using data visualization tools
+* **Personal Projects:**
+	+ Built a text classification model using Python and NLTK to classify sentiment in movie reviews
+	+ Developed a recommender system using collaborative filtering to suggest products to customers
+
+**Education:**
+
+* **Bachelor of Science in Computer Science**, XYZ University (2016-2020)
+* **Certified Data Scientist**, Data Science Council of America (2020)
+
+**Languages Known:**
+
+* English (native)
+* Hindi (fluent)
+* Spanish (basic)
+
+**Work Environment Preference:**
+Hybrid (preferring a mix of remote and in-office work)
+
+**Experience Level:**
+Beginner
+
+Note: This is a sample resume, please adjust the details based on the candidate's actual experience and qualifications.

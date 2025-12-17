@@ -1,0 +1,54 @@
+here's a sample resume for angela anderson applying for the role of data scientist:
+
+angela anderson
+contact information:
+
+* email: [angela.anderson@email.com](mailto:angela.anderson@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/angelaanderson
+* github: github.com/angelaanders
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in statistics, machine learning, and data visualization. proficient in extracting insights from complex data sets and communicating findings through data visualizations. skilled in sql, programming languages (python, r), and data analysis tools.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning: supervised and unsupervised learning, random forests, gradient boosting, neural networks
+* data visualization: tableau, power bi, d3.js
+* statistics: regression analysis, hypothesis testing, time series analysis, bayesian inference
+* data analysis: data cleaning, data preprocessing, feature engineering
+* operating systems: windows, macos, linux
+
+professional experience:
+
+data analyst, abc corporation (2018-present)
+
+* analyzed large datasets to identify trends and patterns using sql, python, and r
+* developed and deployed machine learning models to predict customer behavior
+* created data visualizations using tableau and power bi to present findings to stakeholders
+* collaborated with cross-functional teams to inform business decisions
+
+research assistant, university of xyz (2015-2018)
+
+* assisted in designing and implementing statistical models for research studies
+* collected and analyzed data using r and python
+* presented research findings at conferences and published in academic journals
+
+education:
+
+* master of science in statistics, university of xyz (2018)
+* bachelor of science in mathematics, university of abc (2015)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting customer churn: developed a machine learning model using python and scikit-learn to predict customer churn based on customer behavior data. (github: [angelaanders/predicting_customer_churn](https://github.com/angelaanders/predicting_customer_churn))
+* analyzing air quality data: analyzed air quality data from the epa using r and created visualizations using tableau to identify trends and patterns. (github: [angelaanders/air_quality_data](https://github.com/angelaanders/air_quality_data))
+
+references:
+available upon request.

@@ -1,0 +1,57 @@
+aditya joshi
+
+contact information:
+
+* email: [aditya.joshi@email.com](mailto:aditya.joshi@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/adityajoshi
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying large-scale data processing systems. proven expertise in python, sql, etl, airflow, spark, data modeling, aws, docker, kubernetes, and data warehousing. strong passion for building scalable, efficient, and reliable data pipelines.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: etl, airflow, spark
+* data modeling: data warehouse, star schema, snowflake
+* cloud platforms: aws (s3, ec2, rds, glue), docker, kubernetes
+* data warehousing: amazon redshift, google bigquery
+* operating systems: linux, windows
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* designed and developed a scalable data processing pipeline using airflow, spark, and python to process 10tb of data daily
+* built and maintained a data warehouse using amazon redshift, etl using aws glue, and data modeling using star schema
+* collaborated with cross-functional teams to implement data-driven business decisions
+* implemented docker and kubernetes for containerization and orchestration of data processing tasks
+* improved data quality by 30% through data profiling, data cleansing, and data validation
+
+data engineer, def startups (2018-2020)
+
+* developed and maintained a data pipeline using python, etl, and airflow to process 5tb of data daily
+* built and deployed a data warehouse using google bigquery and data modeling using snowflake
+* collaborated with data analysts to implement data visualization and reporting tools
+* implemented data security and access controls using aws iam and encryption
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, database systems, computer networks, operating systems
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified aws developer, amazon web services (2018)
+
+achievements:
+
+* data engineering project of the year, abc corporation (2020)
+	+ recognized for designing and developing a scalable data processing pipeline using airflow, spark, and python
+* data warehousing and business intelligence, def startups (2019)
+	+ implemented a data warehouse using google bigquery and data modeling using snowflake
+
+references:
+available upon request.

@@ -1,0 +1,37 @@
+**zev shah**
+**data engineer candidate**
+
+a highly skilled and motivated data engineer with a strong foundation in data warehousing, etl processes, big data technologies, and database administration. proven expertise in cloud services, including aws and azure, with a passion for designing and implementing scalable data architectures. with extensive experience in logistics, finance, and healthcare domains, i possess a unique understanding of the complexities involved in managing large datasets and extracting valuable insights.
+
+**technical expertise:**
+
+* data warehousing: proficient in designing and implementing data warehouses using tools like amazon redshift, google bigquery, and microsoft azure synapse analytics.
+* etl processes: skilled in developing etl workflows using tools like apache nifi, aws glue, and azure data factory to extract, transform, and load data from various sources.
+* big data technologies: experienced in working with hadoop, spark, and nosql databases like cassandra and mongodb to process and analyze large datasets.
+* database administration: strong knowledge of database administration, including database design, performance tuning, and security best practices.
+* cloud services: proficient in designing and deploying scalable data architectures on cloud platforms like aws and azure.
+
+**domain experience:**
+
+* logistics: successfully designed and implemented a data warehousing solution for a leading logistics company, resulting in a 30% reduction in delivery times.
+* finance: developed a predictive analytics model using spark and hadoop to forecast stock prices, leading to a 25% improvement in investment returns.
+* healthcare: collaborated with a healthcare provider to design a data analytics platform using aws and azure, resulting in a 40% reduction in patient readmission rates.
+
+**achievements:**
+
+* successfully led a team of data engineers to design and implement a cloud-based data warehouse for a multinational corporation, resulting in a 50% reduction in data processing times.
+* developed and deployed a real-time data processing pipeline using apache kafka and spark, resulting in a 20% improvement in data freshness.
+
+**enthusiasm and growth potential:**
+
+i am thrilled at the prospect of joining a dynamic organization like [company name] and contributing my skills and expertise to drive business growth. i am eager to learn from experienced colleagues, take on new challenges, and grow within the organization. with my passion for data engineering and analytics, i am confident that i can make a significant impact and help drive the company's success.
+
+**references:**
+
+available upon request.
+
+**certifications:**
+
+* certified data engineer, google cloud
+* certified big data engineer, cloudera
+* certified cloud practitioner, aws

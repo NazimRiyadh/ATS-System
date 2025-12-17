@@ -1,0 +1,54 @@
+Here is a professional resume for Mark Copeland:
+
+Mark Copeland
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [m.copeland@email.com](mailto:m.copeland@email.com)
+* LinkedIn: linkedin.com/in/markcopeland
+
+Summary:
+Highly skilled Data Engineer with 5+ years of experience in designing, building, and deploying data pipelines using MLOps, Airflow, ETL, and Cloud Platforms. Proven track record of delivering scalable and efficient data solutions that drive business growth. Proficient in Spark, Data Warehousing, and Cloud-based technologies.
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2020-Present)
+
+* Design and implement complex data pipelines using MLOps, Airflow, and ETL tools to integrate data from various sources
+* Develop and deploy scalable data solutions on Cloud Platforms (AWS, GCP, Azure) using Cloud-based technologies (CloudFormation, CloudFunctions)
+* Collaborate with cross-functional teams to design and implement data warehousing and business intelligence solutions using Spark, Hive, and Presto
+* Implement data quality and governance frameworks to ensure data accuracy and consistency
+
+Data Engineer, DEF Startups (2018-2020)
+
+* Designed and built ETL pipelines using Python, Spark, and Airflow to integrate data from various sources
+* Developed and deployed data models using Cloud-based technologies (CloudDataflow, CloudDataproc)
+* Collaborated with data scientists to develop and deploy machine learning models using MLOps and TensorFlow
+* Implemented data security and compliance frameworks to ensure data protection and regulatory compliance
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Skills:
+
+* Programming languages: Python, Scala, Java
+* Data engineering tools: MLOps, Airflow, ETL, Spark, Cloud Platforms (AWS, GCP, Azure)
+* Data warehousing and business intelligence: Spark, Hive, Presto, Tableau
+* Cloud-based technologies: CloudFormation, CloudFunctions, CloudDataflow, CloudDataproc
+* Operating Systems: Linux, Windows
+* Agile methodologies: Scrum, Kanban
+
+Achievements:
+
+* Winner, ABC Corporation's Data Engineering Hackathon (2020): Developed a scalable data pipeline using MLOps and Airflow that improved data processing time by 30%
+* Recipient, DEF Startups' Data Engineer of the Year Award (2019): Recognized for exceptional contributions to data engineering and innovation
+* Published, "Designing Scalable Data Pipelines using MLOps and Airflow" in Data Engineering Journal (2019): Article discussed best practices for designing and deploying scalable data pipelines using MLOps and Airflow
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Cloud Practitioner, AWS Certified Cloud Practitioner (2018)
+
+References:
+Available upon request.

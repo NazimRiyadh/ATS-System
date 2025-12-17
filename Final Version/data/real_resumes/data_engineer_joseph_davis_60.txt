@@ -1,0 +1,54 @@
+here is a sample resume for joseph davis applying for the role of data engineer:
+
+joseph davis
+contact information:
+
+* phone: (555) 123-4567
+* email: [joseph.davis@email.com](mailto:joseph.davis@email.com)
+* linkedin: linkedin.com/in/josephdavisdata
+* github: github.com/josephdavis
+
+summary:
+highly skilled data engineer with expertise in designing, building, and maintaining large-scale data processing systems. proven experience in working with big data technologies, cloud platforms, and airflow. passionate about data-driven solutions and driving business growth through data insights.
+
+technical skills:
+
+* programming languages: python, java, sql
+* big data technologies: apache hadoop, apache spark, apache kafka, hive
+* cloud platforms: amazon web services (aws), google cloud platform (gcp), microsoft azure
+* data engineering tools: apache airflow, apache beam, apache nifi
+* data storage: relational databases (mysql, postgresql), nosql databases (mongodb, cassandra)
+
+professional experience:
+
+senior data engineer, abc company (2018-present)
+
+* designed and implemented a scalable data pipeline using apache airflow to process and transform large datasets from various sources
+* worked with the data science team to develop and deploy machine learning models using apache spark and scikit-learn
+* collaborated with the engineering team to design and implement a cloud-based data warehousing solution using amazon redshift
+* mentored junior engineers in data engineering best practices and technologies
+
+data engineer, def company (2015-2018)
+
+* developed and maintained a data processing pipeline using apache hadoop and apache pig to process large datasets from various sources
+* worked with the data team to design and implement a data governance framework using apache ranger and apache atlas
+* collaborated with the infrastructure team to design and implement a cloud-based data storage solution using google cloud storage and google bigtable
+* participated in the development of a data analytics platform using apache spark and apache zeppelin
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data science council of america (dasca)
+* certified cloud practitioner, aws
+
+projects:
+
+* developed a data processing pipeline using apache airflow and apache spark to process and transform large datasets from various sources
+* built a cloud-based data warehousing solution using amazon redshift and apache superset
+* created a data governance framework using apache ranger and apache atlas
+
+references:
+available upon request.

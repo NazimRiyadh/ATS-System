@@ -1,0 +1,64 @@
+Here's a sample resume for Sean Sullivan:
+
+Sean Sullivan
+System Administrator
+
+Contact Information:
+
+* Email: [ssullivan@email.com](mailto:ssullivan@email.com)
+* Phone: (555) 555-5555
+* LinkedIn: linkedin.com/in/seansullivan
+
+Professional Summary:
+Highly skilled System Administrator with over 8 years of experience in managing and maintaining complex IT infrastructures, including Linux/Unix, Windows Server, Active Directory, and Networking. Proven track record of delivering high-quality systems and services that meet or exceed business requirements. Proficient in virtualization technologies, including VMware and Hyper-V.
+
+Technical Skills:
+
+* Operating Systems: Linux/Unix (Red Hat, CentOS), Windows Server (2008-2019), Windows 10
+* Networking: Cisco, Juniper, HP ProCurve, VLANs, VPNs, firewalls
+* Virtualization: VMware ESXi, Hyper-V, Docker
+* Directory Services: Active Directory, LDAP, OpenLDAP
+* Scripting: Bash, PowerShell, Python
+* Cloud: Azure, AWS (basic)
+
+Professional Experience:
+
+Senior System Administrator
+ABC Corporation (2018-Present)
+
+* Manage and maintain a 500-node Linux cluster, including hardware upgrades, software updates, and troubleshooting
+* Design and implement a centralized Active Directory infrastructure, including group policy objects, DNS, and DHCP
+* Provide Level 2/3 support for Windows Server and Linux/Unix environments, including troubleshooting and root cause analysis
+* Collaborate with the DevOps team to implement continuous integration and continuous deployment (CI/CD) pipelines using Ansible and Jenkins
+* Implemented a VPN solution using Cisco ASA 5505, resulting in a 30% reduction in remote access costs
+
+System Administrator
+XYZ University (2015-2018)
+
+* Managed a team of junior system administrators, providing guidance and mentorship on server administration, scripting, and troubleshooting
+* Implemented a virtualization infrastructure using VMware ESXi, resulting in a 40% reduction in server costs and a 20% increase in server utilization
+* Designed and implemented a backup and disaster recovery strategy using Rsync and Bacula, ensuring 24/7 data availability
+* Collaborated with the networking team to implement a VLAN solution, resulting in improved network segmentation and reduced security risks
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* CompTIA A+ (2010)
+* CompTIA Network+ (2012)
+* Cisco CCNA (2015)
+* Microsoft 70-410: Installing and Configuring Windows Server 2012 (2013)
+* Red Hat Certified Engineer (RHCE) (2016)
+
+Achievements:
+
+* Implemented a cloud-based storage solution using Amazon S3, resulting in a 25% reduction in storage costs
+* Designed and implemented a load balancing solution using HAProxy, resulting in a 30% increase in web server performance
+* Developed and deployed a custom PowerShell module to automate IT tasks, resulting in a 25% reduction in IT labor costs
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to tailor your own resume to your specific experience and the job you're applying for.

@@ -1,0 +1,65 @@
+Angela Rodriguez
+UI Engineer
+
+Contact Information:
+
+* Email: [angela.rodriguez@email.com](mailto:angela.rodriguez@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/angelarodriguez
+
+Summary
+--------
+
+Highly skilled UI Engineer with expertise in Frontend Frameworks, Version Control, and collaborative development environments. Proven track record of delivering high-quality, visually appealing user interfaces that drive engagement and conversion.
+
+Technical Skills
+
+* Frontend Frameworks: React, Angular, Vue.js
+* Version Control: Git, SVN, Mercurial
+* HTML5, CSS3, JavaScript
+* Responsive Web Design
+* Web Performance Optimization
+* Browser Compatibility Testing
+* Agile Development Methodologies
+
+Professional Experience
+
+UI Engineer, ABC Company (2018-Present)
+
+* Designed and developed UI components using React, Angular, and Vue.js, resulting in a 30% increase in user engagement
+* Collaborated with cross-functional teams to integrate UI components with backend services, ensuring seamless user experiences
+* Implemented automated testing and deployment scripts using Jenkins and Git, reducing deployment time by 50%
+* Participated in code reviews and provided feedback to junior engineers, improving overall code quality
+
+Frontend Developer, DEF Startups (2015-2018)
+
+* Built responsive web applications using HTML5, CSS3, and JavaScript, resulting in a 25% increase in conversions
+* Utilized Git and SVN for version control, ensuring accurate tracking of code changes and collaborative development
+* Designed and implemented interactive UI components using jQuery and JavaScript libraries
+* Collaborated with designers to implement visual design concepts into functional UI components
+
+Education
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+* Coursework: Computer Systems, Data Structures, Algorithms, Web Development, and Human-Computer Interaction
+
+Certifications
+
+* Certified Scrum Master (CSM), Scrum Alliance (2016)
+* Certified Frontend Developer, Google Developers (2015)
+
+Projects
+
+* Personal Project: Todo List App (2017)
+	+ Built a responsive Todo List application using React and Redux
+	+ Implemented automated testing using Jest and Enzyme
+	+ Deployed the application using Heroku
+* Collaborative Project: VolunteerHub (2018)
+	+ Collaborated with a team of 5 engineers to build a volunteer management platform using Angular and Node.js
+	+ Designed and implemented UI components using Angular Material
+	+ Participated in code reviews and ensured high-quality code
+
+References
+----------
+
+Available upon request.

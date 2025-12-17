@@ -1,0 +1,56 @@
+here's a sample resume for sheila thompson applying for the role of data engineer:
+
+sheila thompson
+contact information:
+
+* email: [sheila.thompson@email.com](mailto:sheila.thompson@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/sheilathompson
+* github: github.com/sheilathompson
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying large-scale data systems using airflow, big data, and cloud platforms. proven expertise in spark, data processing, and data warehousing. passionate about leveraging technology to drive business growth and innovation.
+
+technical skills:
+
+* programming languages: python, scala, java
+* data engineering tools: apache airflow, apache spark, apache hive, apache hbase
+* cloud platforms: amazon web services (aws), google cloud platform (gcp), microsoft azure
+* big data technologies: hadoop, nosql databases (e.g., cassandra, mongodb)
+* operating systems: linux, windows
+* agile development methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and developed a scalable data pipeline using apache airflow, apache spark, and aws services to process and analyze large datasets
+* collaborated with cross-functional teams to integrate data from multiple sources, including social media, iot devices, and customer databases
+* developed and maintained a data warehouse using apache hive and apache hbase, providing insights to business stakeholders through data visualization tools
+* mentored junior engineers in data engineering best practices and contributed to code reviews to ensure high-quality code
+
+data engineer, def startups (2015-2018)
+
+* built and deployed a real-time data processing system using apache spark, apache kafka, and aws services to support a fintech startup's growth
+* developed and maintained a data quality framework using apache beam and apache airflow to ensure data accuracy and integrity
+* worked closely with data scientists to develop and deploy machine learning models using apache spark and hadoop
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, google cloud (2020)
+* certified apache spark developer, apache software foundation (2019)
+
+projects:
+
+* developed a personal project using apache airflow, apache spark, and aws services to analyze and visualize data from the new york city taxi dataset
+* contributed to an open-source project, apache airflow, to improve its scalability and reliability features
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should tailor yours to fit your specific experience and the job description. also, make sure to proofread your resume multiple times for any errors or formatting issues.

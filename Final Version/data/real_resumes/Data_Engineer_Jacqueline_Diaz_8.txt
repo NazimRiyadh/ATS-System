@@ -1,0 +1,61 @@
+Here's a professional resume for Jacqueline Diaz, tailored to the role of Data Engineer:
+
+Jacqueline Diaz
+Contact Information:
+
+* Email: [jacqueline.diaz@email.com](mailto:jacqueline.diaz@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/jacquelinediaz
+* GitHub: github.com/jacquelinediaz
+
+Professional Summary:
+Highly skilled Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using MLOps, Airflow, ETL, and Cloud Platforms. Proven track record of delivering high-quality data solutions that drive business insights and decision-making. Proficient in Spark, Data Warehousing, and data visualization tools.
+
+Technical Skills:
+
+* MLOps: Model deployment, model serving, and model monitoring
+* Airflow: DAG design, scheduling, and monitoring
+* ETL: Data transformation, data loading, and data quality
+* Cloud Platforms: AWS, GCP, Azure
+* Spark: Apache Spark, Spark SQL, Spark MLlib
+* Data Warehousing: Snowflake, Redshift, BigQuery
+* Data Visualization: Tableau, Power BI, D3.js
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2020-Present)
+
+* Design and develop scalable data pipelines using MLOps, Airflow, and ETL techniques to support business growth and decision-making
+* Collaborate with cross-functional teams to integrate data from various sources and build data products
+* Implement data warehousing solutions using Snowflake and Redshift to support analytics and reporting
+* Develop and deploy machine learning models using Spark and TensorFlow to drive business insights
+* Achievements:
+	+ Improved data pipeline efficiency by 30% through automation and optimization
+	+ Reduced data latency by 50% through optimized data warehousing and ETL processes
+	+ Implemented a data lake using GCP and BigQuery to support data discovery and analytics
+
+Data Engineer, DEF Startups (2018-2020)
+
+* Designed and developed data pipelines using Airflow, ETL, and Spark to support business growth and decision-making
+* Collaborated with data scientists to develop and deploy machine learning models using TensorFlow and PyTorch
+* Implemented data visualization solutions using Tableau and Power BI to support business insights and decision-making
+* Achievements:
+	+ Developed a data pipeline to support a $1M revenue growth initiative
+	+ Improved data quality by 25% through data validation and data cleaning
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Data Engineer, Google Cloud (2020)
+* Certified Spark Developer, Apache Spark (2019)
+
+Personal Projects:
+
+* Developed a data pipeline to analyze and visualize COVID-19 data using Airflow, Spark, and Tableau
+* Built a machine learning model using TensorFlow and PyTorch to predict customer churn
+* Contributed to open-source projects on GitHub, including a Spark-based data processing framework
+
+This resume highlights Jacqueline's technical skills, professional experience, and achievements in the field of data engineering. The clear structure and format make it easy to scan and understand, and the professional summary and technical skills sections provide a clear overview of her qualifications.

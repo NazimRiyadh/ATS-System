@@ -1,0 +1,70 @@
+Here's a sample resume for Sheila Thornton:
+
+Sheila Thornton
+System Administrator
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [sheila.thornton@email.com](mailto:sheila.thornton@email.com)
+* LinkedIn: linkedin.com/in/sheilathornton
+
+Professional Summary:
+Highly skilled System Administrator with 8 years of experience in managing and maintaining Linux/Unix servers, networking infrastructure, and system monitoring tools. Proven track record of ensuring high uptime and performance of critical systems, with expertise in troubleshooting and resolving complex technical issues. Strong knowledge of scripting languages, including Bash and Python.
+
+Technical Skills:
+
+* Operating Systems: Linux (Red Hat, CentOS), Unix (Solaris, AIX)
+* Networking: Cisco, Juniper, TCP/IP, DNS, DHCP
+* System Monitoring: Nagios, Prometheus, Grafana
+* Scripting Languages: Bash, Python
+* Cloud Platforms: Amazon Web Services (AWS), Microsoft Azure
+* Virtualization: VMware, KVM
+* Database Management: MySQL, PostgreSQL
+
+Professional Experience:
+
+System Administrator, XYZ Corporation (2018-Present)
+
+* Managed and maintained a fleet of over 50 Linux/Unix servers, ensuring high uptime and performance.
+* Designed and implemented a comprehensive system monitoring solution using Nagios and Prometheus.
+* Collaborated with the network team to ensure seamless integration of networking infrastructure with server systems.
+* Developed and implemented scripting solutions using Bash and Python to automate routine tasks and enhance system efficiency.
+* Provided technical support and training to junior staff on system administration and troubleshooting.
+
+Senior System Administrator, ABC Inc. (2015-2018)
+
+* Led a team of system administrators to manage and maintain a large-scale data center infrastructure.
+* Implemented a cloud-based infrastructure using AWS, resulting in significant cost savings and increased scalability.
+* Designed and implemented a comprehensive disaster recovery plan, ensuring business continuity in the event of a disaster.
+* Collaborated with the security team to implement and maintain robust security measures, including firewalls and intrusion detection systems.
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* CompTIA Linux+/LPIC-1 (2016)
+* Cisco CCNA (2015)
+* Red Hat Certified Engineer (2013)
+
+Achievements:
+
+* Successfully implemented a load balancing solution using HAProxy, resulting in a 30% increase in system performance.
+* Developed and implemented a custom monitoring tool using Python and Grafana, resulting in a 25% reduction in mean time to detect (MTTD).
+* Collaborated with the development team to implement a continuous integration and deployment (CI/CD) pipeline using Jenkins, resulting in a 40% reduction in deployment time.
+
+References:
+Available upon request.
+
+This structure includes:
+
+* A clear and concise professional summary
+* A comprehensive list of technical skills
+* A detailed professional experience section with specific job titles, company names, and dates
+* A separate section for education and certifications
+* A section for achievements and accomplishments
+* A professional contact section with links to social media profiles and a LinkedIn profile
+
+I hope this helps! Remember to tailor your resume to the specific job you're applying for, and highlight your most relevant skills and experiences.

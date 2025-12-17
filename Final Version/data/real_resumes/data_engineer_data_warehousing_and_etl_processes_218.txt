@@ -1,0 +1,51 @@
+**candidate profile: grishm ghosh - data engineer role**
+
+grishm ghosh demonstrated a solid foundation in programming languages, data structures, and software development principles during the interview. however, there were some areas where his skills did not fully align with the requirements of the data engineer role.
+
+**data warehousing and etl processes**
+
+grishm expressed some familiarity with etl concepts, but his experience and proficiency in implementing data warehousing solutions, such as designing data models, creating data pipelines, and optimizing query performance, were limited. he mentioned having worked on smaller-scale data integration projects, but it was unclear how these experiences would translate to a large-scale, complex data warehousing environment.
+
+**big data technologies (hadoop, spark)**
+
+grishm's exposure to big data technologies was minimal. he lacked hands-on experience with hadoop and spark, and his understanding of distributed computing, data processing, and storage was limited. while he showed interest in learning, it's unclear how quickly he would be able to adapt and contribute to big data projects.
+
+**database administration**
+
+grishm's experience with database administration was limited to basic sql concepts and some familiarity with database design principles. he did not demonstrate a deep understanding of database performance tuning, backup and recovery strategies, or database security best practices. his lack of experience with database administration tools, such as dbaas or database monitoring software, was also notable.
+
+**cloud services (aws, azure)**
+
+grishm's exposure to cloud services was limited, and he did not demonstrate a clear understanding of cloud computing concepts, such as scalability, elasticity, and cost optimization. he mentioned having worked with cloud-based applications, but it was unclear how familiar he was with cloud-specific tools, such as aws lambda or azure functions.
+
+**insufficient experience in logics, optimizations, statistics, and heathcare**
+
+grishm's experience and knowledge in these areas were lacking. he did not demonstrate a clear understanding of logics, optimizations, or statistical concepts, and his familiarity with healthcare-specific data and regulations was non-existent.
+
+**concerns raised during the interview**
+
+during the interview, grishm struggled with certain tasks, such as:
+
+* designing a data pipeline for a complex dataset
+* optimizing query performance for a large-scale data warehouse
+* implementing data security measures for a cloud-based application
+
+he also expressed some unfamiliarity with specific tools and technologies, such as:
+
+* apache beam
+* apache kafka
+* aws glue
+* azure data factory
+
+**potential for growth**
+
+despite the gaps in his experience and skills, grishm demonstrated a strong willingness to learn and a positive attitude towards growth. with further training and exposure to the required technologies and tools, it's possible that he could develop the necessary skills to become a successful data engineer. however, it would be essential to provide him with targeted training and mentorship to help him bridge the gaps in his knowledge and skills.
+
+**recommendations**
+
+to support grishm's growth, it would be beneficial to:
+
+* provide training on data warehousing, etl processes, big data technologies, database administration, and cloud services
+* assign him to work on smaller-scale projects to build his skills and confidence
+* pair him with a senior data engineer or mentor to provide guidance and support
+* encourage him to learn from online resources and participate in relevant online communities to stay up-to-date with industry trends and technologies.

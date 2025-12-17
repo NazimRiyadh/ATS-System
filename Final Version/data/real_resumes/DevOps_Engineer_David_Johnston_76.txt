@@ -1,0 +1,59 @@
+Here's a sample resume for David Johnston:
+
+David Johnston
+Contact Information:
+
+* Phone: (555) 555-5555
+* Email: [djohnston@email.com](mailto:djohnston@email.com)
+* LinkedIn: linkedin.com/in/davidjohnstondevops
+* GitHub: github.com/davidjohnston
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Kubernetes, Ansible, and Infrastructure as Code. Proven track record of delivering high-quality solutions that improve efficiency, scalability, and reliability of cloud-based systems. Skilled in cloud platforms, monitoring tools, and agile methodologies.
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins, GitLab CI/CD, and Docker to automate the deployment of microservices
+* Deployed and managed a Kubernetes cluster on AWS, ensuring scalability and high availability of applications
+* Automated infrastructure provisioning using Ansible and Terraform, reducing deployment time by 75%
+* Implemented monitoring and logging tools (Prometheus, Grafana, ELK) to improve visibility and troubleshooting capabilities
+* Collaborated with development teams to improve code quality and reduce technical debt
+
+Senior Systems Administrator, DEF Company (2015-2018)
+
+* Managed and maintained a large-scale infrastructure across multiple data centers, ensuring high uptime and availability
+* Implemented automation scripts using Ansible and Python to simplify administrative tasks and reduce errors
+* Collaborated with development teams to design and implement scalable architectures using cloud platforms (AWS, Azure)
+* Conducted regular security audits and implemented security best practices to protect infrastructure and data
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, Docker, Kubernetes
+* Infrastructure as Code: Ansible, Terraform, CloudFormation
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Monitoring Tools: Prometheus, Grafana, ELK, New Relic
+* Agile Methodologies: Scrum, Kanban
+* Programming Languages: Python, Bash, PowerShell
+* Operating Systems: Linux, Windows, macOS
+
+Achievements:
+
+* Successfully implemented a CI/CD pipeline that reduced deployment time by 90% and improved code quality by 25%
+* Designed and deployed a Kubernetes cluster on AWS, resulting in a 99.99% uptime and 50% reduction in infrastructure costs
+* Implemented automation scripts using Ansible, reducing administrative tasks by 75% and improving efficiency by 30%
+* Collaborated with development teams to improve code quality and reduce technical debt, resulting in a 20% increase in productivity
+
+Certifications:
+
+* AWS Certified DevOps Engineer - Professional
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Automation Specialist
+
+References:
+Available upon request.

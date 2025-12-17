@@ -1,0 +1,62 @@
+**Ananya**
+**Contact Information:**
+
+* Email: [ananya@email.com](mailto:ananya@email.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/ananya
+* GitHub: github.com/ananya
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 3+ years of experience in designing, developing, and deploying large-scale data systems. Proficient in handling big data platforms, working with various data storage solutions, and leveraging SQL and NoSQL databases. Proven track record of delivering high-quality data solutions that drive business growth.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, SQL, Scala
+* Data Platforms: Apache Hadoop, Apache Spark, Amazon EMR
+* Data Storage: HDFS, Cassandra, MongoDB
+* Database: MySQL, PostgreSQL, Oracle
+* Data Visualization: Tableau, Power BI, D3.js
+* Cloud Computing: AWS, Azure, Google Cloud
+* Operating System: Linux, Windows, macOS
+
+**Professional Experience:**
+
+**Data Engineer, XYZ Corporation (2019-Present)**
+
+* Designed, developed, and deployed multiple data pipelines using Apache Beam and Apache Spark
+* Worked closely with cross-functional teams to integrate data systems and improve business insights
+* Implemented data warehousing and ETL processes using AWS Glue and Amazon Redshift
+* Developed and maintained multiple data visualization dashboards using Tableau and Power BI
+* Collaborated with data scientists to develop predictive models and machine learning algorithms
+
+**Data Engineer, ABC Startups (2018-2019)**
+
+* Built and maintained scalable data architectures using Apache Hadoop and Apache Cassandra
+* Worked on data ingestion and processing tasks using Apache Flume and Apache Storm
+* Developed and deployed data quality and validation checks using Python and SQL
+* Collaborated with data analysts to create reports and dashboards using Power BI and Tableau
+
+**Education:**
+
+* **Bachelor of Technology in Computer Science**, Indian Institute of Technology (2014-2018)
+* **Certified Data Engineer**, Data Science Council of America (2019)
+
+**Achievements:**
+
+* **3.1/4.0 CGPA**, Indian Institute of Technology (2014-2018)
+* **Winner of Data Science Hackathons**, Kaggle (2018-2019)
+* **Winner of Apache Spark Challenge**, Databricks (2019)
+
+**Certifications:**
+
+* **Certified Data Engineer**, Data Science Council of America (2019)
+* **Certified Apache Spark Developer**, Databricks (2019)
+
+**Projects:**
+
+* **Personal Finance Tracker**: Developed a personal finance tracking system using Python, Apache Spark, and MongoDB
+* **Movie Recommendation System**: Built a movie recommendation system using Apache Hadoop, Apache Cassandra, and Python
+* **Real-time Analytics**: Developed a real-time analytics system using Apache Storm, Apache Cassandra, and Python
+
+**References:**
+Available upon request.

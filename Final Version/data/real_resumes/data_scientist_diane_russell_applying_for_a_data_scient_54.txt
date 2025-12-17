@@ -1,0 +1,54 @@
+here's a sample resume for diane russell applying for a data scientist role:
+
+diane russell
+contact information:
+
+* email: [dianerussell@email.com](mailto:dianerussell@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/dianerussell
+* github: github.com/dianerussell
+
+summary:
+highly motivated and detail-oriented data scientist with a strong background in statistics, machine learning, and deep learning. proficient in extracting insights from large datasets, building predictive models, and communicating complex results to stakeholders. proficient in sql and experienced in working with various data tools and technologies.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning: scikit-learn, tensorflow, keras
+* deep learning: pytorch, theano
+* data analysis: pandas, numpy, matplotlib, seaborn
+* data visualization: tableau, power bi
+* database management: mysql, postgresql
+* operating systems: windows, linux, macos
+
+professional experience:
+
+* data scientist, abc company (2020-present)
+	+ extracted insights from large datasets to inform business decisions
+	+ built and deployed machine learning models to predict customer churn and recommend products
+	+ collaborated with cross-functional teams to develop and implement data-driven solutions
+	+ presented complex results to stakeholders through interactive dashboards and reports
+* statistics analyst, def company (2018-2020)
+	+ conducted statistical analysis to identify trends and patterns in customer data
+	+ developed and maintained databases to store and manage large datasets
+	+ created data visualizations to communicate insights to stakeholders
+	+ worked with data engineers to design and implement data pipelines
+
+education:
+
+* master of science in statistics, xyz university (2018)
+* bachelor of science in mathematics, abc university (2016)
+
+projects:
+
+* predicting customer churn using machine learning: built a machine learning model to predict customer churn using historical customer data and feature engineering techniques.
+* image classification using deep learning: built a deep learning model to classify images using convolutional neural networks and transfer learning techniques.
+* data visualization using tableau: created interactive dashboards to visualize sales data and identify trends and patterns.
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+references:
+available upon request.

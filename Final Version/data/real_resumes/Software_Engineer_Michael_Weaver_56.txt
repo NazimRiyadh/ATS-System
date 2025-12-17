@@ -1,0 +1,58 @@
+Michael Weaver
+Software Engineer
+
+Contact Information:
+
+* Email: [mweaver@email.com](mailto:mweaver@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/michaelweaver
+
+Summary:
+Highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable and efficient software solutions using Java, Spring, and cloud-based technologies. Proficient in algorithms, data structures, web development, DevOps, and testing.
+
+Technical Skills:
+
+* Programming languages: Java 8, Java 11, Scala
+* Frameworks: Spring Boot, Spring MVC, Hibernate
+* Databases: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+* Version control: Git, SVN
+* Cloud platforms: AWS, Azure
+* Testing frameworks: JUnit, TestNG, Mockito
+
+Professional Experience:
+
+Senior Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple microservices using Java, Spring Boot, and cloud-based technologies
+* Implemented RESTful APIs using Spring MVC and Swagger
+* Collaborated with the DevOps team to deploy applications to AWS and Azure
+* Conducted code reviews and ensured adherence to coding standards and best practices
+* Mentored junior engineers and provided technical guidance
+
+Software Engineer, DEF Startup (2015-2018)
+
+* Developed multiple web applications using Java, Spring, and JavaScript
+* Implemented algorithms and data structures to optimize application performance
+* Worked with the QA team to identify and fix bugs
+* Participated in code reviews and ensured adherence to coding standards and best practices
+* Contributed to the development of the company's API using Spring and RESTful principles
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+* Coursework: Data Structures, Algorithms, Computer Systems, Database Systems, Web Development
+
+Certifications:
+
+* Certified Scrum Master (CSM), Scrum Alliance (2016)
+* Certified Java Developer, Oracle Corporation (2015)
+
+Projects:
+
+* Personal Project: Developed a RESTful API using Spring Boot and MongoDB to manage a personal blog. Utilized Maven for build automation and Jenkins for continuous integration.
+* Open-Source Contribution: Contributed to the development of the Spring Framework, specifically the Spring Security module.
+
+References:
+Available upon request.

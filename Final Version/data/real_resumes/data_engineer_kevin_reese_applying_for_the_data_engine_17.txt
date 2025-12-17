@@ -1,0 +1,58 @@
+here's a sample resume for kevin reese applying for the data engineer role:
+
+kevin reese
+contact information:
+
+* email: [kreas@domain.com](mailto:kreas@domain.com)
+* phone: 555-123-4567
+* linkedin: linkedin.com/in/kevinreese
+* github: github.com/kevinreese
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data processing systems. skilled in airflow, etl, big data, cloud platforms, and spark. proven track record of delivering high-quality data solutions on time and on budget.
+
+technical skills:
+
+* programming languages: python, scala, sql
+* data processing frameworks: apache airflow, apache spark
+* big data technologies: hadoop, hive, pig
+* cloud platforms: aws, gcp, azure
+* data warehousing: amazon redshift, google bigquery
+* etl tools: apache nifi, talend
+* operating systems: linux, windows
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and developed large-scale data processing pipelines using apache airflow and apache spark
+* developed and maintained etl processes using apache nifi and talend
+* collaborated with cross-functional teams to design and implement data warehousing solutions using amazon redshift and google bigquery
+* ensured data quality and integrity by implementing data validation and data governance processes
+* mentored junior engineers and provided technical guidance on data engineering projects
+
+data engineer, def startups (2015-2018)
+
+* developed and maintained data processing systems using python, scala, and spark
+* designed and implemented etl processes using apache nifi and talend
+* collaborated with data scientists to develop machine learning models using spark mllib and scikit-learn
+* ensured data security and compliance by implementing data encryption and access control processes
+* participated in code reviews and ensured high-quality codebase
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified cloud practitioner, aws certified cloud practitioner (2018)
+
+projects:
+
+* developed a real-time data processing pipeline using apache airflow and apache spark to process 10 million events per day
+* built a data warehousing solution using amazon redshift and google bigquery to analyze customer behavior
+* created a machine learning model using spark mllib and scikit-learn to predict customer churn
+
+i hope this sample resume helps! remember to customize it to your own experiences and style. good luck with your job application!

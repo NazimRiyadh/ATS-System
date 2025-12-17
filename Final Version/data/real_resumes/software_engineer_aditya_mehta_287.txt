@@ -1,0 +1,54 @@
+aditya mehta
+contact information:
+
+* email: [aditya.mehta@email.com](mailto:aditya.mehta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/aditya-mehta
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software systems. skilled in java, python, javascript, and system design with expertise in algorithms, data structures, rest apis, and microservices architecture. proficient in agile development methodologies and experienced in ci/cd pipelines using git and jenkins.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, rest apis, api gateway
+* algorithms and data structures: arrays, linked lists, stacks, queues, trees, graphs
+* development methodologies: agile, scrum
+* version control: git
+* ci/cd tools: jenkins, gitlab ci/cd
+* operating systems: windows, linux
+
+professional experience:
+
+senior software engineer, abc corporation (2020-present)
+
+* designed and developed multiple microservices using java and spring boot, resulting in a 30% increase in system scalability
+* implemented rest apis using node.js and express.js for a cloud-based application, achieving a 25% reduction in api response time
+* collaborated with cross-functional teams to deploy code changes using git and jenkins, ensuring smooth ci/cd pipelines
+* mentored junior engineers in system design, algorithms, and data structures, promoting knowledge sharing and growth
+
+software engineer, def startup (2018-2020)
+
+* developed multiple features for a web application using python and django, resulting in a 20% increase in user engagement
+* designed and implemented a system for handling high-volume data processing using python and apache spark
+* worked on multiple agile teams, collaborating with designers, product managers, and qa engineers to deliver high-quality software products
+* participated in code reviews, ensuring adherence to coding standards and best practices
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer networks, operating systems, database systems
+
+achievements:
+
+* published research paper: "optimizing microservices architecture for scalability and performance" (2020)
+* certified scrum master (csm), scrum alliance (2019)
+* certified java developer, oracle corporation (2018)
+
+certifications:
+
+* certified java developer, oracle corporation (2018)
+* certified scrum master, scrum alliance (2019)
+
+references:
+available upon request.

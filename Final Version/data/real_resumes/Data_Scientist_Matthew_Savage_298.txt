@@ -1,0 +1,62 @@
+Here's a sample resume for Matthew Savage, a Data Scientist candidate:
+
+Matthew Savage
+Data Scientist
+
+Contact Information:
+
+* Email: [matthew.savage@email.com](mailto:matthew.savage@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/matthewsavage
+
+Professional Summary:
+
+Highly motivated and detail-oriented Data Scientist with 5+ years of experience in developing and deploying machine learning models, data visualization dashboards, and data pipelines using Python, SQL, and various libraries. Proven track record of driving business growth through data-driven insights and recommendations. Skilled in leading cross-functional teams to achieve project goals and objectives.
+
+Technical Skills:
+
+* Programming languages: Python, R, SQL
+* Machine Learning: Scikit-learn, TensorFlow, PyTorch
+* Deep Learning: Keras, Theano
+* Data Visualization: Matplotlib, Seaborn, Plotly, D3.js
+* Data Storage: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Windows, Linux, macOS
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior Data Scientist, ABC Company (2020-Present)
+
+* Led a team of 3 data scientists to develop and deploy a predictive maintenance model using LSTM and PyTorch, resulting in 25% reduction in maintenance costs
+* Designed and implemented a data visualization dashboard using Plotly and D3.js to track key performance indicators, leading to a 30% increase in user adoption
+* Collaborated with stakeholders to identify business opportunities and develop data-driven recommendations, resulting in a 15% increase in sales revenue
+* Developed and maintained a data pipeline using Apache Beam and Spark, processing 10TB of data per day
+
+Data Scientist, DEF Startup (2018-2020)
+
+* Built and deployed a recommender system using matrix factorization and Scikit-learn, resulting in a 20% increase in user engagement
+* Designed and implemented a data visualization dashboard using Matplotlib and Seaborn to track key performance indicators, leading to a 25% increase in user adoption
+* Collaborated with stakeholders to identify business opportunities and develop data-driven recommendations, resulting in a 10% increase in sales revenue
+* Developed and maintained a data pipeline using Apache Spark and Hadoop, processing 1TB of data per day
+
+Education:
+
+* Master of Science in Data Science, XYZ University (2018)
+* Bachelor of Science in Computer Science, ABC University (2015)
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Scrum Master, Scrum Alliance (2018)
+
+Projects:
+
+* Predictive Maintenance Model: Developed a predictive maintenance model using LSTM and PyTorch, which predicted equipment failures with an accuracy of 95%
+* Recommender System: Built a recommender system using matrix factorization and Scikit-learn, which recommended products with an accuracy of 80%
+* Data Visualization Dashboard: Designed and implemented a data visualization dashboard using Plotly and D3.js, which tracked key performance indicators and led to a 30% increase in user adoption
+
+References:
+
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experiences and the job you're applying for.

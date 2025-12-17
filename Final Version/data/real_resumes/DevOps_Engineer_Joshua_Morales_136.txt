@@ -1,0 +1,61 @@
+Here's a professional resume for Joshua Morales:
+
+Joshua Morales
+DevOps Engineer
+
+Contact Information:
+
+* Email: [joshuamorales@email.com](mailto:joshuamorales@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/joshuamorales
+* GitHub: github.com/joshuamorales
+
+Summary:
+Highly skilled DevOps Engineer with 5+ years of experience in designing and implementing continuous integration and delivery (CI/CD) pipelines, containerization with Docker and Kubernetes, and automation with Ansible. Proven track record of improving application reliability, scalability, and efficiency using monitoring tools and cloud platforms. Strong passion for innovation, collaboration, and continuous learning.
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2018-Present)
+
+* Design and implement CI/CD pipelines using Jenkins, GitLab CI/CD, and Ansible to automate testing, building, and deployment of applications
+* Containerize applications using Docker and deploy them to Kubernetes clusters for improved scalability and reliability
+* Use monitoring tools such as Prometheus, Grafana, and New Relic to track application performance and identify areas for improvement
+* Collaborate with development teams to improve application reliability, scalability, and efficiency using cloud platforms such as AWS and GCP
+* Automate infrastructure provisioning using Ansible and Terraform
+* Participate in on-call rotations to ensure 24/7 application uptime
+
+Achievements:
+
+* Improved application deployment time by 80% using CI/CD pipelines and containerization
+* Reduced application downtime by 90% using monitoring tools and automation
+* Increased application scalability by 300% using cloud platforms and Kubernetes
+* Improved collaboration between development and operations teams by 200% using shared monitoring tools and communication channels
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, Ansible
+* Containerization: Docker, Kubernetes
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, GCP, Azure
+* Automation: Ansible, Terraform
+* Programming Languages: Python, Bash, Ruby
+* Operating Systems: Linux, Windows
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Automation Professional (CAAP)
+* Certified DevOps Engineer (CDE)
+
+Personal Projects:
+
+* Developed a Docker-based CI/CD pipeline for automating deployment of a web application using Jenkins and GitLab CI/CD
+* Built a monitoring tool using Prometheus and Grafana to track application performance
+* Created a cloud-based infrastructure using AWS and Terraform for automating infrastructure provisioning
+
+References:
+Available upon request.

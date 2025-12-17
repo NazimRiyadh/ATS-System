@@ -1,0 +1,55 @@
+ishaan iyer
+contact information:
+
+* email: [ishaan.iyer@email.com](mailto:ishaan.iyer@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ishaan-iyer
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and implementing data pipelines using python, sql, and etl tools. proficient in working with big data technologies such as spark and airflow. possesses strong knowledge of data modeling, data warehousing, and cloud computing using aws, docker, and kubernetes. proven track record of delivering high-quality solutions on time and on budget.
+
+technical skills:
+
+* programming languages: python, sql
+* big data technologies: apache spark, apache airflow
+* data modeling: data warehousing, data modeling
+* cloud computing: amazon web services (aws), docker, kubernetes
+* data engineering: etl, data pipelines
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc corporation (2020-present)
+
+* designed and developed etl pipelines using python and airflow to extract data from multiple sources, transform it into a usable format, and load it into a data warehouse
+* implemented spark-based data processing jobs to perform complex data analysis and machine learning tasks
+* built and deployed dockerized containers using kubernetes to ensure scalability and reliability of data pipelines
+* collaborated with cross-functional teams to design and implement data models that met business requirements
+* developed and maintained documentation for data pipelines, including data dictionaries and technical specifications
+
+senior data analyst, def startups (2018-2020)
+
+* designed and developed data visualizations using python and tableau to communicate insights to stakeholders
+* built and maintained data warehouses using amazon redshift and aws glue
+* developed etl scripts using python and sql to extract data from various sources and load it into the data warehouse
+* collaborated with data scientists to develop and implement machine learning models
+
+education:
+
+* master of science in computer science, xyz university (2018)
+* bachelor of technology in information technology, pqr university (2016)
+
+achievements:
+
+* developed and implemented a data pipeline using apache airflow that reduced data processing time by 50%
+* built and deployed a spark-based data processing job that processed 1 tb of data in under 30 minutes
+* designed and implemented a data model that increased data warehouse query performance by 200%
+* collaborated with a team to develop a machine learning model that increased predictive accuracy by 30%
+
+certifications:
+
+* certified data engineer, data engineering association
+* certified aws developer, amazon web services
+
+references:
+available upon request.

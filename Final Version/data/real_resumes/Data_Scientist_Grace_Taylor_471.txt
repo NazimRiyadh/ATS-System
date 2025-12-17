@@ -1,0 +1,67 @@
+Here's a sample resume for Grace Taylor, a data scientist who applied for the Data Scientist role but was reject:
+
+**Grace Taylor**
+**Contact Information:**
+
+* Email: [gracetaylor@email.com](mailto:gracetaylor@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/gracetaylordata
+* GitHub: github.com/gracetaylor
+
+**Summary:**
+Highly motivated and detail-oriented data scientist with 4+ years of experience in extracting insights from complex data sets. Skilled in machine learning, statistics, and data visualization. Proficient in working with large datasets and programming languages such as Python, R, and SQL.
+
+**Technical Skills:**
+
+* Programming languages: Python, R, SQL, Julia
+* Data analysis and visualization tools: Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI
+* Machine learning algorithms: Scikit-learn, TensorFlow, Keras
+* Data management: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Windows, Linux, macOS
+* Familiarity with cloud computing platforms: AWS, Google Cloud, Azure
+
+**Professional Experience:**
+
+* **Data Scientist, XYZ Corporation (2018-Present)**
+	+ Analyzed large datasets to identify trends and patterns, and developed predictive models to forecast sales and customer behavior.
+	+ Developed and maintained a data pipeline to collect, process, and store data from various sources.
+	+ Created data visualizations and reports to communicate insights to stakeholders.
+	+ Collaborated with cross-functional teams to inform business decisions and drive growth.
+* **Data Analyst, ABC Startups (2016-2018)**
+	+ Collected and analyzed data to measure campaign effectiveness and inform marketing strategies.
+	+ Built and maintained databases to store customer information and transaction data.
+	+ Created data visualizations to communicate insights to stakeholders.
+	+ Developed and maintained a data dictionary to ensure data consistency and accuracy.
+
+**Achievements:**
+
+* Developed a predictive model that increased sales forecasting accuracy by 25% for a major retailer.
+* Created a data visualization dashboard that reduced reporting time by 50% for a financial services company.
+* Published a paper on using machine learning to predict customer churn in a leading academic journal.
+
+**Projects:**
+
+* **Predicting House Prices with Machine Learning**
+	+ Built a machine learning model using Scikit-learn and TensorFlow to predict house prices based on features such as location, size, and amenities.
+	+ Evaluated the model's performance using metrics such as mean squared error and R-squared.
+	+ Published the project on GitHub and shared it with the data science community.
+* **Analyzing Customer Churn with SQL and Data Visualization**
+	+ Analyzed customer churn data using SQL and created data visualizations to identify key drivers of churn.
+	+ Developed a predictive model using logistic regression to predict churn based on customer characteristics.
+	+ Presented the findings to a team of stakeholders and made recommendations for improvement.
+* **Building a Recommendation System with Natural Language Processing**
+	+ Built a recommendation system using natural language processing techniques to suggest products to customers based on their search queries.
+	+ Evaluated the system's performance using metrics such as precision and recall.
+	+ Presented the system to a team of stakeholders and made recommendations for improvement.
+
+**Education:**
+
+* **Master of Science in Data Science, Stanford University (2015-2016)**
+* **Bachelor of Science in Mathematics, University of California, Berkeley (2010-2014)**
+
+**Certifications:**
+
+* **Certified Data Scientist, Data Science Council of America (2019)**
+* **Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2018)**
+
+I hope this sample resume helps! Remember to tailor your resume to the specific job you're applying for and highlight your unique skills and experiences. Good luck with your future applications!

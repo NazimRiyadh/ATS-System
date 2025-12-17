@@ -1,0 +1,56 @@
+here's a sample resume for kristine summers applying for a data engineer role:
+
+kristine summers
+contact information:
+
+* email: [kristine.summers@email.com](mailto:kristine.summers@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/kristinesummers
+* github: github.com/kristinesummers
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data pipelines using airflow, etl, and cloud platforms. skilled in spark and cloud-based data processing. proven track record of delivering high-quality data solutions that drive business insights and decision-making.
+
+technical skills:
+
+* airflow: experienced in designing and implementing complex workflows, dags, and operators
+* etl: proficient in data extraction, transformation, and loading using various tools and technologies
+* cloud platforms: strong knowledge of cloud-based data processing, including amazon web services (aws), google cloud platform (gcp), and microsoft azure
+* spark: skilled in using apache spark for big data processing, including spark core, spark sql, and spark mllib
+* programming languages: python, java, scala, sql
+* data storage: experience with relational databases (e.g. mysql, postgresql), nosql databases (e.g. mongodb, cassandra), and data warehouses (e.g. amazon redshift, google bigquery)
+* data integration: familiarity with data integration tools (e.g. apache nifi, aws glue)
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and developed large-scale data pipelines using airflow, etl, and cloud platforms to support business intelligence and analytics
+* collaborated with cross-functional teams to identify data requirements and develop data solutions
+* implemented spark-based data processing workflows to improve data processing efficiency and scalability
+* ensured data quality and integrity by implementing data validation, data cleansing, and data quality checks
+* mentored junior engineers and provided technical guidance on data engineering best practices
+
+senior data analyst, def startups (2015-2018)
+
+* designed and developed data visualizations and reports using tableau and power bi
+* developed and maintained data models using sql and data warehousing tools
+* collaborated with data scientists to develop predictive models and machine learning algorithms
+* provided data insights and recommendations to stakeholders to inform business decisions
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+* certified data engineer, data science council of america (2018)
+
+certifications:
+
+* certified data engineer, data science council of america (2018)
+* certified cloud practitioner, aws (2019)
+
+personal projects:
+
+* developed a data pipeline using airflow and spark to process and analyze large-scale data sets (github: github.com/kristinesummers/data-pipeline)
+* built a machine learning model using python and scikit-learn to predict customer churn (github: github.com/kristinesummers/customer-churn)
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and requirements, and highlight your unique skills and experiences.

@@ -1,0 +1,55 @@
+here's a sample resume for jennifer russell applying for a software engineer role:
+
+jennifer russell
+contact information:
+
+* email: [jennifer.russell@email.com](mailto:jennifer.russell@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/jenniferrussell
+* github: github.com/jenniferrussell
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable and efficient software systems. skilled in java, python, algorithms, data structures, and system design. proficient in agile development methodologies and passionate about contributing to the development of innovative software solutions.
+
+technical skills:
+
+* programming languages: java, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, graph algorithms, dynamic programming
+* system design: microservices architecture, apis, database design
+* development tools: eclipse, intellij idea, git, jenkins
+* operating systems: windows, linux
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple features for a large-scale e-commerce platform using java and python
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* implemented algorithms and data structures to optimize system performance and scalability
+* deployed code to production using jenkins and monitored system performance using monitoring tools
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+junior software engineer, def startups (2016-2018)
+
+* contributed to the development of a web application using python and django
+* worked on implementing data structures and algorithms to improve system performance
+* participated in agile development methodologies and collaborated with team members to identify and prioritize project requirements
+* deployed code to production using git and heroku
+
+education:
+
+* bachelor of science in computer science, xyz university (2016)
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified python developer, python institute (2018)
+
+projects:
+
+* personal project: to-do list app (java, spring boot) - a simple to-do list application that allows users to create, read, update, and delete tasks
+* personal project: chatbot (python, nltk) - a chatbot that uses natural language processing to respond to user queries
+
+references:
+available upon request.

@@ -1,0 +1,58 @@
+diya singh
+contact information:
+
+* email: [diya.singh@email.com](mailto:diya.singh@email.com)
+* phone: 9876543210
+* linkedin: linkedin.com/in/diyasingh
+* github: github.com/diyasingh
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, building, and maintaining large-scale data systems. proficient in a range of programming languages, including python and sql, with expertise in etl, data modeling, and data warehousing. proven track record of successfully implementing scalable data solutions using technologies such as airflow, spark, and aws.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: airflow, spark, etl, data modeling
+* cloud platforms: aws
+* containerization: docker
+* orchestration: kubernetes
+* data warehousing: amazon redshift, snowflake
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* designed and developed a scalable data pipeline using airflow, spark, and aws to process and analyze large datasets for a fortune 500 company
+* implemented a data warehousing solution using amazon redshift and snowflake to provide business intelligence insights to stakeholders
+* collaborated with cross-functional teams to develop and deploy data-driven applications using python and sql
+* mentored junior data engineers and provided guidance on best practices for data engineering
+
+data engineer, def startups (2018-2020)
+
+* built and maintained a data infrastructure using etl, data modeling, and data warehousing to support business growth and decision-making
+* developed and deployed data pipelines using airflow and spark to process large datasets and provide real-time insights
+* worked with stakeholders to identify data requirements and developed data visualizations using tableau and power bi
+* collaborated with the devops team to develop and deploy containerized applications using docker and kubernetes
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: data mining, machine learning, statistical computing, data visualization
+	+ thesis: "design and implementation of a scalable data pipeline using airflow and spark"
+* bachelor of technology in computer science, pqr university (2016)
+	+ coursework: data structures, algorithms, computer systems, database management
+
+achievements:
+
+* aws certified data engineer - professional (2020)
+	+ demonstrated expertise in designing, building, and maintaining large-scale data systems on aws
+* google cloud certified - professional data engineer (2019)
+	+ demonstrated expertise in designing, building, and maintaining large-scale data systems on google cloud platform
+* published research paper on "design and implementation of a scalable data pipeline using airflow and spark" in the international journal of data science and analytics (2019)
+
+certifications:
+
+* aws certified data engineer - professional
+* google cloud certified - professional data engineer
+* certified scrum master (csm)

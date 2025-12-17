@@ -1,0 +1,55 @@
+here's a sample resume for crystal garcia:
+
+crystal garcia
+
+contact information:
+
+* email: [crystal.garcia@email.com](mailto:crystal.garcia@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/crystalgarcia
+* github: github.com/crystalgarcia
+
+summary:
+highly motivated and detail-oriented software engineer with a strong foundation in c++, python, and algorithmic thinking. proven ability to design, develop, and deploy scalable software systems. skilled in data structures, system design, and problem-solving.
+
+technical skills:
+
+* programming languages: c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, dynamic programming, greedy algorithm, divide and conquer
+* system design: microservices architecture, restful apis, database design
+* development tools: git, docker, jenkins
+* operating systems: windows, linux
+
+professional experience:
+
+* software engineer, abc company (2020-present)
+	+ designed and developed multiple software projects using c++ and python
+	+ implemented algorithms and data structures to optimize system performance
+	+ collaborated with cross-functional teams to identify and prioritize project requirements
+	+ deployed applications to production using docker and kubernetes
+* software development intern, def startup (summer 2019)
+	+ contributed to the development of a machine learning model using python and scikit-learn
+	+ worked on optimizing algorithmic complexity to improve system performance
+	+ participated in code reviews and provided feedback to improve code quality
+
+education:
+
+* bachelor of science in computer science, xyz university (2018-2020)
+	+ coursework: computer systems, data structures, algorithms, computer networks, database systems
+
+personal projects:
+
+* personal website: developed a personal website using python and flask to showcase skills and projects
+* sorting algorithm visualizer: created a visualizer for various sorting algorithms using c++ and qt
+* chatbot: built a chatbot using python and natural language processing techniques
+
+certifications/awards:
+
+* certified python programmer, python institute (2020)
+* 1st place, xyz university's hackathon (2019)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your own resume to your specific experiences and the job you're applying for.

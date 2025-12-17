@@ -1,0 +1,56 @@
+Here's a sample resume for Frank Jones who was select for the Data Scientist role:
+
+**Frank Jones**
+**Contact Information:**
+
+* Email: [frank.jones@email.com](mailto:frank.jones@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/frankjonesds
+* GitHub: github.com/frankjonesds
+
+**Summary:**
+Highly motivated and results-driven Data Scientist with 5+ years of experience in extracting insights from complex data sets to drive business growth. Skilled in machine learning, statistical modeling, and data visualization. Proficient in a range of programming languages, including Python, R, and SQL. Proven track record of delivering high-quality projects on time and on budget.
+
+**Technical Skills:**
+
+* Programming languages: Python, R, SQL, Java
+* Machine learning: scikit-learn, TensorFlow, PyTorch
+* Data visualization: Matplotlib, Seaborn, Tableau
+* Data storage: MongoDB, PostgreSQL, MySQL
+* Operating Systems: Windows, macOS, Linux
+* Agile methodologies: Scrum, Kanban
+
+**Professional Experience:**
+
+**Data Scientist, ABC Corporation (2018-Present)**
+
+* Designed and developed predictive models to improve customer churn prediction, resulting in a 25% reduction in customer loss
+* Built and deployed a real-time recommendation engine using collaborative filtering, resulting in a 15% increase in sales
+* Collaborated with cross-functional teams to integrate data science into business decision-making, resulting in a 20% increase in revenue
+* Mentored junior data scientists and provided technical guidance on data science projects
+
+**Data Analyst, DEF Startups (2015-2018)**
+
+* Analyzed large datasets to identify trends and insights, resulting in a 30% increase in sales
+* Developed and maintained data visualizations to support business decisions, resulting in a 25% increase in customer engagement
+* Collaborated with stakeholders to design and implement data-driven solutions, resulting in a 20% reduction in costs
+* Created and maintained databases using SQL and NoSQL databases
+
+**Education:**
+
+* **Master of Science in Data Science, XYZ University (2015)**
+* **Bachelor of Science in Computer Science, ABC University (2013)**
+
+**Projects:**
+
+* **Predicting Customer Churn using Machine Learning**: Built a predictive model using scikit-learn to predict customer churn for a telecom company. Achieved an accuracy of 95% on the test dataset.
+* **Real-time Recommendation Engine using Collaborative Filtering**: Built a real-time recommendation engine using collaborative filtering to recommend products to customers. Achieved a 15% increase in sales.
+* **Analyzing Customer Behavior using Data Visualization**: Created data visualizations using Tableau to analyze customer behavior for an e-commerce company. Identified trends and insights that resulted in a 20% increase in customer engagement.
+
+**Achievements:**
+
+* **Winner of the ABC Corporation Hackathon (2019)**: Built a predictive model using machine learning to predict customer churn, resulting in a 25% reduction in customer loss.
+* **Featured Speaker at the DEF Startups Data Science Conference (2018)**: Presented a talk on "Applying Machine Learning to Business Problems".
+* **Received the XYZ University Data Science Award (2015)**: Awarded for outstanding achievement in data science.
+
+I hope this sample resume helps! Let me know if you have any questions or if you'd like me to make any changes.

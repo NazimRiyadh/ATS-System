@@ -1,0 +1,51 @@
+here's a sample resume for scott rice:
+
+scott rice
+contact information:
+
+* email: [scott.rice@email.com](mailto:scott.rice@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/scotticerice
+
+summary:
+highly motivated and detail-oriented software engineer with a strong background in c++, python, and algorithms. proven ability to design, develop, and deploy efficient and scalable software solutions. proficient in a variety of programming languages and frameworks, with a passion for staying up-to-date with the latest industry trends and technologies.
+
+technical skills:
+
+* programming languages: c++, python
+* algorithms: sorting, searching, graphs, dynamic programming
+* data structures: arrays, linked lists, stacks, queues, trees
+* development frameworks: python libraries (e.g. numpy, pandas, scikit-learn), c++ standard library
+* operating systems: windows, linux
+* agile development methodologies: scrum, kanban
+* version control systems: git, svn
+
+professional experience:
+
+* software engineer, abc corporation (20xx-20xx)
+	+ designed and developed multiple software applications using c++ and python
+	+ implemented efficient algorithms and data structures to optimize system performance
+	+ collaborated with cross-functional teams to identify and prioritize project requirements
+	+ deployed software solutions to production environments using continuous integration and deployment pipelines
+* software development intern, def startups (summer 20xx)
+	+ contributed to the development of a machine learning-based recommendation engine using python and scikit-learn
+	+ implemented unit tests and integration tests using python's unittest framework
+	+ participated in code reviews and provided feedback to improve code quality
+
+education:
+
+* bachelor of science in computer science, xyz university (20xx-20xx)
+	+ coursework: data structures, algorithms, computer systems, database systems, computer networks
+
+certifications/awards:
+
+* certified c++ developer, c++ institute (20xx)
+* award for excellence in algorithms, xyz university (20xx)
+
+personal projects:
+
+* personal website: developed a personal website using python and flask to showcase skills and experiences
+* machine learning projects: contributed to multiple machine learning projects on github, including a sentiment analysis project using python and scikit-learn
+
+references:
+available upon request.

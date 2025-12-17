@@ -1,0 +1,51 @@
+ananya joshi
+contact information:
+
+* email: [ananya.joshi@email.com](mailto:ananya.joshi@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/ananya-joshi
+
+summary:
+highly motivated and detail-oriented ui engineer with 5 years of experience in designing and developing responsive, accessible, and high-performance web applications using react, html, css, and javascript. skilled in ui/ux design, version control, and frontend testing. proficient in web accessibility standards and best practices.
+
+technical skills:
+
+* programming languages: html, css, javascript
+* frontend frameworks: react
+* ui/ux design tools: figma, sketch, adobe xd
+* responsive design techniques: media queries, flexbox, grid
+* web accessibility standards: wcag 2.1, section 508
+* version control: git, svn
+* frontend testing: jest, enzyme
+* web performance optimization: code splitting, lazy loading, caching
+
+work experience:
+
+ui engineer, abc corporation (2018-present)
+
+* designed and developed responsive, accessible, and high-performance web applications using react, html, css, and javascript
+* collaborated with cross-functional teams to implement ui/ux design goals and improve user engagement
+* implemented automated testing and continuous integration using jest, enzyme, and travis ci
+* optimized web performance using code splitting, lazy loading, and caching techniques
+* ensured adherence to web accessibility standards and best practices
+
+junior ui engineer, def startups (2015-2018)
+
+* contributed to the development of multiple web applications using html, css, javascript, and react
+* assisted in the implementation of ui/ux design principles and best practices
+* collaborated with designers to create high-fidelity prototypes and design specifications
+* implemented automated testing and debugging using jest and chrome devtools
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+achievements:
+
+* react hackathon winner (2019): built a responsive, accessible, and high-performance react application using cutting-edge technologies and design principles
+* web accessibility certification (2018): completed a comprehensive course on web accessibility standards and best practices, ensuring adherence to wcag 2.1 and section 508 guidelines
+
+certifications:
+
+* certified web accessibility specialist (cwas): demonstrates expertise in web accessibility standards and best practices
+* certified react developer (crd): demonstrates proficiency in react development, including ui/ux design and frontend testing

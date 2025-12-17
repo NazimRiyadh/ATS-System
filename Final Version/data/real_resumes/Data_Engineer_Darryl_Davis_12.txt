@@ -1,0 +1,60 @@
+Here's a professional resume for Darryl Davis:
+
+Darryl Davis
+Contact Information:
+
+* Email: [darryldavis@email.com](mailto:darryldavis@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/darryldavis
+* GitHub: github.com/darryldavis
+
+Professional Summary:
+Highly motivated and experienced Data Engineer with a strong background in designing, developing, and deploying scalable data pipelines using Airflow, ETL, Big Data, and Cloud Platforms. Proven track record of successfully integrating data from various sources, processing and transforming data, and implementing data warehousing solutions.
+
+Technical Skills:
+
+* Programming languages: Python, Scala, Java
+* Data Processing: Airflow, Apache Spark, Hadoop
+* Data Warehousing: AWS Redshift, Google BigQuery
+* Cloud Platforms: AWS, GCP, Azure
+* Databases: MySQL, PostgreSQL, Oracle
+* Operating Systems: Linux, Windows
+* Tools: Git, Docker, Kubernetes
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple data pipelines using Airflow, Apache Spark, and Hadoop to process and transform large datasets
+* Collaborated with cross-functional teams to integrate data from various sources, including APIs, databases, and file systems
+* Implemented data warehousing solutions using AWS Redshift and Google BigQuery to support business intelligence and analytics
+* Utilized Cloud Platforms (AWS, GCP, Azure) to design and deploy scalable and secure data infrastructure
+* Developed and maintained ETL scripts to extract, transform, and load data from various sources
+
+Senior Data Engineer, DEF Startups (2015-2018)
+
+* Led the design and development of data pipelines using Apache Spark and Hadoop to process and transform large datasets
+* Collaborated with data scientists to implement data analytics and machine learning models using Spark and Python
+* Developed and maintained data warehousing solutions using MySQL and PostgreSQL to support business intelligence and analytics
+* Utilized Linux and Windows operating systems to design and deploy scalable and secure data infrastructure
+* Developed and maintained ETL scripts to extract, transform, and load data from various sources
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Institute (2019)
+* Certified Cloud Developer, AWS (2018)
+* Certified Big Data Developer, GCP (2017)
+
+Achievements:
+
+* Successfully improved data processing times by 50% using Apache Spark and Hadoop
+* Implemented a data warehousing solution using AWS Redshift that resulted in a 30% increase in business intelligence and analytics
+* Developed and deployed a scalable data pipeline using Airflow that processed 10x more data than previously possible
+* Collaborated with data scientists to develop and implement a machine learning model using Spark and Python that resulted in a 25% increase in sales
+
+References:
+Available upon request.

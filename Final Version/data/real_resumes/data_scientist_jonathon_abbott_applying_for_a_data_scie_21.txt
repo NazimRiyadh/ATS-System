@@ -1,0 +1,53 @@
+here's a sample resume for jonathon abbott applying for a data scientist role:
+
+jonathon abbott
+contact information:
+
+* address: [insert address]
+* phone number: [insert phone number]
+* email: [jonathan.abbott@email.com](mailto:jonathan.abbott@email.com)
+* linkedin: [linkedin.com/in/jonathonabbott]
+
+summary:
+highly motivated and detail-oriented data scientist with a strong foundation in statistics, deep learning, and sql. proven track record of extracting insights from complex data sets and developing predictive models to drive business decisions. skilled in a range of programming languages, including python, r, and sql.
+
+technical skills:
+
+* programming languages: python, r, sql
+* deep learning frameworks: tensorflow, pytorch
+* statistical modeling: regression, time series analysis, hypothesis testing
+* machine learning algorithms: supervised, unsupervised, reinforcement learning
+* data visualization: matplotlib, seaborn, tableau
+* operating systems: windows, linux, macos
+
+professional experience:
+
+* data analyst, abc company (2018-present)
+	+ analyzed large datasets to identify trends and patterns using statistical models and machine learning algorithms
+	+ developed and implemented predictive models to forecast sales and customer behavior
+	+ created data visualizations to communicate insights to stakeholders using tableau and matplotlib
+	+ collaborated with cross-functional teams to inform business decisions and drive growth
+* research assistant, xyz university (2015-2018)
+	+ assisted in the design and implementation of research studies using statistical models and machine learning algorithms
+	+ analyzed and interpreted results, presenting findings to academic and industry partners
+	+ developed and maintained a database of research data using sql and python
+
+education:
+
+* master of science in data science, xyz university (2015-2017)
+	+ coursework: machine learning, deep learning, statistical modeling, data visualization
+* bachelor of science in mathematics, abc university (2010-2014)
+	+ coursework: statistics, probability, linear algebra, calculus
+
+certifications:
+
+* certified analytics professional (cap)
+* certified data scientist (cds)
+
+projects:
+
+* predicting customer churn using deep learning: developed a deep learning model using pytorch to predict customer churn using customer data from a telecommunications company.
+* analyzing stock market trends using time series analysis: used r to analyze and forecast stock market trends using time series analysis techniques.
+
+references:
+available upon request.

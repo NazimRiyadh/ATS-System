@@ -1,0 +1,59 @@
+aditya mehta
+ui engineer
+
+contact information:
+
+* email: [aditya.mehta@email.com](mailto:aditya.mehta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/adityamehta
+* github: github.com/adityamehta
+
+summary:
+highly skilled ui engineer with 5+ years of experience in designing and developing responsive, accessible, and high-performance user interfaces using html, css, javascript, and react. proficient in ui/ux design principles, web accessibility, and front-end testing. strong understanding of version control systems and web performance optimization.
+
+technical skills:
+
+* programming languages: html, css, javascript, react
+* ui/ux design: sketch, figma, adobe xd
+* responsive design: mobile-first approach, media queries, flexible grids
+* web accessibility: wcag 2.1 guidelines, screen reader compatibility
+* version control: git, github
+* frontend testing: jest, enzyme, cypress
+* web performance: webpack, babel, lighthouse
+
+professional experience:
+
+ui engineer, xyz corporation (2018-present)
+
+* design and develop responsive, accessible, and high-performance user interfaces for web applications
+* collaborate with cross-functional teams to gather requirements and implement ui design concepts
+* implement front-end testing using jest, enzyme, and cypress to ensure high-quality code
+* optimize web performance using webpack, babel, and lighthouse
+* participate in code reviews and contribute to improving code quality and best practices
+
+ui/ux designer, abc startups (2015-2018)
+
+* designed user interfaces for web applications using sketch, figma, and adobe xd
+* conducted user research and usability testing to inform design decisions
+* developed high-fidelity prototypes and tested them with users
+* collaborated with developers to implement design concepts
+
+education:
+
+* bachelor of science in computer science, university of delhi (2010-2014)
+* certification in ui/ux design, general assembly (2016)
+
+achievements:
+
+* best ui engineer, xyz corporation (2020)
+* most valuable player, abc startups (2017)
+* published a blog post on web accessibility best practices, medium (2019)
+
+projects:
+
+* responsive web design: developed a responsive web application using html, css, and javascript
+* accessible ui: designed and developed an accessible ui component library using react and wcag 2.1 guidelines
+* frontend testing: created a frontend testing framework using jest, enzyme, and cypress
+
+references:
+available upon request.

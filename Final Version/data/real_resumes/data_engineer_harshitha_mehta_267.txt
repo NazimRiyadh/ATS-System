@@ -1,0 +1,60 @@
+harshitha mehta
+data engineer
+
+contact information:
+
+* email: [harshitha.mehta@email.com](mailto:harshitha.mehta@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/harshithamehta
+
+summary:
+highly motivated and detail-oriented data engineer with 4+ years of experience in designing, developing, and deploying large-scale data processing systems. proficient in a range of technologies including python, sql, etl, airflow, spark, and data warehousing. proven track record of delivering high-quality solutions on time and on budget.
+
+technical skills:
+
+* programming languages: python
+* database management systems: sql, nosql (e.g., mongodb, cassandra)
+* etl tools: apache beam, airflow
+* big data processing: apache spark, hadoop
+* data modeling: entity-relationship diagrams, data warehousing
+* cloud platforms: amazon web services (aws)
+* containerization: docker
+* orchestration: kubernetes
+* data warehousing: amazon redshift, snowflake
+
+professional experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* design and develop large-scale data processing pipelines using airflow, apache beam, and spark
+* collaborate with cross-functional teams to identify data requirements and develop data models
+* develop and deploy data warehouses on aws using amazon redshift
+* implement data governance and security measures to ensure data integrity and compliance
+* mentor junior engineers and provide technical guidance on data engineering best practices
+
+data engineer, def startups (2018-2020)
+
+* designed and implemented etl processes using apache beam and airflow
+* developed and deployed data pipelines using spark and hadoop
+* collaborated with data scientists to develop and deploy machine learning models
+* implemented data quality checks and data validation processes
+* worked with stakeholders to identify data requirements and develop data models
+
+education:
+
+* master of science in computer science, xyz university (2018)
+* bachelor of technology in computer science, pqr institute of technology (2016)
+
+achievements:
+
+* designed and developed a data pipeline using airflow and spark that processed 10 million records per hour, resulting in a 50% reduction in data processing time
+* implemented a data warehousing solution on aws using amazon redshift, resulting in a 30% reduction in query time
+* developed and deployed a containerized data processing application using docker and kubernetes, resulting in a 90% reduction in deployment time
+
+certifications:
+
+* certified data engineer, data engineering certification board (2020)
+* certified aws developer, amazon web services (2019)
+
+references:
+available upon request.

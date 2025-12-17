@@ -1,0 +1,57 @@
+ananya gupta
+contact information:
+
+* email: [ananya.gupta@email.com](mailto:ananya.gupta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ananyagupta
+
+summary:
+highly motivated and detail-oriented software engineer with a strong foundation in java, python, javascript, and system design. proficient in designing and implementing scalable, efficient, and reliable software systems. excellent problem-solving skills, with a proven track record of delivering high-quality solutions.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, rest apis, ci/cd
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, dynamic programming, greedy algorithms, divide and conquer
+* git: version control, branching, merging
+* rest apis: design, implementation, testing
+* microservices: design, implementation, testing
+* ci/cd: continuous integration, continuous deployment, continuous monitoring
+
+professional experience:
+
+software engineer, abc corporation (2018-2020)
+
+* designed and implemented multiple microservices-based systems using java and python
+* collaborated with the development team to design and implement rest apis for a scalable and efficient solution
+* implemented a ci/cd pipeline using jenkins and docker to automate testing, building, and deployment
+* participated in code reviews, ensuring high-quality code and adherence to coding standards
+* worked on a team to develop a custom recommendation engine using machine learning algorithms and python
+
+intern, def startups (summer 2017)
+
+* contributed to the design and implementation of a web application using javascript and react
+* assisted in the development of a rest api using node.js and express.js
+* collaborated with the team to identify and resolve technical issues
+* developed a deep understanding of system design principles and algorithms
+
+education:
+
+* bachelor of technology in computer science, xyz university (2014-2018)
+	+ coursework: data structures, algorithms, computer networks, database systems, operating systems, web development
+	+ project: designed and implemented a chatbot using python and natural language processing (nlp) techniques
+
+achievements:
+
+* winner, xyz university hackathon (2017)
+	+ developed a mobile app using react native and java, which won first prize in the hackathon
+* published research paper, international conference on computer science (2018)
+	+ co-authored a research paper on "optimizing machine learning algorithms for big data" and presented it at the conference
+
+certifications:
+
+* certified java developer, oracle (2019)
+* certified python developer, python institute (2018)
+
+references:
+available upon request.

@@ -1,0 +1,55 @@
+mira sharma
+ui engineer
+
+contact information:
+
+* email: [mira.sharma@email.com](mailto:mira.sharma@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/mirasharma
+
+summary:
+highly motivated and detail-oriented ui engineer with 4+ years of experience in designing and developing user interfaces for web applications. proficient in html, css, javascript, and react, with a strong focus on ui/ux design, responsive design, and web accessibility. skilled in version control, frontend testing, and web performance optimization.
+
+technical skills:
+
+* programming languages: html, css, javascript
+* frameworks: react
+* design tools: sketch, figma
+* version control: git
+* testing frameworks: jest, enzyme
+* web performance optimization: webpack, lighthouse
+* web accessibility: wcag 2.1, section 508
+
+professional experience:
+
+ui engineer, abc company (2020-present)
+
+* designed and developed user interfaces for web applications using react, html, and css
+* collaborated with cross-functional teams to ensure ui/ux alignment with product requirements
+* implemented responsive design principles to ensure seamless user experience across various devices
+* conducted accessibility audits and ensured compliance with wcag 2.1 guidelines
+* utilized version control systems to manage code repositories and collaborated with team members on code reviews
+* optimized web performance using webpack and lighthouse tools
+
+junior ui engineer, def startups (2018-2020)
+
+* contributed to the development of multiple web applications using react, html, and css
+* worked closely with designers to implement ui/ux designs and ensure visual consistency
+* implemented frontend testing using jest and enzyme frameworks
+* assisted in code reviews and ensured adherence to coding standards
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, web development, and human-computer interaction
+
+achievements:
+
+* participated in a hackathon where i developed a web application using react and won 2nd prize
+* completed a solo project to build a responsive website using react and css grid, which showcased my expertise in web development and ui/ux design
+* collaborated with a team to develop a web application using react, which was showcased at a industry conference
+
+certifications:
+
+* certified web accessibility specialist (cwas), accessibility training institute (2020)
+* certified frontend developer, frontend masters (2019)

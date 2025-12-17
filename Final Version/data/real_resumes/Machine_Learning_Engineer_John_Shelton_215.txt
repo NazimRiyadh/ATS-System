@@ -1,0 +1,60 @@
+Here is a professional resume for John Shelton:
+
+John Shelton
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [john.shelton@email.com](mailto:john.shelton@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/johnsheltonml
+* GitHub: github.com/johnshelton
+
+Summary:
+Highly motivated and experienced Machine Learning Engineer with expertise in developing and deploying scalable machine learning models using Python, TensorFlow, and PyTorch. Skilled in hyperparameter tuning, model optimization, and model deployment. Proven track record of delivering high-quality solutions that drive business value.
+
+Technical Skills:
+
+* Programming languages: Python (3.x), R
+* Machine Learning frameworks: TensorFlow (2.x), PyTorch (1.x)
+* Hyperparameter Tuning: Grid Search, Random Search, Bayesian Optimization
+* Deep Learning: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks
+* Model Deployment: Docker, Kubernetes, TensorFlow Serving
+* Data Preprocessing: Pandas, NumPy, Matplotlib, Scikit-learn
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Corporation (2018-Present)
+
+* Developed and deployed multiple machine learning models using TensorFlow and PyTorch for image classification, natural language processing, and recommender systems
+* Optimized model performance using hyperparameter tuning and ensemble methods
+* Collaborated with cross-functional teams to integrate machine learning models into production systems
+* Implemented model monitoring and logging using TensorFlow Serving and Prometheus
+
+Machine Learning Researcher, DEF Research Institute (2015-2018)
+
+* Conducted research on deep learning architectures for computer vision and natural language processing
+* Developed and published several research papers on machine learning and deep learning
+* Collaborated with researchers and engineers to develop and deploy machine learning models for various applications
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015)
+	+ Coursework: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
+	+ Thesis: "Development of a Deep Learning Architecture for Image Classification"
+* Bachelor of Science in Computer Science, ABC University (2010)
+
+Achievements:
+
+* Best Paper Award, International Conference on Machine Learning (ICML) (2018)
+	+ Awarded for the paper "Deep Learning for Image Classification: A Comparative Study"
+* Google Cloud Machine Learning Engineer Certification (2019)
+	+ Certified in machine learning engineering on Google Cloud Platform
+
+Professional Memberships:
+
+* Association for the Advancement of Artificial Intelligence (AAAI)
+* Institute of Electrical and Electronics Engineers (IEEE)
+
+References:
+Available upon request.

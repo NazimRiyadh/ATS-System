@@ -1,0 +1,56 @@
+here's a sample resume for caleb morales applying for a data scientist role:
+
+caleb morales
+contact information:
+
+* email: [caleb.morales@email.com](mailto:caleb.morales@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/calebmorales
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, deep learning, sql, and data visualization. proven track record of delivering high-quality insights and actionable recommendations to drive business growth. proficient in leveraging data-driven approaches to solve complex problems.
+
+technical skills:
+
+* programming languages: python (numpy, pandas, scikit-learn, tensorflow), sql
+* data analysis and visualization: tableau, matplotlib, seaborn, plotly
+* machine learning and deep learning: scikit-learn, tensorflow, keras
+* statistics: hypothesis testing, confidence intervals, bayesian inference
+* data storage: relational databases (mysql, postgresql), nosql databases (mongodb)
+
+professional experience:
+
+data scientist, xyz corporation (2020-present)
+
+* designed and implemented predictive models to forecast sales revenue, resulting in a 15% increase in accuracy
+* developed and maintained a dashboard to track key performance indicators (kpis) for the company's marketing campaigns
+* collaborated with cross-functional teams to identify and prioritize business opportunities and develop data-driven recommendations
+* built and deployed a recommender system using natural language processing (nlp) and deep learning techniques
+
+data analyst, abc startups (2018-2020)
+
+* analyzed customer data to inform product development and marketing strategies
+* created data visualizations to communicate insights and trends to stakeholders
+* built and maintained a database to track customer behavior and preferences
+* developed and deployed a predictive model to forecast customer churn
+
+education:
+
+* master of science in data science, stanford university (2018-2020)
+* bachelor of science in mathematics, university of california, los angeles (2014-2018)
+
+certifications:
+
+* certified data scientist, data science council of america (dasca)
+* certified analytics professional, institute for operations research and the management sciences (informs)
+
+projects:
+
+* predicting housing prices using machine learning: built a regression model using scikit-learn and tensorflow to predict housing prices in a given city
+* anomaly detection using deep learning: developed a neural network using keras to detect anomalies in a dataset of financial transactions
+* customer segmentation using clustering: used k-means clustering to segment customers based on their behavior and preferences
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for, and highlight your unique skills and experiences.

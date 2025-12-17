@@ -1,0 +1,63 @@
+Here is a professional resume for Hannah Harrell:
+
+Hannah Harrell
+AI Researcher
+
+Contact Information:
+
+* Email: [hannah.harrell@email.com](mailto:hannah.harrell@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/hannahharrell
+* GitHub: github.com/hannahharrell
+
+Summary:
+Highly motivated and detail-oriented AI Researcher with expertise in NLP, Transformers, and PyTorch. Proven track record of designing and developing cutting-edge AI models and techniques. Passionate about driving innovation and discovery in the field of AI.
+
+Technical Skills:
+
+* Programming languages: Python, PyTorch, TensorFlow
+* NLP techniques: Text classification, sentiment analysis, named entity recognition, language modeling
+* Deep learning frameworks: PyTorch, TensorFlow
+* Modeling techniques: Transformers, recurrent neural networks, convolutional neural networks
+* Data preprocessing and visualization tools: Pandas, NumPy, Matplotlib, Seaborn
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+* Research Assistant, University of California, Berkeley (2020-2022)
+	+ Collaborated with principal investigators to design and develop novel NLP models using Transformers and PyTorch
+	+ Conducted experiments and analyzed results to improve model performance and generalizability
+	+ Published two research papers on NLP and deep learning in top-tier conferences
+	+ Mentored undergraduate students on machine learning and NLP projects
+* Junior Data Scientist, Google (Summer 2019)
+	+ Worked on a team to develop and deploy a PyTorch-based model for natural language processing
+	+ Analyzed and visualized data to identify trends and insights
+	+ Contributed to the development of a new feature for Google's search engine
+
+Education:
+
+* Ph.D. in Computer Science, University of California, Berkeley (2022-2025)
+	+ Coursework: Machine learning, natural language processing, computer vision
+	+ Research focus: NLP, deep learning, and human-computer interaction
+* B.S. in Computer Science, Stanford University (2015-2019)
+	+ Coursework: Programming languages, algorithms, data structures, computer systems
+
+Achievements:
+
+* Best Paper Award, International Conference on Machine Learning (ICML) 2022
+* Research Grant, National Science Foundation (NSF) 2020
+* Code Contribution, PyTorch community (Transformer-XL implementation)
+
+Projects:
+
+* Transformers for Text Classification: Developed a PyTorch-based model using Transformers for text classification tasks, achieving state-of-the-art results on several benchmarks.
+* NLP Pipeline for Social Media Analysis: Designed and implemented an NLP pipeline using PyTorch and Transformers for social media analysis, including text classification, sentiment analysis, and named entity recognition.
+* Language Modeling for Low-Resource Languages: Developed a PyTorch-based language model for low-resource languages, demonstrating significant improvements in language modeling performance.
+
+Publications:
+
+* Hannah Harrell, et al. "Transformers for Text Classification: A Comparative Study." International Conference on Machine Learning (ICML) 2022.
+* Hannah Harrell, et al. "NLP Pipeline for Social Media Analysis." Journal of Natural Language Processing (JNLP) 2022.
+
+References:
+Available upon request.

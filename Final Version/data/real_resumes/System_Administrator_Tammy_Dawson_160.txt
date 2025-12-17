@@ -1,0 +1,66 @@
+Here's a sample resume for Tammy Dawson:
+
+Tammy Dawson
+System Administrator
+
+Contact Information:
+
+* Email: [tammy.dawson@email.com](mailto:tammy.dawson@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/tammydawson
+* GitHub: github.com/tammydawson
+
+Professional Summary:
+
+Highly motivated and detail-oriented System Administrator with 8+ years of experience in managing and maintaining complex IT infrastructure. Skilled in Linux/Unix, Windows Server, Active Directory, Virtualization, and System Monitoring. Proven track record of improving system uptime, reducing downtime, and enhancing overall network performance.
+
+Technical Skills:
+
+* Operating Systems: Linux (Red Hat, Ubuntu), Unix (Solaris, AIX), Windows Server (2008, 2012, 2016)
+* Directory Services: Active Directory, LDAP, Kerberos
+* Virtualization: VMware, Hyper-V, KVM
+* System Monitoring: Nagios, Prometheus, Grafana
+* Scripting: Bash, PowerShell, Python
+* Networking: Cisco, Juniper, VPN
+
+Professional Experience:
+
+Senior System Administrator, ABC Corporation (2018-Present)
+
+* Manage and maintain a complex IT infrastructure consisting of 500+ servers, 1000+ workstations, and 50+ virtual machines
+* Implement and maintain Active Directory, DNS, DHCP, and Group Policy
+* Configure and troubleshoot Linux/Unix and Windows Server systems
+* Develop and implement system monitoring scripts using Nagios and Prometheus
+* Collaborate with IT team to improve system uptime and reduce downtime
+* Provide tier-2 and tier-3 support for IT incidents
+
+System Administrator, DEF Start-Up (2015-2018)
+
+* Managed and maintained a small IT infrastructure consisting of 50+ servers and 100+ workstations
+* Implemented and maintained Active Directory, DNS, DHCP, and Group Policy
+* Configured and troubleshoot Linux/Unix and Windows Server systems
+* Developed and implemented system monitoring scripts using Nagios
+* Collaborated with IT team to improve system uptime and reduce downtime
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* CompTIA Server+: Server Management and Administration
+* VMware VCP-510: VCP6-DCV: Foundations of IT (VCAP)
+* Cisco CCNA: Routing and Switching
+
+Achievements:
+
+* Improved system uptime by 30% through the implementation of system monitoring scripts and proactive maintenance
+* Reduced downtime by 40% through the implementation of automated failover and load balancing
+* Increased network performance by 25% through the optimization of network configuration and monitoring
+* Developed and implemented a comprehensive system monitoring and alerting strategy using Nagios and Prometheus
+
+References:
+
+Available upon request.
+
+I hope this sample resume helps! Remember to tailor your resume to the specific job you're applying for, and highlight your most relevant skills and experiences.

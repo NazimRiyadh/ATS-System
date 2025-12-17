@@ -1,0 +1,66 @@
+Here's a professional resume for Victoria Pierce:
+
+Victoria Pierce
+DevOps Engineer
+
+Contact Information:
+
+* Email: [vpierce@email.com](mailto:vpierce@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/victoriapierce
+* GitHub: github.com/victoriapierce
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Kubernetes, Infrastructure as Code, and Cloud Platforms. Proven track record of improving application delivery and reducing downtime. Skilled in automation, scalability, and security. Passionate about driving innovation and excellence in software development.
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, Ansible
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Operating Systems: Linux, Windows
+* Programming Languages: Python, Bash, PowerShell
+
+Work Experience:
+
+DevOps Engineer, ABC Corporation (2020-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Docker, resulting in 30% reduction in deployment time
+* Deployed and managed a Kubernetes cluster on AWS, improving application availability and scalability
+* Implemented Infrastructure as Code using Terraform, reducing infrastructure provisioning time by 50%
+* Collaborated with development teams to improve application security and compliance
+* Mentored junior engineers on DevOps practices and automation tools
+
+Senior Systems Administrator, DEF Agency (2018-2020)
+
+* Managed and maintained large-scale infrastructure on-premises and in the cloud
+* Implemented automation scripts using PowerShell and Python to improve efficiency and reduce downtime
+* Collaborated with development teams to improve application deployment and scalability
+* Provided technical guidance and support to junior engineers and other stakeholders
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2018)
+
+Achievements:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Jenkins Engineer (CJE)
+* Certified AWS Solutions Architect - Associate
+* Winner of the ABC Corporation's Innovation Award (2020) for implementing a novel CI/CD pipeline solution
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Jenkins Engineer (CJE)
+* Certified AWS Solutions Architect - Associate
+
+Projects:
+
+* CI/CD Pipeline Automation: Designed and implemented a CI/CD pipeline using Jenkins and Docker to automate deployment and testing of a web application.
+* Kubernetes Cluster Deployment: Deployed and managed a Kubernetes cluster on AWS to improve application availability and scalability.
+* Infrastructure as Code: Implemented Infrastructure as Code using Terraform to provision and manage infrastructure resources.
+
+References:
+Available upon request.

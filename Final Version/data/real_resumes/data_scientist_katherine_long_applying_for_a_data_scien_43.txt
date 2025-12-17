@@ -1,0 +1,55 @@
+here's a sample resume for katherine long applying for a data scientist role:
+
+katherine long
+contact information:
+
+* email: [katherine.long@email.com](mailto:katherine.long@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/katherine-long
+* github: github.com/katherine-long
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, machine learning, and deep learning. proven track record of extracting insights from complex data sets and developing innovative solutions to drive business growth. proficient in data visualization tools and comfortable working with large datasets.
+
+technical skills:
+
+* programming languages: python ( proficiency level: advanced)
+* machine learning libraries: scikit-learn, tensorflow, pytorch
+* deep learning frameworks: keras, theano
+* data visualization tools: matplotlib, seaborn, plotly, tableau
+* statistics libraries: pandas, numpy, scipy
+* operating systems: windows, linux, macos
+* familiarity with cloud platforms: aws, google cloud, azure
+
+professional experience:
+
+* data scientist, abc corporation (2018-present)
+	+ worked with cross-functional teams to develop predictive models for customer churn and revenue growth
+	+ built and deployed deep learning models using tensorflow and keras for image classification tasks
+	+ collaborated with data engineers to design and implement data pipelines using apache beam and apache spark
+	+ created interactive dashboards using tableau and plotly to present insights to stakeholders
+* data analyst, def startups (2015-2018)
+	+ analyzed customer data to identify trends and opportunities for growth
+	+ developed statistical models using scikit-learn and pandas to predict customer behavior
+	+ created data visualizations using matplotlib and seaborn to communicate findings to stakeholders
+
+education:
+
+* master of science in data science, xyz university (2015)
+	+ coursework: machine learning, deep learning, natural language processing, data visualization
+	+ thesis: "a comparative study of deep learning architectures for image classification"
+* bachelor of science in statistics, abc university (2013)
+	+ coursework: probability theory, statistical inference, linear algebra
+
+projects:
+
+* image classification using deep learning: built a convolutional neural network using tensorflow and keras to classify images of animals into different species.
+* predicting customer churn: developed a logistic regression model using scikit-learn to predict customer churn based on historical data.
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2017)
+
+references:
+available upon request.

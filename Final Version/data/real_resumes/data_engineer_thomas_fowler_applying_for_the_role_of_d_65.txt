@@ -1,0 +1,52 @@
+here's a sample resume for thomas fowler applying for the role of data engineer:
+
+thomas fowler
+contact information:
+
+* email: [thomasfowler@email.com](mailto:thomasfowler@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/thomasfowler
+
+summary:
+highly skilled data engineer with expertise in mlops, airflow, big data, cloud platforms, and spark. proven track record of designing, building, and deploying scalable, efficient, and reliable data pipelines. passionate about leveraging technology to drive business insights and drive growth.
+
+technical skills:
+
+* programming languages: python, scala, java
+* big data technologies: apache spark, hadoop, nosql databases (e.g. cassandra, hbase)
+* cloud platforms: aws, gcp, azure
+* mlops: tensorflow, pytorch, scikit-learn
+* data engineering tools: apache airflow, apache beam, aws glue
+* data storage: relational databases (e.g. mysql, postgresql), data warehouses (e.g. redshift, bigquery)
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and implemented scalable data pipelines using apache spark, apache airflow, and aws glue, resulting in a 30% reduction in data processing time
+* led the development of a machine learning pipeline using tensorflow and scikit-learn, resulting in a 25% increase in model accuracy
+* collaborated with cross-functional teams to design and deploy a data warehouse on aws redshift, resulting in a 50% reduction in data query time
+* mentored junior engineers in data engineering best practices and tools
+
+senior data scientist, def startup (2015-2018)
+
+* spearheaded the development of a data platform using apache spark, hadoop, and nosql databases, resulting in a 90% reduction in data processing time
+* designed and implemented data visualization tools using d3.js and tableau, resulting in a 25% increase in user engagement
+* collaborated with the engineering team to design and deploy a cloud-based data infrastructure on aws, resulting in a 30% reduction in costs
+
+education:
+
+* bachelor's degree in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, certified analytics professional (2019)
+* certified cloud practitioner, aws (2018)
+
+projects:
+
+* mlops pipeline: designed and implemented a machine learning pipeline using apache airflow, tensorflow, and scikit-learn, resulting in a 25% increase in model accuracy
+* big data processing: implemented a big data processing pipeline using apache spark, hadoop, and nosql databases, resulting in a 90% reduction in data processing time
+
+remember to customize your resume to fit your specific experience and the job description. good luck with your application!

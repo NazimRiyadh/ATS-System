@@ -1,0 +1,57 @@
+here's a sample resume for cynthia lane, a candidate applying for a data engineer role:
+
+cynthia lane
+contact information:
+
+* email: [cynthia.lane@email.com](mailto:cynthia.lane@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/cynthialane
+
+summary:
+highly skilled data engineer with expertise in mlops, airflow, etl, and cloud platforms. proven ability to design, develop, and deploy scalable data pipelines and machine learning models. strong passion for data engineering, with a focus on collaboration and innovation.
+
+technical skills:
+
+* mlops:
+	+ experience with tensorflow, pytorch, and scikit-learn
+	+ proficient in deploying and managing machine learning models on cloud platforms (aws, gcp, azure)
+	+ strong understanding of model monitoring and a/b testing
+* airflow:
+	+ experience with creating and scheduling complex data pipelines using airflow
+	+ proficient in using airflow's built-in operators and sensors
+	+ strong understanding of dag (directed acyclic graph) design patterns
+* etl:
+	+ experienced in designing and implementing etl processes using various tools (e.g., apache beam, spark)
+	+ strong understanding of data transformation, aggregation, and loading
+	+ proficient in using data governance and metadata management tools
+* cloud platforms:
+	+ experience with deploying and managing data pipelines on cloud platforms (aws, gcp, azure)
+	+ strong understanding of cloud-based data warehousing and analytics (e.g., redshift, bigquery, synapse analytics)
+	+ proficient in using cloud-based database services (e.g., mysql, postgresql, cosmos db)
+
+professional experience:
+
+* senior data engineer, abc company (2018-present)
+	+ designed and developed scalable data pipelines for real-time analytics and machine learning applications
+	+ collaborated with cross-functional teams to deploy and manage data pipelines on cloud platforms
+	+ implemented airflow-based workflow automation for etl processes
+* data engineer, def startups (2015-2018)
+	+ designed and developed etl processes for data warehousing and analytics applications
+	+ implemented data governance and metadata management using various tools
+	+ collaborated with data scientists to deploy and manage machine learning models
+
+education:
+
+* bachelor's degree in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering certification board (dec)
+* certified cloud professional, cloud computing certification board (cccb)
+
+projects:
+
+* mlops project: designed and deployed a real-time image classification model using tensorflow and airflow on aws
+* etl project: developed an etl process using apache beam and spark for data warehousing and analytics
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for, and highlight your unique strengths and experiences.

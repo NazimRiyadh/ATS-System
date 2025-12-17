@@ -1,0 +1,56 @@
+here's a sample resume for brett long applying for the role of ui engineer:
+
+brett long
+contact information:
+
+* email: [brettlong@email.com](mailto:brettlong@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/brettlong
+* github: github.com/brettlong
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and developing user interfaces for web applications. skilled in css, javascript, and wireframing, with a passion for creating seamless and intuitive user experiences.
+
+technical skills:
+
+* programming languages: javascript, html, css
+* frameworks: react, angular
+* libraries: jquery, lodash
+* design tools: sketch, figma, adobe xd
+* front-end build tools: webpack, babel, gulp
+* operating systems: windows, macos
+* agile development methodologies: scrum, kanban
+
+professional experience:
+
+ui engineer, abc company (2018-present)
+
+* designed and developed custom ui components for web applications using react and javascript
+* collaborated with cross-functional teams to create wireframes, prototypes, and high-fidelity designs
+* implemented responsive design patterns using css and media queries
+* utilized javascript libraries such as jquery and lodash to enhance application functionality
+* participated in code reviews and contributed to the improvement of the front-end build process
+
+junior ui engineer, def startups (2015-2018)
+
+* assisted in the development of ui components and features for web applications using css and javascript
+* created wireframes and prototypes for new features and applications
+* collaborated with designers to interpret design specifications and implement designs in code
+* participated in the testing and debugging of ui components and features
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015)
+
+certifications:
+
+* front-end development certification, codecademy (2016)
+* user experience design certification, coursera (2017)
+
+personal projects:
+
+* developed a personal website using react and css, available at brettlong.com
+* created a react-based to-do list application, available on github
+
+references:
+available upon request.

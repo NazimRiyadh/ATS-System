@@ -1,0 +1,55 @@
+Here's a sample resume for Cory Wright, a DevOps Engineer candidate:
+
+Cory Wright
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [corywright@email.com](mailto:corywright@email.com)
+* LinkedIn: linkedin.com/in/corywright
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in containerization, orchestration, and cloud computing. Proven track record of designing, implementing, and deploying scalable and efficient infrastructure solutions using Docker, Kubernetes, and Infrastructure as Code (IaC) tools. Skilled in collaborating with cross-functional teams to drive business outcomes and improve overall IT efficiency.
+
+Technical Skills:
+
+* Containerization: Docker, Kubernetes
+* Cloud Platforms: AWS, Azure, GCP
+* Infrastructure as Code: Terraform, Ansible, CloudFormation
+* Scripting: Bash, Python, PowerShell
+* Agile Methodologies: Scrum, Kanban
+* Collaboration Tools: Slack, JIRA, GitHub
+
+Professional Experience:
+
+DevOps Engineer, XYZ Corporation (2018-Present)
+
+* Designed and implemented a containerized application architecture using Docker and Kubernetes, resulting in 30% reduction in deployment time and 25% decrease in infrastructure costs
+* Developed and maintained infrastructure as code using Terraform and Ansible, ensuring consistent and reproducible environments across multiple clouds
+* Collaborated with development teams to implement continuous integration and continuous deployment (CI/CD) pipelines using Jenkins and GitLab CI/CD
+* Provided 24/7 on-call support for production environments, ensuring high uptime and responsiveness to critical issues
+
+Senior System Administrator, ABC Startups (2015-2018)
+
+* Migrated a legacy application to a cloud-based infrastructure using AWS and Kubernetes, resulting in 40% reduction in costs and 20% increase in scalability
+* Developed and implemented a monitoring and logging solution using Prometheus and Grafana, providing real-time insights into application performance and health
+* Collaborated with development teams to implement automated testing and deployment scripts using Ansible and Docker
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2015)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Cloud Practitioner (AWS)
+
+Achievements:
+
+* Recipient of the "DevOps Engineer of the Year" award at XYZ Corporation (2020)
+* Published a blog post on "Best Practices for Implementing Kubernetes in Production" on the XYZ Corporation blog (2019)
+* Presented a talk on "Cloud-Native Applications with Kubernetes and Docker" at the annual DevOps conference (2018)
+
+References:
+Available upon request.
+
+This resume highlights Cory's technical skills, experience, and achievements as a DevOps Engineer, while also showcasing his professional summary, education, and certifications. The clear structure and concise language make it easy to scan and understand, allowing hiring managers to quickly identify Cory's qualifications for the role.

@@ -1,0 +1,55 @@
+here's a sample resume for kristina robertson applying for a ui engineer role:
+
+kristina robertson
+contact information:
+
+* email: [kristina.robertson@email.com](mailto:kristina.robertson@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/kristinarobertson
+
+summary:
+highly motivated and detail-oriented ui engineer with expertise in html, javascript, and ui/ux design. proficient in creating visually appealing and user-friendly interfaces that meet business requirements. strong understanding of design principles, human-computer interaction, and accessibility guidelines.
+
+technical skills:
+
+* programming languages: html, javascript (es6+), css (sass/scss)
+* ui frameworks: react, angular, vue.js
+* design tools: sketch, figma, adobe creative cloud (photoshop, illustrator)
+* version control: git, github
+* operating systems: windows, macos
+* familiarity with: webpack, babel, node.js
+
+professional experience:
+
+ui engineer, abc corporation (2020-present)
+
+* designed and developed responsive web applications using html, css, and javascript
+* created high-fidelity prototypes using sketch and figma to test and refine ui concepts
+* collaborated with cross-functional teams to implement ui/ux design solutions
+* integrated ui components with backend apis using restful architecture
+* optimized application performance and ensured accessibility guidelines were met
+
+junior ui developer, def agency (2018-2020)
+
+* assisted in designing and developing ui components using html, css, and javascript
+* participated in code reviews and ensured adherence to coding standards
+* worked on multiple projects simultaneously, prioritizing tasks and meeting deadlines
+* built and maintained reusable ui components using react
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2018)
+
+certifications:
+
+* certified user experience designer, ux design institute (2019)
+
+projects:
+
+* personal portfolio website: developed a responsive web application using react, css grid, and javascript to showcase ui design and development skills
+* accessibility checker: created a tool using javascript and html to check website accessibility and provide recommendations for improvement
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and requirements, and highlight your unique skills and experiences.

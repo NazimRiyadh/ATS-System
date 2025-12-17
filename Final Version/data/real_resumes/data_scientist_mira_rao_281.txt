@@ -1,0 +1,60 @@
+mira rao
+contact information:
+
+* email: [mirarao@email.com](mailto:mirarao@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/mirarao
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in developing and deploying predictive models using machine learning and deep learning techniques. proven track record of delivering data-driven insights that drive business growth. skilled in python, statistics, machine learning, sql, data visualization, and a/b testing.
+
+technical skills:
+
+* programming languages: python
+* machine learning libraries: scikit-learn, tensorflow
+* data visualization tools: tableau, matplotlib, seaborn
+* databases: mysql, postgresql
+* operating systems: windows, linux
+* familiarity with cloud platforms: aws, gcp
+
+professional experience:
+
+data scientist, abc corporation (january 2020 - present)
+
+* developed and deployed predictive models using machine learning and deep learning techniques to predict customer churn, sales, and other business outcomes
+* collaborated with cross-functional teams to design and implement a/b testing experiments to measure the impact of product features on user behavior
+* built and maintained large datasets using sql and data visualization tools to inform business decisions
+* conducted statistical analysis and data mining to identify trends and patterns in customer behavior
+* worked with stakeholders to communicate complex data insights and recommendations to inform business strategy
+
+junior data scientist, def startup (june 2018 - december 2019)
+
+* conducted data analysis and statistical modeling to inform product development and customer acquisition strategies
+* built and deployed machine learning models using scikit-learn and tensorflow to predict user engagement and conversion rates
+* collaborated with the product team to design and implement experiments to measure the impact of product features on user behavior
+* developed and maintained data visualizations using tableau and matplotlib to communicate insights to stakeholders
+* worked with the engineering team to integrate data pipelines and build data infrastructure
+
+education:
+
+* master of science in statistics, xyz university (2018)
+	+ coursework: machine learning, data mining, statistical computing, experimental design
+* bachelor of science in mathematics, abc university (2016)
+	+ coursework: calculus, linear algebra, probability, statistics
+
+achievements:
+
+* winner, abc corporation hackathon (2020)
+	+ developed a predictive model using tensorflow to predict customer churn, resulting in a 20% reduction in customer loss
+* featured speaker, data science conference (2019)
+	+ presented on "designing and deploying a/b testing experiments using machine learning"
+* published paper, journal of machine learning research (2018)
+	+ co-authored a paper on "deep learning for image classification using convolutional neural networks"
+
+certifications:
+
+* certified data scientist, certified data science council of america (2019)
+* certified scikit-learn developer, scikit-learn foundation (2018)
+
+references:
+available upon request.

@@ -1,0 +1,59 @@
+Here's a sample resume for Hank Brown:
+
+**Hank Brown**
+**UI Engineer**
+
+**Contact Information:**
+
+* Email: [hank.brown@email.com](mailto:hank.brown@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/hankbrownui
+* GitHub: github.com/hankbrown
+
+**Summary:**
+Highly motivated and detail-oriented UI Engineer with 8+ years of experience in designing and implementing user-centered interfaces for web and mobile applications. Skilled in JavaScript, React, Redux, and CSS. Proven track record of delivering high-quality products that meet business objectives and exceed user expectations.
+
+**Technical Skills:**
+
+* Programming languages: JavaScript, HTML5, CSS3
+* Frameworks: React, Angular, Vue.js
+* Libraries: Redux, React Router, Material-UI
+* Front-end build tools: Webpack, Babel, Gulp
+* State management: Redux, MobX
+* Testing: Jest, Enzyme, Cypress
+* Agile methodologies: Scrum, Kanban
+* Version control: Git, GitHub
+
+**Experience:**
+
+**UI Engineer**, ABC Corporation (2020-Present)
+
+* Designed and implemented user interfaces for multiple web applications, resulting in a 25% increase in user engagement and a 15% reduction in bounce rates
+* Collaborated with cross-functional teams to identify and prioritize features, ensuring alignment with business objectives
+* Led the implementation of a major front-end redesign, reducing page load times by 30% and improving overall user experience
+* Mentored junior engineers and provided technical guidance on front-end development best practices
+
+**Senior UI Engineer**, DEF Startup (2018-2020)
+
+* Led the development of multiple high-traffic web applications, including a popular e-commerce platform and a social media network
+* Designed and implemented responsive, accessible, and scalable front-end components using React and Redux
+* Developed and maintained a comprehensive set of reusable front-end components, reducing development time by 30% and improving code quality
+* Collaborated with designers to create user-centered designs and prototypes, resulting in a 20% increase in user satisfaction
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+**Achievements:**
+
+* 2x Winner of the company-wide hackathon, with projects showcasing innovative use of front-end technologies
+* 1x Winner of the industry-recognized "Best UI Engineer" award, recognized for exceptional front-end development skills and contributions to the community
+* 1x Published author on front-end development topics, including articles and blog posts on React, Redux, and accessibility
+
+**Projects:**
+
+* **React-Redux Todo List App**: A fully functional Todo List app built using React, Redux, and Webpack. [github.com/hankbrown/todo-list](github.com/hankbrown/todo-list)
+* **Accessible UI Component Library**: A collection of reusable, accessible UI components built using React and Material-UI. [github.com/hankbrown/ui-components](github.com/hankbrown/ui-components)
+* **WebGL Game Engine**: A 2D game engine built using WebGL, JavaScript, and HTML5. [github.com/hankbrown/game-engine](github.com/hankbrown/game-engine)
+
+I hope this sample resume helps! Let me know if you have any questions or if you'd like me to make any changes.

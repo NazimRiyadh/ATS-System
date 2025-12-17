@@ -1,0 +1,50 @@
+Dean Russell
+Contact Information:
+
+* Email: [dean.russell@email.com](mailto:dean.russell@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/deanrussell
+
+Summary:
+Highly skilled Data Scientist with expertise in Python, data manipulation, deep learning, and data visualization. Proven track record of extracting insights from complex data sets and developing predictive models to drive business decisions.
+
+Technical Skills:
+
+* Programming languages: Python (Advanced), R (Intermediate)
+* Data manipulation: Pandas, NumPy, Matplotlib, Scikit-learn
+* Deep learning: TensorFlow, Keras, PyTorch
+* Data visualization: Matplotlib, Seaborn, Plotly
+* Operating Systems: Windows, Linux
+* Database management: MySQL, PostgreSQL
+
+Professional Experience:
+
+Data Scientist, ABC Analytics (2020-Present)
+
+* Designed and implemented predictive models using deep learning techniques to forecast customer churn and recommend personalized marketing strategies
+* Developed and maintained data pipelines using Python and ETL tools to extract insights from large-scale data sets
+* Collaborated with cross-functional teams to develop data-driven solutions and inform business decisions
+* Created interactive dashboards using Tableau and Power BI to visualize complex data insights
+
+Junior Data Analyst, DEF Insights (2018-2020)
+
+* Analyzed and visualized data to identify trends and patterns using Python and data visualization tools
+* Assisted in developing and maintaining data models using statistical techniques and machine learning algorithms
+* Worked with stakeholders to identify business needs and develop data-driven solutions
+
+Education:
+
+* Master of Science in Data Science, University of California, Berkeley (2018)
+	+ Coursework: Data Mining, Machine Learning, Deep Learning, Data Visualization
+* Bachelor of Science in Computer Science, Stanford University (2016)
+	+ Coursework: Algorithms, Data Structures, Computer Systems, Software Engineering
+
+Projects:
+
+* Predicting Customer Churn using Deep Learning: Developed a deep learning model using Python and TensorFlow to predict customer churn and recommend personalized marketing strategies.
+* Analyzing COVID-19 Pandemic Trends: Analyzed and visualized COVID-19 pandemic trends using Python and data visualization tools to identify patterns and insights.
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2020)
+* Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2019)

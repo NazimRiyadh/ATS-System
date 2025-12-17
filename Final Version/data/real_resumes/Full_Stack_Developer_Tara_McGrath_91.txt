@@ -1,0 +1,66 @@
+Here's a sample resume for Tara McGrath:
+
+Tara McGrath
+Full Stack Developer
+
+Contact Information:
+
+* Email: [taramcgrath@email.com](mailto:taramcgrath@email.com)
+* Phone: (555) 555-5555
+* LinkedIn: linkedin.com/in/taramcgrath
+* GitHub: github.com/taramcgrath
+
+Professional Summary:
+
+Highly motivated and detail-oriented Full Stack Developer with 3+ years of experience in designing and developing scalable, efficient, and user-friendly web applications using HTML, CSS, JavaScript, React, and Node.js. Proven track record of delivering high-quality projects on time and exceeding expectations. Skilled in API integration, database management, and collaborative development.
+
+Technical Skills:
+
+* Front-end development: HTML, CSS, JavaScript, React
+* Back-end development: Node.js, Express.js, MongoDB
+* API integration: RESTful APIs, GraphQL
+* Database management: MySQL, MongoDB
+* Version control: Git
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Full Stack Developer, ABC Company (2020-Present)
+
+* Designed and developed multiple web applications using React, Node.js, and MongoDB
+* Integrated APIs to fetch data from external sources and enhance user experience
+* Collaborated with cross-functional teams to ensure seamless product development
+* Implemented automated testing and deployment scripts using Jenkins and Docker
+* Achievements:
+	+ Developed a high-traffic e-commerce website with a 99.9% uptime rate
+	+ Integrated a third-party payment gateway to increase conversions by 25%
+	+ Collaborated with the design team to develop a responsive and accessible UI
+
+Junior Developer, DEF Startups (2018-2020)
+
+* Assisted in the development of multiple web applications using HTML, CSS, JavaScript, and Node.js
+* Participated in code reviews and contributed to the improvement of code quality
+* Collaborated with the team to identify and resolve technical issues
+* Achievements:
+	+ Contributed to the development of a real-time chat application using WebSockets
+	+ Implemented a caching mechanism to improve application performance by 30%
+	+ Collaborated with the QA team to identify and fix bugs in the application
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2018)
+
+Certifications:
+
+* Certified Full Stack Developer, Full Stack Developers (2020)
+* Certified Node.js Developer, Node.js Certification (2019)
+
+Personal Projects:
+
+* Developed a personal blog using React, Node.js, and MongoDB
+* Contributed to open-source projects on GitHub, including React and Node.js libraries
+
+References:
+
+Available upon request.

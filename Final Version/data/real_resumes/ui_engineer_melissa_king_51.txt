@@ -1,0 +1,54 @@
+here's a resume for melissa king applying for a ui engineer role:
+
+melissa king
+contact information:
+
+* email: [melissa.king@email.com](mailto:melissa.king@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/melissaking
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and implementing user interfaces for web applications using html, css, and react. proficient in creating responsive and accessible ui components, with a strong focus on delivering high-quality user experiences.
+
+technical skills:
+
+* front-end development: html, css, react, javascript
+* ui frameworks: react, bootstrap
+* state management: redux, react context api
+* version control: git
+* operating systems: windows, macos
+* familiarity with: css preprocessors (sass, less), css frameworks (material-ui, tailwind css)
+
+professional experience:
+
+ui engineer, abc company (2019-present)
+
+* designed and implemented user interfaces for multiple web applications using react, html, and css
+* collaborated with cross-functional teams to identify and prioritize ui requirements
+* developed and maintained reusable ui components using react hooks and state management libraries
+* ensured ui components were accessible, responsive, and followed company design guidelines
+* participated in code reviews and ensured high-quality code was committed to the repository
+
+ui developer, def agency (2018-2019)
+
+* built and maintained ui components for a variety of web applications using html, css, and javascript
+* worked with designers to integrate design assets into the application
+* assisted in troubleshooting and resolving ui-related issues
+* developed and maintained a strong understanding of web development best practices
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015-2019)
+
+certifications/awards:
+
+* certified react developer, codecademy (2020)
+* winner, abc company hackathon (2020)
+
+projects:
+
+* personal project: [project name](projectlink.com) - a react-based to-do list application that demonstrates my skills in building responsive and accessible ui components
+* contributed to open-source projects on github, including [project name](githublink.com)
+
+references:
+available upon request.

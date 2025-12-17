@@ -1,0 +1,53 @@
+Here's a sample resume for Ivy Smith, a data engineer who applied for the Data Engineer role and was reject:
+
+**Ivy Smith**
+**Contact Information:**
+
+* Email: [ivysmith@email.com](mailto:ivysmith@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/ivysmith
+* GitHub: github.com/ivysmith
+
+**Summary:**
+Highly motivated and detail-oriented data engineer with 5 years of experience in designing, developing, and maintaining large-scale data systems. Skilled in a range of technologies, including data warehousing, ETL, and big data processing. Proficient in programming languages such as Python, Java, and SQL.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, SQL
+* Data platforms: Amazon Redshift, Google BigQuery, Apache Hadoop
+* Data processing tools: Apache Spark, Apache Flink
+* Data visualization tools: Tableau, Power BI
+* Operating Systems: Windows, Linux
+* Agile methodologies: Scrum, Kanban
+
+**Professional Experience:**
+
+* **Senior Data Engineer, ABC Company (2018-Present)**
+	+ Designed and developed large-scale data warehouses for multiple clients, resulting in a 30% increase in data processing speed
+	+ Led a team of 3 data engineers in the development of a data pipeline for a major retail client, resulting in a 25% reduction in data latency
+	+ Implemented data quality checks and data validation rules to improve data accuracy and reduce errors
+* **Data Engineer, DEF Startups (2015-2018)**
+	+ Developed and maintained multiple data pipelines for a SaaS company, resulting in a 40% increase in data insights and business intelligence
+	+ Collaborated with cross-functional teams to design and implement data visualizations and dashboards for business stakeholders
+
+**Achievements:**
+
+* **Data Warehouse Design and Implementation:** Designed and implemented a data warehouse for a major pharmaceutical company, resulting in a 50% reduction in data processing time and a 25% increase in data quality
+* **Data Pipeline Development:** Developed a data pipeline for a major e-commerce company, resulting in a 30% reduction in data latency and a 20% increase in data insights
+
+**Projects:**
+
+* **Data Lake Development:** Designed and developed a data lake for a major financial services company, using Apache Hadoop and Apache Spark to process and store large-scale data
+* **Machine Learning Model Deployment:** Deployed a machine learning model for a major retail client, using Apache Flink and Python to integrate with their existing data pipeline
+* **Data Visualization:** Developed a data visualization dashboard for a major healthcare company, using Tableau and Power BI to visualize complex data insights
+
+**Education:**
+
+* **Bachelor's Degree in Computer Science, XYZ University (2010-2014)**
+
+**Certifications:**
+
+* **Certified Data Engineer, Data Engineering Certification Board (2018)**
+* **Certified Scrum Master, Scrum Alliance (2016)**
+
+I hope this sample resume helps! Remember to tailor your resume to the specific job you're applying for, and highlight your unique skills and experiences.

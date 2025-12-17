@@ -1,0 +1,56 @@
+Here's a sample resume for Willie Harrington, a DevOps Engineer candidate:
+
+Willie Harrington
+Contact Information:
+
+* Email: [willie.harrington@email.com](mailto:willie.harrington@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/willieharrington
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in containerization, orchestration, and automation. Proven track record of delivering scalable and efficient infrastructure solutions using Docker, Kubernetes, and Ansible. Skilled in monitoring tools and passionate about ensuring high uptime and performance of applications.
+
+Technical Skills:
+
+* Containerization: Docker
+* Orchestration: Kubernetes, Helm
+* Automation: Ansible, Python
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Operating Systems: Linux (Ubuntu, CentOS), Windows
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Scripting Languages: Python, Bash
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a highly available and scalable infrastructure using Docker, Kubernetes, and Ansible for a cloud-based SaaS application
+* Developed and maintained a monitoring and alerting system using Prometheus, Grafana, and New Relic to ensure high uptime and performance of the application
+* Automated infrastructure deployments using Ansible and Python scripts
+* Collaborated with development teams to ensure smooth deployment of new features and applications
+
+Senior System Administrator, DEF Company (2015-2018)
+
+* Managed and maintained a large-scale Linux infrastructure using Ansible and Python scripts
+* Deployed and scaled containerized applications using Docker and Kubernetes
+* Implemented a monitoring and logging system using Prometheus and ELK Stack
+* Provided technical support and training to junior team members
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* Successfully deployed a highly available and scalable infrastructure using Docker, Kubernetes, and Ansible, resulting in a 99.99% uptime for a cloud-based SaaS application
+* Developed and maintained a monitoring and alerting system using Prometheus, Grafana, and New Relic, resulting in a 30% reduction in incident response time
+* Implemented a containerization strategy using Docker and Kubernetes, resulting in a 50% reduction in infrastructure costs
+
+Certifications:
+
+* Certified Docker Developer (CDD)
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Automation Engineer (CAAE)
+
+References:
+Available upon request.

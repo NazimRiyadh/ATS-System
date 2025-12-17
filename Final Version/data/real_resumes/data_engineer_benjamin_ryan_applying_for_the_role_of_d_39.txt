@@ -1,0 +1,54 @@
+here's a sample resume for benjamin ryan applying for the role of data engineer:
+
+benjamin ryan
+contact information:
+
+* email: [benjamin.ryan@email.com](mailto:benjamin.ryan@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/benjaminryan
+* github: github.com/benjaminryan
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in designing, developing, and deploying scalable data pipelines using airflow, big data, and cloud platforms. proficient in leveraging data analytics to drive business growth and improve operational efficiency.
+
+technical skills:
+
+* programming languages: python, java, sql
+* data engineering tools: apache airflow, apache beam, apache spark
+* cloud platforms: amazon web services (aws), google cloud platform (gcp), microsoft azure
+* big data technologies: hadoop, hdfs, mapreduce, hive
+* data storage: relational databases (e.g., mysql, postgresql), nosql databases (e.g., mongodb, cassandra)
+* operating systems: linux, windows
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* designed, developed, and deployed large-scale data pipelines using apache airflow to process and transform data from various sources
+* worked with cross-functional teams to integrate data from different systems, ensuring data consistency and quality
+* implemented data warehousing solutions using amazon redshift and google bigquery to provide business insights and analytics
+* collaborated with data scientists to develop and deploy machine learning models using tensorflow and scikit-learn
+
+data analyst, def company (2015-2018)
+
+* analyzed and interpreted large datasets to identify trends and patterns using sql, python, and r
+* created data visualizations using tableau and power bi to communicate insights to stakeholders
+* developed and maintained data dashboards to track key performance indicators (kpis) and metrics
+* worked with business stakeholders to identify data needs and provide recommendations for data-driven decision-making
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+certifications:
+
+* apache airflow certification, apache software foundation (2020)
+* google cloud certified - professional data engineer, google cloud (2019)
+
+personal projects:
+
+* airflow-based etl pipeline: designed and developed an airflow-based etl pipeline to process and transform data from various sources, including social media and web logs.
+* cloud-based data lake: built a cloud-based data lake using aws s3 and apache spark to store and process large datasets.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and requirements, and highlight your unique skills and experiences.

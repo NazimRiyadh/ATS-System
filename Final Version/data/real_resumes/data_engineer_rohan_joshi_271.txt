@@ -1,0 +1,60 @@
+rohan joshi
+contact information:
+
+* email: [rohan.joshi@email.com](mailto:rohan.joshi@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/rohanjoshi
+
+objective:
+to obtain a challenging role as a data engineer where i can utilize my skills and experience to design, develop, and maintain large-scale data systems.
+
+summary:
+highly motivated and detail-oriented data professional with 5+ years of experience in designing, developing, and maintaining large-scale data systems. proficient in a range of technologies including python, sql, etl, airflow, spark, data modeling, aws, docker, kubernetes, and data warehousing. proven track record of delivering high-quality solutions on time and on budget.
+
+technical skills:
+
+* programming languages: python, sql
+* etl tools: airflow, spark
+* data modeling: data warehousing, data governance
+* cloud platforms: aws
+* containerization: docker
+* orchestration: kubernetes
+* data warehousing: data modeling, data integration
+
+professional experience:
+
+senior data engineer, xyz inc. (2018-present)
+
+* designed, developed, and maintained large-scale data systems using python, sql, and etl tools
+* implemented data modeling frameworks to ensure data consistency and quality
+* utilized airflow and spark for etl processing and data integration
+* collaborated with cross-functional teams to design and implement data warehouses
+* ensured data security and compliance with regulatory requirements
+
+data engineer, abc corp. (2015-2018)
+
+* developed and maintained data pipelines using python and sql
+* implemented data modeling and data governance frameworks
+* utilized aws services for data storage and processing
+* collaborated with data scientists to develop and deploy machine learning models
+* ensured data quality and security
+
+education:
+
+* master of science in computer science, stanford university (2015)
+	+ coursework: data mining, machine learning, database systems, operating systems
+* bachelor of technology in computer science, indian institute of technology (2010-2014)
+
+achievements:
+
+* received the "best project award" at the stanford university data science conference (2015)
+* published a paper on "designing scalable data systems" at the international conference on data engineering (2016)
+* certified in aws certified developer - associate (2017)
+
+certifications:
+
+* aws certified developer - associate (2017)
+* certified data engineer, data science council of america (2019)
+
+references:
+available upon request.

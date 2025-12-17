@@ -1,0 +1,47 @@
+Heather Rivera
+Contact Information:
+
+* Email: [heather.rivera@email.com](mailto:heather.rivera@email.com)
+* Phone: 555-123-4567
+* LinkedIn: linkedin.com/in/heatherrivera
+
+Summary:
+Highly motivated and detail-oriented Data Scientist with expertise in Python, data manipulation, statistics, probability, and deep learning. Proven track record of extracting insights from complex data sets and communicating findings effectively through data visualization. Seeking a challenging role that leverages my technical skills and passion for data analysis.
+
+Technical Skills:
+
+* Programming languages: Python (NumPy, pandas, scikit-learn, TensorFlow, Keras)
+* Data Manipulation: data cleaning, data merging, data transformation
+* Statistics and Probability: hypothesis testing, confidence intervals, Bayesian inference
+* Deep Learning: neural networks, convolutional neural networks, recurrent neural networks
+* Data Visualization: Matplotlib, Seaborn, Plotly
+* Operating Systems: Windows, Linux, macOS
+* Familiarity with: SQL, Git, Jupyter Notebooks
+
+Experience:
+
+* Data Scientist, ABC Company (2020-Present)
+	+ Developed and deployed predictive models using Python and scikit-learn to forecast sales trends, resulting in a 25% increase in sales
+	+ Created interactive visualizations using Plotly and Matplotlib to communicate findings to stakeholders
+	+ Collaborated with cross-functional teams to design and implement data-driven solutions
+* Junior Data Analyst, DEF Start-up (2018-2020)
+	+ Worked with raw data to identify trends and insights using Python and pandas
+	+ Built and maintained dashboards using Tableau to track key performance indicators
+	+ Conducted A/B testing to optimize marketing campaigns, resulting in a 30% increase in conversions
+
+Education:
+
+* Master of Science in Data Science, University of California, Berkeley (2018)
+	+ Coursework: Machine Learning, Statistical Computing, Data Mining, and Data Visualization
+* Bachelor of Science in Mathematics, Stanford University (2016)
+	+ Coursework: Probability, Statistics, Linear Algebra, and Calculus
+
+Projects:
+
+* Predicting House Prices using Deep Learning: Developed a neural network model using Keras and TensorFlow to predict house prices based on features such as number of bedrooms and square footage. Achieved a mean absolute error of 10,000.
+* Anomaly Detection using Statistical Methods: Created a statistical model using Python and scikit-learn to detect outliers in a dataset. Implemented a technique using the Z-score method to identify anomalies, resulting in a 90% accuracy rate.
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2020)
+* Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2019)

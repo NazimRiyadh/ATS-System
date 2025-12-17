@@ -1,0 +1,66 @@
+Here's a sample resume for Angela Ross, a DevOps Engineer candidate:
+
+Angela Ross
+DevOps Engineer
+
+Contact Information:
+
+* Email: [angela.ross@email.com](mailto:angela.ross@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/angela-ross-devops
+* GitHub: github.com/angela-ross
+
+Professional Summary:
+
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Kubernetes, Ansible, and Cloud Platforms. Proven track record of improving application delivery and deployment efficiency, reducing downtime, and ensuring high availability. Skilled in designing and implementing scalable, secure, and reliable systems. Passionate about continuous improvement and automation.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes (GKE, AKS, EKS)
+* Orchestration: Ansible, Terraform
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Scripting Languages: Python, Bash, PowerShell
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018 - Present)
+
+* Design and implement CI/CD pipelines using Jenkins, GitLab CI/CD, and CircleCI to automate application deployment and testing
+* Deploy and manage containerized applications using Kubernetes (GKE) and Docker
+* Configure and manage Ansible playbooks to automate infrastructure provisioning and configuration
+* Collaborate with development teams to identify and resolve application performance issues using Prometheus, Grafana, and New Relic
+* Develop and maintain automated monitoring scripts using Python and Bash
+* Participate in on-call rotations to ensure 24/7 application availability and respond to production incidents
+
+Senior DevOps Engineer, DEF Startups (2015 - 2018)
+
+* Designed and implemented a CI/CD pipeline using Jenkins to automate application deployment and testing
+* Deployed and managed containerized applications using Docker and Kubernetes (GKE)
+* Configured and managed Ansible playbooks to automate infrastructure provisioning and configuration
+* Collaborated with development teams to identify and resolve application performance issues using Prometheus, Grafana, and New Relic
+* Developed and maintained automated monitoring scripts using Python and Bash
+* Participated in on-call rotations to ensure 24/7 application availability and respond to production incidents
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010 - 2014)
+
+Certifications:
+
+* Certified DevOps Engineer, DevOps Institute (2019)
+* Certified Kubernetes Administrator, Kubernetes Certified Administrator (2018)
+
+Achievements:
+
+* Improved application deployment time by 30% and reduced downtime by 40% through automation and monitoring
+* Designed and implemented a cloud-native architecture using Kubernetes and containerization, resulting in a 25% reduction in infrastructure costs
+* Collaborated with development teams to implement agile methodologies, resulting in a 25% increase in development velocity
+
+References:
+
+Available upon request.
+
+This resume follows a clear structure, with a professional summary at the top, followed by technical skills, professional experience, education, certifications, achievements, and references. The format is clean and easy to read, with clear headings and bullet points to highlight Angela's skills and experience.

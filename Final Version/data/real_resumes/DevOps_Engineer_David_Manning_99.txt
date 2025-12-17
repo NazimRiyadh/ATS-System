@@ -1,0 +1,66 @@
+Here's a sample resume for David Manning:
+
+David Manning
+DevOps Engineer
+
+Contact Information:
+
+* Email: [david.manning@email.com](mailto:david.manning@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/davidmanningdevops
+* GitHub: github.com/davidmanning
+
+Professional Summary:
+
+Highly skilled DevOps Engineer with 5+ years of experience in designing, implementing, and maintaining scalable infrastructure using Ansible, Infrastructure as Code, and monitoring tools. Proven track record of improving deployment efficiency, reducing downtime, and enhancing collaboration between development and operations teams. Proficient in cloud platforms, including AWS, Azure, and Google Cloud, with a strong passion for automation and continuous integration/continuous deployment (CI/CD).
+
+Technical Skills:
+
+* Ansible (playbooks, roles, and modules)
+* Infrastructure as Code (Terraform, CloudFormation)
+* Monitoring Tools (Prometheus, Grafana, New Relic)
+* Cloud Platforms (AWS, Azure, Google Cloud)
+* CI/CD (Jenkins, GitLab CI/CD)
+* Linux (Ubuntu, CentOS)
+* Scripting languages (Python, Bash)
+* Agile methodologies (Scrum, Kanban)
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented infrastructure using Ansible and Terraform, resulting in a 30% reduction in deployment time
+* Developed and maintained monitoring tools using Prometheus and Grafana, leading to a 25% improvement in incident response time
+* Collaborated with development teams to implement CI/CD pipelines using Jenkins and GitLab CI/CD
+* Migrated applications from on-premises to cloud platforms (AWS, Azure), resulting in a 40% reduction in costs
+* Provided training and support to teams on DevOps practices and tools
+
+Senior Systems Administrator, DEF Company (2015-2018)
+
+* Managed and maintained large-scale Linux environments (Ubuntu, CentOS)
+* Implemented automation scripts using Python and Bash to streamline system administration tasks
+* Developed and implemented monitoring tools using Nagios and Splunk
+* Collaborated with security teams to implement security best practices and compliance frameworks
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Achievements:
+
+* Certified Ansible Automation Professional (CAP)
+* Certified Cloud Practitioner (AWS, Azure)
+* Certified Scrum Master (CSM)
+* Completed Coursera courses in Cloud Computing, DevOps, and Machine Learning
+
+Certifications:
+
+* Certified Ansible Automation Professional (CAP)
+* Certified Cloud Practitioner (AWS, Azure)
+* Certified Scrum Master (CSM)
+
+References:
+
+Available upon request.
+
+This is just a sample resume, and you should tailor yours to your specific experience and the job you're applying for.

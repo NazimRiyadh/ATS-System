@@ -1,0 +1,67 @@
+Here is a professional resume for Brittany Moyer:
+
+Brittany Moyer
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [brittany.moyer@email.com](mailto:brittany.moyer@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/brittany-moyer
+* GitHub: github.com/brittany-moyer
+
+Summary:
+Highly motivated and detail-oriented Machine Learning Engineer with 5+ years of experience in developing and deploying predictive models using Python, Scikit-learn, and TensorFlow. Proven track record of driving business growth through data-driven insights and innovative solutions. Skilled in feature engineering, hyperparameter tuning, and model deployment.
+
+Technical Skills:
+
+* Programming languages: Python
+* Machine learning libraries: Scikit-learn, TensorFlow
+* Data analysis and visualization tools: Pandas, NumPy, Matplotlib, Seaborn
+* Operating Systems: Windows, Linux
+* Agile development methodologies: Scrum, Kanban
+* Cloud platforms: AWS, Google Cloud
+
+Work Experience:
+
+Machine Learning Engineer, ABC Company (2018-Present)
+
+* Designed and developed predictive models using Python and Scikit-learn to improve customer churn prediction by 25%
+* Collaborated with cross-functional teams to integrate machine learning models into production environments
+* Implemented hyperparameter tuning using GridSearchCV and RandomizedSearchCV to optimize model performance
+* Deployed models to production using AWS SageMaker and TensorFlow Serving
+
+Data Scientist, DEF Startups (2015-2018)
+
+* Developed and deployed multiple machine learning models using TensorFlow to improve revenue prediction by 15%
+* Conducted exploratory data analysis to identify key features and patterns in customer data
+* Collaborated with stakeholders to communicate insights and recommendations using data visualization tools
+* Implemented A/B testing and experimentation to validate model performance
+
+Education:
+
+* Master of Science in Data Science, XYZ University (2015)
+
+Achievements:
+
+* Winner, Machine Learning Competition, Kaggle (2018)
+	+ Developed and deployed a winning model using Scikit-learn and Python to predict customer churn
+	+ Outperformed 99% of competitors with a winning accuracy of 92%
+* Recipient, Data Science Award, XYZ University (2015)
+	+ Recognized for outstanding contributions to the field of data science through academic and industry projects
+
+Projects:
+
+* Customer Churn Prediction using Scikit-learn and Python
+	+ Developed and deployed a predictive model using Scikit-learn to predict customer churn
+	+ Implemented feature engineering and hyperparameter tuning to improve model performance
+* Image Classification using TensorFlow and Keras
+	+ Developed and deployed a deep learning model using TensorFlow and Keras to classify images
+	+ Conducted exploratory data analysis to identify key features and patterns in image data
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Scrum Master, Scrum Alliance (2018)
+
+Note: I've created a sample resume for Brittany Moyer, but please make sure to customize it to fit your own experiences, skills, and style. Also, proofread the resume multiple times to ensure there are no typos or errors.

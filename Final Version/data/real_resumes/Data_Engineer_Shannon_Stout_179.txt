@@ -1,0 +1,54 @@
+Here's a sample resume for Shannon Stout, a Data Engineer candidate:
+
+Shannon Stout
+Contact Information:
+
+* Email: [shannon.stout@email.com](mailto:shannon.stout@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/shannonstout
+
+Professional Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using MLOps, Airflow, ETL, and Cloud Platforms. Proven track record of delivering high-quality solutions that meet business requirements and drive data-driven decision-making. Skilled in leading cross-functional teams and collaborating with stakeholders to drive data strategy.
+
+Technical Skills:
+
+* MLOps: TensorFlow, PyTorch, Scikit-learn
+* Airflow: DAG creation, scheduler management
+* ETL: Data warehousing, data modeling, data transformation
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Spark: Spark Core, Spark SQL, Spark MLlib
+* Programming languages: Python, Java, Scala
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Led the design and implementation of a large-scale data pipeline using Airflow, Spark, and AWS, resulting in a 30% reduction in data processing time and a 25% reduction in data storage costs.
+* Collaborated with data scientists to develop and deploy machine learning models using TensorFlow and PyTorch, resulting in a 20% increase in model accuracy.
+* Designed and implemented a data warehousing solution using AWS Redshift, resulting in a 50% reduction in data latency and a 25% reduction in data query costs.
+* Mentored junior data engineers and provided guidance on best practices for data engineering, resulting in a 25% reduction in errors and a 20% increase in productivity.
+
+Data Engineer, DEF Startup (2015-2018)
+
+* Designed and implemented a data pipeline using Spark, Scala, and HDFS, resulting in a 40% reduction in data processing time and a 20% reduction in data storage costs.
+* Collaborated with data analysts to develop and deploy data visualizations using Tableau, resulting in a 30% increase in data insights and a 25% increase in business user adoption.
+* Designed and implemented a data governance solution using Apache Atlas, resulting in a 25% reduction in data errors and a 20% increase in data quality.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Institute (2016)
+* Certified Cloud Engineer, Cloud Computing Institute (2018)
+
+Achievements:
+
+* Recipient of the "Innovation Award" for designing and implementing a novel data pipeline solution using Airflow and Spark, resulting in a 30% reduction in data processing time.
+* Published a paper on "Designing Scalable Data Pipelines using MLOps" in the Journal of Data Engineering, resulting in a 20% increase in citations.
+
+References:
+Available upon request.
+
+Note: This is just a sample resume, and you should customize it to fit your own experiences and style. Remember to proofread carefully and tailor your resume to the specific job you're applying for.

@@ -1,0 +1,61 @@
+Here's a professional resume for Marc Greene:
+
+Marc Greene
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (555) 555-5555
+* Email: [marc.greene@email.com](mailto:marc.greene@email.com)
+* LinkedIn: linkedin.com/in/marcgreene
+* GitHub: github.com/marcgreene
+
+Summary:
+
+Highly skilled DevOps Engineer with 5+ years of experience in designing, implementing, and maintaining scalable, automated, and secure infrastructure systems using CI/CD, Kubernetes, Ansible, and Infrastructure as Code. Proven track record of driving business value through efficient and reliable technology solutions. Strong expertise in cloud platforms, including AWS, Azure, and Google Cloud.
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, CircleCI
+* Container Orchestration: Kubernetes, Docker
+* Infrastructure as Code: Ansible, Terraform, CloudFormation
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Scripting Languages: Python, Bash
+* Operating Systems: Linux, Windows
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Ansible, resulting in a 30% reduction in deployment time and a 25% increase in code quality
+* Migrated 10 applications to Kubernetes, achieving a 99.99% uptime and a 50% reduction in infrastructure costs
+* Developed and maintained a comprehensive Infrastructure as Code framework using Terraform, ensuring consistency and reproducibility across all environments
+* Collaborated with cross-functional teams to design and implement a cloud-native architecture, resulting in a 75% reduction in latency and a 40% increase in scalability
+
+Senior DevOps Engineer, DEF Company (2015-2018)
+
+* Led the migration of 20 applications to AWS, resulting in a 90% reduction in infrastructure costs and a 95% increase in scalability
+* Designed and implemented a comprehensive monitoring and logging framework using ELK Stack and Splunk, ensuring real-time visibility into application performance and security
+* Developed and maintained a robust automation framework using Ansible, reducing manual intervention by 90% and increasing deployment speed by 50%
+* Collaborated with the security team to design and implement a comprehensive security framework, resulting in a 99% reduction in security incidents
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Developer (CAD)
+* Certified AWS DevOps Engineer (CDAE)
+
+Achievements:
+
+* Winner of the 2019 DevOps Conference Hackathon for developing a innovative CI/CD pipeline using Kubernetes and Ansible
+* Featured speaker at the 2018 DevOps Summit for presenting on "Designing and Implementing Cloud-Native Architectures"
+* Published article on "The Future of DevOps: Trends and Opportunities" in the 2017 DevOps Journal
+
+References:
+
+Available upon request.

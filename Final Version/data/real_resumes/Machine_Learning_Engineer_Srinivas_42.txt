@@ -1,0 +1,47 @@
+Here's a professional resume for Srinivas:
+
+**Srinivas**
+**Machine Learning Engineer**
+
+**Objective:**
+To leverage my 9 years of experience in machine learning engineering to drive innovation and improve business outcomes in a dynamic and growth-oriented organization.
+
+**Summary:**
+Highly skilled Machine Learning Engineer with 9 years of experience in developing and deploying predictive models using advanced algorithms and techniques. Proven track record of improving model performance through hyperparameter tuning and expertise in Python programming. Collaborative team player with excellent problem-solving skills and a passion for staying up-to-date with the latest advancements in machine learning.
+
+**Experience:**
+
+**Machine Learning Engineer, XYZ Corporation (2018-Present)**
+
+* Designed and developed predictive models using scikit-learn, TensorFlow, and PyTorch to improve business outcomes
+* Conducted hyperparameter tuning using Grid Search, Random Search, and Bayesian Optimization to optimize model performance
+* Collaborated with cross-functional teams to integrate machine learning models into production environments
+* Implemented model monitoring and deployment pipelines using Docker, Kubernetes, and AWS
+
+**Senior Machine Learning Engineer, ABC Startups (2015-2018)**
+
+* Led the development of a machine learning platform using Python and scikit-learn to analyze customer behavior
+* Designed and implemented algorithms for anomaly detection and segmentation
+* Collaborated with data scientists to develop predictive models for marketing and sales optimization
+* Mentored junior engineers to improve model performance and coding standards
+
+**Education:**
+
+* Bachelor's/Master's in Computer Science, [University Name] (2009-2014)
+
+**Core Skills:**
+
+* **Hyperparameter Tuning:** Expertise in Grid Search, Random Search, Bayesian Optimization, and Hyperband
+* **Python:** Proficient in Python programming, including NumPy, Pandas, and scikit-learn
+* **Model Training:** Experienced in training models using scikit-learn, TensorFlow, and PyTorch
+* **Machine Learning Frameworks:** Familiarity with Keras, LightGBM, and XGBoost
+* **Cloud Platforms:** Experience with AWS, Google Cloud, and Azure
+* **Version Control:** Proficient in Git and SVN
+
+**Certifications:**
+
+* Certified Data Scientist, [Certification Name] (2016)
+* Certified Machine Learning Engineer, [Certification Name] (2018)
+
+**References:**
+Available upon request.

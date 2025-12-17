@@ -1,0 +1,58 @@
+Here's a professional resume for Charles Palmer:
+
+Charles Palmer
+Contact Information:
+
+* Email: [charles.palmer@email.com](mailto:charles.palmer@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/charlespalmer
+* GitHub: github.com/charlespalmer
+
+Professional Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data processing systems. Skilled in MLOps, Airflow, Cloud Platforms, and Spark, with a proven track record of delivering high-quality solutions that drive business value. Passionate about streamlining data pipelines, improving data quality, and collaborating with cross-functional teams to drive business outcomes.
+
+Technical Skills:
+
+* Programming languages: Python, Scala, Java
+* Data engineering tools: Apache Airflow, Apache Spark, Apache Beam
+* Cloud Platforms: AWS, GCP, Azure
+* Big Data frameworks: Hadoop, Spark, Flink
+* Machine Learning: TensorFlow, Scikit-learn, PyTorch
+* Databases: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Linux, Windows, macOS
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed end-to-end data pipelines using Apache Airflow, Apache Spark, and AWS services to process 100M+ records per day
+* Built and deployed machine learning models using TensorFlow, Scikit-learn, and PyTorch on Spark and Flink clusters
+* Collaborated with data scientists to integrate data into models and improve model accuracy
+* Implemented data quality checks and monitoring using Apache Beam and AWS services
+* Led a team of 2 data engineers to deliver a 30% reduction in data processing time and a 25% increase in data quality
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Designed and developed data pipelines using Apache Spark and Hadoop to process 10M+ records per day
+* Built and deployed data warehouses using Amazon Redshift and Google BigQuery
+* Collaborated with data analysts to integrate data into reports and improve data quality
+* Implemented data security and access controls using AWS IAM and Google Cloud IAM
+* Participated in the development of data governance policies and procedures
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2019)
+* Certified Cloud Practitioner, AWS (2018)
+
+Achievements:
+
+* Winner of the 2020 Data Engineering Awards for "Best Use of Apache Airflow" for delivering a 40% reduction in data processing time
+* Featured speaker at the 2019 Data Engineering Summit on "Designing and Deploying Scalable Data Pipelines"
+* Published papers on "Apache Airflow for Data Engineering" and "Big Data Processing using Apache Spark" in the Journal of Data Engineering and Analytics
+
+References:
+Available upon request.

@@ -1,0 +1,31 @@
+**candidate profile: praneel gupta**
+
+**position:** data scientist
+
+**summary:**
+praneel gupta is a detail-oriented and analytical individual with a strong foundation in data analysis and a passion for problem-solving. while he demonstrates some skills relevant to the data scientist role, there are areas where his proficiency and experience are limited.
+
+**strengths:**
+
+* strong understanding of data analysis principles and techniques
+* excellent communication and presentation skills
+* ability to work independently and as part of a team
+* familiarity with data visualization tools (e.g., tableau, power bi)
+
+**weaknesses and areas for improvement:**
+
+* **machine learning:** praneel lacks hands-on experience with machine learning algorithms and techniques, which is a critical aspect of the data scientist role. he expressed difficulty understanding the underlying concepts and implementing models from scratch. to overcome this, he requires further training and practice in machine learning frameworks (e.g., scikit-learn, tensorflow).
+* **statistics:** praneel's statistical knowledge is limited to basic concepts, and he struggled to apply advanced statistical techniques to real-world problems. he needs to develop a stronger understanding of statistical inference, hypothesis testing, and modeling.
+* **data visualization:** while praneel is familiar with data visualization tools, his skills are mostly surface-level, and he requires more practice to create interactive, informative visualizations that effectively communicate insights.
+* **programming:** praneel's programming skills are primarily focused on sql, and he lacks proficiency in python, r, or other programming languages commonly used in data science. he needs to develop a strong foundation in at least one of these languages to effectively work with large datasets and implement data science solutions.
+* **big data:** praneel's experience with big data tools and technologies (e.g., hadoop, spark) is non-existent. he would benefit from learning about distributed computing, data processing, and storage.
+* **experience:** praneel's limited experience in the field (less than 2 years) means he hasn't had the opportunity to work on diverse projects, which is essential for a data scientist. he needs to build a portfolio of projects that demonstrate his skills and versatility.
+
+**concerns raised during the interview:**
+
+* difficulty with tasks that required machine learning and statistical expertise
+* lack of familiarity with specific tools and technologies (e.g., python libraries, statistical software)
+* struggled to provide examples of projects that demonstrated his skills in data science
+
+**potential for growth:**
+despite these gaps, praneel's enthusiasm, eagerness to learn, and strong foundation in data analysis make him a potential candidate for growth and development. with targeted training, mentorship, and exposure to industry-standard tools and technologies, he can bridge the skill gaps and become a valuable asset to the team.

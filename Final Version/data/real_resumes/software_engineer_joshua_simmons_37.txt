@@ -1,0 +1,56 @@
+here's a sample resume for joshua simmons:
+
+joshua simmons
+contact information:
+
+* phone: (123) 456-7890
+* email: [joshua.simmons@email.com](mailto:joshua.simmons@email.com)
+* linkedin: linkedin.com/in/joshuasimmons
+* github: github.com/joshuasimmons
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and testing software applications using java, c++, and python. proficient in agile development methodologies and passionate about delivering high-quality software solutions on time.
+
+technical skills:
+
+* programming languages: java, c++, python
+* development frameworks: spring, hibernate, django, flask
+* databases: mysql, postgresql, mongodb
+* operating systems: windows, linux, macos
+* agile development methodologies: scrum, kanban
+* version control systems: git, svn
+* cloud platforms: aws, azure
+
+professional experience:
+
+senior software engineer, abc company (2018-present)
+
+* designed and developed multiple software applications using java, c++, and python
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* implemented automated testing and deployment scripts using jenkins and gitlab ci/cd
+* participated in code reviews and ensured adherence to coding standards and best practices
+* mentored junior engineers and provided guidance on software development principles and design patterns
+
+software engineer, def startup (2015-2018)
+
+* developed and maintained multiple web applications using python, django, and flask
+* worked with a team of developers to design and implement a scalable and secure e-commerce platform
+* implemented data analytics and visualization using python and libraries such as matplotlib and seaborn
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+* relevant coursework: data structures, algorithms, computer systems, computer networks, web development, and database systems
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified python developer, python institute (2017)
+
+personal projects:
+
+* github repository: [github.com/joshuasimmons/personal-projects](http://github.com/joshuasimmons/personal-projects)
+* portfolio: [joshuasimmons.com/portfolio](http://joshuasimmons.com/portfolio)
+
+note: this is just a sample resume, and you should tailor your own resume to fit your specific experience and the job you're applying for. also, be sure to proofread your resume multiple times for any grammar or formatting errors before submitting it to potential employers.

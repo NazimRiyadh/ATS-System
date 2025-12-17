@@ -1,0 +1,59 @@
+ananya chopra
+data engineer
+
+contact information:
+
+* email: [ananya.chopra@email.com](mailto:ananya.chopra@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ananya-chopra
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in designing, building, and maintaining large-scale data systems. proficient in a range of programming languages, data processing technologies, and cloud platforms. proven track record of delivering high-quality results in fast-paced environments.
+
+technical skills:
+
+* programming languages: python, sql
+* data processing technologies: etl, airflow, spark
+* data modeling: data warehousing, data modeling
+* cloud platforms: aws, docker, kubernetes
+* databases: relational and nosql databases
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc corporation (2020-present)
+
+* designed and developed large-scale etl pipelines using airflow and spark to process millions of records daily
+* created data models for data warehousing and business intelligence applications using sql and python
+* implemented data quality checks and data validation using python scripts and sql queries
+* collaborated with cross-functional teams to ensure data-driven decision-making
+* mentored junior engineers to improve their coding skills and knowledge of data engineering best practices
+
+data engineer, def startups (2018-2020)
+
+* built and maintained data pipelines using etl and spark to support business growth and decision-making
+* developed data models for data warehousing and business intelligence applications using sql and python
+* implemented data security and access controls using aws iam and sql
+* worked closely with product managers to design and develop data-driven products
+
+education:
+
+* master of science in computer science, xyz university (2018)
+	+ coursework: data science, machine learning, database systems, computer networks
+	+ thesis: "design and implementation of a real-time data processing system using apache spark"
+* bachelor of technology in computer science, pqr university (2016)
+	+ coursework: data structures, algorithms, computer systems, web development
+
+achievements:
+
+* aws certified developer - associate (2020)
+* certified data engineer (2019)
+* recipient of the xyz university outstanding thesis award (2018)
+
+projects:
+
+* real-time data processing system using apache spark: designed and implemented a real-time data processing system using apache spark to process large-scale datasets
+* data warehouse automation using airflow: built a data warehouse automation system using airflow to automate etl pipelines and data quality checks
+
+references:
+available upon request.

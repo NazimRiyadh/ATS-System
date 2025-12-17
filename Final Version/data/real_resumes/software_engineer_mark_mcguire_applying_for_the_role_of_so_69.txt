@@ -1,0 +1,53 @@
+here's a sample resume for mark mcguire applying for the role of software engineer:
+
+mark mcguire
+contact information:
+
+* phone: (123) 456-7890
+* email: [mark.mcguire@email.com](mailto:mark.mcguire@email.com)
+* linkedin: linkedin.com/in/markmcguire
+* github: github.com/markmcguire
+
+summary:
+highly motivated and detail-oriented software engineer with a strong foundation in computer science fundamentals. proficient in multiple programming languages, including java and python, with a focus on algorithmic thinking and system design. possesses excellent problem-solving skills and a passion for learning and growing as a developer.
+
+technical skills:
+
+* programming languages: java, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting (bubble, selection, insertion, merge, quick), searching (linear, binary), graph algorithms (bfs, dfs, dijkstra's, bellman-ford)
+* system design: microservices, restful apis, database design (relational and nosql)
+* development frameworks: spring, django
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and implemented multiple features for a cloud-based e-commerce platform using java and spring framework
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* developed and maintained restful apis for api-first development approach
+* conducted code reviews and ensured adherence to best practices and coding standards
+
+software development intern, def startups (summer 2017)
+
+* contributed to the development of a machine learning-based chatbot using python and tensorflow
+* worked on data preprocessing and feature engineering tasks to improve model accuracy
+* collaborated with the development team to identify and resolve technical issues
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, database systems, web development
+
+certifications:
+
+* certified java developer (ocpjp), oracle corporation (2019)
+* certified python programmer (pcep), python institute (2020)
+
+projects:
+
+* personal project: developed a web scraper using python and beautifulsoup to extract data from multiple sources (github repository: markmcguire/web-scraper)
+* open source contribution: contributed to the development of a machine learning-based project using tensorflow and python (github repository: tensorflow/tensorflow)
+
+i hope this sample resume helps! remember to customize it to your own experiences and qualifications.

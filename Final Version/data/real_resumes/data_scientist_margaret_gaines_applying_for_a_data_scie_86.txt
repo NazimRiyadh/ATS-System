@@ -1,0 +1,57 @@
+here's a sample resume for margaret gaines applying for a data scientist role:
+
+margaret gaines
+contact information:
+
+* phone: (555) 123-4567
+* email: [mgaines@email.com](mailto:mgaines@email.com)
+* linkedin: linkedin.com/in/margaretgaines
+* github: github.com/margaretgaines
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in statistics, machine learning, and deep learning. proven track record of extracting insights from complex data sets and communicating results effectively to both technical and non-technical stakeholders. proficient in sql and experienced in working with large datasets.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning libraries: scikit-learn, tensorflow, pytorch
+* deep learning frameworks: keras, theano
+* data analysis and visualization tools: pandas, numpy, matplotlib, seaborn, tableau
+* operating systems: windows, linux
+* familiarity with cloud platforms: aws, google cloud
+
+professional experience:
+
+data scientist, xyz corporation (2018-present)
+
+* designed and implemented predictive models using machine learning and deep learning algorithms to improve business outcomes
+* worked with cross-functional teams to collect and preprocess large datasets, resulting in improved data quality and reduced costs
+* developed and maintained data visualization dashboards using tableau to communicate insights to stakeholders
+* collaborated with data engineers to design and implement data pipelines using apache spark and aws glue
+* published research papers on machine learning and deep learning techniques in top-tier conferences and journals
+
+data analyst, abc startup (2015-2018)
+
+* built and maintained datasets using sql and excel, resulting in improved data accuracy and reduced errors
+* developed and implemented statistical models to analyze customer behavior and improve marketing campaigns
+* worked with product teams to design and implement a/b testing experiments using python and r
+* created data visualizations using matplotlib and seaborn to communicate insights to stakeholders
+
+education:
+
+* ph.d. in statistics, university of california, berkeley (2015)
+* m.sc. in statistics, university of michigan, ann arbor (2012)
+* b.sc. in mathematics, university of california, los angeles (2010)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+publications:
+
+* gaines, m., & lee, s. (2020). "deep learning for time series forecasting: a review." journal of machine learning research, 21, 1-35.
+* gaines, m., & kim, j. (2019). "a comparative study of machine learning algorithms for image classification." ieee transactions on pattern analysis and machine intelligence, 41(10), 2311-2324.
+
+references:
+available upon request.

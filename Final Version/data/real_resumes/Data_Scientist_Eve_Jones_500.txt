@@ -1,0 +1,60 @@
+Here's a sample resume for Eve Jones, a Data Scientist who was select for the Data Scientist role:
+
+**Eve Jones**
+**Data Scientist**
+
+**Contact Information:**
+
+* Email: [eve.jones@email.com](mailto:eve.jones@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/evejonesds
+* GitHub: github.com/evejones
+
+**Summary:**
+Highly motivated and detail-oriented Data Scientist with 5+ years of experience in data analysis, machine learning, and data visualization. Proven track record of delivering high-quality insights and recommendations to stakeholders. Skilled in a range of programming languages, including Python, R, and SQL.
+
+**Technical Skills:**
+
+* Programming languages: Python, R, SQL, Julia
+* Data science libraries: Pandas, NumPy, scikit-learn, TensorFlow
+* Data visualization tools: Matplotlib, Seaborn, Tableau, Power BI
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+* Cloud platforms: AWS, Google Cloud, Azure
+
+**Professional Experience:**
+
+**Data Scientist, ABC Corporation (2020-Present)**
+
+* Worked closely with cross-functional teams to design and implement data-driven solutions to business problems
+* Developed and deployed machine learning models to predict customer churn, improve marketing campaigns, and optimize supply chain operations
+* Built and maintained large-scale datasets using SQL and data warehousing techniques
+* Created interactive dashboards and reports using Tableau and Power BI to communicate insights to stakeholders
+* Collaborated with data engineers to design and implement data pipelines and architecture
+
+**Data Analyst, DEF Startup (2018-2020)**
+
+* Analyzed and interpreted large datasets to inform business decisions and optimize operations
+* Developed and maintained data visualizations and reports using R and Tableau
+* Worked with the product team to design and implement A/B testing and experimentation
+* Built and maintained SQL databases to store and query customer data
+* Collaborated with the engineering team to design and implement data pipelines and architecture
+
+**Education:**
+
+* **Master of Science in Data Science, XYZ University (2018)**
+* **Bachelor of Science in Computer Science, ABC University (2016)**
+
+**Projects:**
+
+* **Predicting Customer Churn using Machine Learning**: Developed and deployed a machine learning model to predict customer churn using historical data. Achieved a 20% reduction in customer churn.
+* **Optimizing Supply Chain Operations using Data Science**: Analyzed and optimized supply chain operations using data science techniques. Achieved a 15% reduction in supply chain costs.
+* **Building a Recommendation System using Collaborative Filtering**: Built a recommendation system using collaborative filtering techniques. Achieved a 25% increase in user engagement.
+
+**Achievements:**
+
+* **Recipient of the ABC Corporation's Data Science Award (2020)**: Awarded for outstanding contributions to the development and implementation of data-driven solutions.
+* **Published in the Journal of Data Science (2019)**: Published a paper on "Predicting Customer Churn using Machine Learning" in the Journal of Data Science.
+* **Winner of the DEF Startup Hackathon (2019)**: Won a hackathon competition using data science techniques to optimize supply chain operations.
+
+I hope this sample resume helps! Let me know if you have any questions or if you'd like me to revise anything.

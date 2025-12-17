@@ -1,0 +1,50 @@
+Daniel Steele
+Contact Information:
+
+* Email: [daniel.steele@email.com](mailto:daniel.steele@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/danielsteele
+
+Summary:
+Highly motivated and detail-oriented data scientist with expertise in Python, data manipulation, machine learning, and NLP. Proven track record of delivering high-quality projects and insights that drive business growth.
+
+Technical Skills:
+
+* Programming languages: Python
+* Data manipulation: Pandas, NumPy, Matplotlib, Seaborn
+* Machine learning: Scikit-learn, TensorFlow, Keras
+* NLP: NLTK, spaCy, scikit-learn
+* Data storage: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Windows, Linux, macOS
+* Familiarity with cloud platforms: AWS, Google Cloud
+
+Professional Experience:
+
+Data Scientist, Acme Inc. (2018-Present)
+
+* Developed and deployed multiple machine learning models to predict customer churn and recommend personalized products
+* Built and maintained a data pipeline using Apache Beam and BigQuery to process and analyze large datasets
+* Collaborated with the marketing team to design and implement A/B testing experiments using Python and Jupyter Notebook
+* Created interactive visualizations using Tableau and Power BI to communicate insights to stakeholders
+
+Research Assistant, University of California, Berkeley (2015-2018)
+
+* Conducted research on natural language processing and machine learning techniques for text classification and sentiment analysis
+* Developed and tested multiple NLP models using Python and scikit-learn
+* Presented research findings at conferences and workshops, including the annual NLP conference
+
+Education:
+
+* Master of Science in Computer Science, University of California, Berkeley (2018)
+* Bachelor of Science in Computer Science, Stanford University (2015)
+
+Projects:
+
+* Text Classification using Deep Learning: Built a text classification model using TensorFlow and Keras to classify movie reviews as positive or negative.
+* Customer Churn Prediction using Machine Learning: Developed a machine learning model using Scikit-learn to predict customer churn based on demographic and usage data.
+* Sentiment Analysis using NLP: Created a sentiment analysis tool using NLTK and spaCy to analyze customer feedback and sentiment on social media.
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Scrum Master, Scrum Alliance (2020)

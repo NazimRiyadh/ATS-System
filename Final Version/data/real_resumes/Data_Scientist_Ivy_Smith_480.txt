@@ -1,0 +1,61 @@
+Here's a sample resume for Ivy Smith, a Data Scientist who was select for the role:
+
+**Ivy Smith**
+**Data Scientist**
+
+**Contact Information:**
+
+* Email: [ivysmith@email.com](mailto:ivysmith@email.com)
+* Phone: 555-123-4567
+* LinkedIn: linkedin.com/in/ivysmithds
+
+**Summary:**
+Highly motivated and detail-oriented Data Scientist with 5+ years of experience in data analysis, machine learning, and visualization. Proven track record of delivering insights that drive business growth and improvement. Skilled in programming languages, data manipulation, and statistical modeling. Strong passion for learning and staying up-to-date with industry trends.
+
+**Technical Skills:**
+
+* Programming languages: Python, R, SQL
+* Data manipulation and analysis: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+* Machine learning: scikit-learn, TensorFlow, PyTorch
+* Data visualization: Tableau, Power BI, D3.js
+* Operating Systems: Windows, Linux, macOS
+* Cloud platforms: AWS, Google Cloud, Azure
+* Database management: MySQL, PostgreSQL, MongoDB
+
+**Professional Experience:**
+
+* **Senior Data Scientist, ABC Corporation (2018-Present)**
+	+ Led multiple data science projects, including predictive modeling, clustering analysis, and data visualization
+	+ Collaborated with cross-functional teams to identify business opportunities and develop data-driven solutions
+	+ Developed and implemented machine learning models using scikit-learn and TensorFlow
+	+ Created interactive dashboards using Tableau and Power BI to communicate insights to stakeholders
+* **Data Analyst, DEF Company (2015-2018)**
+	+ Analyzed large datasets to identify trends and patterns, and presented findings to senior leadership
+	+ Developed and maintained data visualizations using D3.js and Matplotlib
+	+ Assisted in the development of predictive models using scikit-learn and R
+
+**Education:**
+
+* **Master of Science in Data Science, XYZ University (2015)**
+* **Bachelor of Science in Computer Science, ABC University (2013)**
+
+**Achievements:**
+
+* **Winner, ABC Corporation's Data Science Competition (2019)**
+	+ Developed a predictive model that accurately predicted customer churn, resulting in a 25% reduction in churn rate
+* **Finalist, DEF Company's Analytics Challenge (2017)**
+	+ Analyzed customer purchasing behavior and developed insights that led to a 15% increase in sales
+
+**Projects:**
+
+* **Predicting House Prices using Machine Learning (2019)**
+	+ Developed a predictive model using TensorFlow and scikit-learn to predict house prices based on features such as location, size, and amenities
+	+ Achieved a 90% accuracy rate on the test dataset
+* **Analyzing Customer Feedback using Text Analysis (2018)**
+	+ Developed a text analysis pipeline using NLTK and scikit-learn to analyze customer feedback and identify sentiment trends
+	+ Presented findings to senior leadership, resulting in changes to customer service strategies
+
+**Certifications:**
+
+* **Certified Data Scientist, Data Science Council of America (2019)**
+* **Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2018)**

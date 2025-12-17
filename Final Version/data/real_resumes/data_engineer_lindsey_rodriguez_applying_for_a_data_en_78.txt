@@ -1,0 +1,55 @@
+here's a sample resume for lindsey rodriguez applying for a data engineer role:
+
+lindsey rodriguez
+contact information:
+
+* email: [lindsey.rodriguez@email.com](mailto:lindsey.rodriguez@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/lindseyrodriguez
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, and cloud platforms. proven track record of designing, implementing, and deploying scalable data engineering solutions. skilled in automating data workflows and integrating with various data sources.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering tools: airflow, apache beam, aws glue
+* cloud platforms: aws, gcp, azure
+* mlops: tensorflow, pytorch, scikit-learn
+* data warehousing: amazon redshift, google bigquery
+* data visualization: tableau, power bi
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* design and implement data pipelines using airflow and apache beam to integrate with various data sources
+* develop and deploy machine learning models using tensorflow and pytorch
+* collaborate with cross-functional teams to design and implement data warehousing solutions on amazon redshift and google bigquery
+* automate data workflows using cloud functions and cloud tasks on aws and gcp
+* ensure data quality and integrity through data validation and testing
+
+data analyst, def start-up (2015-2018)
+
+* worked on developing data visualizations using tableau and power bi
+* analyzed and reported data insights to stakeholders
+* collaborated with the development team to integrate data into the product
+* developed and maintained data models using sql and python
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified cloud practitioner, aws (2018)
+
+projects:
+
+* mlops pipeline: designed and implemented a fully automated mlops pipeline using airflow, tensorflow, and aws sagemaker
+* data warehouse optimization: optimized a data warehouse on amazon redshift, resulting in a 30% reduction in query time and a 25% reduction in costs
+
+references:
+available upon request.

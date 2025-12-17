@@ -1,0 +1,57 @@
+kabir kapoor
+contact information:
+
+* email: [kabir.kapoor@email.com](mailto:kabir.kapoor@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/kabirkapoor
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in extracting insights from complex data sets using statistical analysis, machine learning, and deep learning techniques. skilled in python, sql, and data visualization tools with a strong background in statistics and computer science.
+
+technical skills:
+
+* programming languages: python
+* machine learning: scikit-learn, tensorflow
+* deep learning: tensorflow, keras
+* data visualization: matplotlib, seaborn, plotly
+* database management: sql
+* statistical analysis: hypothesis testing, regression, time series analysis
+* a/b testing: statistical analysis and interpretation of results
+* data preprocessing: handling missing values, data normalization, feature engineering
+
+professional experience:
+
+data scientist, xyz corporation (2018-present)
+
+* designed and implemented predictive models using machine learning algorithms to forecast sales and revenue
+* developed and deployed a/b testing framework to measure the impact of design changes on user engagement
+* collaborated with cross-functional teams to integrate data-driven insights into product development
+* built and maintained databases using sql to store and analyze large datasets
+* created data visualizations using matplotlib and seaborn to present findings to stakeholders
+
+data analyst, abc startups (2015-2018)
+
+* analyzed customer behavior and preferences using statistical analysis and data visualization techniques
+* developed and maintained dashboards using tableau to track key performance indicators
+* worked with data engineers to design and implement data pipelines using python and sql
+* collaborated with product managers to identify areas for improvement and develop data-driven solutions
+
+education:
+
+* master of science in computer science, stanford university (2015)
+	+ coursework: machine learning, deep learning, natural language processing, computer vision
+	+ thesis: "predicting customer churn using machine learning techniques"
+* bachelor of science in statistics, university of california, berkeley (2013)
+	+ coursework: statistical inference, regression analysis, time series analysis
+
+achievements:
+
+* winner, data science competition at stanford university (2015)
+	+ developed and presented a predictive model using machine learning algorithms to forecast stock prices
+* published research paper, "predicting customer churn using machine learning techniques" in journal of machine learning research (2016)
+	+ presented research findings at international conferences and workshops
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)

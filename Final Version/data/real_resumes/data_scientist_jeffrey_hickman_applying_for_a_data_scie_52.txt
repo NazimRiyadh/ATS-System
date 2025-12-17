@@ -1,0 +1,57 @@
+here's a sample resume for jeffrey hickman applying for a data scientist role:
+
+jeffrey hickman
+contact information:
+
+* email: [jeffrey.hickman@email.com](mailto:jeffrey.hickman@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/jeffreyhickman
+* github: github.com/jeffreyhickman
+
+summary:
+highly motivated and detail-driven data scientist with expertise in statistics, machine learning, and deep learning. proven track record of developing and deploying predictive models that drive business value. skilled in programming languages such as python, r, and sql. strong understanding of data visualization and communication of complex results to non-technical stakeholders.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning frameworks: scikit-learn, tensorflow, pytorch
+* deep learning frameworks: keras, theano
+* data visualization libraries: matplotlib, seaborn, plotly
+* statistical software: r, sas, spss
+* operating systems: windows, linux, macos
+* agile project management methodologies: scrum, kanban
+
+professional experience:
+
+senior data scientist, abc corporation (2018-present)
+
+* developed and deployed predictive models for customer churn, credit risk, and demand forecasting, resulting in 20% reduction in churn rate and 15% increase in revenue
+* led a team of data analysts to design and implement a/b testing and experimentation framework, resulting in 10% increase in conversion rate
+* collaborated with cross-functional teams to develop data-driven solutions for business problems, including marketing, sales, and operations
+* mentored junior data scientists and analysts to improve their skills and knowledge in machine learning and data visualization
+
+data scientist, def startup (2015-2018)
+
+* built and deployed machine learning models for anomaly detection, recommendation systems, and natural language processing
+* worked closely with product team to design and implement data-driven features, resulting in 25% increase in user engagement
+* conducted exploratory data analysis to identify trends and patterns in customer behavior, leading to 15% increase in sales
+* presented results to executive team and stakeholders, using data visualization and storytelling techniques
+
+education:
+
+* ph.d. in statistics, xyz university (2010-2015)
+	+ dissertation: "modeling and forecasting time series data using machine learning techniques"
+* b.s. in mathematics, abc university (2006-2010)
+
+certifications:
+
+* certified data scientist, data science council of america (2016)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+publications:
+
+* hickman, j. (2018). "predicting customer churn using machine learning techniques." journal of business analytics, 1(1), 1-15.
+* hickman, j. (2016). "modeling time series data using deep learning techniques." journal of time series analysis, 37(3), 341-355.
+
+references:
+available upon request.

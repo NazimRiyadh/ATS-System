@@ -1,0 +1,57 @@
+here is a sample resume for brenda garcia applying for a software engineer position:
+
+brenda garcia
+contact information:
+
+* address: 123 main st, anytown, usa 12345
+* phone: (555) 555-5555
+* email: [brenda.garcia@email.com](mailto:brenda.garcia@email.com)
+* linkedin: linkedin.com/in/brendagarcia
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and testing software applications. skilled in multiple programming languages, including java, c++, and python. strong understanding of algorithms and data structures, with a passion for solving complex problems.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting (bubble sort, quick sort, merge sort), searching (linear search, binary search), dynamic programming
+* development tools: eclipse, intellij idea, git, maven
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc company (2018-present)
+
+* designed and developed multiple software applications using java and c++
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* implemented algorithms and data structures to optimize system performance and scalability
+* conducted unit testing and integration testing to ensure high-quality software releases
+* participated in code reviews and provided feedback to improve team code quality
+
+junior software engineer, def startups (2016-2018)
+
+* developed and maintained multiple python scripts for data analysis and processing
+* worked on a team to design and implement a web-based application using java and spring framework
+* implemented data structures and algorithms to optimize system performance and scalability
+* conducted unit testing and integration testing to ensure high-quality software releases
+
+education:
+
+* bachelor of science in computer science, xyz university (2016)
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+
+projects:
+
+* personal project: image processing application (2018)
+	+ developed a java application to perform image processing tasks, such as image filtering and enhancement
+	+ implemented algorithms and data structures to optimize system performance and scalability
+* personal project: chatbot application (2017)
+	+ developed a python application to create a chatbot using natural language processing techniques
+	+ implemented data structures and algorithms to optimize system performance and scalability
+
+references:
+available upon request.

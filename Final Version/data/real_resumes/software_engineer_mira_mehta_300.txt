@@ -1,0 +1,53 @@
+mira mehta
+contact information:
+
+* email: [mira.mehta@email.com](mailto:mira.mehta@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/miramehta
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in designing, developing, and deploying scalable, efficient, and reliable software systems. proficient in multiple programming languages, including java, python, and javascript, with experience in system design, algorithms, data structures, and rest apis. strong passion for learning and adapting to new technologies and methodologies.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, restful apis, event-driven architecture
+* algorithms and data structures: arrays, linked lists, stacks, queues, trees, graphs
+* development tools: git, ci/cd pipelines, docker
+* databases: relational databases (mysql, postgresql), nosql databases (mongodb, cassandra)
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc company (2020-present)
+
+* designed and developed multiple microservices using java, python, and javascript, with a focus on scalability, reliability, and performance
+* collaborated with cross-functional teams to identify and prioritize project requirements, ensuring timely delivery of high-quality software
+* implemented restful apis using spring boot, flask, and node.js, with a strong focus on security and authentication
+* participated in code reviews, ensuring adherence to coding standards and best practices
+* utilized git for version control and ci/cd pipelines for automated testing and deployment
+
+junior software engineer, def startups (2018-2020)
+
+* contributed to the development of multiple web applications using python, javascript, and react, with a focus on user experience and interface design
+* assisted in the design and implementation of algorithms and data structures for complex problems, resulting in improved efficiency and performance
+* worked closely with the qa team to identify and resolve bugs, ensuring high-quality software delivery
+* participated in code reviews and provided feedback to improve code quality and maintainability
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, database systems, computer networks, software engineering
+
+achievements:
+
+* winner, xyz university hackathon (2019): developed a machine learning-based chatbot using python and tensorflow, which won first prize in the hackathon
+* contributor, open-source project (2018-present): contributed to the development of a popular open-source project, python, and javascript libraries, resulting in improved functionality and community engagement
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified python developer, python institute (2018)
+
+references:
+available upon request.

@@ -1,0 +1,57 @@
+here's a sample resume for julie stokes applying for the role of data scientist:
+
+julie stokes
+contact information:
+
+* email: [juliestokes@email.com](mailto:juliestokes@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/juliestokes
+* github: github.com/juliestokes
+
+summary:
+highly motivated and detail-oriented data scientist with a strong foundation in statistics, machine learning, and data visualization. proficient in python and experienced in developing and deploying predictive models using deep learning techniques. proven ability to extract insights from complex data sets and communicate results effectively to both technical and non-technical stakeholders.
+
+technical skills:
+
+* programming languages: python (expert), r (intermediate), sql (intermediate)
+* deep learning frameworks: tensorflow, keras
+* machine learning libraries: scikit-learn, pytorch
+* data visualization tools: matplotlib, seaborn, plotly, tableau
+* operating systems: windows, linux, macos
+* familiarity with cloud-based platforms: aws, google cloud, azure
+
+experience:
+
+data scientist, xyz corporation (2018-present)
+
+* designed and developed predictive models using deep learning techniques to forecast sales and customer churn
+* built and deployed machine learning pipelines using scikit-learn and tensorflow
+* developed data visualizations using matplotlib and seaborn to communicate results to stakeholders
+* collaborated with cross-functional teams to identify business opportunities and develop data-driven solutions
+* mentored junior data scientists and engineers to improve team efficiency and knowledge sharing
+
+research assistant, abc university (2015-2018)
+
+* assisted in the development of statistical models to analyze large datasets in various fields, including medicine and social sciences
+* presented research findings at conferences and workshops, including the annual meeting of the american statistical association
+* co-authored several research papers published in peer-reviewed journals
+
+education:
+
+* master of science in statistics, abc university (2015)
+	+ coursework: statistical inference, machine learning, data mining, and data visualization
+	+ thesis: "deep learning for time series forecasting"
+* bachelor of science in mathematics, abc university (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* "predicting customer churn using deep learning": developed a deep learning model using tensorflow to predict customer churn for a telecom company. achieved 90% accuracy and reduced churn by 20%.
+* "analyzing crime patterns using geospatial data": built a machine learning model using scikit-learn to analyze crime patterns in a city using geospatial data. published the results in a peer-reviewed journal.
+
+references:
+available upon request.

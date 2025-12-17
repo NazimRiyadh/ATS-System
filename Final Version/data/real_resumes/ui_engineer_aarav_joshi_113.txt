@@ -1,0 +1,55 @@
+aarav joshi
+contact information:
+
+* email: [aajoshi@email.com](mailto:aajoshi@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/aaravjoshi
+
+summary:
+highly motivated and detail-oriented ui engineer with 4+ years of experience in designing and developing user-friendly, responsive, and accessible web applications using react, html, css, and javascript. proven expertise in ui/ux design, frontend testing, and web performance optimization.
+
+technical skills:
+
+* programming languages: html, css, javascript, react
+* ui/ux design: design thinking, wireframing, prototyping, usability testing
+* responsive design: mobile-first approach, media queries, flexbox
+* web accessibility: wcag 2.1 guidelines, screen reader compatibility, keyboard navigation
+* version control: git, github, svn
+* frontend testing: jest, enzyme, mocha, chai
+* web performance: code splitting, lazy loading, image optimization, caching
+
+professional experience:
+
+senior ui engineer, abc corporation (2019-present)
+
+* designed and developed multiple web applications using react, html, css, and javascript
+* collaborated with cross-functional teams to identify and prioritize ui/ux design requirements
+* implemented responsive design principles to ensure seamless user experience across various devices and browsers
+* conducted frontend testing using jest, enzyme, and mocha to ensure high-quality code
+* optimized web performance by implementing code splitting, lazy loading, and caching techniques
+* participated in code reviews to ensure adherence to coding standards and best practices
+
+ui engineer, def startups (2018-2019)
+
+* developed and maintained multiple web applications using react, html, css, and javascript
+* created ui/ux design prototypes using sketch and figma
+* implemented web accessibility features to ensure compliance with wcag 2.1 guidelines
+* collaborated with designers to create visually appealing and user-friendly interfaces
+* conducted frontend testing using jest and enzyme to ensure high-quality code
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, web development, ui/ux design
+	+ project: developed a web application using react, node.js, and mongodb to manage student records
+
+achievements:
+
+* completed a 3-month online course on ui/ux design, resulting in a 95% completion rate
+* participated in a hackathon, where the team developed a web application using react, node.js, and mongodb, winning the "best ui/ux design" award
+* published a blog post on web performance optimization, which received over 1,000 views and 50 comments
+
+certifications:
+
+* certified ui/ux designer, uiux design certification program (2019)
+* certified frontend developer, frontend masters (2018)

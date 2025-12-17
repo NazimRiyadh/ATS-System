@@ -1,0 +1,60 @@
+Here's a sample resume for Craig Diaz:
+
+Craig Diaz
+Contact Information:
+
+* Address: 123 Main St, Anytown, USA 12345
+* Phone: (555) 555-5555
+* Email: [craig.diaz@email.com](mailto:craig.diaz@email.com)
+* LinkedIn: linkedin.com/in/craigdiaz
+
+Summary:
+Highly motivated and detail-oriented Data Scientist with 5+ years of experience in applying statistical and machine learning techniques to drive business growth. Skilled in developing and deploying predictive models, data visualization, and data storytelling. Proficient in programming languages such as Python, R, and SQL. Profound understanding of deep learning concepts and experience with TensorFlow.
+
+Technical Skills:
+
+* Programming languages: Python, R, SQL
+* Machine Learning: Supervised and unsupervised learning, regression, classification, clustering, neural networks
+* Deep Learning: Convolutional Neural Networks, Recurrent Neural Networks, Long Short-Term Memory
+* Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
+* Data Science Tools: TensorFlow, scikit-learn, pandas, NumPy
+* Databases: MySQL, PostgreSQL
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Senior Data Scientist, ABC Corporation (2018-Present)
+
+* Led the development and deployment of predictive models to improve customer churn prediction, resulting in a 25% reduction in customer loss
+* Collaborated with cross-functional teams to design and implement data-driven solutions, resulting in a 15% increase in sales revenue
+* Developed and maintained a robust data pipeline using Apache Beam and BigQuery, enabling real-time data processing and analysis
+* Created interactive data visualizations using Tableau to communicate insights to stakeholders, resulting in a 30% increase in data-driven decision making
+
+Data Scientist, DEF Startups (2015-2018)
+
+* Built and deployed machine learning models using scikit-learn and TensorFlow to predict customer behavior, resulting in a 20% increase in conversion rates
+* Developed and maintained a data warehouse using PostgreSQL and SQL, enabling business users to access data insights in real-time
+* Collaborated with the product team to design and develop data-driven product features, resulting in a 25% increase in user engagement
+* Created data visualizations using Matplotlib and Seaborn to communicate insights to stakeholders, resulting in a 25% increase in data-driven decision making
+
+Education:
+
+* Master of Science in Statistics, XYZ University (2015)
+	+ Coursework: Statistical Inference, Machine Learning, Data Visualization, Mathematical Statistics
+* Bachelor of Science in Mathematics, ABC College (2013)
+	+ Coursework: Calculus, Linear Algebra, Probability, Statistics
+
+Achievements:
+
+*  Winner, Data Science Competition (2019)
+	+ Developed and deployed a predictive model using TensorFlow and scikit-learn to predict stock prices, resulting in a 10% increase in accuracy
+*  Published Research Paper, Journal of Machine Learning Research (2018)
+	+ Co-authored a research paper on the application of deep learning to natural language processing, resulting in a 20% increase in citation rate
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2018)
+* Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2017)
+
+References:
+Available upon request.

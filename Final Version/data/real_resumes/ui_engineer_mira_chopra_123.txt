@@ -1,0 +1,54 @@
+mira chopra
+contact information:
+
+* email: [mirachopra@email.com](mailto:mirachopra@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/mirachopra
+
+summary:
+highly motivated and detail-oriented ui engineer with 5+ years of experience in designing and developing responsive, accessible, and performant web applications using react, html, css, and javascript. proficient in ui/ux design principles, web accessibility guidelines, and frontend testing methodologies.
+
+technical skills:
+
+* programming languages: html, css, javascript, react
+* ui/ux design tools: sketch, figma, adobe xd
+* responsive design and web accessibility: aria, wai-aria, wcag 2.1
+* version control: git, github
+* frontend testing: jest, enzyme, mocha
+* web performance: webpack, babel, lighthouse
+
+experience:
+
+senior ui engineer, abc corporation (2019-present)
+
+* designed and developed responsive web applications using react, html, and css
+* collaborated with cross-functional teams to implement ui/ux design principles and web accessibility guidelines
+* implemented frontend testing using jest and enzyme to ensure high-quality code
+* optimized web performance using webpack and babel
+* mentored junior engineers in ui/ux design, web accessibility, and frontend testing
+
+ui engineer, def startups (2015-2019)
+
+* developed responsive web applications using react, html, and css
+* implemented ui/ux design principles and web accessibility guidelines
+* conducted frontend testing using mocha and chai
+* optimized web performance using lighthouse and webpack
+* worked on multiple projects simultaneously, meeting tight deadlines and delivering high-quality results
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+achievements:
+
+* developed a responsive web application using react and html/css that achieved an accessibility rating of aa on the w3c web content accessibility guidelines (wcag 2.1)
+* implemented a frontend testing framework using jest and enzyme that increased code coverage by 30%
+* collaborated with a cross-functional team to launch a web application that achieved a performance score of 90+ on the google pagespeed insights
+
+certifications:
+
+* certified ui engineer, human interface design certification program (2018)
+* certified web accessibility specialist, international association of accessibility professionals (2016)
+
+references:
+available upon request.

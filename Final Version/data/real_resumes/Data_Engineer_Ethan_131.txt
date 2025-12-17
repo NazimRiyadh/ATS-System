@@ -1,0 +1,56 @@
+**Ethan**
+**Data Engineer**
+
+**Contact Information:**
+
+* Phone: (555) 555-5555
+* Email: [ethan@email.com](mailto:ethan@email.com)
+* LinkedIn: linkedin.com/in/ethan-dataengineer
+
+**Summary:**
+Highly skilled Mid-level Data Engineer with 5+ years of experience in designing, building, and maintaining large-scale data systems. Proven track record of success in real-time analytics, data pipeline orchestration, and data storage solutions. Achieved exceptional results in competitions, with a 4.7 rating. Adept in cloud data tools, data integration, SQL optimization, and programming languages such as Python and Scala. Thrives in hybrid environments, with expertise in both on-premises and cloud-based systems.
+
+**Technical Skills:**
+
+* Real-time analytics: Designed and implemented real-time analytics pipelines using Apache Kafka, Apache Storm, and Apache Flink.
+* Data pipeline orchestration: Utilized Apache Airflow, AWS Step Functions, and Google Cloud Composer to orchestrate complex data pipelines.
+* Data storage solutions: Experienced in designing and implementing scalable data storage solutions using Apache HBase, Apache Cassandra, and Amazon DynamoDB.
+* Cloud data tools: Proficient in using Google Cloud Platform (GCP), Amazon Web Services (AWS), and Microsoft Azure (Azure) for data engineering tasks.
+* Data integration: Skilled in integrating data from various sources using Apache NiFi, AWS Glue, and Google Cloud Dataflow.
+* SQL optimization: Optimized complex SQL queries using index tuning, query rewriting, and query optimization techniques.
+* Programming languages: Proficient in Python and Scala, with experience in using these languages for data engineering tasks.
+
+**Professional Experience:**
+
+* **Senior Data Engineer, ABC Corporation (2020-Present)**
+	+ Designed and implemented a real-time analytics pipeline using Apache Kafka and Apache Storm, resulting in a 30% reduction in latency.
+	+ Utilized Apache Airflow to orchestrate complex data pipelines, improving overall data processing time by 40%.
+	+ Collaborated with cross-functional teams to design and implement scalable data storage solutions using Apache HBase and Amazon DynamoDB.
+* **Data Engineer, DEF Startups (2018-2020)**
+	+ Developed and deployed cloud-based data engineering solutions using Google Cloud Platform (GCP) and Amazon Web Services (AWS).
+	+ Designed and implemented data integration pipelines using Apache NiFi and AWS Glue, resulting in a 25% reduction in data processing time.
+	+ Optimized complex SQL queries using index tuning and query rewriting techniques, resulting in a 20% improvement in query performance.
+
+**Achievements:**
+
+* **4.7 Rating, Data Engineering Competition (2020)**
+	+ Participated in a data engineering competition, where teams were given a set of data processing tasks to complete within a specified timeframe.
+	+ Achieved a 4.7 rating out of 5, with a 30% improvement in data processing time and a 25% reduction in latency.
+* **Winner, Data Science Hackathon (2019)**
+	+ Participated in a data science hackathon, where teams were given a set of data-related tasks to complete within a specified timeframe.
+	+ Won first prize, with a 40% improvement in data processing time and a 35% reduction in latency.
+
+**Education:**
+
+* **Bachelor of Science in Computer Science, XYZ University (2015-2019)**
+	+ Coursework included data structures, algorithms, computer systems, and software engineering.
+
+**Certifications:**
+
+* **Google Cloud Certified - Professional Data Engineer (2020)**
+	+ Completed a comprehensive training program in Google Cloud Platform (GCP) and passed a rigorous certification exam.
+* **AWS Certified Data Engineer - Specialty (2019)**
+	+ Completed a comprehensive training program in Amazon Web Services (AWS) and passed a rigorous certification exam.
+
+**References:**
+Available upon request.

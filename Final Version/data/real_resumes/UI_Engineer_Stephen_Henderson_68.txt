@@ -1,0 +1,53 @@
+Stephen Henderson
+UI Engineer
+
+Contact Information:
+
+* Phone: 555-555-5555
+* Email: [stephen.henderson@email.com](mailto:stephen.henderson@email.com)
+* LinkedIn: linkedin.com/in/stephenhenderson
+
+Summary:
+Results-driven UI Engineer with expertise in crafting exceptional user experiences through innovative use of Frontend Frameworks, Responsive Design, and Animation Libraries. Skilled in creating visually stunning and highly interactive interfaces that drive engagement and conversion.
+
+Technical Skills:
+
+* Frontend Frameworks: React, Angular, Vue.js
+* Responsive Design: Mobile-first, Media Queries, Flexbox
+* Animation Libraries: CSS Animations, GSAP, GreenSock
+* Programming Languages: JavaScript (ES6+), HTML5, CSS3
+* Version Control Systems: Git, GitHub
+* Build Tools: Webpack, Rollup, Gulp
+
+Professional Experience:
+
+Senior UI Engineer, ABC Company (2018-Present)
+
+* Designed and developed high-performance, responsive UI components using React and CSS-in-JS solutions
+* Collaborated with cross-functional teams to implement new features and enhance existing ones
+* Utilized animation libraries and CSS animations to create engaging and interactive experiences
+* Improved code quality and maintainability through code reviews and implementation of best practices
+
+UI Engineer, DEF Startup (2015-2018)
+
+* Built responsive and accessible UI components using Angular and Bootstrap
+* Developed custom animations and micro-interactions using CSS and JavaScript
+* Worked closely with designers to bring their vision to life and ensure seamless collaboration
+* Implemented automated testing and deployment scripts using Gulp and Webpack
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Frontend Developer, Google Developers Certification (2016)
+* Certified UI Engineer, Adobe Creative Cloud Certification (2018)
+
+Projects:
+
+* Responsive Web App: Built a fully responsive web app using React, CSS-in-JS, and GSAP animation library. [Live Demo](http://responsive-web-app.com)
+* Interactive UI Component: Created an interactive UI component using Angular, Bootstrap, and CSS animations. [Codepen Demo](http://codepen.io/stephen-henderson/pen/)
+
+References:
+Available upon request.

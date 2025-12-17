@@ -1,0 +1,60 @@
+Here's a sample resume for Shannon James, a Data Architect candidate:
+
+Shannon James
+Contact Information:
+
+* Email: [sjames@email.com](mailto:sjames@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/shannonjames
+* GitHub: github.com/shannonjames
+
+Professional Summary:
+Highly skilled Data Architect with 8+ years of experience in designing and implementing large-scale big data solutions on cloud platforms, with expertise in database design, data modeling, and data warehousing. Proven track record of delivering complex projects on time and on budget, with a strong focus on data governance, security, and compliance.
+
+Technical Skills:
+
+* Big Data Technologies: Hadoop, Spark, Hive, Pig, MapReduce
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Database Technologies: MySQL, PostgreSQL, Oracle, MongoDB
+* Data Warehousing: AWS Redshift, Amazon QuickSight, Google BigQuery
+* Data Modeling: ERwin, PowerDesigner, UML
+* Programming Languages: Java, Python, SQL, Scala
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Architect, ABC Corporation (2018-Present)
+
+* Designed and implemented a cloud-based big data analytics platform on AWS, using Hadoop, Spark, and Hive, to support business intelligence and data science initiatives
+* Led a team of 5 data engineers to develop and deploy data pipelines, data lakes, and data warehouses, using AWS services such as Glue, Lambda, and Redshift
+* Collaborated with stakeholders to define data governance policies and procedures, ensuring data quality, security, and compliance
+* Successfully migrated a 10TB database from on-prem to AWS, reducing costs by 30% and increasing query performance by 50%
+
+Data Architect, DEF Startups (2015-2018)
+
+* Designed and implemented a cloud-based data warehousing solution on Google Cloud, using BigQuery and Dataflow, to support business analytics and reporting
+* Developed and maintained a data governance framework, ensuring data quality, security, and compliance across the organization
+* Collaborated with product teams to develop data-driven products, using data modeling, data visualization, and data science techniques
+* Successfully implemented a data lake on Google Cloud, reducing data storage costs by 75% and improving data access by 90%
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2010-2012)
+* Bachelor of Science in Computer Science, ABC University (2006-2010)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Google Cloud Certified - Professional Data Engineer
+* Certified Data Architect, Data Science Council of America
+
+Achievements:
+
+* Winner of the 2019 AWS Innovation Award for Data Analytics
+* Winner of the 2018 Google Cloud Innovation Award for Data Engineering
+* Published several papers on big data and data science in top-tier conferences and journals, including ICDE and KDD
+
+References:
+Available upon request.
+
+I hope this helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

@@ -1,0 +1,65 @@
+Here's a sample resume for Justin Sullivan:
+
+Justin Sullivan
+Cloud Engineer
+
+Contact Information:
+
+* Email: [justin.sullivan@email.com](mailto:justin.sullivan@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/justingithub
+* GitHub: github.com/justingithub
+
+Professional Summary:
+
+Highly skilled Cloud Engineer with 5+ years of experience in designing, deploying, and managing cloud infrastructure on AWS, Azure, and Google Cloud. Proven expertise in cloud migration, serverless architecture, cloud networking, and scripting. Proficient in DevOps practices and tools, with a strong focus on automation, security, and scalability.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Cloud Migration: AWS Migration Hub, Azure Migrate, Google Cloud Migration
+* Serverless Architecture: AWS Lambda, Azure Functions, Google Cloud Functions
+* Cloud Networking: AWS VPC, Azure Virtual Network, Google Cloud VPC
+* Scripting: Python, Bash, PowerShell
+* DevOps Tools: Terraform, Ansible, Jenkins
+* Cloud Security: IAM, RBAC, Encryption
+
+Professional Experience:
+
+Cloud Engineer, ABC Corporation (2018-Present)
+
+* Designed and deployed cloud infrastructure on AWS, Azure, and Google Cloud for enterprise clients
+* Led cloud migration projects, resulting in 30% reduction in infrastructure costs and 25% increase in application performance
+* Implemented serverless architecture using AWS Lambda, Azure Functions, and Google Cloud Functions, resulting in 50% reduction in server costs
+* Developed and maintained cloud networking configurations for high-availability and scalability
+* Wrote and maintained scripts using Python, Bash, and PowerShell for automation and monitoring
+* Collaborated with cross-functional teams to ensure smooth operation of cloud-based applications
+
+Cloud Infrastructure Engineer, DEF startup (2015-2018)
+
+* Designed and deployed cloud infrastructure on AWS and Google Cloud for startup clients
+* Implemented cloud networking and security configurations for high-availability and scalability
+* Developed and maintained scripts using Python and Bash for automation and monitoring
+* Collaborated with cross-functional teams to ensure smooth operation of cloud-based applications
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Azure Certified Solutions Developer
+* Google Cloud Certified - Professional Cloud Developer
+
+Achievements:
+
+* Successfully migrated a large enterprise application to the cloud, resulting in 40% reduction in infrastructure costs and 30% increase in application performance
+* Developed and deployed a serverless architecture for a high-traffic e-commerce application, resulting in 60% reduction in server costs and 25% increase in application performance
+* Collaborated with a cross-functional team to develop and deploy a cloud-based disaster recovery solution, resulting in 99.99% uptime and 50% reduction in disaster recovery costs
+
+References:
+
+Available upon request.
+
+Note: This is just a sample resume, and you should customize your own resume to fit your specific experience and qualifications. Remember to use specific numbers and metrics to demonstrate the impact of your work, and to tailor your resume to the specific job you're applying for.

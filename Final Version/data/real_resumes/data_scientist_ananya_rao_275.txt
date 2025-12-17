@@ -1,0 +1,56 @@
+ananya rao
+data scientist
+
+contact information:
+
+* email: [ananya.rao@email.com](mailto:ananya.rao@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/ananya-rao
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in developing and implementing data-driven solutions using machine learning and statistical techniques. proficient in python, sql, and various data visualization tools. proven track record of delivering accurate and actionable insights to drive business growth.
+
+technical skills:
+
+* programming languages: python
+* machine learning libraries: scikit-learn, tensorflow
+* deep learning frameworks: tensorflow
+* data visualization tools: matplotlib, seaborn, tableau
+* database management: sql
+* statistical analysis: hypothesis testing, confidence intervals, regression analysis
+* a/b testing: design and analysis
+* data mining: exploratory data analysis, feature engineering
+
+professional experience:
+
+data scientist, abc corporation (2020-present)
+
+* developed and deployed machine learning models to predict customer churn and improve retention rates
+* conducted a/b testing to optimize marketing campaigns and improve conversion rates
+* built and maintained large-scale databases using sql to support data-driven decision making
+* collaborated with cross-functional teams to integrate data science insights into business strategy
+* presented findings and recommendations to senior leadership and stakeholders
+
+junior data scientist, def startups (2018-2020)
+
+* worked on various projects involving data wrangling, feature engineering, and model development
+* utilized statistical techniques to analyze and interpret data, and provided actionable insights to stakeholders
+* developed and maintained data visualization dashboards using tableau to support business decision making
+* collaborated with data engineers to design and implement data pipelines using python and sql
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: machine learning, deep learning, natural language processing, data mining
+* bachelor of science in statistics, pqr university (2016)
+	+ coursework: probability theory, statistical inference, regression analysis, time series analysis
+
+achievements:
+
+* winner, abc corporation hackathon (2020): developed a predictive model using scikit-learn and tensorflow to predict customer churn, resulting in a 20% reduction in churn rate
+* published research paper, international conference on data science (2019): co-authored a paper on "deep learning for image classification" using tensorflow and keras
+
+certifications:
+
+* certified data scientist, data science council of america (2018)
+* certified analytics professional, institute for operations research and the management sciences (2017)

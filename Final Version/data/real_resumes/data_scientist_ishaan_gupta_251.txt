@@ -1,0 +1,56 @@
+ishaan gupta
+contact information:
+
+* email: [ishaan.gupta@email.com](mailto:ishaan.gupta@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/ishaangupta
+
+summary:
+ highly motivated and detail-oriented data scientist with 4+ years of experience in developing and implementing data-driven solutions. proficient in python, statistics, machine learning, sql, deep learning, data visualization, a/b testing, and statistical analysis. proven track record of delivering high-impact projects that drive business growth.
+
+technical skills:
+
+* programming languages: python, r
+* machine learning: scikit-learn, tensorflow
+* data visualization: tableau, matplotlib, seaborn
+* statistical analysis: hypothesis testing, confidence intervals, regression analysis
+* sql: database design, query optimization
+* a/b testing: google optimize, vwo
+* deep learning: convolutional neural networks, recurrent neural networks
+
+education:
+
+* master of science in data science, new york university (2018-2020)
+	+ coursework: machine learning, data mining, statistical computing, data visualization
+* bachelor of technology in computer science, indian institute of technology (2014-2018)
+	+ coursework: algorithms, data structures, computer systems, database management
+
+work experience:
+
+* senior data scientist, abc corporation (2020-present)
+	+ led projects to develop predictive models for customer churn, revenue growth, and operational efficiency
+	+ collaborated with cross-functional teams to design and implement a/b testing experiments
+	+ developed and maintained large-scale databases using sql and nosql databases
+	+ utilized python and scikit-learn to build and deploy machine learning models
+	+ created data visualizations using tableau to communicate insights to stakeholders
+* data scientist, def startup (2018-2020)
+	+ designed and implemented data pipelines using python and apache beam
+	+ built and deployed deep learning models using tensorflow for image classification and natural language processing
+	+ collaborated with engineers to integrate machine learning models into production applications
+	+ conducted a/b testing experiments using google optimize and vwo to optimize user experience
+	+ developed and maintained sql databases to support analytics and reporting
+
+achievements:
+
+* developed a predictive model for customer churn that resulted in a 20% reduction in customer attrition
+* designed and implemented an a/b testing experiment that led to a 15% increase in conversion rates
+* built a deep learning model that achieved a 95% accuracy rate in image classification
+* published a research paper on "predicting stock prices using machine learning" in a peer-reviewed journal
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2020)
+
+references:
+available upon request.

@@ -1,0 +1,67 @@
+Brian Hunter
+UI Engineer
+
+Contact Information:
+
+* Email: [brian.hunter@email.com](mailto:brian.hunter@email.com)
+* Phone: 555-123-4567
+* LinkedIn: linkedin.com/in/brianhunter
+
+Summary:
+Highly skilled UI Engineer with 5+ years of experience in designing and developing visually appealing and user-friendly interfaces using cutting-edge technologies. Proficient in Frontend Frameworks, Version Control, and Animation Libraries.
+
+Technical Skills:
+
+* Frontend Frameworks:
+	+ React
+	+ Angular
+	+ Vue.js
+* Version Control:
+	+ Git
+	+ SVN
+* Animation Libraries:
+	+ CSS Animations
+	+ GSAP
+	+ Velocity.js
+* Programming Languages:
+	+ JavaScript (ES6+)
+	+ HTML5
+	+ CSS3
+* Operating Systems:
+	+ Windows
+	+ macOS
+	+ Linux
+
+Professional Experience:
+
+UI Engineer, ABC Corporation (2018-Present)
+
+* Design and develop high-performing, visually appealing user interfaces for web applications using React, Angular, and Vue.js
+* Collaborate with cross-functional teams to ensure seamless integration with backend services and third-party APIs
+* Utilize CSS Animations, GSAP, and Velocity.js to create engaging and interactive UI components
+* Implement responsive design principles to ensure optimal user experience across various devices and screen sizes
+* Participate in code reviews and contribute to the improvement of the codebase
+
+Frontend Developer, DEF Startups (2015-2018)
+
+* Developed multiple web applications using React, Angular, and Vue.js
+* Implemented Git branching strategies and SVN for version control
+* Worked with designers to translate wireframes and prototypes into functional UI components
+* Participated in Agile development methodologies and collaborated with the development team to meet project deadlines
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Frontend Developer, Certified Scrum Master
+
+Projects:
+
+* React Calendar: A customizable calendar component built using React and CSS Animations
+* Angular Todo List: A todo list application developed using Angular and GSAP
+* Vue.js Weather App: A weather application built using Vue.js and Velocity.js
+
+References:
+Available upon request.

@@ -1,0 +1,58 @@
+here's a sample resume for tina williamson applying for the role of data engineer:
+
+tina williamson
+data engineer
+
+contact information:
+
+* email: [twilliamson@email.com](mailto:twilliamson@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/tinawilliamson
+
+summary:
+highly motivated and experienced data engineer with a strong background in designing, building, and maintaining large-scale data processing systems. skilled in big data technologies, cloud platforms, and etl tools. proficient in using apache airflow for workflow management and apache spark for big data processing.
+
+technical skills:
+
+* programming languages: python, scala
+* big data technologies: apache hadoop, apache spark
+* cloud platforms: amazon web services (aws), google cloud platform (gcp)
+* etl tools: apache airflow, apache beam
+* data processing frameworks: apache spark, apache flink
+* databases: relational databases (e.g., mysql, postgresql), nosql databases (e.g., cassandra, mongodb)
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc company (2020-present)
+
+* design, build, and maintain large-scale data processing systems using apache airflow, apache spark, and apache hadoop
+* collaborate with data scientists and analysts to develop data pipelines and integrate with existing data architectures
+* develop and deploy etl processes to extract, transform, and load data from various sources
+* ensure data quality, security, and governance through data validation, data encryption, and access control
+* work with cloud platforms (aws, gcp) to deploy and manage data processing infrastructure
+
+senior data analyst, def startups (2018-2020)
+
+* designed and developed data pipelines using apache beam and apache spark
+* worked with data scientists to integrate machine learning models with large-scale data processing systems
+* developed and deployed data visualizations using tableau and power bi
+* collaborated with cross-functional teams to develop data-driven business insights
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2020)
+* certified big data developer, big data developer certification board (2019)
+
+projects:
+
+* designed and developed a data pipeline using apache airflow and apache spark to process large-scale iot data
+* built a data warehouse using amazon redshift and apache hive to analyze customer behavior data
+* developed a real-time data processing system using apache flink and apache kafka to process financial transactions data
+
+references:
+available upon request.

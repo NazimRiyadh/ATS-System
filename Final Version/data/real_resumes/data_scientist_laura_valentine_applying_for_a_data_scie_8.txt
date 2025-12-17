@@ -1,0 +1,57 @@
+here's a sample resume for laura valentine applying for a data scientist role:
+
+laura valentine
+contact information:
+
+* email: [laura.valentine@email.com](mailto:laura.valentine@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/lauravalentine
+* github: github.com/lauravalentine
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in statistics, machine learning, and deep learning. skilled in extracting insights from complex data sets and developing predictive models. proficient in sql and experienced in using statistical software.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning libraries: scikit-learn, tensorflow, keras
+* deep learning frameworks: pytorch, theano
+* databases: mysql, postgresql, mongodb
+* data visualization tools: matplotlib, seaborn, tableau
+* operating systems: windows, linux, macos
+
+professional experience:
+
+data scientist, abc company (2018-present)
+
+* developed and implemented predictive models using machine learning algorithms to improve customer segmentation and retention
+* analyzed large datasets using sql and statistical software to identify trends and patterns
+* collaborated with cross-functional teams to integrate data insights into business decisions
+* built and maintained dashboards using tableau to visualize key performance indicators
+
+data analyst, def startups (2015-2018)
+
+* collected and analyzed data from multiple sources using sql and data visualization tools
+* created reports and dashboards to communicate insights to stakeholders
+* developed and maintained databases using mysql and postgresql
+* assisted in the development of predictive models using scikit-learn and tensorflow
+
+education:
+
+* master of science in statistics, xyz university (2015)
+* bachelor of science in mathematics, abc university (2013)
+
+projects:
+
+* predicting customer churn: developed a machine learning model using tensorflow and scikit-learn to predict customer churn based on historical data. achieved an accuracy of 85% using a random forest classifier.
+* image classification: built a deep learning model using pytorch to classify images of animals. achieved an accuracy of 90% using a convolutional neural network.
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

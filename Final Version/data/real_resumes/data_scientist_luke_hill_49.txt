@@ -1,0 +1,58 @@
+here is a sample resume for luke hill applying for a data scientist role:
+
+luke hill
+contact information:
+
+* email: [lukewhill@email.com](mailto:lukewhill@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/lukewhill
+* github: github.com/lukewhill
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, machine learning, and deep learning. proven track record of extracting insights from complex data sets and developing predictive models to drive business decisions. proficient in sql and experienced in working with large datasets.
+
+technical skills:
+
+* programming languages: python ( proficiency in libraries such as numpy, pandas, and scikit-learn)
+* machine learning: supervised and unsupervised learning algorithms, neural networks, and deep learning techniques
+* deep learning: tensorflow, pytorch, and keras
+* statistics: hypothesis testing, confidence intervals, and regression analysis
+* sql: database design, data modeling, and querying (mysql, postgresql)
+* data visualization: matplotlib, seaborn, and plotly
+
+professional experience:
+
+data scientist, xyz corporation (20xx-20xx)
+
+* developed predictive models using machine learning and deep learning techniques to improve customer churn rates and increase revenue
+* worked with large datasets (100m+ rows) to identify trends and opportunities for business growth
+* designed and implemented data pipelines using python and sql to extract insights from complex data sources
+* collaborated with cross-functional teams to integrate data-driven insights into business decisions
+
+data analyst, abc start-up (20xx-20xx)
+
+* conducted statistical analysis and data visualization to identify areas of improvement in product performance
+* developed and maintained databases using sql to store and retrieve data for analysis
+* built and deployed machine learning models using scikit-learn and tensorflow to improve product recommendations
+* worked with stakeholders to communicate findings and recommendations for business growth
+
+education:
+
+* master of science in data science, [university name] (20xx-20xx)
+	+ coursework: machine learning, deep learning, natural language processing, and statistics
+* bachelor of science in computer science, [university name] (20xx-20xx)
+	+ coursework: algorithms, data structures, computer systems, and software engineering
+
+certifications:
+
+* certified data scientist, [certifying organization] (20xx)
+* certified analytics professional, [certifying organization] (20xx)
+
+projects:
+
+* predicting student success: developed a machine learning model using scikit-learn to predict student success based on demographic and academic data
+* image classification: built a deep learning model using pytorch to classify images into different categories using convolutional neural networks
+* time series forecasting: developed a predictive model using arima to forecast stock prices and identify trends in the market
+
+references:
+available upon request.

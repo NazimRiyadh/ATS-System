@@ -1,0 +1,58 @@
+here's a sample resume for joseph glover applying for the role of software engineer:
+
+joseph glover
+contact information:
+
+* email: [joseph.glover@email.com](mailto:joseph.glover@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/josephglover
+* github: github.com/josephglover
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable software applications using java and python. skilled in algorithms, data structures, and software engineering principles. proficient in agile development methodologies and version control systems.
+
+technical skills:
+
+* programming languages: java, python
+* development frameworks: spring, django
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, greedy, dynamic programming, recursion
+* operating systems: windows, linux, macos
+* agile development methodologies: scrum, kanban
+* version control systems: git, svn
+* database management systems: mysql, postgresql
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple software applications using java and python
+* collaborated with cross-functional teams to identify and prioritize feature requirements
+* implemented and maintained software infrastructure, including databases and apis
+* participated in code reviews and ensured adherence to coding standards
+* deployed software applications to production environments using continuous integration/continuous deployment (ci/cd) pipelines
+
+software development intern, def startups (summer 2017)
+
+* contributed to the development of a web-based application using python and django
+* assisted in testing and debugging software applications
+* conducted research on machine learning algorithms and their applications
+* presented research findings to the team and provided recommendations for future development
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, networking, database systems
+
+projects:
+
+* personal website: developed a personal website using python and flask, showcasing technical skills and experience
+* machine learning project: implemented a machine learning algorithm using python and scikit-learn to predict stock prices
+* game development: designed and developed a simple game using java and the java 3d api
+
+certifications:
+
+* scjp certification (2019)
+* certified scrum master (csm) certification (2020)
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

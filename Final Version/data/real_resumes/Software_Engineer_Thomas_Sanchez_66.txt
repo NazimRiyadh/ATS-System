@@ -1,0 +1,58 @@
+Thomas Sanchez
+Software Engineer
+
+Contact Information:
+
+* Phone: 555-123-4567
+* Email: [thomas.sanchez@email.com](mailto:thomas.sanchez@email.com)
+* LinkedIn: linkedin.com/in/thomassanchezsoftware
+
+Summary:
+Highly motivated and experienced software engineer with a strong background in Java, algorithm, and data structure. Proficient in web and backend development, testing, and API design. Proven track record of delivering high-quality software solutions.
+
+Technical Skills:
+
+* Programming languages: Java, Python
+* Development frameworks: Spring, Hibernate
+* Databases: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Windows, Linux
+* Agile methodologies: Scrum, Kanban
+* Testing frameworks: JUnit, Mockito
+* API design: RESTful APIs, GraphQL
+
+Professional Experience:
+
+Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple web applications using Java, Spring, and Hibernate
+* Implemented robust API endpoints using RESTful APIs and GraphQL
+* Collaborated with cross-functional teams to deliver high-quality software solutions
+* Conducted unit testing and integration testing using JUnit and Mockito
+* Participated in code reviews and ensured adherence to coding standards
+
+Software Developer, DEF Startups (2015-2018)
+
+* Built multiple web applications using Java, Spring, and AngularJS
+* Developed backend services using Node.js, Express, and MongoDB
+* Implemented testing frameworks using JUnit and Selenium
+* Collaborated with the development team to improve code quality and testing
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Projects:
+
+* Personal Project: Java Chat Application
+	+ Designed and developed a real-time chat application using Java, Spring, and WebSocket
+	+ Implemented user authentication and authorization using Spring Security
+	+ Conducted testing using JUnit and Mockito
+* Personal Project: Web Scraper
+	+ Built a web scraper using Python, BeautifulSoup, and Scrapy
+	+ Extracted data from multiple web sources using regular expressions and XPath
+	+ Stored data in a MongoDB database
+
+Certifications:
+
+* Certified Java Developer, Oracle Corporation (2016)
+* Certified Scrum Master, Scrum Alliance (2018)

@@ -1,0 +1,56 @@
+Here's a professional resume for Micheal Daniel, tailored to the Data Architect role:
+
+Micheal Daniel
+Contact Information:
+
+* Email: [michealdaniel@email.com](mailto:michealdaniel@email.com)
+* Phone: (555) 555-5555
+* LinkedIn: linkedin.com/in/michealdaniel
+* GitHub: github.com/michealdaniel
+
+Professional Summary:
+Highly experienced Data Architect with 8+ years of expertise in designing, developing, and implementing large-scale data architectures, integrating complex data sources, and leveraging cloud-based solutions to drive business growth. Skilled in data modeling, data integration, Big Data, and ETL tools, with a strong passion for innovation and leadership.
+
+Technical Skills:
+
+* Data Modeling: ER/Studio, PowerDesigner, Oracle Enterprise Data Modeler
+* Data Integration: Informatica PowerCenter, Talend, AWS Glue
+* Big Data: Hadoop, Spark, NoSQL databases (Cassandra, MongoDB)
+* Cloud Data Solutions: AWS, Azure, Google Cloud Platform
+* ETL Tools: Informatica PowerCenter, Talend, AWS Glue
+* Programming Languages: Java, Python, SQL
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Senior Data Architect, ABC Corporation (2018-Present)
+
+* Designed and developed a cloud-based data warehouse to support business intelligence and analytics initiatives, resulting in a 30% reduction in data processing times and a 25% increase in data quality
+* Led a team of 5 data engineers to design and implement a data integration platform using Informatica PowerCenter and AWS Glue, resulting in a 40% reduction in data latency and a 20% increase in data accuracy
+* Collaborated with cross-functional teams to design and implement a Big Data architecture using Hadoop and Spark, resulting in a 50% reduction in data processing costs and a 30% increase in data insights
+
+Data Architect, DEF Startups (2015-2018)
+
+* Designed and developed a data modeling framework using ER/Studio and PowerDesigner, resulting in a 25% reduction in data inconsistencies and a 20% increase in data quality
+* Led the implementation of a data integration platform using Talend and AWS Glue, resulting in a 30% reduction in data latency and a 25% increase in data accuracy
+* Collaborated with the product team to design and implement a real-time analytics platform using Apache Storm and Cassandra, resulting in a 40% increase in product adoption and a 25% increase in customer satisfaction
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2010-2012)
+* Bachelor of Science in Computer Science, XYZ University (2006-2010)
+
+Certifications:
+
+* AWS Certified Solutions Architect, Amazon Web Services (2019)
+* Google Cloud Certified - Professional Data Engineer, Google Cloud Platform (2018)
+* Informatica Certified PowerCenter Developer, Informatica (2016)
+
+Achievements:
+
+* Winner, ABC Corporation's Innovation Award (2019)
+* Finalist, DEF Startups' Product Innovation Award (2017)
+* Published author, "Designing Data Architectures for Cloud-Based Solutions" in the Journal of Cloud Computing (2020)
+
+References:
+Available upon request.

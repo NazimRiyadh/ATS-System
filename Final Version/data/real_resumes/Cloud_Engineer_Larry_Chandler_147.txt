@@ -1,0 +1,58 @@
+Here's a professional resume for Larry Chandler:
+
+Larry Chandler
+
+Cloud Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [larry.chandler@email.com](mailto:larry.chandler@email.com)
+* LinkedIn: linkedin.com/in/larrychandler
+* GitHub: github.com/lchandler
+
+Summary:
+Highly motivated and experienced Cloud Engineer with a strong background in cloud migration, serverless architecture, and DevOps. Proven track record of successfully designing, deploying, and managing scalable and secure cloud-based systems. Skilled in cloud migration frameworks, containerization, and automation tools.
+
+Professional Experience:
+
+Cloud Engineer, ABC Corporation (2020-Present)
+
+* Designed and implemented cloud migration strategies for multiple applications, resulting in 30% reduction in infrastructure costs and 25% improvement in deployment time
+* Built and deployed serverless applications using AWS Lambda and Azure Functions, achieving 99.99% uptime and 50% reduction in operational costs
+* Collaborated with cross-functional teams to design and implement DevOps pipelines, resulting in 40% reduction in mean time to recovery (MTTR)
+* Utilized automation tools such as Terraform, Ansible, and Jenkins to streamline infrastructure provisioning and deployment
+
+Senior Systems Engineer, DEF Startups (2018-2020)
+
+* Led the design and implementation of a cloud-based infrastructure for a SaaS application, resulting in 50% reduction in infrastructure costs and 25% improvement in performance
+* Developed and maintained scripts for automated deployment and scaling of containerized applications using Docker and Kubernetes
+* Collaborated with the development team to design and implement a continuous integration and continuous deployment (CI/CD) pipeline using Jenkins and GitLab CI/CD
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Skills:
+
+* Cloud Migration: AWS, Azure, Google Cloud, Terraform, CloudFormation
+* Serverless Architecture: AWS Lambda, Azure Functions, Google Cloud Functions
+* Containerization: Docker, Kubernetes
+* Automation Tools: Ansible, Jenkins, Terraform
+* DevOps: CI/CD pipelines, version control, Agile methodologies
+* Programming Languages: Python, Java, C++, Bash
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Azure Certified Solutions Architect
+* Google Cloud Certified - Professional Cloud Developer
+
+Achievements:
+
+* Winner of the 2020 AWS re:Invent Hackathon for innovative use of AWS services
+* Featured speaker at the 2019 AWS Summit for presentation on serverless architecture
+* Published article on cloud migration best practices in the 2020 issue of Cloud Computing Magazine
+
+References:
+Available upon request.

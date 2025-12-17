@@ -1,0 +1,61 @@
+Here's a sample resume for Troy Huffman, a DevOps Engineer candidate:
+
+Troy Huffman
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [troy.huffman@email.com](mailto:troy.huffman@email.com)
+* LinkedIn: linkedin.com/in/troyhuffman
+* GitHub: github.com/troyhuffman
+
+Professional Summary:
+
+Highly motivated and experienced DevOps Engineer with a strong background in containerization, orchestration, and automation. Proven track record of delivering high-quality solutions using Docker, Kubernetes, and Ansible. Skilled in Infrastructure as Code (IaC), monitoring tools, and cloud platforms. Passionate about ensuring scalability, reliability, and efficiency in software deployment and operations.
+
+Technical Skills:
+
+* Containerization: Docker
+* Orchestration: Kubernetes
+* Automation: Ansible
+* Infrastructure as Code: Terraform, AWS CloudFormation
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, GCP, Azure
+* Operating Systems: Linux (Ubuntu, CentOS), Windows
+* Programming Languages: Python, Bash, YAML
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a containerized application using Docker, Kubernetes, and Ansible, resulting in 30% reduction in deployment time and 25% increase in application uptime.
+* Developed and maintained Terraform scripts for infrastructure provisioning, ensuring 99.99% uptime and 50% reduction in provisioning time.
+* Implemented Prometheus and Grafana for monitoring and logging, resulting in 90% reduction in incident response time.
+* Collaborated with cross-functional teams to design and implement cloud-native architectures on AWS, GCP, and Azure.
+
+Senior System Administrator, DEF Company (2018-2020)
+
+* Managed and maintained a large-scale Linux environment, ensuring 99.99% uptime and 50% reduction in incident response time.
+* Implemented Ansible automation scripts for OS upgrades, patching, and configuration management, resulting in 75% reduction in manual effort.
+* Designed and implemented a monitoring toolset using Nagios and SolarWinds, resulting in 90% reduction in incident response time.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Achievements:
+
+* Completed Docker Certified Associate and Kubernetes Certified Application Developer certifications.
+* Published articles on DevOps and cloud-native architectures on Medium and LinkedIn.
+* Presented on DevOps and automation at industry conferences and meetups.
+
+Certifications:
+
+* Docker Certified Associate
+* Kubernetes Certified Application Developer
+* AWS Certified Solutions Architect - Associate
+
+References:
+
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your resume to fit your own experiences and style. Good luck with your job search!

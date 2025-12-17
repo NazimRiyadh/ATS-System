@@ -1,0 +1,68 @@
+Here's a professional resume for Candace Maldonado:
+
+Candace Maldonado
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [candacemaldonado@email.com](mailto:candacemaldonado@email.com)
+* LinkedIn: linkedin.com/in/candacemaldonado
+* GitHub: github.com/candacemaldonado
+
+Summary:
+Highly motivated and detail-oriented data scientist with a strong background in Python, statistics, machine learning, and deep learning. Proficient in data visualization tools, with expertise in extracting insights from complex data sets. Proven track record of delivering high-quality projects and collaborating effectively with cross-functional teams.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine learning libraries: scikit-learn, TensorFlow, PyTorch
+* Deep learning frameworks: Keras, OpenCV
+* Data visualization tools: Matplotlib, Seaborn, Plotly, Tableau
+* Operating Systems: Windows, Linux
+* Familiarity with cloud platforms: AWS, Google Cloud
+
+Professional Experience:
+
+* Data Scientist, ABC Company (2020-Present)
+	+ Developed and deployed machine learning models using scikit-learn and TensorFlow to predict customer churn
+	+ Collaborated with the marketing team to design and implement A/B testing experiments using Python and R
+	+ Created data visualizations using Matplotlib and Seaborn to communicate insights to stakeholders
+	+ Built and maintained a dashboard using Tableau to track key performance indicators (KPIs)
+* Research Assistant, DEF University (2018-2020)
+	+ Conducted research on natural language processing using PyTorch and OpenCV
+	+ Co-authored a paper on sentiment analysis using deep learning techniques
+	+ Presented research findings at conferences and seminars
+
+Education:
+
+* Master of Science in Data Science, DEF University (2018)
+	+ Coursework: Machine Learning, Deep Learning, Natural Language Processing, Data Visualization
+* Bachelor of Science in Statistics, GHI University (2016)
+	+ Coursework: Probability, Statistics, Regression Analysis, Time Series Analysis
+
+Achievements:
+
+* Winner, ABC Company Hackathon (2020)
+	+ Developed a predictive model using scikit-learn to forecast sales
+	+ Won 1st prize with a team of three
+* Best Paper Award, DEF University Conference (2019)
+	+ Presented research on sentiment analysis using deep learning techniques
+	+ Received the award for outstanding research in the field of data science
+
+Projects:
+
+* House Price Prediction using Machine Learning
+	+ Developed a predictive model using scikit-learn to forecast house prices
+	+ Deployed the model using Flask and Heroku
+	+ Open-sourced the code on GitHub
+* Image Classification using Deep Learning
+	+ Built a convolutional neural network (CNN) using PyTorch to classify images
+	+ Achieved 95% accuracy on a test dataset
+	+ Presented the findings at a conference
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Python Programming Certification, Python Institute (2018)
+
+References:
+Available upon request.

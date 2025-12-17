@@ -1,0 +1,61 @@
+Here's a professional resume for Alyssa Montgomery:
+
+Alyssa Montgomery
+Contact Information:
+
+* Address: 123 Main St, Anytown, USA 12345
+* Phone: (555) 555-5555
+* Email: [alyssa.montgomery@email.com](mailto:alyssa.montgomery@email.com)
+* LinkedIn: linkedin.com/in/alyssamontgomery
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in containerization, orchestration, and automation. Proficient in Docker, Kubernetes, Ansible, and Infrastructure as Code, with a proven track record of delivering scalable and reliable infrastructure solutions. Passionate about collaborating with cross-functional teams to improve software development workflows and drive business growth.
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a modern containerization strategy using Docker, resulting in a 30% reduction in application deployment time
+* Collaborated with the Dev team to migrate legacy applications to a Kubernetes-based platform, achieving a 99.9% uptime and 50% reduction in server utilization
+* Developed and maintained Ansible playbooks for infrastructure provisioning and configuration, ensuring consistency and reproducibility across environments
+* Implemented Infrastructure as Code using Terraform and AWS CloudFormation, automating infrastructure deployments and reducing human error
+* Contributed to the development of a DevOps pipeline using Jenkins and GitLab CI/CD, enabling continuous integration and delivery of software applications
+
+Junior DevOps Engineer, DEF Startups (2018-2020)
+
+* Assisted in the design and implementation of a Docker-based microservices architecture, resulting in a 25% reduction in application latency
+* Developed and maintained scripts for automation of infrastructure provisioning and configuration using Ansible
+* Collaborated with the QA team to implement continuous integration and delivery pipelines using Jenkins and GitLab CI/CD
+* Participated in the development of a cloud-agnostic infrastructure provisioning tool using Terraform and AWS CloudFormation
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2018)
+
+Skills:
+
+* Containerization: Docker, Kubernetes
+* Orchestration: Ansible, Helm
+* Infrastructure as Code: Terraform, AWS CloudFormation, Ansible
+* Automation: Jenkins, GitLab CI/CD, Ansible
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Programming Languages: Python, Bash, Ruby
+* Agile Methodologies: Scrum, Kanban
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Automation Professional (CAAP)
+* Certified AWS Certified Solutions Architect - Associate
+
+Achievements:
+
+* Winner of the 2020 ABC Company Hackathon, developing a novel application deployment strategy using Docker and Kubernetes
+* Finalist in the 2019 DEF Startups Innovation Challenge, proposing a novel approach to infrastructure provisioning using Terraform and AWS CloudFormation
+
+Professional Memberships:
+
+* Member, DevOps Institute
+* Member, Cloud Native Computing Foundation
+
+Note: I've kept the achievements and certifications section concise, focusing on the most relevant and impactful ones. You can add or remove sections as needed to tailor the resume to your specific experience and goals.

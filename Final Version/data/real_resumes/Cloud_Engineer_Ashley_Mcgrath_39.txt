@@ -1,0 +1,63 @@
+Here's a sample resume for Ashley Mcgrath, a Cloud Engineer candidate:
+
+Ashley Mcgrath
+Cloud Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [ashley.mcgrath@email.com](mailto:ashley.mcgrath@email.com)
+* LinkedIn: linkedin.com/in/ashleymcgrath
+
+Summary:
+Highly motivated and experienced Cloud Engineer with a strong background in Cloud Migration, Cloud Cost Optimization, Cloud Networking, and Scripting. Proven track record of delivering complex cloud projects on time and within budget. Skilled in designing and implementing scalable, secure, and efficient cloud architectures.
+
+Professional Experience:
+
+Cloud Engineer, XYZ Corporation (2018-Present)
+
+* Designed and implemented cloud migration strategies for large-scale applications, resulting in 30% reduction in operational costs
+* Optimized cloud costs by 25% through automation and rightsizing of resources
+* Implemented cloud networking solutions, including VPCs, subnets, and security groups, ensuring secure and compliant network architecture
+* Developed and deployed scripts using Python and PowerShell to automate cloud infrastructure provisioning and management
+* Collaborated with cross-functional teams to design and implement cloud-based solutions, ensuring seamless integration with existing on-premises infrastructure
+
+Cloud Architect, ABC Startups (2015-2018)
+
+* Designed and implemented cloud-based infrastructure for a startup, resulting in 50% reduction in infrastructure costs
+* Developed and deployed cloud networking solutions, including load balancers and firewalls, ensuring high availability and security
+* Implemented cloud cost optimization strategies, resulting in 20% reduction in operational costs
+* Collaborated with development teams to design and implement cloud-based solutions, ensuring seamless integration with existing on-premises infrastructure
+
+Education:
+
+* Bachelor of Science in Computer Science, University of California, Berkeley (2015)
+
+Certifications:
+
+* Amazon Web Services (AWS) Certified Solutions Architect - Associate
+* Microsoft Certified: Azure Solutions Architect Expert
+* Google Cloud Certified - Professional Cloud Developer
+
+Skills:
+
+* Cloud Migration (AWS, Azure, GCP)
+* Cloud Cost Optimization (Rightsizing, Reserved Instances, Spot Instances)
+* Cloud Networking (VPCs, subnets, security groups, firewalls)
+* Scripting (Python, PowerShell, Bash)
+* Cloud Security (IAM, encryption, access control)
+* Cloud Monitoring and Logging (CloudWatch, Azure Monitor, Stackdriver)
+
+Achievements:
+
+* AWS re:Invent 2019 - Award for Excellence in Cloud Migration
+* Azure Cloud Summit 2018 - Award for Best Cloud Architecture
+* Gartner Peer Insights - Top 10 Cloud Engineer
+
+Professional Memberships:
+
+* AWS User Group
+* Azure User Group
+* Google Cloud Developer Community
+
+This is just a sample, and you should tailor your resume to your specific experience and qualifications. Remember to use clear and concise language, and highlight your achievements and skills in a clear and concise manner. Good luck with your job search!

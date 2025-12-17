@@ -1,0 +1,49 @@
+Ian Martinez
+Contact Information:
+
+* Email: [ian.martinez@email.com](mailto:ian.martinez@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/ianmartinezds
+* GitHub: github.com/ianmartinezds
+
+Summary:
+
+Highly motivated and detail-oriented Data Scientist with expertise in Python, Natural Language Processing (NLP), Deep Learning, and Data Visualization. Proven track record of delivering high-quality projects that drive business value. Skilled in extracting insights from complex data sets and communicating results to both technical and non-technical stakeholders.
+
+Professional Experience:
+
+Data Scientist, ABC Company (2018-Present)
+
+* Developed and deployed multiple predictive models using Python and Deep Learning techniques to improve customer churn prediction accuracy by 25%
+* Collaborated with cross-functional teams to design and implement a data-driven approach to product recommendation, resulting in a 15% increase in sales
+* Created interactive visualizations using Tableau and D3.js to communicate complex insights to senior leadership, resulting in a 30% reduction in project timelines
+
+Research Assistant, University of California (2015-2018)
+
+* Conducted research in NLP, focusing on sentiment analysis and topic modeling using Python and scikit-learn
+* Developed and presented research papers at international conferences, including ACL and NAACL
+* Collaborated with faculty members to design and teach courses on Data Science and Machine Learning
+
+Education:
+
+* Master of Science in Computer Science, University of California (2015-2017)
+* Bachelor of Science in Computer Science, University of California (2011-2015)
+
+Skills:
+
+* Programming languages: Python, R, SQL
+* Data science libraries: Pandas, NumPy, scikit-learn, TensorFlow, Keras
+* NLP libraries: NLTK, spaCy, gensim
+* Data visualization tools: Tableau, D3.js, Matplotlib, Seaborn
+* Operating systems: Windows, Linux, macOS
+* Cloud platforms: AWS, Google Cloud, Azure
+
+Projects:
+
+* Movie Recommendation System: Developed a movie recommendation system using collaborative filtering and matrix factorization techniques, resulting in a 20% increase in user engagement
+* Sentiment Analysis of Twitter Data: Built a sentiment analysis model using NLP and Deep Learning techniques to classify tweets as positive, negative, or neutral, with an accuracy of 85%
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Scrum Master, Scrum Alliance (2018)

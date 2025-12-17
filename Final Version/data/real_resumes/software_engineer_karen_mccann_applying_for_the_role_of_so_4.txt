@@ -1,0 +1,55 @@
+here's a sample resume for karen mccann applying for the role of software engineer:
+
+karen mccann
+contact information:
+
+* email: [karen.mccann@email.com](mailto:karen.mccann@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/karenmccann
+* github: github.com/karenmccann
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and testing software applications using java, python, and other programming languages. proven expertise in algorithms, data structures, and system design. strong problem-solving skills and excellent communication skills.
+
+technical skills:
+
+* programming languages: java, python, c++, javascript
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, sorting and searching algorithms
+* system design: microservices architecture, restful apis, designing scalable and efficient systems
+* development tools: git, svn, eclipse, intellij idea, visual studio code
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+software engineer, abc company (2018-present)
+
+* designed and developed multiple software applications using java and python, including a cloud-based platform for data analytics
+* collaborated with cross-functional teams to identify and prioritize project requirements, ensuring timely delivery and high-quality results
+* implemented algorithms and data structures to optimize system performance and scalability
+* participated in code reviews and ensured adherence to coding standards and best practices
+* mentored junior engineers and provided guidance on software development best practices
+
+software development intern, def startups (2015-2016)
+
+* contributed to the development of a web application using python and django
+* assisted in testing and debugging the application, ensuring high-quality results
+* participated in code reviews and learned from more experienced engineers
+* gained experience in agile methodologies, including scrum and kanban
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+certifications:
+
+* certified java developer, oracle corporation (2018)
+* certified python developer, python institute (2019)
+
+personal projects:
+
+* developed a machine learning-based recommendation system using python and scikit-learn
+* created a web scraper using python and beautifulsoup to extract data from a website
+* designed and developed a simple chatbot using java and natural language processing techniques
+
+i hope this sample resume helps! remember to customize your resume to fit your own experiences and the specific job you're applying for.

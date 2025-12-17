@@ -1,0 +1,59 @@
+Here's a sample resume for Anthony Barajas:
+
+Anthony Barajas
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [anthony.barajas@email.com](mailto:anthony.barajas@email.com)
+* LinkedIn: linkedin.com/in/anthonybarajas
+* GitHub: github.com/anthonybarajas
+
+Professional Summary:
+Highly motivated and detail-oriented QA Engineer with 5 years of experience in ensuring the quality and reliability of software applications. Skilled in automated testing, bug tracking, and performance testing. Proficient in Selenium and passionate about delivering high-quality software that meets customer requirements.
+
+Technical Skills:
+
+* Programming languages: Java, Python, C#
+* Test automation frameworks: Selenium, Appium, TestNG
+* Bug tracking tools: JIRA, Bugzilla, Trello
+* Performance testing tools: JMeter, NeoLoad
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+
+Work Experience:
+
+QA Engineer, ABC Corporation (2018-Present)
+
+* Design and execute automated test scripts using Selenium WebDriver for web applications
+* Identify and report defects using JIRA, ensuring timely resolution and verification
+* Collaborate with development team to reproduce and fix bugs, improving overall product stability
+* Conduct performance testing using JMeter, ensuring optimal application performance and scalability
+* Participate in code reviews, providing feedback on testability and reliability
+
+QA Analyst, DEF Company (2015-2018)
+
+* Created and executed manual test cases for software applications, ensuring thorough testing coverage
+* Utilized Bugzilla for defect tracking and reporting, analyzing trends and patterns
+* Worked with cross-functional teams to identify and resolve issues, improving product quality
+* Conducted exploratory testing, identifying and reporting usability issues and feature gaps
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Scrum Master (CSM), Scrum Alliance (2019)
+* Certified Associate in Software Testing (CAST), International Software Testing Qualifications Board (ISTQB) (2018)
+
+Achievements:
+
+* Improved overall test coverage by 30% through automation using Selenium
+* Reduced defect density by 25% through collaborative testing and debugging
+* Developed and maintained a comprehensive test automation framework using Selenium WebDriver
+* Received "QA Engineer of the Year" award in 2020 for outstanding contributions to product quality
+
+References:
+Available upon request.
+
+As a QA Engineer, Anthony has demonstrated expertise in automated testing, bug tracking, and performance testing. His experience with Selenium, JIRA, and JMeter has enabled him to deliver high-quality software that meets customer requirements. His achievements and certifications showcase his commitment to quality and his ability to drive positive change in the software development process.

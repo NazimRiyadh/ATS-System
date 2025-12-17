@@ -1,0 +1,28 @@
+Here's a sample resume for Kenneth Jones:
+
+Kenneth Jones
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [kenneth.jones@email.com](mailto:kenneth.jones@email.com)
+* LinkedIn: linkedin.com/in/kennethjonesvr
+* GitHub: github.com/kennethjones
+
+Professional Summary:
+Highly skilled AR/VR developer with 5+ years of experience in creating immersive experiences using Unity, C#, and Oculus SDK. Proficient in designing and implementing augmented reality markers, and passionate about pushing the boundaries of what's possible in the AR/VR space.
+
+Technical Skills:
+
+* Programming languages: C#, UnityScript, JavaScript
+* Game engines: Unity, Unreal Engine
+* VR/AR platforms: Oculus, Vive, ARKit, ARCore
+* Development tools: Visual Studio, IntelliJ IDEA, Git
+* Operating Systems: Windows, macOS, Linux
+* Augmented Reality Markers: Ar.Uber, Vuforia, AR Foundation
+
+Professional Experience:
+
+Senior AR/VR Developer, XYZ Corporation (2018-Present)
+
+* Designed and developed multiple AR/VR experiences for enterprise clients, including interactive product demonstrations and immersive training simulations
+* Utilized Unity and C

@@ -1,0 +1,57 @@
+ishaan mehta
+contact information:
+
+* email: [ishaan.mehta@email.com](mailto:ishaan.mehta@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/ishaanmehta
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in machine learning, deep learning, and statistical analysis. skilled in working with large datasets, developing predictive models, and communicating insights to stakeholders.
+
+technical skills:
+
+* programming languages: python
+* data analysis and visualization tools: pandas, numpy, scikit-learn, tensorflow, matplotlib, seaborn
+* databases: sql
+* machine learning libraries: scikit-learn, tensorflow
+* data visualization: tableau, power bi
+* operating system: linux, windows
+* familiarity with cloud platforms: aws, google cloud
+
+professional experience:
+
+data scientist, abc corporation (2020-present)
+
+* developed and deployed predictive models to improve customer retention and revenue growth using machine learning algorithms and deep learning techniques
+* collaborated with cross-functional teams to design and implement a/b testing experiments to measure the impact of marketing campaigns on customer behavior
+* worked with large datasets (up to 10 million rows) to identify trends, patterns, and correlations using statistical analysis and data visualization tools
+* built and maintained dashboards to track key performance indicators (kpis) and provide insights to stakeholders
+
+data analyst, def startup (2018-2020)
+
+* collected and analyzed data from various sources (customer surveys, sales data, website analytics) to inform business decisions
+* developed and maintained sql queries to extract insights from large datasets
+* created data visualizations to communicate findings to stakeholders and inform marketing strategies
+* worked with the development team to integrate data-driven insights into product development
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: machine learning, deep learning, natural language processing, data visualization
+	+ thesis: "applying machine learning to predict customer churn"
+* bachelor of science in computer science, abc university (2016)
+	+ coursework: algorithms, data structures, computer systems, database systems
+
+achievements:
+
+* published a research paper on "applying deep learning to predict customer churn" in a reputable academic journal
+* won first prize in the abc university data science competition for developing a predictive model to classify customer behavior
+* completed a data science bootcamp and received a certification in data science from a reputable provider
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+references:
+available upon request.

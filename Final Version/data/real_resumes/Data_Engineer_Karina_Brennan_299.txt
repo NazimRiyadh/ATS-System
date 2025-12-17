@@ -1,0 +1,63 @@
+Here's a sample resume for Karina Brennan:
+
+Karina Brennan
+Contact Information:
+
+* Email: [karina.brennan@email.com](mailto:karina.brennan@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/karinabrennan
+
+Professional Summary:
+Highly skilled Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using MLOps, Airflow, ETL, and Spark. Proven track record of delivering high-quality solutions that drive business growth and improve operational efficiency. Passionate about leveraging data to drive insights and inform strategic decisions.
+
+Technical Skills:
+
+* MLOps: Model deployment, model serving, and model monitoring
+* Airflow: DAG design, workflow management, and scheduled tasks
+* ETL: Data extraction, transformation, and loading using Python, Java, and Scala
+* Spark: Data processing, machine learning, and data engineering using Spark Core, Spark SQL, and Spark ML
+* Programming languages: Python, Java, Scala, SQL
+* Data storage: Relational databases (MySQL, PostgreSQL), NoSQL databases (HBase, Cassandra), and cloud storage (AWS S3, Google Cloud Storage)
+* Operating Systems: Linux, Windows
+* Version control: Git
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2020-Present)
+
+* Designed and developed scalable data pipelines using Airflow, ETL, and Spark to process high-volume data feeds
+* Collaborated with data scientists to deploy machine learning models using MLOps and Airflow
+* Implemented data quality checks and data validation using Spark and Python
+* Improved data processing efficiency by 30% through optimization of Spark jobs and ETL workflows
+* Mentored junior data engineers and provided technical guidance on data engineering best practices
+
+Data Engineer, DEF Startup (2018-2020)
+
+* Developed and deployed ETL workflows using Python, Java, and Scala to extract data from various sources
+* Designed and implemented data warehouses using Spark and HBase to support business intelligence and analytics
+* Collaborated with data analysts to develop data visualizations and reports using Tableau and Power BI
+* Improved data processing speed by 25% through optimization of ETL workflows and Spark jobs
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+Education:
+
+* Master of Science in Data Science, XYZ University (2018)
+	+ Coursework: Data engineering, machine learning, data mining, and data visualization
+* Bachelor of Science in Computer Science, ABC University (2015)
+	+ Coursework: Data structures, algorithms, computer systems, and software engineering
+
+Achievements:
+
+* Airflow Certification: Certified Airflow Developer, 2020
+* Spark Certification: Certified Spark Developer, 2019
+* GitHub Contribution: Contributed to open-source projects on GitHub, including Airflow and Spark
+* Conference Speaker: Presented at industry conferences on data engineering and MLOps, including Spark Summit and Data Engineering Summit
+
+Certifications:
+
+* Airflow Certification: Certified Airflow Developer, 2020
+* Spark Certification: Certified Spark Developer, 2019
+* Python Certification: Certified Python Developer, 2018
+
+References:
+Available upon request.

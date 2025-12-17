@@ -1,0 +1,58 @@
+here's a sample resume for jeremy white, a candidate applying for the role of data scientist:
+
+jeremy white
+
+contact information:
+
+* email: [jwhite@email.com](mailto:jwhite@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/jeremywhite
+* github: github.com/jeremywhite
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, machine learning, sql, and data visualization. proven ability to extract insights from complex data sets and develop predictive models to drive business growth.
+
+technical skills:
+
+* programming languages: python (3.x), r
+* machine learning libraries: scikit-learn, tensorflow, pytorch
+* data visualization tools: matplotlib, seaborn, tableau
+* databases: sql, nosql (mongodb, cassandra)
+* operating systems: windows, linux
+* familiarity with cloud platforms: aws, azure
+
+professional experience:
+
+data scientist, abc company (2018-present)
+
+* analyzed large datasets to identify trends and patterns, and developed predictive models using machine learning algorithms
+* collaborated with cross-functional teams to design and implement data-driven solutions to business problems
+* created data visualizations to communicate insights to stakeholders, resulting in improved decision-making and business outcomes
+* developed and maintained complex sql queries to extract data from large databases
+
+data analyst, def startups (2015-2018)
+
+* gathered and analyzed data from various sources to inform business decisions
+* built and maintained databases using sql and nosql technologies
+* created data visualizations using tableau to communicate insights to stakeholders
+* assisted in the development of predictive models using machine learning algorithms
+
+education:
+
+* master of science in statistics, university of california, los angeles (2015)
+* bachelor of science in mathematics, university of california, berkeley (2013)
+
+projects:
+
+* predictive maintenance: developed a predictive model using machine learning algorithms to predict equipment failures in a manufacturing setting. (github: github.com/jeremywhite/predictive_maintenance)
+* customer segmentation: analyzed customer data to identify patterns and trends, and developed a clustering model to segment customers based on their behavior. (github: github.com/jeremywhite/customer_segmentation)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experiences and the job you're applying for.

@@ -1,0 +1,64 @@
+here's a sample resume for george hernandez applying for the role of software engineer:
+
+george hernandez
+contact information:
+
+* email: [george.hernandez@email.com](mailto:george.hernandez@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/georgehernandez
+* github: github.com/georgehernandez
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software solutions using various programming languages and technologies. proven track record of delivering high-quality code, collaborating with cross-functional teams, and driving technical innovation.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, greedy, dynamic programming, divide and conquer
+* development frameworks: spring, hibernate
+* operating systems: windows, linux
+* agile methodologies: scrum, kanban
+* version control: git, svn
+* databases: mysql, postgresql
+
+professional experience:
+
+software engineer, abc company (2018-present)
+
+* designed, developed, and deployed multiple software applications using java, c++, and python
+* collaborated with the development team to implement new features and fix bugs in the existing codebase
+* utilized agile methodologies to manage and prioritize tasks, ensuring timely delivery of high-quality software products
+* implemented data structures and algorithms to optimize system performance and improve user experience
+* participated in code reviews to ensure maintainability, scalability, and reliability of codebase
+
+software developer, def startups (2015-2018)
+
+* developed web applications using java, spring, and hibernate
+* created restful apis using python, flask, and django
+* worked on multiple projects simultaneously, managing tasks and meeting deadlines
+* collaborated with the qa team to identify and fix bugs in the codebase
+* contributed to the development of the company's technical documentation and knowledge base
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+certifications:
+
+* certified scrum master (csm)
+* certified java developer (ocpjp)
+
+projects:
+
+* [project 1:](https://github.com/georgehernandez/project1)
+	+ developed a web scraper using python, beautifulsoup, and scrapy
+	+ utilized data structures and algorithms to optimize the scraping process
+* [project 2:](https://github.com/georgehernandez/project2)
+	+ created a game using java, swing, and javafx
+	+ implemented game mechanics, user interface, and user experience
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and qualifications. also, be sure to proofread your resume multiple times for grammar, spelling, and formatting errors.

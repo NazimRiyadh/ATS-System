@@ -1,0 +1,63 @@
+Here's a sample resume for Adam Frazier:
+
+Adam Frazier
+Cloud Engineer
+
+Contact Information:
+
+* Email: [adam.frazier@email.com](mailto:adam.frazier@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/adamfraziercloud
+
+Professional Summary:
+
+Highly skilled Cloud Engineer with 5+ years of experience in designing, implementing, and managing cloud infrastructure solutions. Proven expertise in cloud migration, serverless architecture, and cloud networking. Proficient in scripting languages and automation tools. Dedicated to delivering high-quality solutions that meet business needs and drive innovation.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Cloud Migration: CloudEndure, AWS Database Migration Service
+* Serverless Architecture: AWS Lambda, Azure Functions, Serverless Framework
+* Cloud Networking: VPC, Subnets, Route Tables, Network ACLs
+* Scripting: Python, Bash, PowerShell
+* Automation Tools: Ansible, Terraform, CloudFormation
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Cloud Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented scalable cloud infrastructure solutions using AWS and Azure
+* Migrated on-premises applications to cloud-based environments using CloudEndure and AWS Database Migration Service
+* Developed and deployed serverless applications using AWS Lambda and Azure Functions
+* Implemented cloud networking solutions using VPC, Subnets, Route Tables, and Network ACLs
+* Automated deployment and management of cloud resources using Ansible and Terraform
+* Collaborated with cross-functional teams to design and implement cloud-based solutions
+
+Senior Cloud Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented cloud infrastructure solutions using AWS and Google Cloud
+* Developed and deployed cloud-based applications using Python and Bash scripting
+* Implemented cloud networking solutions using VPC, Subnets, Route Tables, and Network ACLs
+* Automated deployment and management of cloud resources using Ansible and Terraform
+* Collaborated with cross-functional teams to design and implement cloud-based solutions
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Associate
+* AWS Certified Developer - Associate
+* Google Cloud Certified - Professional Cloud Developer
+
+Achievements:
+
+* Successfully migrated a large on-premises application to a cloud-based environment, resulting in a 30% reduction in costs and a 25% increase in scalability
+* Developed and deployed a serverless application using AWS Lambda, resulting in a 50% reduction in costs and a 40% increase in scalability
+* Implemented a cloud networking solution using VPC, Subnets, Route Tables, and Network ACLs, resulting in a 20% reduction in latency and a 15% increase in throughput
+
+References:
+
+Available upon request.

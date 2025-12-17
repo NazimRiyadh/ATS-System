@@ -1,0 +1,65 @@
+Here's a sample resume for Christopher Baird DDS applying for a DevOps Engineer role:
+
+Christopher Baird DDS
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [christopher.baird@dds.com](mailto:christopher.baird@dds.com)
+* LinkedIn: linkedin.com/in/christopherbairdds
+* GitHub: github.com/christopherbaird
+
+Professional Summary:
+
+Highly skilled DevOps Engineer with 5+ years of experience in designing and implementing CI/CD pipelines, containerization with Docker, and infrastructure automation with Ansible. Proven track record of improving application reliability, scalability, and security. Proficient in a range of technologies, including Infrastructure as Code (IaC), monitoring tools, and cloud platforms.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure Automation: Ansible, Terraform
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Operating Systems: Linux, Windows
+* Programming Languages: Python, Bash, PowerShell
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2018-Present)
+
+* Designed and implemented CI/CD pipelines using Jenkins and GitLab CI/CD, resulting in 30% reduction in deployment time
+* Containerized applications using Docker and Kubernetes, improving application reliability and scalability
+* Automated infrastructure provisioning using Ansible and Terraform, reducing provisioning time by 50%
+* Implemented monitoring and logging tools, including Prometheus, Grafana, and New Relic, to improve application visibility and performance
+* Collaborated with development teams to improve application security and compliance
+
+Senior System Administrator, DEF Hospital (2015-2018)
+
+* Managed and maintained hospital IT infrastructure, including servers, networks, and storage systems
+* Implemented IaC using Ansible, improving infrastructure consistency and reducing errors
+* Developed and implemented monitoring and alerting systems, reducing downtime by 25%
+* Collaborated with development teams to improve application performance and security
+
+Education:
+
+* DDS (Doctor of Dental Surgery), XYZ University (2010-2014)
+* Bachelor of Science in Computer Science, ABC University (2006-2010)
+
+Certifications:
+
+* AWS Certified DevOps Engineer - Professional
+* Google Cloud Certified - Professional Cloud Developer
+* Red Hat Certified Engineer (RHCE)
+
+Achievements:
+
+* Recipient of the 2020 DevOps Engineer of the Year Award from XYZ Industry Association
+* Author of the book "DevOps for Dentists: A Guide to Improving Application Reliability and Scalability"
+* Speaker at the 2019 DevOps Conference, presenting on "Containerization and Infrastructure Automation in Healthcare"
+
+References:
+
+Available upon request.
+
+This is just a sample, and you should customize your resume to fit your specific experience and the job you're applying for. Remember to use clear and concise language, and to highlight your achievements and skills. Good luck with your job search!

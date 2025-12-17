@@ -1,0 +1,57 @@
+here's a sample resume for gina becker applying for a data scientist role:
+
+gina becker
+contact information:
+
+* email: [gina.becker@email.com](mailto:gina.becker@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/gina-becker
+* github: github.com/gina-becker
+
+summary:
+highly motivated and detail-driven data scientist with expertise in statistics, sql, and data visualization. proven track record of extracting insights from complex data sets to inform business decisions. skilled in leveraging data to drive business growth and improvement.
+
+technical skills:
+
+* programming languages: python, r
+* data visualization tools: tableau, power bi, d3.js
+* database management: sql, mysql
+* statistical analysis: hypothesis testing, regression analysis, time series analysis
+* data manipulation: pandas, numpy, matplotlib
+* operating systems: windows, linux, macos
+
+professional experience:
+
+data analyst, abc company (2018-present)
+
+* designed and implemented data visualizations to communicate complex data insights to stakeholders
+* developed and maintained databases to store and analyze large datasets
+* conducted statistical analysis to identify trends and correlations in customer behavior
+* collaborated with cross-functional teams to inform business decisions and drive growth
+* created reports and dashboards to track key performance indicators (kpis)
+
+research assistant, university of xyz (2015-2018)
+
+* assisted professors with research projects involving data collection, analysis, and visualization
+* co-authored papers on topics such as machine learning and data mining
+* developed and maintained databases to store and analyze research data
+* presented research findings at conferences and seminars
+
+education:
+
+* master of science in statistics, university of xyz (2015-2017)
+* bachelor of science in mathematics, university of abc (2010-2014)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional (cap), institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting customer churn: developed a predictive model using python and scikit-learn to forecast customer churn for a telecommunications company
+* analyzing sales data: created a data visualization dashboard using tableau to analyze sales trends and identify opportunities for growth
+* time series analysis: conducted a time series analysis using r to forecast sales for a retail company
+
+references:
+available upon request.

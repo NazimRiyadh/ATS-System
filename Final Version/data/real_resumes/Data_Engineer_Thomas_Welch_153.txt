@@ -1,0 +1,61 @@
+Here's a professional resume for Thomas Welch:
+
+Thomas Welch
+Data Engineer
+
+Contact Information:
+
+* Email: [twelch@email.com](mailto:twelch@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/thomaswelch
+* GitHub: github.com/thomaswelch
+
+Professional Summary:
+Highly motivated and experienced Data Engineer with a strong background in MLOps, Big Data, and Cloud Platforms. Proven track record of delivering scalable and efficient data solutions using technologies like Spark, Apache Kafka, and AWS. Passionate about leveraging data to drive business growth and innovation.
+
+Technical Skills:
+
+* Programming languages: Python, Java, Scala
+* Big Data technologies: Hadoop, Spark, Apache Kafka
+* Cloud Platforms: AWS, GCP, Azure
+* Data Engineering tools: Apache Beam, Apache Airflow, Apache NiFi
+* Machine Learning frameworks: TensorFlow, PyTorch
+* Operating Systems: Linux, Windows
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a scalable data pipeline using Spark, Kafka, and AWS, resulting in a 30% reduction in data processing time
+* Collaborated with cross-functional teams to develop and deploy machine learning models using TensorFlow and PyTorch, achieving a 25% increase in model accuracy
+* Led the migration of a large-scale Hadoop cluster to a cloud-based architecture, reducing costs by 40%
+* Mentored junior engineers in data engineering principles and best practices, improving team productivity by 20%
+
+Data Engineer, DEF Startup (2015-2018)
+
+* Built and maintained a data warehouse using Apache Hive, providing real-time analytics and reporting capabilities to stakeholders
+* Developed a data ingestion pipeline using Apache NiFi, increasing data freshness by 50%
+* Collaborated with the data science team to develop a predictive maintenance model using Spark and TensorFlow, resulting in a 15% reduction in maintenance costs
+* Participated in the design and implementation of a cloud-based data lake using AWS S3 and Glue, reducing data storage costs by 30%
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015)
+* Bachelor of Science in Computer Science, ABC University (2010)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2019)
+* Certified Scrum Master, Scrum Alliance (2016)
+
+Achievements:
+
+* Winner, Data Science Hackathon, ABC Corporation (2019)
+* Featured Speaker, Data Engineering Conference, DEF Conference (2018)
+* Recipient, ABC Corporation Innovation Award, ABC Corporation (2017)
+
+References:
+Available upon request.
+
+I hope this helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

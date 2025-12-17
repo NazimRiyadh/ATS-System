@@ -1,0 +1,63 @@
+Here's a sample resume for Joann Wyatt:
+
+Joann Wyatt
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [joann.wyatt@email.com](mailto:joann.wyatt@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/joannwyatt
+* GitHub: github.com/joannwyatt
+
+Professional Summary:
+
+Highly motivated and detail-oriented Machine Learning Engineer with 5+ years of experience in developing and deploying scalable, high-performance AI models using Python, TensorFlow, and PyTorch. Proven expertise in hyperparameter tuning, model optimization, and model deployment. Strong passion for staying up-to-date with the latest advancements in the field and a commitment to delivering high-quality solutions that drive business value.
+
+Technical Skills:
+
+* Programming languages: Python (3.x), R
+* Deep learning frameworks: TensorFlow, PyTorch
+* Hyperparameter tuning: Grid Search, Random Search, Bayesian Optimization
+* Model optimization: Gradient Descent, Adam, RMSProp
+* Model deployment: TensorFlow Serving, PyTorch Serving
+* Data preprocessing: Pandas, NumPy, Scikit-learn
+* Data visualization: Matplotlib, Seaborn, Plotly
+
+Professional Experience:
+
+Senior Machine Learning Engineer, ABC Company (2020-Present)
+
+* Developed and deployed multiple AI models using TensorFlow and PyTorch, achieving 25% increase in model accuracy and 30% reduction in computation cost
+* Designed and implemented a hyperparameter tuning pipeline using Grid Search and Bayesian Optimization, resulting in a 15% improvement in model performance
+* Collaborated with cross-functional teams to integrate AI models into production environments, ensuring seamless deployment and minimal downtime
+* Mentored junior engineers in machine learning concepts, Python, and deep learning frameworks
+
+Machine Learning Engineer, DEF Startup (2018-2020)
+
+* Built and trained deep learning models using PyTorch and TensorFlow, achieving state-of-the-art results in image classification and object detection tasks
+* Implemented a model serving architecture using TensorFlow Serving, enabling real-time predictions and improving model inference speed by 40%
+* Conducted experiments using Grid Search and Random Search to optimize model hyperparameters, resulting in a 20% improvement in model accuracy
+* Participated in code reviews, ensuring high-quality code and adhering to best practices
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2018)
+	+ Coursework: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
+	+ Thesis: "Deep Learning for Image Classification using Transfer Learning"
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Machine Learning Engineer, Data Science Council of America (2020)
+
+Achievements:
+
+* Winner, Machine Learning Competition, Kaggle (2019): Developed a deep learning model using PyTorch, achieving state-of-the-art results in the competition
+* Published Research Paper, International Conference on Machine Learning (2020): Co-authored a paper on hyperparameter tuning using Bayesian Optimization, presenting research findings to an international audience
+
+References:
+
+Available upon request.
+
+This structure should provide a clear and concise overview of Joann's experience, skills, and achievements as a Machine Learning Engineer. Remember to customize the resume to fit your own experiences and style!

@@ -1,0 +1,51 @@
+tanvi kapoor
+contact information:
+
+* email: [tanvikapoor@email.com](mailto:tanvikapoor@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/tanvikkapoor
+
+summary:
+results-driven data scientist with 3+ years of experience in analyzing and interpreting complex data sets to inform business decisions. proficient in a range of tools and techniques, including python, machine learning, and deep learning. proven track record of delivering high-impact projects and driving business growth.
+
+education:
+
+* master of science in data science, university of california, berkeley (2018-2020)
+	+ coursework: machine learning, deep learning, natural language processing, data visualization, and statistical computing
+* bachelor of technology in computer science, indian institute of technology, delhi (2014-2018)
+	+ coursework: algorithms, data structures, computer systems, and programming languages
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning libraries: scikit-learn, tensorflow, keras
+* data visualization tools: matplotlib, seaborn, tableau
+* statistical analysis: hypothesis testing, confidence intervals, regression analysis
+* database management: mysql, postgresql
+* operating systems: windows, linux, macos
+
+experience:
+
+* data scientist, abc corporation (2020-present)
+	+ developed and deployed machine learning models to predict customer churn and recommend products, resulting in a 25% increase in customer retention
+	+ collaborated with cross-functional teams to design and implement a/b testing experiments, leading to a 15% improvement in conversion rates
+	+ built and maintained large-scale databases using sql and nosql databases, ensuring data accuracy and integrity
+	+ created interactive data visualizations using tableau and matplotlib to communicate complex insights to stakeholders
+* research assistant, university of california, berkeley (2018-2020)
+	+ assisted professors in research projects involving machine learning, natural language processing, and computer vision
+	+ developed and implemented deep learning models using tensorflow and keras to analyze and classify large datasets
+	+ presented research findings at conferences and published papers in top-tier journals
+
+achievements:
+
+* winner of the google analytics data science competition (2020)
+* finalist in the microsoft machine learning challenge (2019)
+* published papers in top-tier journals, including journal of machine learning research and neural information processing systems
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+references:
+available upon request.

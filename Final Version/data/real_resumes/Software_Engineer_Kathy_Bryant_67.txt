@@ -1,0 +1,57 @@
+Kathy Bryant
+Contact Information:
+
+* Email: [kathy.bryant@email.com](mailto:kathy.bryant@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/kathybryant
+
+Summary:
+Highly motivated and detail-oriented Software Engineer with 5+ years of experience in designing, developing, and deploying scalable software applications using Java, Algorithm, and Data Structure. Proven expertise in Web Development, Version Control, DevOps, Testing, and API Development.
+
+Technical Skills:
+
+* Programming Languages: Java, Python, JavaScript
+* Development Frameworks: Spring Boot, Hibernate, React
+* Databases: MySQL, MongoDB, Cassandra
+* Operating Systems: Windows, Linux, macOS
+* Agile Methodologies: Scrum, Kanban
+* Version Control: Git, SVN
+* DevOps Tools: Docker, Kubernetes, Jenkins
+* Testing Frameworks: JUnit, PyUnit, Jest
+* APIs: RESTful API, GraphQL API
+
+Professional Experience:
+
+Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple software applications using Java, Spring Boot, and Hibernate
+* Collaborated with cross-functional teams to identify and prioritize project requirements
+* Implemented automated testing and deployment scripts using Jenkins and Docker
+* Managed and maintained multiple versions of the codebase using Git and SVN
+* Participated in code reviews and ensured high-quality code standards
+* Developed and deployed RESTful APIs using Spring Boot and Swagger
+
+Software Developer, DEF Startups (2015-2018)
+
+* Contributed to the development of a web-based application using React, Node.js, and MongoDB
+* Implemented data structures and algorithms to optimize application performance
+* Collaborated with the QA team to identify and resolve defects
+* Participated in code reviews and ensured high-quality code standards
+* Developed and deployed APIs using Node.js and Express.js
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Scrum Master (CSM), Scrum Alliance (2019)
+* Certified Java Developer (OCPJP), Oracle Corporation (2016)
+
+Projects:
+
+* Developed a RESTful API using Spring Boot and Swagger to manage user data (https://github.com/kathybryant/user-api)
+* Created a web-based application using React and Node.js to display real-time weather data (https://github.com/kathybryant/weather-app)
+
+References:
+Available upon request.

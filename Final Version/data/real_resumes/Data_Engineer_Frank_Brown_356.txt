@@ -1,0 +1,51 @@
+Here's a sample resume for Frank Brown:
+
+**Frank Brown**
+**Contact Information:**
+
+* Email: [frank.brown@email.com](mailto:frank.brown@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/frankbrown
+
+**Summary:**
+Highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data systems. Skilled in cloud-based technologies, data warehousing, and big data processing. Proficient in programming languages such as Python, Java, and SQL.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, SQL
+* Cloud platforms: AWS (S3, EMR, Redshift), GCP (BigQuery, Cloud Storage), Azure (Data Lake, HDInsight)
+* Data warehousing: Amazon Redshift, Google BigQuery, Azure Synapse
+* Big data processing: Apache Spark, Hadoop
+* Data visualization: Tableau, Power BI
+* Operating Systems: Windows, Linux
+* Agile methodologies: Scrum, Kanban
+
+**Professional Experience:**
+
+* **Senior Data Engineer, ABC Corporation (2018-Present)**
+	+ Designed and developed multiple large-scale data pipelines using Apache Spark and AWS EMR
+	+ Built and maintained data warehouses using Amazon Redshift and Google BigQuery
+	+ Implemented data quality checks and data governance policies using AWS Glue and Apache Beam
+	+ Collaborated with cross-functional teams to integrate data into business intelligence tools
+* **Data Engineer, DEF startup (2015-2018)**
+	+ Developed and deployed real-time data processing pipelines using Apache Storm and Apache Kafka
+	+ Built and maintained data lakes using Amazon S3 and Azure Data Lake
+	+ Designed and implemented data visualization dashboards using Tableau and Power BI
+
+**Achievements:**
+
+* Improved data processing time by 30% using Apache Spark and AWS EMR
+* Increased data quality by 25% using data validation and data governance policies
+* Reduced data storage costs by 40% using data compression and data archiving techniques
+
+**Projects:**
+
+* **Data Science Competition**: Participated in a data science competition where I developed a predictive model using Apache Spark and Python to predict customer churn. The model achieved a 20% reduction in customer churn.
+* **Real-time Analytics Pipeline**: Designed and developed a real-time analytics pipeline using Apache Storm and Apache Kafka to process financial transactions. The pipeline processed over 1 million transactions per hour with an average latency of 5 seconds.
+* **Data Warehouse Modernization**: Led a project to modernize a legacy data warehouse using Amazon Redshift and AWS Glue. The project resulted in a 50% reduction in data processing time and a 30% reduction in data storage costs.
+
+**Education:**
+
+* **Bachelor's Degree in Computer Science, XYZ University (2010-2014)**
+
+Note: As Frank Brown was reject for the Data Engineer role, this resume aims to highlight his relevant skills, experience, and achievements in the field of data engineering. However, it's essential to tailor the resume to the specific requirements of the job and highlight his strengths in a way that demonstrates his fit for the role.

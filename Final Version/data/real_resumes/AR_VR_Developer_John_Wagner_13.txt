@@ -1,0 +1,29 @@
+Here's a sample resume for John Wagner:
+
+John Wagner
+Contact Information:
+
+* Email: [john.wagner@email.com](mailto:john.wagner@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/johnwagnerdev
+* GitHub: github.com/johnwagnerdev
+
+Summary:
+Highly skilled AR/VR Developer with 5+ years of experience in creating immersive experiences using Unity, C#, and Oculus SDK. Proficient in 3D modeling and augmented reality marker development. Proven track record of delivering high-quality projects on time and on budget. Passionate about pushing the boundaries of interactive storytelling and exploring new ways to engage audiences.
+
+Professional Experience:
+
+Senior AR/VR Developer, XYZ Corporation (2018-Present)
+
+* Designed and developed immersive AR/VR experiences for various clients, including industrial training simulations, product demonstrations, and interactive marketing campaigns
+* Utilized Unity, C#, and Oculus SDK to create interactive 3D models, graphics, and animations
+* Collaborated with cross-functional teams to integrate AR/VR features into existing software applications
+* Conducted thorough testing and debugging to ensure seamless user experience
+* Successfully delivered multiple projects on time and within budget, earning recognition from clients and management
+
+AR/VR Developer, ABC Startups (2015-2018)
+
+* Developed AR/VR experiences for various startups, including interactive product demos, virtual try-on, and location-based experiences
+* Created 3D models, textures, and animations using Maya, Blender, and Photoshop
+* Implemented augmented reality markers using ARKit, ARCore, and Vuforia
+* Integrated Unity and C

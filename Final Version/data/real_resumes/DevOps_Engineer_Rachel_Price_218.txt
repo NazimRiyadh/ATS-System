@@ -1,0 +1,59 @@
+Here's a professional resume for Rachel Price:
+
+Rachel Price
+DevOps Engineer
+
+Contact Information:
+
+* Email: [rprice@email.com](mailto:rprice@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/rachelprice
+
+Summary:
+Highly motivated and experienced DevOps Engineer with 5+ years of experience in designing, implementing, and maintaining scalable and efficient infrastructure solutions using CI/CD tools, Kubernetes, Ansible, and Infrastructure as Code. Proficient in monitoring tools and cloud platforms. Proven track record of improving deployment efficiency, reducing downtime, and enhancing collaboration between development and operations teams.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, Ansible
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Operating Systems: Linux (Ubuntu, CentOS), Windows
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2018-Present)
+
+* Design and implement CI/CD pipelines using Jenkins, GitLab CI/CD, and CircleCI to automate deployment and testing processes
+* Deploy and manage Kubernetes clusters on AWS, Azure, and Google Cloud platforms
+* Use Ansible to automate infrastructure provisioning and configuration management
+* Implement monitoring tools (Prometheus, Grafana, New Relic) to ensure system uptime and performance
+* Collaborate with development teams to improve deployment efficiency and reduce downtime
+* Achievements:
+	+ Improved deployment efficiency by 30% through automation of testing and deployment processes
+	+ Reduced downtime by 25% through proactive monitoring and alerting
+	+ Implemented infrastructure as code using Terraform, resulting in 40% reduction in infrastructure costs
+
+Senior System Administrator, DEF Company (2015-2018)
+
+* Managed and maintained large-scale Linux and Windows infrastructure environments
+* Implemented monitoring tools (Nagios, SolarWinds) to ensure system uptime and performance
+* Collaborated with development teams to improve deployment efficiency and reduce downtime
+* Achievements:
+	+ Improved system uptime by 20% through proactive monitoring and alerting
+	+ Reduced deployment time by 50% through automation of testing and deployment processes
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified DevOps Engineer, DevOps Institute (2019)
+* Certified Kubernetes Administrator, Cloud Native Computing Foundation (2020)
+
+References:
+Available upon request.
+
+I hope this helps! Let me know if you need any adjustments.

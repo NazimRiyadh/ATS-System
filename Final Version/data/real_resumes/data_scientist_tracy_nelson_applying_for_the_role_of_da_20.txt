@@ -1,0 +1,55 @@
+here's a sample resume for tracy nelson applying for the role of data scientist:
+
+tracy nelson
+contact information:
+
+* email: [tracy.nelson@email.com](mailto:tracy.nelson@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/tracynelson
+* github: github.com/tracynelson
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in machine learning, deep learning, statistics, and data visualization. proficient in python and a strong problem-solver with experience in analyzing complex datasets to extract insights and drive business decisions.
+
+technical skills:
+
+* programming languages: python (scikit-learn, tensorflow, keras, pytorch)
+* machine learning libraries: scikit-learn, tensorflow, keras
+* deep learning frameworks: tensorflow, keras, pytorch
+* data visualization tools: matplotlib, seaborn, plotly
+* statistics: hypothesis testing, regression analysis, time series analysis
+* operating systems: windows, linux
+* databases: mysql, postgresql
+
+professional experience:
+
+data scientist, xyz corporation (2018-present)
+
+* analyzed large datasets to identify trends and patterns, and developed predictive models to improve business outcomes
+* designed and implemented machine learning algorithms using python and scikit-learn to classify customer segments and predict churn
+* collaborated with cross-functional teams to develop data-driven solutions and present findings to stakeholders
+* developed and maintained dashboards using plotly and tableau to visualize key metrics and track project progress
+
+data analyst, abc startups (2015-2018)
+
+* extracted and cleaned data from various sources, including databases and apis, to support business intelligence and data visualization
+* created statistical models to analyze customer behavior and preferences, and presented findings to inform product development
+* developed and maintained data pipelines using python and pandas to process and transform large datasets
+
+education:
+
+* master of science in data science, stanford university (2015)
+* bachelor of science in mathematics, university of california, berkeley (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting churn in telecommunications industry: developed a machine learning model using python and scikit-learn to predict customer churn in the telecommunications industry. achieved an accuracy rate of 90% using a random forest classifier.
+* image classification using deep learning: built a deep learning model using tensorflow and keras to classify images into different categories. achieved an accuracy rate of 95% using a convolutional neural network.
+
+references:
+available upon request.

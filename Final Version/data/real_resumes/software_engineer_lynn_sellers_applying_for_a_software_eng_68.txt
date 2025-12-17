@@ -1,0 +1,57 @@
+here's a sample resume for lynn sellers applying for a software engineer role:
+
+lynn sellers
+contact information:
+
+* email: [lynn.sellers@email.com](mailto:lynn.sellers@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/lynn-sellers
+* github: github.com/lynn-sellers
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software systems. skilled in multiple programming languages, including java, c++, and python, with a strong foundation in algorithms and system design. proficient in agile development methodologies and passionate about delivering high-quality software solutions.
+
+technical skills:
+
+* programming languages: java, c++, python
+* development frameworks: spring, hibernate, django
+* databases: mysql, postgresql, mongodb
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+* version control: git
+* cloud platforms: aws, azure
+
+professional experience:
+
+senior software engineer, abc corporation (2018-present)
+
+* designed and developed multiple software systems using java and c++ for a leading financial services company
+* collaborated with cross-functional teams to identify requirements and develop software solutions
+* implemented algorithms and data structures to optimize system performance and scalability
+* participated in code reviews and ensured adherence to coding standards and best practices
+* mentored junior engineers and provided guidance on software development best practices
+
+software engineer, def startups (2015-2018)
+
+* contributed to the development of a cloud-based platform using python and django
+* worked on multiple features and bug fixes, ensuring timely delivery and high-quality code
+* participated in code reviews and ensured adherence to coding standards and best practices
+* collaborated with qa engineers to identify and resolve issues
+* participated in agile development methodologies, including scrum and kanban
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+projects:
+
+* machine learning library: developed a machine learning library using python and scikit-learn, which can be used for classification, regression, and clustering tasks. (github: github.com/lynn-sellers/ml-library)
+* e-commerce platform: designed and developed an e-commerce platform using java and spring, which includes features like user authentication, product management, and payment gateway integration. (github: github.com/lynn-sellers/ecommerce-platform)
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified scrum master, scrum alliance (2017)
+
+references:
+available upon request.

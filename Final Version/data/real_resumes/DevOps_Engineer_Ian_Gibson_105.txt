@@ -1,0 +1,59 @@
+Here's a sample resume for Ian Gibson:
+
+Ian Gibson
+Contact Information:
+
+* Email: [ian.gibson@email.com](mailto:ian.gibson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/iangibson
+* GitHub: github.com/ian-gibson
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in containerization, infrastructure automation, and monitoring. Skilled in Docker, Terraform, Prometheus, and Grafana, with a proven track record of delivering scalable and reliable cloud-based systems. Possesses excellent problem-solving skills, attention to detail, and excellent communication skills.
+
+Technical Skills:
+
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, Ansible
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud Platform
+* Programming Languages: Python, Bash, Go
+* Database Management: MySQL, PostgreSQL
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a Docker-based containerization strategy to improve application deployment and scalability
+* Developed and maintained Terraform infrastructure as code, automating deployment of cloud resources and ensuring consistency across environments
+* Implemented a Prometheus and Grafana monitoring stack to provide real-time visibility into application performance and infrastructure metrics
+* Collaborated with development teams to ensure smooth deployment of applications, resolving issues and providing troubleshooting guidance as needed
+* Participated in on-call rotations, providing 24/7 support for production issues and ensuring prompt resolution
+
+Senior System Administrator, DEF Company (2018-2020)
+
+* Managed and maintained large-scale Linux and Windows server environments, ensuring high uptime and performance
+* Implemented automation scripts using Ansible to streamline server deployment and configuration
+* Collaborated with development teams to integrate monitoring tools and improve application visibility
+* Provided training and guidance to junior team members on server management and automation best practices
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2018)
+
+Achievements:
+
+* Successfully migrated a large-scale e-commerce application to a cloud-based infrastructure, reducing costs by 30% and improving response times by 25%
+* Developed and implemented a containerization strategy for a microservices-based application, improving deployment time by 90% and reducing memory usage by 50%
+* Awarded "DevOps Engineer of the Year" by ABC Company in 2022 for outstanding contributions to the team and delivery of high-quality projects
+
+Certifications:
+
+* Certified DevOps Engineer, DevOps Institute (2020)
+* Certified Kubernetes Administrator, Cloud Native Computing Foundation (2019)
+
+References:
+Available upon request.
+
+This is just a sample, and you should customize your resume to fit your specific experience and the job you're applying for. Remember to use clear and concise language, and highlight your achievements and skills in a way that showcases your value as a DevOps Engineer.

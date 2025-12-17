@@ -1,0 +1,70 @@
+Here's a sample resume for Scott Hampton, a DevOps Engineer candidate:
+
+Scott Hampton
+Contact Information:
+
+* Email: [scott.hampton@email.com](mailto:scott.hampton@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/scotthampton
+* GitHub: github.com/scotthampton
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, containerization, and cloud platforms. Proven track record of delivering scalable, efficient, and reliable systems that meet business objectives. Skilled in Docker, Kubernetes, and cloud platforms, with a passion for automation, continuous improvement, and collaboration.
+
+Technical Skills:
+
+* Containerization: Docker, Kubernetes
+* CI/CD: Jenkins, GitLab CI/CD, CircleCI
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Automation: Ansible, Terraform, Bash
+* Monitoring and Logging: Prometheus, Grafana, ELK Stack
+* Operating Systems: Linux, Windows
+* Programming Languages: Python, Java, Bash
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins, Docker, and Kubernetes to automate the deployment of microservices architecture
+* Developed and maintained a containerized application using Docker and Kubernetes, resulting in 30% reduction in deployment time and 25% reduction in infrastructure costs
+* Collaborated with cross-functional teams to design and implement a cloud-based infrastructure using AWS, resulting in 40% reduction in infrastructure costs and 20% increase in application performance
+* Implemented a monitoring and logging system using Prometheus, Grafana, and ELK Stack, resulting in 90% reduction in mean time to detect (MTTD) and 80% reduction in mean time to resolve (MTTR)
+
+Senior Systems Administrator, DEF Company (2015-2018)
+
+* Designed and implemented a cloud-based infrastructure using Azure, resulting in 25% reduction in infrastructure costs and 15% increase in application performance
+* Developed and maintained a CI/CD pipeline using Jenkins and GitLab CI/CD, resulting in 20% reduction in deployment time and 15% reduction in infrastructure costs
+* Collaborated with cross-functional teams to design and implement a automation system using Ansible, resulting in 80% reduction in manual tasks and 20% increase in application reliability
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Jenkins Engineer (CJE)
+* AWS Certified Developer - Associate
+* Azure Certified Solutions Architect - Associate
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Jenkins Engineer (CJE)
+* AWS Certified Developer - Associate
+* Azure Certified Solutions Architect - Associate
+
+References:
+Available upon request.
+
+This structure includes:
+
+1. Contact information
+2. Professional summary
+3. Technical skills
+4. Professional experience (with specific examples and achievements)
+5. Education
+6. Achievements and certifications
+7. References
+
+Note that this is just a sample, and you may need to customize it to fit your specific experience and the requirements of the job you're applying for.

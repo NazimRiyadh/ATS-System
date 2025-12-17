@@ -1,0 +1,51 @@
+Kristi Mills
+Contact Information:
+
+* Email: [kristimills@email.com](mailto:kristimills@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/kristimills
+
+Summary:
+Highly motivated and detail-oriented Data Scientist with expertise in Python, Data Manipulation, Machine Learning, NLP, Deep Learning, and Data Visualization. Proven track record of leveraging technical skills to drive business growth and improve decision-making.
+
+Technical Skills:
+
+* Programming languages: Python (Proficient)
+* Data Manipulation: Pandas, NumPy, Matplotlib, Seaborn
+* Machine Learning: Scikit-learn, TensorFlow, Keras
+* NLP: NLTK, spaCy, Stanford CoreNLP
+* Deep Learning: PyTorch, Convolutional Neural Networks, Recurrent Neural Networks
+* Data Visualization: Plotly, Bokeh, Tableau
+
+Experience:
+
+Data Scientist, XYZ Corporation (2018-Present)
+
+* Developed and deployed multiple predictive models using Scikit-learn and TensorFlow to improve sales forecasting and customer segmentation
+* Collaborated with cross-functional teams to design and implement data-driven solutions for business growth and optimization
+* Utilized NLP techniques to extract insights from large datasets and improve text-based customer interactions
+* Created interactive dashboards using Plotly and Tableau to facilitate data exploration and visualization
+
+Data Analyst, ABC Startups (2015-2018)
+
+* Built and maintained databases using Pandas and NumPy to support data-driven decision-making
+* Applied machine learning algorithms to predict customer churn and improve retention rates
+* Developed data visualization tools using Matplotlib and Seaborn to communicate insights to stakeholders
+* Worked with stakeholders to design and implement data collection and tracking systems
+
+Education:
+
+* Master of Science in Data Science, University of California, Berkeley (2015)
+	+ Coursework: Machine Learning, NLP, Data Visualization, and Statistical Computing
+* Bachelor of Science in Computer Science, Stanford University (2010-2014)
+
+Projects:
+
+* Predicting Stock Prices using LSTM Networks: Developed and deployed a stock price prediction model using Keras and TensorFlow
+* Sentiment Analysis using NLP: Built and trained a sentiment analysis model using NLTK and spaCy
+* Exploring Airbnb Data using Data Visualization: Created interactive dashboards using Plotly and Tableau to explore Airbnb data
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Python Developer, Python Institute (2016)

@@ -1,0 +1,53 @@
+here's a sample resume for kelly miller applying for the role of data engineer:
+
+kelly miller
+contact information:
+
+* email: [kelly.miller@email.com](mailto:kelly.miller@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/kellymillerdata
+* github: github.com/kellymillerdata
+
+summary:
+highly skilled data engineer with expertise in mlops, big data, cloud platforms, and spark. proven track record of designing, developing, and deploying scalable data pipelines and machine learning models. proficient in leading cross-functional teams and collaborating with stakeholders to drive business outcomes.
+
+technical skills:
+
+* programming languages: python, scala, java
+* big data technologies: spark, hadoop, hbase
+* cloud platforms: aws, azure, google cloud
+* mlops: tensorflow, pytorch, scikit-learn
+* data storage: relational databases (mysql, postgresql), nosql databases (cassandra, mongodb)
+* operating systems: linux, windows
+* agile methodologies: scrum, kanban
+* version control: git, svn
+
+professional experience:
+
+senior data engineer, abc company (2018-present)
+
+* designed and developed a scalable data pipeline using spark, hadoop, and hbase to process 100tb of data per day
+* led a team of 3 engineers to deploy a machine learning model using tensorflow and scikit-learn, resulting in a 25% increase in sales
+* collaborated with stakeholders to design and implement a cloud-based data warehouse using aws redshift and aws glue
+* mentored junior engineers to improve their skills in big data and mlops
+
+data engineer, def startups (2015-2018)
+
+* built and deployed multiple data pipelines using spark, hadoop, and hbase to process large datasets
+* worked with the machine learning team to develop and deploy models using scikit-learn and tensorflow
+* designed and implemented a data governance framework using apache atlas and apache ranger
+* participated in the selection of cloud platforms (aws, azure, google cloud) for data processing and storage
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data scientist, data science council of america (2018)
+* certified scrum master, scrum alliance (2016)
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should tailor your resume to your specific experiences and the job you're applying for. also, be sure to proofread your resume multiple times for any errors or typos!

@@ -1,0 +1,57 @@
+here's a sample resume for dennis beck applying for a data scientist role:
+
+dennis beck
+contact information:
+
+* email: [dennis.beck@email.com](mailto:dennis.beck@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/dennisbeck
+* github: github.com/dennisbeck
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in analyzing complex data sets, developing predictive models, and implementing deep learning algorithms. skilled in python, statistics, and deep learning. proficient in working with large datasets and extracting insights to drive business decisions.
+
+technical skills:
+
+* programming languages: python ( numpy, pandas, scikit-learn, tensorflow, keras)
+* data analysis and visualization: matplotlib, seaborn, plotly
+* machine learning: supervised and unsupervised learning algorithms, model selection and evaluation
+* deep learning: convolutional neural networks (cnns), recurrent neural networks (rnns), long short-term memory (lstm) networks
+* statistics: hypothesis testing, confidence intervals, regression analysis
+* data storage and management: sql, nosql databases (e.g., mongodb)
+* operating systems: windows, linux
+
+professional experience:
+
+data scientist, abc company (2018-present)
+
+* analyzed customer data to develop predictive models for churn prediction, resulting in a 25% reduction in customer churn
+* built and deployed a recommendation system using collaborative filtering and natural language processing techniques
+* worked with cross-functional teams to design and implement a/b testing experiments to measure the impact of new features on user engagement
+* developed and maintained a data pipeline using apache beam and apache spark to process large datasets
+
+data analyst, def start-up (2015-2018)
+
+* analyzed sales data to identify trends and patterns, and developed reports to inform business decisions
+* built and maintained a data warehouse using amazon redshift and tableau to visualize sales data
+* worked with the product team to design and implement a/b testing experiments to measure the impact of new product features on user engagement
+* developed and deployed a predictive model using linear regression to forecast sales
+
+education:
+
+* master of science in statistics, xyz university (2015)
+* bachelor of science in mathematics, abc university (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* image classification using convolutional neural networks: built a cnn model using keras and tensorflow to classify images into different categories
+* time series forecasting using lstm networks: developed an lstm model using keras and tensorflow to forecast stock prices
+* recommendation system using collaborative filtering: built a collaborative filtering-based recommendation system using python and scikit-learn
+
+references:
+available upon request.

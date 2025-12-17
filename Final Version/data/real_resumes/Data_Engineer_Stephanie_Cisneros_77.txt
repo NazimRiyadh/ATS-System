@@ -1,0 +1,50 @@
+Stephanie Cisneros
+Data Engineer
+
+Contact Information:
+
+* Email: [scisneros@email.com](mailto:scisneros@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/stephaniecisneros
+
+Summary:
+Highly motivated and experienced Data Engineer with expertise in designing, developing, and deploying large-scale data systems. Proficient in working with Big Data Frameworks, ETL Tools, Databases, and Python. Skilled in data warehousing, data modeling, and data visualization. Proven track record of successful implementation of CI/CD tools and processes.
+
+Technical Skills:
+
+* Big Data Frameworks: Hadoop, Spark, MapReduce
+* ETL Tools: Apache NiFi, Informatica PowerCenter, Talend
+* Databases: MySQL, PostgreSQL, MongoDB, Cassandra
+* Programming Languages: Python, Java, Scala
+* Data Warehousing: AWS Redshift, Google BigQuery, Snowflake
+* CI/CD Tools: Jenkins, GitLab CI/CD, Docker
+* Data Visualization: Tableau, Power BI, D3.js
+* Operating Systems: Linux, Windows, macOS
+
+Professional Experience:
+
+Data Engineer, ABC Company (2018-Present)
+
+* Designed and implemented a data warehousing solution using AWS Redshift, resulting in a 30% reduction in query latency
+* Developed a data pipeline using Apache NiFi, integrating data from multiple sources and delivering it to a data lake on AWS S3
+* Collaborated with cross-functional teams to implement CI/CD processes using Jenkins and Docker, resulting in a 25% increase in deployment frequency
+* Built and maintained a data catalog using GraphQL, providing self-service access to data assets for business users
+
+Senior Data Analyst, DEF Company (2015-2018)
+
+* Analyzed large datasets using Python and Pandas, providing insights to inform business decisions
+* Developed and maintained ETL processes using Informatica PowerCenter, ensuring data quality and integrity
+* Designed and implemented data visualizations using Tableau, presenting findings to stakeholders
+* Collaborated with data scientists to develop predictive models using machine learning algorithms
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2020)
+* Certified Scrum Master, Scrum Alliance (2019)
+
+References:
+Available upon request.

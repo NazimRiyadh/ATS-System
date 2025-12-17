@@ -1,0 +1,59 @@
+**Zara**
+**Contact Information:**
+
+* Email: [zara@email.com](mailto:zara@email.com)
+* LinkedIn: linkedin.com/in/zara
+* Phone: 555-555-5555
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 3 years of experience in designing, developing, and optimizing data infrastructure. Proven track record of delivering high-quality projects on time, with a strong emphasis on data warehousing, big data technologies, and ETL pipelines. Skilled in Python, Scala, SQL optimization, and data storage solutions. Thrives in a remote environment and has a strong competitive spirit, boasting a 3.0 average in data engineering competitions.
+
+**Professional Experience:**
+
+**Data Engineer Intern**, ABC Corporation (2020-2022)
+
+* Assisted in the design and development of ETL pipelines using Python, Scala, and Apache Beam
+* Implemented data storage solutions using relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB, Cassandra)
+* Optimized SQL queries for improved performance, resulting in a 30% reduction in query execution time
+* Collaborated with cross-functional teams to integrate data from various sources, including cloud-based services (AWS, Google Cloud) and on-premises data centers
+* Participated in data engineering competitions, achieving a 3.0 average and ranking among the top 10% of competitors
+
+**Data Analyst**, DEF Startups (2019-2020)
+
+* Designed and developed data warehousing solutions using Amazon Redshift and Google BigQuery
+* Implemented data integration using Apache NiFi and Apache Kafka
+* Developed Python scripts for data processing and analysis, including data cleaning, transformation, and visualization
+* Collaborated with data scientists to develop predictive models and perform data-driven decision-making
+* Assisted in the development of data governance policies and procedures
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2019)
+
+**Skills:**
+
+* Programming languages: Python, Scala, SQL
+* Data storage solutions: relational databases (MySQL, PostgreSQL), NoSQL databases (MongoDB, Cassandra), cloud-based services (AWS, Google Cloud)
+* Data integration: Apache NiFi, Apache Kafka, AWS Lambda
+* Data warehousing: Amazon Redshift, Google BigQuery
+* ETL pipelines: Apache Beam, Python, Scala
+* Data visualization: Tableau, Power BI
+* Operating Systems: Windows, Linux, macOS
+
+**Competitions and Achievements:**
+
+* 3.0 average in data engineering competitions
+* Ranked among the top 10% of competitors in data engineering competitions
+* Winner of the ABC Corporation's Data Engineering Hackathon (2022)
+* Finalist in the DEF Startups' Data Science Competition (2021)
+
+**Certifications:**
+
+* Certified Data Engineer, Data Science Council of America (2022)
+* Certified Apache Spark Developer, Apache Software Foundation (2021)
+
+**Remote Work Experience:**
+
+* Successfully worked remotely for 2 years, collaborating with distributed teams and managing multiple projects simultaneously
+* Utilized video conferencing tools (Zoom, Google Meet) and communication platforms (Slack, Microsoft Teams) to stay connected with team members
+* Developed strong self-motivation and time management skills to meet deadlines and deliver high-quality work in a remote environment

@@ -1,0 +1,62 @@
+here's a sample resume for alexis davis applying for the role of software engineer:
+
+alexis davis
+contact information:
+
+* email: [alexis.davis@email.com](mailto:alexis.davis@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/alexisdavis
+* github: github.com/alexisdavis
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable software applications using various programming languages. proficient in java, c++, python, and data structures. strong problem-solving skills and excellent teamwork capabilities.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: microservices, restful apis, service-oriented architecture (soa)
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+* version control systems: git, svn
+* cloud platforms: aws, azure
+* development tools: eclipse, intellij idea, visual studio code
+
+professional experience:
+
+software engineer, abc company (2020-present)
+
+* designed and developed multiple software applications using java, c++, and python
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* implemented data structures and algorithms to optimize system performance
+* deployed applications to production using continuous integration and continuous deployment (ci/cd) pipelines
+* participated in code reviews and provided feedback to improve code quality
+
+software development intern, def startups (summer 2019)
+
+* contributed to the development of a web application using python and flask
+* assisted in testing and debugging the application
+* worked closely with the development team to identify and resolve issues
+* presented a project proposal to the team and received feedback
+
+education:
+
+* bachelor of science in computer science, xyz university (2018-2022)
+	+ coursework: data structures, algorithms, computer systems, computer networks, database systems
+
+projects:
+
+* personal project: todo list app (java)
+	+ designed and developed a simple todo list application using java and swing
+	+ implemented features such as adding, removing, and editing tasks
+* group project: chatbot (python)
+	+ contributed to the development of a chatbot using python and flask
+	+ implemented natural language processing techniques to improve chatbot responses
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (2020)
+* certified java developer, oracle corporation (2019)
+
+references:
+available upon request.

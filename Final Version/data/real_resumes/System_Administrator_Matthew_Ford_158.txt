@@ -1,0 +1,54 @@
+Here's a sample resume for Matthew Ford:
+
+Matthew Ford
+System Administrator
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [mford@email.com](mailto:mford@email.com)
+* LinkedIn: linkedin.com/in/matthewfordit
+
+Summary:
+Highly skilled and experienced System Administrator with a strong background in Windows Server, Virtualization, and System Monitoring. Proven track record of delivering reliable and efficient IT solutions, ensuring high uptime and minimizing downtime. Proficient in troubleshooting and resolving complex technical issues.
+
+Professional Experience:
+
+* System Administrator, ABC Corporation (2018-Present)
+	+ Administered and maintained Windows Server 2016 and 2019 environments, ensuring optimal performance and security.
+	+ Implemented and managed VMware vSphere environments, including virtual machine provisioning, resource allocation, and monitoring.
+	+ Utilized System Center Operations Manager (SCOM) to monitor and troubleshoot system performance, identifying and resolving issues before they impacted business operations.
+	+ Collaborated with the IT team to design and implement a comprehensive backup and disaster recovery strategy, ensuring business continuity.
+* Junior System Administrator, DEF Agency (2015-2018)
+	+ Assisted in the administration of Windows Server 2012 and 2016 environments, including patch management, software deployment, and user account management.
+	+ Set up and managed virtual machines using VMware vSphere, including configuring network settings, storage, and resource allocation.
+	+ Monitored system performance using SCOM, identifying and resolving issues that impacted system uptime.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Microsoft Certified: Windows Server 2016 Administrator, Microsoft Corporation
+* VMware VCP-DCV, VMware, Inc.
+* Microsoft Certified: System Center Operations Manager 2016 Administrator, Microsoft Corporation
+
+Skills:
+
+* Windows Server: 2012, 2016, 2019
+* Virtualization: VMware vSphere, Hyper-V
+* System Monitoring: System Center Operations Manager (SCOM), Nagios
+* Scripting: PowerShell,batch scripting
+* Operating Systems: Windows 10, Windows Server, Linux
+
+Achievements:
+
+* Successfully implemented a Windows Server 2016 migration project, resulting in a 30% reduction in downtime and a 25% increase in system performance.
+* Designed and implemented a comprehensive backup and disaster recovery strategy, ensuring 99.9% uptime for critical business systems.
+* Developed and implemented a script-based automation framework using PowerShell, resulting in a 40% reduction in manual labor and a 20% increase in productivity.
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

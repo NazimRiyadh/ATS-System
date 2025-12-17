@@ -1,0 +1,55 @@
+harshitha sharma
+contact information:
+
+* email: [harshitha.sharma@email.com](mailto:harshitha.sharma@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/harshithasharma
+
+summary:
+highly motivated and detail-oriented data engineer with 4+ years of experience in designing, developing, and deploying scalable data pipelines using python, sql, and etl tools. proven expertise in data modeling, data warehousing, and cloud-based technologies such as aws, docker, and kubernetes.
+
+technical skills:
+
+* programming languages: python, sql
+* etl tools: airflow, spark
+* data modeling: data warehousing, business intelligence
+* cloud platforms: aws
+* containerization: docker
+* orchestration: kubernetes
+* data warehousing: data modeling, etl, data visualization
+
+professional experience:
+
+data engineer, abc corporation (2020-present)
+
+* designed and developed large-scale data pipelines using airflow, spark, and python to process and transform data from various sources
+* built and maintained data models using star and snowflake schema to support business intelligence and data visualization
+* implemented data warehousing solutions using amazon redshift and postgresql to provide insights to stakeholders
+* collaborated with cross-functional teams to identify data requirements and design scalable data architectures
+* deployed dockerized applications on kubernetes clusters to ensure high availability and scalability
+
+data analyst, def startup (2018-2020)
+
+* developed and maintained data visualizations using tableau and power bi to communicate insights to stakeholders
+* designed and implemented etl processes using sql and python to extract, transform, and load data from various sources
+* built and maintained data models using excel and sql to support business intelligence and data analysis
+* collaborated with data scientists to develop predictive models and implement them in production
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, database systems, and data mining
+
+certifications:
+
+* certified data engineer, data engineering certification board (2020)
+* certified aws developer, amazon web services (2019)
+
+projects:
+
+* data pipeline using airflow and spark: designed and developed a data pipeline using airflow and spark to process and transform data from various sources
+* data warehousing using amazon redshift and postgresql: built and maintained a data warehousing solution using amazon redshift and postgresql to provide insights to stakeholders
+* dockerized application on kubernetes: deployed a dockerized application on a kubernetes cluster to ensure high availability and scalability
+
+references:
+available upon request.

@@ -1,0 +1,60 @@
+Here's a sample resume for Ashley Ellison:
+
+Ashley Ellison
+System Administrator
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [ashley.ellison@email.com](mailto:ashley.ellison@email.com)
+* LinkedIn: linkedin.com/in/ashleyellison
+
+Summary:
+Highly motivated and experienced System Administrator with 8+ years of experience in managing and maintaining complex IT infrastructures. Proven expertise in Linux/Unix, Windows Server, Active Directory, Virtualization, and System Monitoring. Strong problem-solving skills, attention to detail, and excellent communication skills. Seeking a challenging role as a System Administrator where I can utilize my skills to optimize system performance, ensure high uptime, and provide exceptional support to end-users.
+
+Professional Experience:
+
+System Administrator, XYZ Corporation (2018 - Present)
+
+* Manage and maintain a large-scale IT infrastructure consisting of Windows Server, Linux/Unix, and Virtualization platforms.
+* Configure and troubleshoot Active Directory, DNS, DHCP, and other network services.
+* Implement and monitor system performance using tools such as Nagios, SolarWinds, and Prometheus.
+* Provide technical support to end-users, resolving issues related to system crashes, network connectivity, and application compatibility.
+* Collaborate with the infrastructure team to design and implement new systems, applications, and services.
+* Develop and maintain documentation for system configurations, procedures, and best practices.
+
+Senior IT Support Specialist, ABC Company (2015 - 2018)
+
+* Provided Level 2 and Level 3 technical support for Windows Server, Linux/Unix, and Virtualization platforms.
+* Troubleshot and resolved complex system issues, including system crashes, network connectivity, and application compatibility.
+* Assisted in the implementation and maintenance of Active Directory, DNS, DHCP, and other network services.
+* Collaborated with the infrastructure team to design and implement new systems, applications, and services.
+* Developed and maintained documentation for system configurations, procedures, and best practices.
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2010 - 2014)
+
+Certifications:
+
+* CompTIA A+ Certification (2012)
+* CompTIA Network+ Certification (2014)
+* Microsoft Certified Solutions Expert (MCSE): Server Infrastructure (2016)
+* Red Hat Certified Engineer (RHCE): Linux System Administration (2018)
+
+Technical Skills:
+
+* Operating Systems: Windows Server, Linux/Unix (Red Hat, Ubuntu, CentOS), Virtualization (VMware, Hyper-V)
+* Network Services: Active Directory, DNS, DHCP, VPN, Firewall
+* System Monitoring: Nagios, SolarWinds, Prometheus
+* Scripting Languages: Bash, PowerShell, Python
+* Cloud Computing: Amazon Web Services (AWS), Microsoft Azure
+
+Achievements:
+
+* Successfully migrated a large-scale IT infrastructure from a legacy system to a new, modern infrastructure, resulting in a 30% reduction in system downtime and a 25% increase in system performance.
+* Designed and implemented a centralized system monitoring solution using Nagios, resulting in a 40% reduction in incident response time and a 20% reduction in system downtime.
+* Collaborated with the infrastructure team to design and implement a cloud-based disaster recovery solution using AWS, resulting in a 99.99% uptime for critical systems.
+
+References:
+Available upon request.

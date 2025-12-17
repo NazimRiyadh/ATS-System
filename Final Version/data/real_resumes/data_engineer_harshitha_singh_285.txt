@@ -1,0 +1,59 @@
+harshitha singh
+data engineer
+
+contact information:
+
+* email: [harshithasingh@email.com](mailto:harshithasingh@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/harshithasingh
+
+summary:
+highly motivated and detail-oriented data engineer with 4+ years of experience in designing, developing, and maintaining large-scale data processing systems. proficient in python, sql, etl, airflow, spark, data modeling, and various cloud platforms. proven track record of delivering high-quality results and improving data processing efficiency.
+
+technical skills:
+
+* programming languages: python
+* databases: sql, nosql
+* etl tools: airflow, python scripts
+* big data processing: apache spark, hadoop
+* data modeling: entity-relationship modeling, data vault modeling
+* cloud platforms: aws, azure
+* containerization: docker, kubernetes
+* data warehousing: amazon redshift, snowflake
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc company (2020-present)
+
+* designed and developed etl pipelines using airflow, python, and spark to process large-scale data sets
+* implemented data modeling using entity-relationship modeling and data vault modeling techniques
+* deployed and managed data processing systems on aws using docker and kubernetes
+* improved data processing efficiency by 30% through optimization of spark jobs and etl pipelines
+* collaborated with cross-functional teams to deliver high-quality data products
+
+data engineer, def company (2018-2020)
+
+* developed and maintained data processing systems using python, sql, and etl tools
+* designed and implemented data warehousing solutions using amazon redshift and snowflake
+* implemented data modeling using data vault modeling technique
+* improved data processing efficiency by 25% through optimization of etl pipelines and data modeling
+* collaborated with data scientists to deliver high-quality data products
+
+education:
+
+* bachelor of technology in computer science, xyz university (2018)
+* master of science in data science, abc university (2020)
+
+certifications:
+
+* aws certified developer - associate
+* certified data engineer, data science council of america
+
+achievements:
+
+* winner of abc company's hackathon (2020): developed and presented a novel solution for data processing and analysis using spark and airflow
+* published research paper in international journal of data science and analytics (2020): "efficient data processing using apache spark and data modeling techniques"
+
+references:
+available upon request.

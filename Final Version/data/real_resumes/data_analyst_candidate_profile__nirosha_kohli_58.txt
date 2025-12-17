@@ -1,0 +1,39 @@
+**candidate profile: nirosha kohli**
+
+**job role:** data analyst
+
+**interview assessment:**
+
+nirosha displayed enthusiasm and a strong desire to learn during the interview, which is commendable. however, upon closer examination, it became apparent that there are areas where her skills and experience do not directly align with the requirements of the data analyst role.
+
+**key areas of concern:**
+
+1. **data visualization:** nirosha lacks proficiency in creating effective data visualizations using tools like tableau, power bi, or d3.js. she demonstrated a basic understanding of chart types but struggled to create interactive and insightful visualizations.
+2. **sql:** although nirosha has some experience with sql, it appears to be limited to basic queries. she had difficulty writing complex queries, optimizing database performance, or troubleshooting common sql errors.
+3. **statistics:** nirosha's understanding of statistical concepts, such as hypothesis testing, regression analysis, and confidence intervals, was found to be limited. she struggled to apply statistical techniques to real-world data problems.
+4. **excel/spreadsheet analysis:** nirosha's experience with excel is mostly limited to basic data manipulation and formatting. she had difficulty performing advanced analysis, such as pivot tables, macros, or data modeling.
+5. **business intelligence (bi) tools:** nirosha is not familiar with popular bi tools like oracle, sap, or microsoft dynamics. she also had difficulty understanding the concept of data warehousing and etl processes.
+6. **insufficient experience:** nirosha's lack of experience working with large datasets, handling missing data, or performing data quality checks was a concern. her experience with data mining, predictive modeling, or machine learning was also limited.
+
+**concerns raised during the interview:**
+
+1. difficulty with tasks that required advanced data manipulation and analysis, such as data normalization, data transformation, or data aggregation.
+2. lack of familiarity with specific tools or technologies, such as sql server, python, or r.
+3. struggled to provide clear and concise explanations of statistical concepts or data visualization techniques.
+
+**potential for growth:**
+
+despite these gaps in her skills and experience, nirosha's eagerness to learn and improve was evident. with targeted training and exposure to the necessary tools, technologies, and concepts, she has the potential to develop into a competent data analyst. her strong problem-solving skills, attention to detail, and ability to learn quickly are valuable assets that could be leveraged with proper guidance and support.
+
+**recommendations:**
+
+to address the identified gaps, it is recommended that nirosha receive training in the following areas:
+
+1. data visualization tools and techniques
+2. advanced sql and database concepts
+3. statistical analysis and modeling
+4. excel/spreadsheet analysis and data modeling
+5. business intelligence tools and data warehousing
+6. data mining, predictive modeling, and machine learning
+
+additionally, providing nirosha with hands-on experience working with large datasets, handling missing data, and performing data quality checks would be beneficial in helping her develop the skills and confidence needed for the data analyst role.

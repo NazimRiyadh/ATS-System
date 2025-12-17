@@ -1,0 +1,51 @@
+Kim Curtis
+Contact Information:
+
+* Email: [kcurtis@email.com](mailto:kcurtis@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/kcurtis
+
+Summary:
+Highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and testing scalable software applications using Java and various development methodologies. Skilled in algorithm and data structure, backend development, version control, DevOps, and testing.
+
+Technical Skills:
+
+* Programming languages: Java, Python
+* Development frameworks: Spring Boot, Hibernate
+* Algorithm and data structure: Arrays, Linked lists, Stacks, Queues, Trees, Graphs
+* Database systems: MySQL, PostgreSQL
+* Operating Systems: Windows, Linux
+* Agile methodologies: Scrum, Kanban
+* Version control: Git, SVN
+* DevOps: Docker, Kubernetes
+* Testing frameworks: JUnit, Mockito, Selenium
+
+Professional Experience:
+
+Senior Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple backend applications using Java and Spring Boot framework, including a high-traffic e-commerce platform and a scalable data processing pipeline.
+* Collaborated with cross-functional teams to define project requirements, create technical specifications, and implement software solutions.
+* Implemented automated testing and continuous integration/ deployment pipelines using JUnit, Mockito, and Jenkins.
+* Utilized Git for version control and Docker/Kubernetes for containerization and orchestration.
+* Participated in code reviews and ensured high-quality code standards.
+
+Software Engineer, DEF Startups (2015-2018)
+
+* Developed multiple web applications using Java, Spring, and Hibernate, including a social media platform and a customer management system.
+* Designed and implemented database schema using MySQL and PostgreSQL.
+* Collaborated with designers to implement UI/UX changes and improve user experience.
+* Implemented API testing using JUnit and Selenium.
+* Utilized SVN for version control and Jenkins for continuous integration.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Scrum Master (CSM)
+* Certified Java Developer (OCPJP)
+
+References:
+Available upon request.

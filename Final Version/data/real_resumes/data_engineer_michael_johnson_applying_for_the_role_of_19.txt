@@ -1,0 +1,62 @@
+here's a sample resume for michael johnson applying for the role of data engineer:
+
+michael johnson
+contact information:
+
+* email: [michaeljohnson@email.com](mailto:michaeljohnson@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/michaeljohnson
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, implementing, and maintaining large-scale data processing systems. skilled in etl, big data, cloud platforms, and spark, with a strong understanding of airflow and data pipeline automation. proficient in working with distributed data systems and ensuring high availability and scalability.
+
+technical skills:
+
+* big data:
+	+ hadoop ecosystem (hdfs, yarn, mapreduce)
+	+ apache spark (scala, java, python)
+	+ data storage (hbase, cassandra, mongodb)
+* cloud platforms:
+	+ aws (ec2, s3, emr, glue)
+	+ google cloud platform (gcp) (dataproc, storage, bigtable)
+	+ microsoft azure (hdinsight, data lake, storage)
+* data engineering:
+	+ etl (extract, transform, load) using python, java, and scala
+	+ data pipeline automation using apache airflow
+	+ data quality and data governance
+* programming languages:
+	+ python (pyspark, pandas, numpy)
+	+ java (java spark, hadoop)
+	+ scala (spark scala api)
+* databases:
+	+ relational databases (mysql, oracle)
+	+ nosql databases (hbase, cassandra, mongodb)
+
+experience:
+
+data engineer, abc company (2018-present)
+
+* designed and implemented large-scale data processing systems using hadoop, spark, and airflow
+* developed and maintained etl pipelines using python and java for data integration and processing
+* collaborated with cross-functional teams to ensure data quality and governance
+* implemented data pipeline automation using apache airflow, resulting in 30% reduction in pipeline processing time
+
+data analyst, def agency (2015-2018)
+
+* analyzed large datasets using apache spark and python to identify trends and patterns
+* developed and maintained data visualization dashboards using tableau and power bi
+* collaborated with data scientists to develop predictive models using machine learning algorithms
+
+education:
+
+* bachelor's degree in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering institute (2020)
+* certified apache spark developer, spark development foundation (2019)
+
+references:
+available upon request.
+
+note that this is just a sample resume, and you should customize it to fit your specific experience and the job you're applying for.

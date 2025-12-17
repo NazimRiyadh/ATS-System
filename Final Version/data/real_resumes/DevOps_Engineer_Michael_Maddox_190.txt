@@ -1,0 +1,59 @@
+Here's a professional resume for Michael Maddox:
+
+Michael Maddox
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [mmaddox@email.com](mailto:mmaddox@email.com)
+* LinkedIn: linkedin.com/in/michaelmaddox
+* GitHub: github.com/mmaddox
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Docker, Ansible, and Infrastructure as Code. Proven track record of successfully designing, implementing, and maintaining scalable, secure, and efficient cloud infrastructure. Skilled in cloud platforms, automation, and collaboration tools, with a passion for driving innovation and improving the overall software development lifecycle.
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Ansible, Terraform, AWS CloudFormation
+* Cloud Platforms: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
+* Automation: Python, Bash, PowerShell
+* Collaboration: Git, Jira, Slack
+* Monitoring: Prometheus, Grafana, New Relic
+
+Professional Experience:
+
+* Senior DevOps Engineer, ABC Corporation (2018-Present)
+	+ Designed and implemented a scalable CI/CD pipeline using Jenkins, GitLab CI/CD, and Docker
+	+ Built and maintained a large-scale Ansible inventory and playbooks for infrastructure management
+	+ Collaborated with development teams to implement Infrastructure as Code using Terraform and AWS CloudFormation
+	+ Successfully migrated a legacy application to a cloud-native architecture using Kubernetes and Docker
+	+ Implemented monitoring and logging tools using Prometheus, Grafana, and New Relic
+* DevOps Engineer, DEF Startups (2015-2018)
+	+ Built and maintained a microservices architecture using Docker, Kubernetes, and Ansible
+	+ Implemented a CI/CD pipeline using Jenkins and GitLab CI/CD
+	+ Collaborated with development teams to implement Infrastructure as Code using Terraform and AWS CloudFormation
+	+ Successfully deployed a cloud-native application on AWS and GCP
+* Infrastructure Engineer, GHI Inc. (2012-2015)
+	+ Designed and implemented a scalable infrastructure using VMware and Ansible
+	+ Built and maintained a large-scale automation framework using Python and Bash
+	+ Collaborated with development teams to implement monitoring and logging tools using Nagios and Splunk
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2012)
+* Certifications:
+	+ AWS Certified DevOps Engineer - Professional
+	+ Certified Ansible Expert
+	+ Certified Jenkins Engineer
+
+Achievements:
+
+* Winner, Hackathon 2019: Built and deployed a cloud-native application using Kubernetes, Docker, and Ansible, and won first prize in a hackathon competition.
+* Contributor, Open-Source Projects: Contributed to several open-source projects, including Ansible and Kubernetes, and received recognition for my contributions.
+* Speaker, Industry Conferences: Spoke at industry conferences, including DevOpsDays and AWS re:Invent, and presented on topics related to CI/CD, containerization, and infrastructure as code.
+
+References:
+Available upon request.

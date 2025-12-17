@@ -1,0 +1,56 @@
+ananya singh
+contact information:
+
+* email: [ananya.singh@email.com](mailto:ananya.singh@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ananyasingh
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software systems. proficient in a range of programming languages, including java, python, and javascript, with expertise in system design, algorithms, and data structures. proven track record of delivering high-quality software solutions on time and on budget.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design and architecture
+* algorithms and data structures
+* rest apis
+* git
+* ci/cd
+* microservices
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed a scalable e-commerce platform using java, spring boot, and docker
+* implemented rest apis using spring boot and swagger
+* collaborated with cross-functional teams to deliver high-quality software solutions on time and on budget
+* utilized git for version control and ci/cd pipelines for automated testing and deployment
+* participated in code reviews and provided feedback to improve code quality and maintainability
+
+software engineer, def startups (2015-2018)
+
+* developed a web application using python, django, and react
+* designed and implemented a microservices-based architecture using docker and kubernetes
+* collaborated with the devops team to deploy the application on aws
+* utilized git for version control and ci/cd pipelines for automated testing and deployment
+* participated in code reviews and provided feedback to improve code quality and maintainability
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015)
+* master of technology in computer science, pqr university (2018)
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (2019)
+* certified java developer, oracle corporation (2018)
+
+achievements:
+
+* winner of the google code-in competition, 2016
+* published a research paper on "efficient algorithm for solving dynamic programming problems" in the international journal of computer science and applications, 2019
+* recipient of the "best project award" at the xyz university innovation hackathon, 2015
+
+references:
+available upon request.

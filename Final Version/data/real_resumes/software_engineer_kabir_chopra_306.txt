@@ -1,0 +1,49 @@
+kabir chopra
+contact information:
+
+* email: [kabir.chopra@email.com](mailto:kabir.chopra@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/kabirchopra
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software systems. proficient in a wide range of programming languages, including java, python, and javascript. skilled in system design, algorithms, data structures, rest apis, and continuous integration and delivery.
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple microservices using java, python, and javascript, utilizing rest apis, and git for version control.
+* collaborated with cross-functional teams to identify and prioritize project requirements, ensuring timely delivery of high-quality software products.
+* implemented automated testing and continuous integration/continuous deployment (ci/cd) pipelines using jenkins and docker.
+* participated in code reviews, ensuring adherence to coding standards and best practices.
+
+software developer, def startup (2015-2018)
+
+* developed and maintained multiple software applications using java and python, focusing on web development, database integration, and performance optimization.
+* designed and implemented restful apis for multiple applications, ensuring scalability and reliability.
+* collaborated with the devops team to implement monitoring and logging tools, improving overall system visibility and performance.
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015)
+	+ coursework: data structures, algorithms, computer systems, software engineering, and web development.
+
+skills:
+
+* programming languages: java, python, javascript
+* system design
+* algorithms and data structures
+* rest apis
+* git
+* ci/cd (jenkins, docker)
+* microservices architecture
+* agile development methodologies
+
+achievements:
+
+* certified scrum master (csm), scrum alliance (2019)
+* certified java developer, oracle corporation (2017)
+* contributor to open-source projects, github (2015-present)
+
+references:
+available upon request.

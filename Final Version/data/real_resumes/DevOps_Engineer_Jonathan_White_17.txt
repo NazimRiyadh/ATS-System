@@ -1,0 +1,55 @@
+Here's a sample professional resume for Jonathan White, a DevOps Engineer candidate:
+
+Jonathan White
+Contact Information:
+
+* Address: 123 Main St, Anytown, USA 12345
+* Phone: (555) 555-5555
+* Email: [jwhite@email.com](mailto:jwhite@email.com)
+* LinkedIn: linkedin.com/in/jonathanwhite
+
+Professional Summary:
+
+Highly motivated and experienced DevOps Engineer with a strong background in designing, implementing, and maintaining scalable and highly available cloud infrastructure using Docker, Kubernetes, and Infrastructure as Code (IaC) tools. Proven track record of successfully deploying and monitoring complex systems, with a focus on automation, collaboration, and continuous improvement.
+
+Technical Skills:
+
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, Ansible, AWS CloudFormation
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Agile Methodologies: Scrum, Kanban
+* Programming Languages: Python, Bash, PowerShell
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Design and implement scalable and highly available cloud infrastructure using Docker, Kubernetes, and Terraform
+* Develop and maintain Infrastructure as Code (IaC) scripts to automate deployment and provisioning of cloud resources
+* Implement monitoring tools (Prometheus, Grafana, New Relic) to ensure system performance and reliability
+* Collaborate with development teams to ensure smooth deployment and integration of applications
+* Troubleshoot and resolve critical issues affecting system availability and performance
+
+Senior Systems Administrator, DEF Company (2018-2020)
+
+* Managed and maintained large-scale on-premises infrastructure, including servers, networks, and storage systems
+* Implemented automation scripts using Ansible and PowerShell to streamline deployment and management processes
+* Migrated legacy systems to cloud platforms (AWS, Azure) to improve scalability and availability
+* Conducted regular security audits and implemented security best practices to ensure compliance with industry regulations
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Achievements:
+
+* Successfully implemented a Kubernetes-based CI/CD pipeline for a large-scale e-commerce platform, resulting in 30% reduction in deployment time and 25% improvement in system reliability
+* Designed and implemented a Terraform-based IaC solution for a cloud-scale infrastructure, resulting in 40% reduction in provisioning time and 20% improvement in system availability
+* Developed and maintained a Prometheus-based monitoring system for a high-traffic web application, resulting in 90% reduction in system downtime and 80% improvement in system performance
+
+Certifications:
+
+* AWS Certified Solutions Architect - Associate
+* Kubernetes Certified Administrator (CKA)
+* CompTIA Cloud+

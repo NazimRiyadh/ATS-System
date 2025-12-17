@@ -1,0 +1,49 @@
+here's a sample resume for david osborne applying for a data engineer role:
+
+david osborne
+contact information:
+
+* email: [david.osborne@email.com](mailto:david.osborne@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/davidosborne
+* github: github.com/davidosborne
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in designing, developing, and maintaining large-scale data pipelines using airflow, etl, big data, and cloud platforms. proven track record of delivering high-quality solutions that drive business insights and improve operational efficiency.
+
+technical skills:
+
+* airflow: experienced in designing, developing, and managing complex workflows using apache airflow. proficient in creating dags, writing python operators, and integrating with various data sources.
+* etl: skilled in extract, transform, and load (etl) processes using tools like apache beam, spark, and aws glue. strong understanding of data modeling, data quality, and data governance.
+* big data: familiarity with big data technologies such as hadoop, spark, and nosql databases. experience with data warehousing, data lake, and data governance.
+* cloud platforms: proficient in designing, deploying, and managing data pipelines on cloud platforms such as aws, azure, and google cloud. experience with cloud-based data storage, processing, and analytics.
+* programming languages: python, java, sql, and bash.
+* databases: mysql, postgresql, mongodb, and cassandra.
+
+professional experience:
+
+* data engineer, xyz corporation (2018-present)
+	+ designed, developed, and deployed large-scale etl pipelines using airflow, apache beam, and spark.
+	+ collaborated with cross-functional teams to integrate data from various sources, including cloud-based services and on-premises systems.
+	+ developed and maintained data warehouses, data lakes, and data governance frameworks using big data technologies.
+	+ implemented data quality checks, data validation, and data lineage using python and sql.
+* junior data engineer, abc startup (2015-2018)
+	+ built and deployed data pipelines using apache airflow, apache beam, and spark.
+	+ worked on data integration projects, including data warehousing, data lake, and data governance.
+	+ collaborated with data scientists to develop data products and insights using python, r, and sql.
+
+education:
+
+* bachelor's degree in computer science, university of california, berkeley (2015)
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified cloud practitioner, aws (2018)
+
+projects:
+
+* airflow-based etl pipeline: designed and developed a scalable etl pipeline using airflow, apache beam, and spark to integrate data from multiple sources.
+* big data analytics: developed a data analytics platform using hadoop, spark, and nosql databases to analyze large datasets and provide business insights.
+
+note: this is a sample resume, and you should customize it to fit your specific experience and qualifications. also, be sure to proofread your resume multiple times for grammar, spelling, and formatting errors.

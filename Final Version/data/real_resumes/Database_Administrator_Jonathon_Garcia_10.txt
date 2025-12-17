@@ -1,0 +1,63 @@
+Here is a sample resume for Mr. Jonathon Garcia:
+
+Jonathon Garcia
+Contact Information:
+
+* Address: 123 Main St, Anytown, USA 12345
+* Phone: 555-555-5555
+* Email: [jgarcia@email.com](mailto:jgarcia@email.com)
+* LinkedIn: linkedin.com/in/jonathongarcia
+
+Professional Summary:
+
+Highly skilled Database Administrator with 8+ years of experience in designing, implementing, and maintaining large-scale databases. Proficient in SQL, NoSQL, and database security. Proven track record of improving database performance, ensuring high availability, and ensuring data integrity. Seeking a challenging role as a Database Administrator where I can leverage my technical expertise to drive business growth and success.
+
+Technical Skills:
+
+* Database Management Systems: Oracle, MySQL, Microsoft SQL Server, MongoDB
+* Database Design and Implementation: ER modeling, normalization, denormalization
+* SQL and NoSQL: query optimization, indexing, clustering
+* Backup and Recovery: RMAN, MySQL Enterprise Backup, SQL Server Backup
+* Database Security: access control, encryption, auditing
+* Performance Tuning: query optimization, indexing, workload management
+* Operating Systems: Windows, Linux, Unix
+
+Professional Experience:
+
+Database Administrator, ABC Corporation (2018-Present)
+
+* Designed and implemented multiple databases for various business applications, including a large-scale e-commerce platform
+* Improved database performance by 30% through query optimization and indexing
+* Ensured high availability of databases through regular backups and disaster recovery planning
+* Implemented database security measures, including encryption and access control, to protect sensitive data
+* Collaborated with development teams to ensure database design and implementation align with business requirements
+
+Database Developer, DEF Company (2015-2018)
+
+* Developed and maintained multiple databases for various business applications, including a large-scale CRM system
+* Improved database performance by 25% through query optimization and indexing
+* Designed and implemented database backup and recovery procedures to ensure high availability
+* Implemented database security measures, including access control and auditing, to protect sensitive data
+* Collaborated with development teams to ensure database design and implementation align with business requirements
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Oracle Certified Professional (OCP), Oracle Database 12c
+* Microsoft Certified Database Administrator (MCDA), Microsoft SQL Server 2016
+* CompTIA Security+ (SC)
+
+Achievements:
+
+* Winner of the ABC Corporation's "Database Administrator of the Year" award (2020)
+* Published an article on database security best practices in the Journal of Database Administration (2019)
+* Presented a webinar on database performance tuning at the annual ABC Corporation conference (2018)
+
+References:
+
+Available upon request.
+
+I hope this sample resume helps! Let me know if you have any questions or need further assistance.

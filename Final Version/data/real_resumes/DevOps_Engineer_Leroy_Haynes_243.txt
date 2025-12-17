@@ -1,0 +1,61 @@
+Here's a professional resume for Leroy Haynes:
+
+Leroy Haynes
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [leroy.haynes@email.com](mailto:leroy.haynes@email.com)
+* LinkedIn: linkedin.com/in/leroyhaynes
+
+Summary:
+Highly motivated and experienced DevOps Engineer with expertise in Docker, Kubernetes, and Infrastructure as Code. Proven track record of improving system reliability, scalability, and security. Strong troubleshooting and problem-solving skills with a passion for automation and continuous integration. Collaborative team player with excellent communication skills.
+
+Technical Skills:
+
+* Docker: Enterprise-level experience with container orchestration, security, and networking
+* Kubernetes: Deployments, Services, Persistent Volumes, and RBAC
+* Infrastructure as Code: Terraform, Ansible, and CloudFormation
+* Monitoring Tools: Prometheus, Grafana, and ELK Stack
+* Agile Methodologies: Scrum and Kanban
+* Operating Systems: Linux (Ubuntu, CentOS), Windows
+* Scripting Languages: Python, Bash, and PowerShell
+* Version Control Systems: Git and SVN
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a scalable Docker-based CI/CD pipeline using Kubernetes and Terraform
+* Improved system reliability by 30% through proactive monitoring and alerting using Prometheus and Grafana
+* Collaborated with cross-functional teams to deploy multiple applications on-premises and in the cloud
+* Developed and maintained Ansible playbooks for infrastructure provisioning and configuration management
+* Conducted security audits and implemented recommendations to improve security posture
+
+DevOps Engineer, DEF Startups (2018-2020)
+
+* Built and deployed multiple microservices using Docker and Kubernetes
+* Developed and maintained Terraform configurations for infrastructure provisioning
+* Implemented monitoring and alerting using ELK Stack and Grafana
+* Collaborated with developers to implement continuous integration and delivery using Jenkins and GitLab CI/CD
+* Conducted troubleshooting and root cause analysis to resolve system issues
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Docker Developer (CDD)
+
+Achievements:
+
+* Successfully implemented a Kubernetes-based CI/CD pipeline, reducing deployment time by 50%
+* Improved system reliability by 25% through proactive monitoring and alerting
+* Collaborated with a team to deploy a highly available and scalable e-commerce platform using Docker and Kubernetes
+* Developed and maintained a comprehensive security guide for infrastructure and applications
+
+References:
+Available upon request.

@@ -1,0 +1,52 @@
+aditya gupta
+software engineer
+
+contact information:
+
+* email: [aditya.gupta@email.com](mailto:aditya.gupta@email.com)
+* phone: +1-123-456-7890
+* linkedin: linkedin.com/in/adityagupta
+
+summary:
+highly motivated and detail-oriented software engineer with 4+ years of experience in designing, developing, and deploying scalable and efficient software solutions. proficient in a range of programming languages including java, python, and javascript. proven expertise in system design, algorithms, data structures, and rest apis. strong understanding of agile development methodologies and experience with git, ci/cd, and microservices.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, containerization, load balancing
+* algorithms and data structures: arrays, linked lists, stacks, queues, trees, graphs
+* rest apis: design, implementation, and testing
+* version control: git, svn
+* continuous integration and delivery: jenkins, docker
+* microservices: design, implementation, and deployment
+
+professional experience:
+
+senior software engineer, abc corporation (2020 - present)
+
+* designed and developed a cloud-based microservices architecture for a large-scale e-commerce platform using java, python, and javascript
+* implemented rest apis for user authentication, payment processing, and order management using spring boot and node.js
+* collaborated with cross-functional teams to implement agile development methodologies and deploy code to production using docker, kubernetes, and jenkins
+* improved code quality and reduced bugs by 30% through implementation of automated testing frameworks and code reviews
+
+software engineer, def startups (2018 - 2020)
+
+* developed a full-stack web application for a startup using javascript, react, and node.js
+* designed and implemented a scalable database schema using mysql and mongodb
+* collaborated with the qa team to write automated tests using jest and enzyme
+* participated in code reviews and ensured adherence to coding standards
+
+education:
+
+* bachelor of technology in computer science, xyz university (2018)
+	+ coursework: data structures, algorithms, computer networks, operating systems, database systems
+	+ thesis: "design and implementation of a scalable web crawler using apache hadoop"
+
+achievements:
+
+* certified scrum master (csm), scrum alliance (2020)
+* certified java developer (ocpjp), oracle corporation (2019)
+* winner, hackathon competition, def university (2017)
+
+references:
+available upon request.

@@ -1,0 +1,62 @@
+Here's a professional resume for Brittany Carter, a DevOps Engineer candidate:
+
+Brittany Carter
+DevOps Engineer
+
+Contact Information:
+
+* Email: [brittany.carter@email.com](mailto:brittany.carter@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/brittanycarterdevops
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Kubernetes, Ansible, and Infrastructure as Code. Proven track record of delivering scalable, reliable, and efficient infrastructure solutions on cloud platforms. Skilled in monitoring tools and passionate about automating processes to improve team productivity.
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Ansible, Terraform
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, GCP, Azure
+* Operating Systems: Linux, Windows
+* Programming Languages: Python, Bash, PowerShell
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and GitLab CI/CD, resulting in a 30% reduction in deployment time
+* Deployed a Kubernetes cluster on AWS, increasing application scalability by 50%
+* Created an Ansible playbook to automate infrastructure provisioning, reducing manual errors by 90%
+* Implemented monitoring tools (Prometheus, Grafana) to track application performance and availability
+* Collaborated with cross-functional teams to resolve infrastructure-related issues
+
+DevOps Engineer, DEF Startup (2018-2020)
+
+* Set up a CI/CD pipeline using CircleCI and Docker, improving deployment frequency by 20%
+* Built a Terraform configuration to manage infrastructure as code, reducing provisioning time by 40%
+* Implemented New Relic to monitor application performance and issue alerts for potential problems
+* Worked with the development team to resolve infrastructure-related issues and improve collaboration
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Achievements:
+
+* Certified Kubernetes Administrator (CKA) - 2020
+* Certified Ansible Automation (CAA) - 2019
+* Open Source Contributor to Ansible (2018-Present)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Ansible Automation (CAA)
+* AWS Certified Developer - Associate
+* GCP Certified Professional Cloud Developer
+
+References:
+Available upon request.
+
+This structure and content should provide a solid foundation for Brittany Carter's DevOps Engineer resume. Remember to tailor the resume to the specific job description and requirements, and highlight the most relevant skills and experiences.

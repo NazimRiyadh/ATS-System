@@ -1,0 +1,58 @@
+here's a resume for haley jones applying for the role of data scientist:
+
+haley jones
+contact information:
+
+* address: 123 main st, anytown, usa 12345
+* phone: (555) 555-5555
+* email: [haley.jones@email.com](mailto:haley.jones@email.com)
+* linkedin: linkedin.com/in/haleyjonesds
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, machine learning, deep learning, and sql. proven track record of extracting insights from complex data sets and developing predictive models to drive business growth. strong passion for staying up-to-date with the latest advancements in the field.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning frameworks: scikit-learn, tensorflow, pytorch
+* deep learning frameworks: keras, theano
+* statistics and data visualization libraries: numpy, pandas, matplotlib, seaborn
+* database management: mysql, postgresql
+* operating systems: windows, linux, macos
+* familiarity with cloud platforms: aws, google cloud, azure
+
+professional experience:
+
+data scientist, abc corporation (2018-present)
+
+* developed and deployed predictive models using machine learning algorithms to optimize customer retention and improve sales forecasting
+* built and maintained large-scale databases using sql and nosql databases to support data-driven decision making
+* collaborated with cross-functional teams to design and implement data visualization dashboards using tableau and power bi
+* conducted thorough data analysis and statistical modeling to identify trends and patterns in customer behavior
+* presented findings and recommendations to senior leadership to inform business strategy
+
+research assistant, xyz university (2015-2018)
+
+* conducted research in machine learning and deep learning under the supervision of a senior researcher
+* developed and implemented several machine learning algorithms using python and tensorflow to analyze and classify large datasets
+* collaborated with peers to design and execute experiments to evaluate the performance of various machine learning models
+* published research papers in top-tier conferences and journals
+
+education:
+
+* master of science in data science, xyz university (2015-2017)
+* bachelor of science in statistics, abc university (2010-2014)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* developed a recommender system using collaborative filtering and natural language processing to recommend products to customers
+* built a real-time sentiment analysis dashboard using twitter data and natural language processing techniques
+* created a predictive model using machine learning algorithms to forecast stock prices and predict market trends
+
+references:
+available upon request.

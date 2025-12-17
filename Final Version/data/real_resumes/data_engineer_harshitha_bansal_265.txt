@@ -1,0 +1,55 @@
+harshitha bansal
+contact information:
+
+* email: [harshitha.bansal@email.com](mailto:harshitha.bansal@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/harshithabansal
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing and implementing large-scale data pipelines using python, sql, and etl tools. proven expertise in data modeling, data warehousing, and cloud computing on aws. skilled in using airflow, spark, docker, and kubernetes to automate data processing tasks.
+
+technical skills:
+
+* programming languages: python
+* databases: sql, nosql
+* etl tools: aws glue, apache beam
+* data processing: apache spark, apache airflow
+* data modeling: star/snowflake schema design
+* cloud computing: aws (s3, glue, emr), docker, kubernetes
+* data warehousing: amazon redshift, google bigquery
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* designed and implemented large-scale data pipelines using python, sql, and etl tools to process data from various sources
+* built and maintained data models using star/snowflake schema design to optimize data query performance
+* utilized apache spark and airflow to automate data processing tasks and ensure timely data delivery
+* collaborated with cross-functional teams to integrate data into data warehousing platforms such as amazon redshift and google bigquery
+* implemented data security and governance policies using aws iam and data encryption
+
+data analyst, def company (2015-2018)
+
+* analyzed and interpreted large datasets to identify trends and insights using sql and python
+* built and maintained data visualizations using tableau and power bi to communicate findings to stakeholders
+* assisted in designing and implementing data quality control processes to ensure data accuracy and reliability
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015)
+* certified data engineer, data science council of america (2019)
+
+achievements:
+
+* successfully designed and implemented a data pipeline using apache spark and airflow to process 1tb of data in 30 minutes, reducing processing time by 80%
+* developed and deployed a dockerized spark application on aws emr, resulting in 30% reduction in costs and 25% increase in scalability
+* collaborated with a team to build a data warehousing platform using amazon redshift and amazon s3, resulting in 40% reduction in data latency and 25% increase in query performance
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified aws developer - associate, amazon web services (2018)
+
+references:
+available upon request.

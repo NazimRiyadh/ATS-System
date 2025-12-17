@@ -1,0 +1,54 @@
+Here's a professional resume for Melissa Fuentes:
+
+Melissa Fuentes
+Contact Information:
+
+* Email: [melissa.fuentes@email.com](mailto:melissa.fuentes@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/melissa-fuentes
+* GitHub: github.com/melissa-fuentes
+
+Summary:
+Highly motivated and experienced Data Engineer with 5+ years of expertise in designing, developing, and maintaining large-scale data systems, including ETL processes, data warehousing, and big data analytics. Skilled in Airflow, ETL tools, Spark, and cloud platforms, with a strong background in data architecture and engineering. Proficient in leading cross-functional teams and collaborating with stakeholders to deliver high-quality solutions.
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2020-Present)
+
+* Designed and developed a scalable ETL framework using Airflow, Apache Beam, and Spark, resulting in a 30% reduction in data processing time and a 25% increase in data quality.
+* Led a team of 3 data engineers to implement a cloud-based data warehousing solution using Amazon Redshift, resulting in a 40% reduction in data storage costs and a 20% increase in query performance.
+* Collaborated with data scientists to develop and deploy machine learning models using Spark and Python, resulting in a 25% increase in model accuracy and a 15% reduction in data preparation time.
+
+Data Engineer, DEF Startups (2018-2020)
+
+* Developed and maintained a real-time data pipeline using Spark, Kafka, and Cassandra, resulting in a 20% increase in data freshness and a 15% reduction in data latency.
+* Designed and implemented a data governance framework using Apache Beam, resulting in a 25% reduction in data errors and a 20% increase in data compliance.
+* Collaborated with product managers to develop data-driven product features, resulting in a 25% increase in user engagement and a 20% increase in revenue.
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015-2017)
+* Bachelor of Science in Computer Science, ABC University (2010-2014)
+
+Technical Skills:
+
+* Programming languages: Python, Java, Scala, SQL
+* Data engineering tools: Airflow, Apache Beam, Spark, ETL tools (e.g., Informatica, Talend)
+* Cloud platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+* Data warehousing: Amazon Redshift, Google BigQuery
+* Big data analytics: Spark, Hadoop, NoSQL databases (e.g., Cassandra, MongoDB)
+* Operating systems: Linux, Windows
+* Agile methodologies: Scrum, Kanban
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Institute (2019)
+* Certified Cloud Practitioner, Amazon Web Services (2018)
+
+Achievements:
+
+* Winner, ABC Company Hackathon (2020): Developed a real-time data analytics platform using Spark and Airflow, resulting in a 25% increase in data insights and a 20% reduction in data preparation time.
+* Recipient, DEF Startups Innovation Award (2019): Developed a cloud-based data warehousing solution using Amazon Redshift, resulting in a 40% reduction in data storage costs and a 20% increase in query performance.
+
+References:
+Available upon request.

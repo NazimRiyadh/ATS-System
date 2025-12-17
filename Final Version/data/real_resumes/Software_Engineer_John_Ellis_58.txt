@@ -1,0 +1,50 @@
+John Ellis
+Contact Information:
+
+* Email: [john.ellis@email.com](mailto:john.ellis@email.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/johnellis
+* GitHub: github.com/johnellis
+
+Summary:
+Highly motivated and detail-oriented software engineer with 5+ years of experience in Java, web development, and backend development. Proficient in version control systems, testing methodologies, and API design. Strong background in building scalable, efficient, and maintainable software systems.
+
+Technical Skills:
+
+* Programming Languages: Java 8-17, Python 3.x
+* Development Frameworks: Spring Boot, Spring MVC, Hibernate
+* Web Development: HTML5, CSS3, JavaScript (ES6+)
+* Databases: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Windows, Linux (Ubuntu)
+* Version Control: Git, SVN
+* Testing: JUnit, TestNG, Mockito
+* API Design: RESTful APIs, API Gateway
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple web applications using Java, Spring Boot, and Hibernate, resulting in a 30% increase in efficiency and a 25% reduction in development time.
+* Collaborated with cross-functional teams to identify and prioritize project requirements, ensuring timely delivery of high-quality software products.
+* Implemented automated testing and continuous integration scripts using JUnit, TestNG, and Jenkins, reducing testing time by 50% and improving code quality.
+* Participated in code reviews, ensured adherence to coding standards, and provided feedback to junior engineers.
+
+Software Engineer, DEF Startups (2015-2018)
+
+* Developed multiple RESTful APIs using Java, Spring MVC, and JPA, resulting in a 25% increase in API usage and a 20% reduction in latency.
+* Worked with the QA team to identify and fix bugs, improving code stability and reducing bug density.
+* Assisted in the design and implementation of a microservices architecture, improving system scalability and maintainability.
+* Participated in agile development methodologies, ensuring timely delivery of software products and continuous improvement of development processes.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Java Developer, Oracle Corporation (2016)
+* Certified Scrum Master, Scrum Alliance (2017)
+
+References:
+Available upon request.

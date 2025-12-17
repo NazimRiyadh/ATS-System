@@ -1,0 +1,34 @@
+**candidate profile: fanish kohli**
+
+**interview for data scientist role**
+
+fanish kohli demonstrated enthusiasm and a strong academic background in computer science. however, upon reviewing their profile and interview performance, it became apparent that there are significant gaps in their skills and experience that align with the requirements of the data scientist role.
+
+**key areas for improvement:**
+
+1. **machine learning:** fanish struggled to articulate their understanding of machine learning concepts, and their proficiency in implementing models was limited. they lacked experience with popular libraries like scikit-learn and tensorflow, and their explanations of topics like overfitting and regularization were unclear.
+2. **statistics:** while fanish had a solid grasp of basic statistical concepts, they struggled to apply these concepts to real-world problems, particularly in the context of data analysis. their lack of familiarity with statistical modeling and hypothesis testing was evident.
+3. **data visualization:** fanish's experience with data visualization tools like tableau, power bi, and d3.js was limited. they found it challenging to create effective visualizations and struggled to communicate insights effectively.
+4. **big data:** fanish's understanding of big data concepts, such as hadoop, spark, and nosql databases, was incomplete. they lacked hands-on experience with these technologies and found it difficult to articulate their relevance to data science.
+5. **programming (python, r):** fanish's proficiency in python was good, but their experience with r was limited. they struggled to write efficient code and found it challenging to apply programming concepts to data science problems.
+6. **h, e, a, l, t, h, c, a, r, e, , , f, i, n, a, n, c, e, , , r, e, t, a, i, l:** fanish's experience with these tools and technologies was non-existent, and they found it difficult to understand their relevance to data science.
+
+**concerns raised during the interview:**
+
+* fanish struggled to complete certain tasks, such as data wrangling and feature engineering, which are essential skills for a data scientist.
+* they were unfamiliar with specific tools and technologies, such as apache kafka and apache cassandra, which are commonly used in data science.
+* fanish's responses to questions about data science concepts, such as data quality and ethics, were incomplete and lacked depth.
+
+**potential for growth:**
+
+despite these gaps, fanish demonstrated a strong work ethic and a willingness to learn. with further training and exposure to the aforementioned areas, they have the potential to grow into a skilled data scientist. their background in computer science and academic performance indicate that they have a solid foundation in programming and problem-solving.
+
+**recommendations for growth:**
+
+* provide fanish with training and mentorship in machine learning, statistics, and data visualization.
+* expose them to big data technologies and programming languages like r and matlab.
+* encourage them to work on projects that apply data science concepts to real-world problems.
+
+**conclusion:**
+
+fanish kohli has the potential to develop into a skilled data scientist with targeted training and support. their enthusiasm and work ethic make them an attractive candidate for growth and development. however, significant gaps in their skills and experience need to be addressed before they can be considered for a data scientist role.

@@ -1,0 +1,66 @@
+Here's a professional resume for Krystal Miller:
+
+Krystal Miller
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [krystal.miller@email.com](mailto:krystal.miller@email.com)
+* LinkedIn: linkedin.com/in/krystalmiller
+* GitHub: github.com/krystalmiller
+
+Professional Summary:
+
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, Docker, Ansible, and Infrastructure as Code. Proven track record of delivering scalable and reliable cloud-based solutions, with expertise in Cloud Platforms (AWS, Azure, GCP). Skilled in automation and scripting, with a passion for implementing best practices and improving process efficiency.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Automation: Ansible, Terraform, CloudFormation
+* Cloud Platforms: AWS, Azure, GCP
+* Scripting: Bash, Python, PowerShell
+* Operating Systems: Linux, Windows
+* Version Control: Git
+
+Professional Experience:
+
+DevOps Engineer, XYZ Corporation (2020-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins, Docker, and Kubernetes to automate deployment of microservices-based applications
+* Developed and maintained infrastructure as code using Terraform and CloudFormation to manage cloud resources (AWS, Azure)
+* Configured and managed Ansible playbooks for automated deployment and configuration of servers
+* Collaborated with development teams to improve code quality and reduce deployment time
+* Implemented monitoring and logging tools (Prometheus, Grafana, ELK) to ensure application visibility and performance
+
+DevOps Engineer, ABC Startups (2018-2020)
+
+* Built and maintained a cloud-based infrastructure using AWS, Azure, and GCP to support multiple microservices-based applications
+* Developed and implemented Dockerized applications using Kubernetes and Ansible for automated deployment and scaling
+* Configured and managed Jenkins pipelines for continuous integration and delivery
+* Collaborated with development teams to improve code quality and reduce deployment time
+* Implemented monitoring and logging tools (Prometheus, Grafana, ELK) to ensure application visibility and performance
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2015-2019)
+
+Certifications:
+
+* Certified DevOps Engineer (CDE), [Certifying Organization] (2020)
+* Certified AWS Solutions Architect (CSA), [Certifying Organization] (2019)
+
+Achievements:
+
+* Improved deployment time by 30% and reduced deployment errors by 25% through automation and process improvements
+* Developed and implemented a cloud-based infrastructure that reduced costs by 20% and improved application performance by 15%
+* Collaborated with development teams to improve code quality and reduce bugs by 20%
+* Successfully migrated 5 applications to cloud-based infrastructure using Ansible and Terraform
+
+Projects:
+
+* [Project Name]: Developed a CI/CD pipeline using Jenkins, Docker, and Kubernetes to automate deployment of a microservices-based application
+* [Project Name]: Built and maintained a cloud-based infrastructure using AWS, Azure, and GCP to support multiple microservices-based applications
+
+References:
+
+Available upon request.

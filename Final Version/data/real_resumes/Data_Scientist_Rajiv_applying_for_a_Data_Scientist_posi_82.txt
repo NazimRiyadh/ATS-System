@@ -1,0 +1,53 @@
+Here's a sample resume for Rajiv applying for a Data Scientist position:
+
+**Rajiv**
+**Contact Information:**
+
+* Email: [rajiv@email.com](mailto:rajiv@email.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/rajivdatascientist
+* GitHub: github.com/rajivdatascient
+
+**Summary:**
+Highly motivated and detail-oriented Data Scientist with 5 years of experience in developing and implementing data-driven solutions. Proven track record of delivering high-quality results, with a strong background in machine learning, statistics, and data visualization. Skilled in programming languages such as Python, R, and SQL, with expertise in data mining, predictive modeling, and data storytelling.
+
+**Technical Skills:**
+
+* Programming languages: Python, R, SQL, Julia
+* Machine learning libraries: scikit-learn, TensorFlow, PyTorch
+* Data visualization tools: Tableau, Power BI, Matplotlib, Seaborn
+* Operating Systems: Windows, Linux, macOS
+* Familiarity with Docker, Kubernetes, and cloud platforms (AWS, Azure, GCP)
+
+**Professional Experience:**
+
+* **Senior Data Scientist, ABC Corporation (2018-Present)**
+	+ Led a team of data scientists to develop and deploy predictive models for customer churn, resulting in a 25% reduction in customer attrition
+	+ Designed and implemented a data pipeline using Apache Beam, Spark, and AWS Glue, which reduced data processing time by 70%
+	+ Developed and maintained a comprehensive data catalog using AWS Glue, which improved data discovery and reuse by 90%
+* **Data Scientist, DEF Startups (2015-2018)**
+	+ Built and deployed multiple machine learning models using scikit-learn and TensorFlow, which resulted in a 30% increase in sales conversions
+	+ Collaborated with cross-functional teams to design and implement A/B testing experiments, which led to a 25% increase in website engagement
+	+ Developed and maintained a data visualization dashboard using Tableau, which improved business insights and decision-making by 80%
+
+**Competitions and Achievements:**
+
+* **Winner, Kaggle Competitions (3.7/5)**:
+	+ "Titanic: Machine Learning from Disaster" competition (2014): Ranked #10/12,133 participants
+	+ "House Prices: Advanced Regression Techniques" competition (2015): Ranked #20/28,463 participants
+	+ "Google Analytics Customer Revenue Prediction" competition (2016): Ranked #15/25,129 participants
+* **Director, Data Science Association (2018-Present)**
+	+ Led a team of data scientists to develop and implement data-driven solutions for social causes, such as poverty reduction and climate change mitigation
+	+ Collaborated with researchers and academics to publish papers on data science applications in social impact domains
+
+**Education:**
+
+* **Ph.D. in Computer Science, XYZ University (2010-2014)**
+	+ Thesis: "Machine Learning for Predictive Modeling in Healthcare"
+* **M.S. in Computer Science, ABC University (2008-2010)**
+	+ Coursework: Machine Learning, Natural Language Processing, Data Mining
+
+**Certifications:**
+
+* **Certified Data Scientist, Data Science Council of America (2016)**
+* **Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2018)**

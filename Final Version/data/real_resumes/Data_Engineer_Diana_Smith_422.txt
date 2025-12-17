@@ -1,0 +1,59 @@
+Here's a sample resume for Diana Smith, a Data Engineer who was select for the role:
+
+**Diana Smith**
+**Data Engineer**
+
+**Contact Information:**
+
+* Email: [diana.smith@email.com](mailto:diana.smith@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/dianasmithdataengineer
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience designing, implementing, and maintaining large-scale data systems. Proficient in a range of programming languages, including Python, Java, and SQL. Proven track record of delivering high-quality projects on time and on budget. Skilled in data warehousing, ETL, data visualization, and cloud-based architectures.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, Scala, SQL
+* Data engineering tools: Apache Beam, Apache Spark, Apache Hadoop, AWS Glue
+* Data warehousing: Amazon Redshift, Google BigQuery, Snowflake
+* Data visualization: Tableau, Power BI, D3.js
+* Cloud platforms: AWS, Google Cloud, Azure
+* Operating Systems: Linux, Windows, macOS
+* Agile development methodologies: Scrum, Kanban
+
+**Professional Experience:**
+
+**Senior Data Engineer, ABC Corporation (2018-Present)**
+
+* Designed and developed a large-scale data warehousing system using Amazon Redshift and Apache Spark
+* Built and maintained a data ingestion pipeline using Apache Beam and AWS Glue
+* Collaborated with cross-functional teams to develop and deploy data-driven applications
+* Implemented data quality and governance processes to ensure data accuracy and compliance
+* Mentored junior data engineers and contributed to the development of technical documentation
+
+**Data Engineer, DEF Startups (2015-2018)**
+
+* Developed and deployed multiple data pipelines using Apache Hadoop and Apache Spark
+* Designed and implemented a data visualization dashboard using Tableau and D3.js
+* Worked with stakeholders to understand business requirements and developed data solutions to meet those needs
+* Collaborated with data scientists to develop and deploy machine learning models
+* Implemented data security and access controls to ensure data privacy and compliance
+
+**Education:**
+
+* **Bachelor of Science in Computer Science, XYZ University (2015)**
+
+**Projects:**
+
+* **Data Lake Architecture**: Designed and implemented a data lake architecture using Apache Hadoop and Apache Spark. Implemented data ingestion pipelines using Apache Beam and AWS Glue. (2019)
+* **Real-time Data Pipeline**: Built a real-time data pipeline using Apache Kafka and Apache Spark. Implemented data processing and analytics using Python and Apache Beam. (2020)
+* **Data Governance Framework**: Developed a data governance framework using AWS Lake Formation and Apache Airflow. Implemented data quality and compliance processes to ensure data accuracy and compliance. (2020)
+
+**Achievements:**
+
+* **Recipient of the ABC Corporation's Engineer of the Year Award (2020)**: Recognized for exceptional contributions to the development and deployment of data-driven applications.
+* **Speaker at the Data Engineering Conference (2019)**: Presented a talk on "Designing and Implementing Large-Scale Data Warehouses".
+* **Published in the Journal of Data Science (2018)**: Co-authored a paper on "Data Engineering for Machine Learning Applications".
+
+I hope this sample resume helps! Let me know if you have any questions or if you'd like me to make any changes.

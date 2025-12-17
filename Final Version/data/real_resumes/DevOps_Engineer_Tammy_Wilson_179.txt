@@ -1,0 +1,59 @@
+Here is a professional resume for Tammy Wilson:
+
+Tammy Wilson
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [tammy.wilson@email.com](mailto:tammy.wilson@email.com)
+* LinkedIn: linkedin.com/in/tammywilsondevops
+
+Professional Summary:
+
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, containerization, and automation. Proven track record of improving software delivery efficiency, reducing downtime, and enhancing overall system reliability. Skilled in a range of tools and technologies, including Docker, Kubernetes, and Ansible. Proficient in monitoring and logging tools, with a strong focus on delivering high-quality solutions that meet business needs.
+
+Technical Skills:
+
+* Containerization: Docker, Kubernetes
+* Automation: Ansible, Python
+* CI/CD: Jenkins, GitLab CI/CD
+* Monitoring and Logging: Prometheus, Grafana, ELK Stack
+* Operating Systems: Linux (Ubuntu, CentOS), Windows
+* Cloud Platforms: AWS, Azure
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a scalable CI/CD pipeline using Jenkins, Docker, and Kubernetes, resulting in a 30% reduction in deployment time
+* Developed and maintained a monitoring and logging system using Prometheus, Grafana, and ELK Stack, providing real-time visibility into system performance
+* Collaborated with cross-functional teams to identify and resolve issues, improving system reliability by 25%
+* Implemented automated testing and deployment using Ansible, reducing manual errors and improving overall quality
+
+Senior Systems Administrator, DEF Company (2018-2020)
+
+* Managed a team of systems administrators, providing guidance and support for system maintenance and troubleshooting
+* Designed and implemented a containerization strategy using Docker, resulting in a 40% reduction in infrastructure costs
+* Developed and maintained scripts using Python and Ansible, automating system tasks and improving efficiency
+* Collaborated with developers to resolve issues and improve application performance
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Containerization Specialist, Docker (2020)
+* Certified Ansible Expert, Red Hat (2019)
+
+Achievements:
+
+* Winner of the ABC Company Hackathon, 2020 (developed a innovative solution using Docker and Kubernetes)
+* Finalist in the DEF Company Innovation Challenge, 2019 (proposed a containerization strategy using Docker)
+
+References:
+
+Available upon request.
+
+I hope this helps! Let me know if you have any questions or if you'd like me to make any changes.

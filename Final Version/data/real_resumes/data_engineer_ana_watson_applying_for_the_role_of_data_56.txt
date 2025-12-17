@@ -1,0 +1,58 @@
+here's a sample resume for ana watson applying for the role of data engineer:
+
+ana watson
+contact information:
+
+* email: [awatson@email.com](mailto:awatson@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/ananwatson
+* github: github.com/awatson
+
+summary:
+highly motivated and detail-oriented data engineer with 3+ years of experience in designing, developing, and maintaining large-scale data processing systems. skilled in mlops, airflow, spark, and other tools and technologies. proven track record of delivering high-quality results and collaborating effectively with cross-functional teams.
+
+technical skills:
+
+* programming languages: python, java
+* data processing frameworks: apache spark, apache airflow
+* machine learning operations (mlops): model deployment, model monitoring, model versioning
+* big data technologies: hadoop, hive, impala
+* data storage: relational databases (mysql, postgresql), nosql databases (cassandra, mongodb)
+* operating systems: linux, windows
+* agile development methodologies: scrum, kanban
+
+professional experience:
+
+data engineer, xyz corporation (2020-present)
+
+* designed and developed a large-scale data pipeline using apache airflow, processing over 100 million records per day
+* built and deployed machine learning models using scikit-learn and tensorflow, integrating with airflow for deployment and monitoring
+* collaborated with data scientists to develop and implement data quality checks and feature engineering pipelines
+* implemented data governance and security protocols to ensure compliance with gdpr and hipaa regulations
+* worked with cross-functional teams to design and develop data visualizations using tableau and power bi
+
+junior data engineer, abc startups (2018-2020)
+
+* developed and maintained etl processes using apache spark, integrating with relational databases and nosql databases
+* built and deployed data visualizations using d3.js and react
+* collaborated with data scientists to develop and implement data quality checks and feature engineering pipelines
+* participated in code reviews and contributed to the development of best practices and coding standards
+* assisted in the development of data catalogs and metadata management systems
+
+education:
+
+* bachelor of science in computer science, university of california, berkeley (2015-2019)
+
+certifications:
+
+* certified data engineer, data engineering institute (2020)
+* certified scrum master, scrum alliance (2019)
+
+projects:
+
+* mlops pipeline: developed a comprehensive mlops pipeline using airflow, scikit-learn, and tensorflow, integrating with data storage and visualization tools.
+* data warehouse: designed and developed a data warehouse using apache spark and hadoop, integrating with relational databases and nosql databases.
+* data visualization: built and deployed data visualizations using tableau and power bi, integrating with data storage and processing tools.
+
+references:
+available upon request.

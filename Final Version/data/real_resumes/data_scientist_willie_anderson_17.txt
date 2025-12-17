@@ -1,0 +1,56 @@
+here's a sample resume for willie anderson, a candidate applying for a data scientist role:
+
+willie anderson
+contact information:
+
+* email: [willie.anderson@email.com](mailto:willie.anderson@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/willieanderson
+* github: github.com/willieanderson
+
+summary:
+highly motivated and detail-oriented data scientist with 3+ years of experience in developing and implementing data-driven solutions using python, statistics, and machine learning. skilled in data visualization, data wrangling, and statistical modeling. proficient in python libraries such as pandas, numpy, and scikit-learn.
+
+technical skills:
+
+* programming languages: python (3.x), r (optional)
+* data manipulation and analysis: pandas, numpy, matplotlib, seaborn
+* machine learning: scikit-learn, tensorflow (optional)
+* data visualization: matplotlib, seaborn, plotly
+* statistics: hypothesis testing, confidence intervals, regression analysis
+* operating systems: windows, linux, macos
+* agile development methodologies: scrum, kanban
+
+professional experience:
+
+data scientist, abc company (2018-present)
+
+* developed and deployed data-driven models using python and scikit-learn to predict customer churn and optimize marketing campaigns
+* collaborated with cross-functional teams to design and implement data visualizations to communicate insights to stakeholders
+* worked with large datasets (100m+ rows) to identify trends and patterns using statistical methods and data visualization tools
+* built and maintained dashboards using plotly and tableau to track key performance indicators (kpis)
+
+data analyst, def startups (2015-2018)
+
+* analyzed customer behavior data to identify drivers of sales and revenue growth using statistical methods and data visualization tools
+* developed and implemented data-driven solutions to improve customer engagement and retention
+* built and maintained databases using mysql and postgresql to store and manage large datasets
+* created reports and dashboards using tableau and power bi to communicate insights to stakeholders
+
+education:
+
+* bachelor's degree in statistics, xyz university (2015)
+* master's degree in data science, abc university (2018)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2020)
+
+projects:
+
+* predicting house prices using machine learning: built a predictive model using scikit-learn and tensorflow to predict house prices based on features such as location, size, and amenities. ( github repository: github.com/willieanderson/house-prices-prediction )
+* analyzing customer churn using data visualization: developed a dashboard using plotly and python to visualize customer churn data and identify trends and patterns. ( github repository: github.com/willieanderson/customer-churn-dashboard )
+
+references:
+available upon request.

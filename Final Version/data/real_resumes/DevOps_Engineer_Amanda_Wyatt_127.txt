@@ -1,0 +1,67 @@
+Here's a sample resume for Amanda Wyatt, a DevOps Engineer candidate:
+
+Amanda Wyatt
+DevOps Engineer
+
+Contact Information:
+
+* Email: [amanda.wyatt@email.com](mailto:amanda.wyatt@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/amandawyattdevops
+* GitHub: github.com/amandawyatt
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in containerization, orchestration, and automation. Skilled in Docker, Kubernetes, Ansible, and Infrastructure as Code, with a proven track record of improving deployment efficiency, reducing downtime, and enhancing overall system reliability. Proficient in monitoring tools and passionate about DevOps practices.
+
+Technical Skills:
+
+* Containerization: Docker, Kubernetes
+* Orchestration: Kubernetes, Ansible
+* Infrastructure as Code: Terraform, Ansible
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Operating Systems: Linux, Windows
+* Scripting Languages: Python, Bash, Ansible
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Design and implement containerized applications using Docker and Kubernetes
+* Develop and maintain infrastructure as code using Terraform and Ansible
+* Implement monitoring and logging tools such as Prometheus, Grafana, and New Relic
+* Collaborate with development and operations teams to improve deployment efficiency and reduce downtime
+* Develop and execute automation scripts using Ansible and Python
+
+Senior DevOps Engineer, DEF Company (2018-2020)
+
+* Lead the implementation of Kubernetes and Docker for a large-scale application
+* Develop and maintain infrastructure as code using Terraform and Ansible
+* Implement monitoring and logging tools such as Prometheus, Grafana, and New Relic
+* Collaborate with development and operations teams to improve deployment efficiency and reduce downtime
+* Develop and execute automation scripts using Ansible and Python
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Achievements:
+
+* Improved deployment efficiency by 30% through automation and containerization
+* Reduced downtime by 25% through proactive monitoring and logging
+* Developed and implemented a cloud-based infrastructure using Terraform and Ansible
+* Improved collaboration between development and operations teams through automation and monitoring tools
+
+Certifications:
+
+* Certified DevOps Engineer, DevOps Institute (2020)
+* Certified Kubernetes Administrator, Cloud Native Computing Foundation (2019)
+
+Relevant Projects:
+
+* Dockerized Web Application: Developed a Dockerized web application using Docker Compose and Kubernetes
+* Ansible Automation: Developed a set of Ansible automation scripts for deployment and configuration management
+* Monitoring Tools: Implemented Prometheus, Grafana, and New Relic for monitoring and logging purposes
+
+References:
+Available upon request.

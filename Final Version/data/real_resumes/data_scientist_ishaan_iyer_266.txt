@@ -1,0 +1,50 @@
+ishaan iyer
+contact information:
+
+* email: [ishaan.iyer@email.com](mailto:ishaan.iyer@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/ishaan-iyer
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in machine learning, deep learning, and statistical analysis. proficient in python, sql, and data visualization tools. proven track record of delivering high-impact projects and driving business growth through data-driven insights.
+
+education:
+
+* master of science in data science, stanford university (2018-2020)
+	+ coursework: machine learning, deep learning, statistical analysis, data visualization, and data mining
+	+ thesis: "applying deep learning techniques for predictive modeling in healthcare"
+* bachelor of technology in computer science, indian institute of technology (iit) (2014-2018)
+	+ coursework: algorithms, data structures, computer systems, and database management
+
+professional experience:
+
+* data scientist, xyz corporation (2020-present)
+	+ designed and developed predictive models using machine learning and deep learning algorithms to improve customer churn prediction and retention
+	+ collaborated with cross-functional teams to integrate data-driven insights into business decisions, resulting in a 25% increase in revenue
+	+ developed and maintained large-scale databases using sql and nosql technologies
+	+ created interactive dashboards using data visualization tools to communicate complex insights to stakeholders
+* data analyst, abc startup (2018-2020)
+	+ analyzed customer behavior and preference data to inform product development and marketing strategies
+	+ conducted a/b testing and statistical analysis to optimize conversion rates and customer engagement
+	+ developed and maintained data pipelines using python and sql to ensure timely and accurate data delivery
+
+skills:
+
+* programming languages: python, sql
+* machine learning and deep learning frameworks: scikit-learn, tensorflow
+* data visualization tools: tableau, power bi, d3.js
+* statistical analysis and a/b testing: r, python libraries (statsmodels, scipy)
+* database management: mysql, postgresql, mongodb
+* operating systems: windows, linux, macos
+
+achievements:
+
+* winner, data science competition (2020)
+	+ developed a machine learning model using tensorflow and scikit-learn to predict stock prices, earning a 10% increase in accuracy compared to baseline models
+* best paper award, conference on machine learning and applications (2019)
+	+ presented research on applying deep learning techniques for image classification, receiving recognition for outstanding contributions to the field
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)

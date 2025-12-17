@@ -1,0 +1,52 @@
+here's a sample resume for bryan arnold applying for a data scientist role:
+
+bryan arnold
+contact information:
+
+* email: [bryan.arnold@email.com](mailto:bryan.arnold@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/bryanarnold
+* github: github.com/bryanarnold
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in machine learning, deep learning, and sql. proven ability to extract insights from complex data sets and develop predictive models to drive business growth. proficient in a range of tools and technologies, including python, r, and sql.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning: supervised and unsupervised learning, regression, classification, clustering, decision trees, random forests, support vector machines, neural networks
+* deep learning: convolutional neural networks (cnns), recurrent neural networks (rnns), long short-term memory (lstm) networks
+* data visualization: matplotlib, seaborn, tableau
+* databases: mysql, postgresql
+* operating systems: windows, linux
+
+professional experience:
+
+data scientist, abc corporation (2018-present)
+
+* developed and deployed machine learning models to predict customer churn, resulting in a 25% reduction in churn rate
+* built and maintained large-scale databases using sql and mysql to support data analysis and modeling
+* collaborated with cross-functional teams to integrate data science insights into business decision-making
+* implemented data visualization tools to communicate complex data insights to non-technical stakeholders
+
+data analyst, def startups (2015-2018)
+
+* collected and analyzed large datasets to inform business decisions
+* created data visualizations to communicate insights to stakeholders
+* developed and maintained databases using sql and postgresql
+* assisted in the development of predictive models using r and python
+
+education:
+
+* master of science in data science, xyz university (2015)
+* bachelor of science in computer science, abc university (2013)
+
+projects:
+
+* predicting housing prices using machine learning: built a predictive model using python and scikit-learn to predict housing prices based on features such as location, size, and number of bedrooms. (github repository: [github.com/bryanarnold/housing_prices](github.com/bryanarnold/housing_prices))
+* image classification using deep learning: developed a cnn using keras and tensorflow to classify images of objects into different categories. (github repository: [github.com/bryanarnold/image_classification](github.com/bryanarnold/image_classification))
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2017)

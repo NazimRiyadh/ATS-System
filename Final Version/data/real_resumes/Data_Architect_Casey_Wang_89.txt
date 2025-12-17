@@ -1,0 +1,54 @@
+Here's a sample resume for Casey Wang:
+
+Casey Wang
+Data Architect Candidate
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [casey.wang@email.com](mailto:casey.wang@email.com)
+* LinkedIn: linkedin.com/in/caseywangdataarchitect
+
+Professional Summary:
+Results-driven data architect with 8+ years of experience in designing and implementing data models, integrating data sources, and architecting big data solutions. Proven track record of delivering high-quality data solutions that drive business insights and revenue growth. Skilled in ETL tools, database design, and data governance.
+
+Technical Skills:
+
+* Data Modeling: ERwin, PowerDesigner, Entity-Relationship Modeling
+* Data Integration: Informatica PowerCenter, Talend, AWS Glue
+* Big Data: Hadoop, Spark, NoSQL databases (Cassandra, MongoDB)
+* ETL Tools: Informatica, Talend, AWS Glue
+* Database Design: Relational databases (Oracle, SQL Server), NoSQL databases (Cassandra, MongoDB)
+* Data Governance: Data quality, data security, data compliance
+
+Professional Experience:
+
+Senior Data Architect, ABC Corporation (2018-Present)
+
+* Designed and implemented data models for multiple business units, resulting in a 25% reduction in data integration time and a 30% increase in data quality
+* Led a team of data engineers in architecting a big data platform using Hadoop and Spark, resulting in a 50% reduction in data processing time and a 20% increase in data insights
+* Collaborated with business stakeholders to define data governance policies and procedures, resulting in a 90% reduction in data compliance issues
+
+Data Architect, DEF Company (2015-2018)
+
+* Designed and implemented ETL processes using Informatica PowerCenter, resulting in a 20% reduction in data integration time and a 15% increase in data quality
+* Led a team of data analysts in developing data visualizations and reports using Tableau, resulting in a 25% increase in business insights and a 10% increase in revenue growth
+* Collaborated with database administrators to design and implement database schemas, resulting in a 30% reduction in database downtime and a 20% increase in database performance
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Architect (CDA), Data Architecture Association (2016)
+* Certified ETL Developer (CED), Informatica (2012)
+
+Achievements:
+
+* Winner of the 2019 Data Architecture Association's Data Architect of the Year Award
+* Featured speaker at the 2018 Data Architecture Conference on "Designing Data Models for Big Data"
+* Published articles on data architecture and big data in industry publications, including Data Science Journal and Big Data Quarterly
+
+References:
+Available upon request.

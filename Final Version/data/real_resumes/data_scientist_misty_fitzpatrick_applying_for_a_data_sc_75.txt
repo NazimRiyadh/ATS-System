@@ -1,0 +1,52 @@
+here's a sample resume for misty fitzpatrick applying for a data scientist role:
+
+misty fitzpatrick
+contact information:
+
+* email: [misty.fitzpatrick@email.com](mailto:misty.fitzpatrick@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/mistyfitzpatrick
+* github: github.com/mistyfitzpatrick
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in statistics, deep learning, and sql. proven track record of delivering insights-driven solutions that drive business growth. skilled in building and training machine learning models, visualizing data, and communicating complex ideas to both technical and non-technical stakeholders.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning: scikit-learn, tensorflow, pytorch
+* deep learning: keras, convolutional neural networks (cnns), recurrent neural networks (rnns)
+* statistics: hypothesis testing, confidence intervals, regression analysis
+* data visualization: tableau, matplotlib, seaborn
+* databases: mysql, postgresql, mongodb
+* operating systems: windows, linux, macos
+
+professional experience:
+
+* data scientist, abc company (2020-present)
+	+ developed and deployed several machine learning models to predict customer churn, resulting in a 25% reduction in customer loss
+	+ built and maintained a data warehouse using sql and etl processes to support business intelligence and analytics
+	+ collaborated with cross-functional teams to design and implement data-driven solutions to business problems
+* junior data analyst, def startups (2018-2020)
+	+ analyzed and visualized customer data to inform marketing and sales strategies, resulting in a 15% increase in sales
+	+ created and maintained dashboards using tableau to track key performance indicators (kpis) and provide insights to stakeholders
+	+ assisted in developing and deploying a/b testing experiments to optimize website user experience
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: advanced statistics, machine learning, deep learning, data visualization
+* bachelor of science in mathematics, abc university (2016)
+
+certifications:
+
+* certified data scientist (cds), data science council of america (dasca)
+* certified analytics professional (cap), institute for operations research and the management sciences (informs)
+
+projects:
+
+* predicting stock prices using deep learning: built and trained a deep learning model using keras to predict stock prices, achieving an accuracy of 90%
+* analyzing customer churn using survival analysis: applied survival analysis techniques to a dataset of customer churn, resulting in insights into the factors driving churn
+* building a recommendation system using collaborative filtering: developed a recommendation system using collaborative filtering to suggest products to customers, achieving an accuracy of 85%
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for, and highlight your unique experiences and skills.

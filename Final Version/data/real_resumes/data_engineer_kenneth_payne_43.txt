@@ -1,0 +1,52 @@
+here's a sample resume for kenneth payne, a data engineer candidate:
+
+kenneth payne
+contact information:
+
+* email: [kenneth.payne@email.com](mailto:kenneth.payne@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/kennethpaynede
+
+summary:
+highly motivated and experienced data engineer with expertise in mlops, big data, cloud platforms, and spark. proven track record of designing and implementing scalable data architectures, deploying machine learning models, and optimizing data processing workflows. skilled in leveraging cloud technologies to enable data-driven decision making.
+
+technical skills:
+
+* programming languages: python, scala, java
+* data engineering tools: apache spark, apache kafka, apache beam
+* cloud platforms: amazon web services (aws), google cloud platform (gcp), microsoft azure
+* mlops: tensorflow, pytorch, scikit-learn
+* big data: hadoop, hbase, cassandra
+* data storage: relational databases (mysql, postgresql), nosql databases (mongodb, cassandra)
+* operating systems: linux, windows
+* agile development methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and implemented a scalable data architecture using apache spark, apache kafka, and aws glue, resulting in a 30% reduction in data processing time
+* deployed and managed multiple machine learning models using tensorflow and pytorch, achieving an accuracy of 95% in predicting customer churn
+* collaborated with cross-functional teams to develop and deploy data-driven solutions, including a predictive maintenance system using real-time sensor data
+* maintained and improved data quality by implementing data validation, data cleansing, and data visualization tools
+
+data engineer, def startup (2015-2018)
+
+* built and deployed a hadoop-based data warehouse using apache hive and apache impala, resulting in a 20% increase in data query performance
+* developed and maintained etl pipelines using apache beam and apache spark, processing over 10tb of data per day
+* designed and implemented a data governance framework using apache atlas and apache ranger, ensuring data security and compliance
+
+education:
+
+* bachelor's in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified scrum master, scrum alliance (2016)
+
+projects:
+
+* mlops pipeline: designed and implemented a mlops pipeline using tensorflow, pytorch, and docker, demonstrating the ability to deploy machine learning models at scale
+* big data processing: built and deployed a big data processing pipeline using apache spark, apache kafka, and aws glue, showcasing expertise in handling large datasets
+* data visualization: developed a data visualization dashboard using tableau, power bi, and d3.js, highlighting the ability to communicate complex data insights to non-technical stakeholders

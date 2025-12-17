@@ -1,0 +1,49 @@
+ananya chopra
+contact information:
+
+* email: [ananya.chopra@email.com](mailto:ananya.chopra@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ananyachopra
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable software systems. proficient in java, python, javascript, and experienced in system design, algorithms, data structures, and rest apis. proven track record of delivering high-quality code and collaborating with cross-functional teams.
+
+professional experience:
+
+* software engineer, abc corporation (2020-present)
+	+ designed and developed multiple microservices using java, python, and javascript, resulting in a 30% reduction in code complexity and a 25% increase in system reliability.
+	+ implemented rest apis using spring boot and flask, with a focus on security, scalability, and maintainability.
+	+ collaborated with the devops team to implement ci/cd pipelines using jenkins and gitlab ci/cd, reducing deployment time by 50%.
+	+ participated in code reviews, ensured adherence to coding standards, and contributed to the improvement of the codebase.
+* junior software engineer, def startup (2018-2020)
+	+ developed and maintained a web application using python, flask, and mysql, handling 10,000+ concurrent users.
+	+ designed and implemented algorithms and data structures to optimize system performance, resulting in a 20% increase in user engagement.
+	+ worked closely with the qa team to identify and resolve bugs, improving overall system reliability.
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, web development, and database systems
+	+ project: designed and developed a web application using java, spring mvc, and mysql, showcasing expertise in system design and implementation.
+
+skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, rest apis, ci/cd pipelines
+* algorithms and data structures: arrays, linked lists, stacks, queues, trees, graphs
+* development tools: git, jenkins, gitlab ci/cd, docker
+* frameworks: spring boot, flask, react
+* databases: mysql, mongodb
+
+achievements:
+
+* top 10% in university programming competitions, demonstrating expertise in algorithms and data structures.
+* awarded for outstanding performance in internships and co-op programs, showcasing commitment to learning and growth.
+
+certifications:
+
+* certified java developer, oracle corporation
+* certified python programmer, python institute
+
+references:
+available upon request.

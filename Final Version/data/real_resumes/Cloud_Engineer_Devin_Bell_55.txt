@@ -1,0 +1,59 @@
+Devin Bell
+Cloud Engineer
+
+Contact Information:
+
+* Email: [devin.bell@email.com](mailto:devin.bell@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/devinbellcloud
+
+Professional Summary:
+
+Results-driven Cloud Engineer with 5+ years of experience in designing, implementing, and managing cloud infrastructure for large-scale enterprise environments. Proven expertise in cloud migration, cloud cost optimization, and AWS services. Skilled in ensuring seamless integration, scalability, and security of cloud-based systems.
+
+Technical Skills:
+
+* Cloud Platforms: AWS (EC2, S3, Lambda, API Gateway), Azure (VMs, Storage, Networking)
+* Cloud Migration: AWS Server Migration Service, Azure Migrate
+* Cloud Cost Optimization: AWS Cost Explorer, Azure Cost Estimator
+* Programming Languages: Python, Java, C#
+* Operating Systems: Windows, Linux, macOS
+* Scripting Languages: PowerShell, Bash
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Cloud Engineer, ABC Corporation (2020-Present)
+
+* Successfully migrated 100+ applications from on-premises to AWS cloud, resulting in 30% reduction in infrastructure costs
+* Designed and implemented a cloud cost optimization strategy using AWS Cost Explorer, resulting in 25% reduction in cloud spend
+* Collaborated with cross-functional teams to develop and deploy cloud-based services using AWS services (EC2, S3, Lambda, API Gateway)
+* Utilized AWS Server Migration Service to migrate 50+ on-premises servers to AWS cloud
+
+Senior Cloud Engineer, DEF Startups (2018-2020)
+
+* Led a team of 3 engineers in designing and implementing a cloud-based infrastructure for a start-up company, resulting in 40% increase in scalability and 25% reduction in infrastructure costs
+* Developed and implemented a cloud cost optimization strategy using Azure Cost Estimator, resulting in 20% reduction in cloud spend
+* Collaborated with the development team to develop and deploy cloud-based services using Azure services (VMs, Storage, Networking)
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Associate
+* AWS Certified Developer - Associate
+* Azure Certified Solutions Architect - Associate
+
+Achievements:
+
+* Winner of the AWS re:Invent 2020 Cloud Migration Challenge
+* Featured speaker at the Cloud Expo 2019 in San Francisco
+* Published articles on cloud migration and cost optimization in industry-leading publications
+
+Relevant Projects:
+
+* Designed and implemented a cloud-based infrastructure for a non-profit organization using AWS services
+* Developed a cloud cost optimization tool using Python and AWS Cost Explorer
+* Collaborated with a start-up company to develop and deploy a cloud-based application using Azure services

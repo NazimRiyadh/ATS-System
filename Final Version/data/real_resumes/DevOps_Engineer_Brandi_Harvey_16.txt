@@ -1,0 +1,65 @@
+Here's a sample resume for Brandi Harvey, a DevOps Engineer candidate:
+
+Brandi Harvey
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [brandi.harvey@email.com](mailto:brandi.harvey@email.com)
+* LinkedIn: linkedin.com/in/brandiharvey
+
+Summary:
+
+Highly motivated and experienced DevOps Engineer with a proven track record of driving efficiency, scalability, and reliability in software development and deployment. Skilled in CI/CD, containerization, orchestration, and cloud platforms. Proficient in Infrastructure as Code (IaC) tools, monitoring tools, and automation scripts. Passionate about delivering high-quality solutions that meet business needs and drive growth.
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, Ansible
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Operating Systems: Linux, Windows
+* Programming Languages: Python, Bash
+* Automation Scripts: PowerShell, Python
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins, Docker, and Kubernetes to improve deployment efficiency by 30%
+* Created and maintained Terraform infrastructure as code to manage cloud resources and reduce provisioning time by 50%
+* Implemented monitoring tools (Prometheus, Grafana) to improve application performance and reliability
+* Collaborated with development teams to improve code quality and reduce defects
+* Developed and maintained automation scripts using Python and PowerShell to streamline processes
+
+DevOps Engineer, DEF Startup (2015-2018)
+
+* Built and deployed containerized applications using Docker and Kubernetes
+* Implemented GitLab CI/CD pipeline to automate testing and deployment
+* Created and maintained Ansible infrastructure as code to manage on-premises infrastructure
+* Collaborated with development teams to improve code quality and reduce defects
+* Developed and maintained automation scripts using Python and Bash to streamline processes
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified DevOps Engineer (CDOE)
+* Certified Scrum Master (CSM)
+
+Achievements:
+
+* Winner of the 2020 DevOps Engineer of the Year award
+* Featured speaker at the 2019 DevOps Conference
+* Published several articles on DevOps and automation in industry leading publications
+
+References:
+
+Available upon request.
+
+This is just a sample, but you can customize it to fit your own experiences and style. Remember to tailor your resume to the specific job you're applying for, and highlight your unique strengths and achievements. Good luck with your job search!

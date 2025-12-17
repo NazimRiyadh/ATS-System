@@ -1,0 +1,31 @@
+**bhuv bedi: data scientist candidate profile**
+
+**summary**
+
+bhuv bedi presented himself as a detail-oriented and organized individual with a passion for data analysis. however, upon review of their technical skills and experience, concerns arose regarding their alignment with the key requirements of the data scientist role.
+
+**technical skills**
+
+* **programming languages:** bhuv mentioned proficiency in sql, but when asked about python, r, or other popular programming languages, they demonstrated a lack of familiarity. their experience with programming was mostly limited to data manipulation and data visualization using microsoft excel.
+* **machine learning (ml) and statistics:** bhuv acknowledged a gap in their knowledge of ml and statistics, stating they had never taken a course or worked on projects involving these topics. they struggled to explain basic concepts, such as regression, clustering, or hypothesis testing.
+* **data visualization:** bhuv has experience creating basic charts and graphs using excel, but they were not familiar with popular data visualization tools like tableau, power bi, or d3.js.
+* **big data:** when asked about working with large datasets, bhuv mentioned they had only worked with small to medium-sized datasets and were not familiar with distributed computing frameworks like hadoop, spark, or nosql databases.
+* **domain knowledge:** bhuv expressed interest in healthcare, finance, and retail but lacked specific knowledge in these areas. they were not familiar with industry-specific challenges, trends, or regulatory requirements.
+
+**concerns and challenges**
+
+* **task difficulty:** bhuv struggled to complete tasks involving data wrangling, feature engineering, and model evaluation, which are critical components of a data scientist's role.
+* **tool familiarity:** bhuv showed little understanding of popular data science tools like scikit-learn, tensorflow, or pytorch for ml, and was unfamiliar with data management systems like aws redshift or google bigquery.
+* **lack of real-world experience:** bhuv's lack of experience working on real-world projects, especially in industries like healthcare, finance, or retail, raised concerns about their ability to apply theoretical concepts to practical problems.
+
+**potential for growth**
+
+despite these gaps, bhuv demonstrated enthusiasm for learning and a willingness to take on new challenges. with further training, mentorship, and exposure to relevant tools, technologies, and methodologies, bhuv has the potential to grow into a skilled data scientist.
+
+**recommendations**
+
+* **structured learning:** provide bhuv with a structured learning plan focusing on ml, statistics, data visualization, and programming (python, r) to bridge the skill gaps.
+* **project-based training:** offer projects that allow bhuv to apply theoretical concepts to real-world problems, ensuring they gain hands-on experience with industry-specific tools and technologies.
+* **mentorship:** pair bhuv with an experienced data scientist or mentor who can guide them through the learning process, provide feedback, and help them stay motivated.
+
+overall, while bhuv's interview revealed some significant gaps in their skills and experience, their enthusiasm and willingness to learn make them a candidate worth considering for further development.

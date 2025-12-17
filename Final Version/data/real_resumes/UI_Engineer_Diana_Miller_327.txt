@@ -1,0 +1,60 @@
+Here's a sample resume for Diana Miller, a UI Engineer who was select for the role:
+
+**Diana Miller**
+**UI Engineer**
+
+**Contact Information:**
+
+* Email: [diana.miller@email.com](mailto:diana.miller@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/dianamiller
+
+**Summary:**
+
+Highly skilled UI Engineer with 5+ years of experience in designing and developing user interfaces for web and mobile applications. Proven track record of delivering high-quality, visually appealing, and user-friendly interfaces that meet business objectives. Proficient in a range of technologies, including HTML, CSS, JavaScript, and React.
+
+**Technical Skills:**
+
+* Front-end development: HTML, CSS, JavaScript, React, Angular, Vue.js
+* UI design: Sketch, Figma, Adobe XD
+* State management: Redux, MobX
+* Testing: Jest, Enzyme
+* Build tools: Webpack, Gulp
+* Familiarity with responsive design and accessibility principles
+* Experience with version control: Git, SVN
+
+**Professional Experience:**
+
+**UI Engineer, ABC Corporation (2018-Present)**
+
+* Designed and developed user interfaces for multiple web applications, including a responsive dashboard and a mobile app
+* Collaborated with cross-functional teams to gather requirements and deliver high-quality interfaces
+* Implemented responsive design and accessibility principles to ensure a seamless user experience
+* Utilized React, Redux, and Jest to build and test scalable and maintainable front-end applications
+* Mentored junior engineers to improve their front-end development skills
+
+**Senior Front-end Developer, DEF Startups (2015-2018)**
+
+* Developed and maintained multiple front-end applications using HTML, CSS, JavaScript, and Angular
+* Collaborated with designers to implement UI designs and ensure pixel-perfect rendering
+* Implemented state management using Redux and implemented unit tests using Jest
+* Participated in code reviews and ensured adherence to coding standards
+* Contributed to the development of a scalable and maintainable front-end framework
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+**Projects:**
+
+* **React Todo List App:** A responsive todo list app built using React, Redux, and Jest. [github.com/dianamiller/react-todo-list](http://github.com/dianamiller/react-todo-list)
+* **Accessible Web App:** A web application built using HTML, CSS, and JavaScript to demonstrate accessibility principles. [github.com/dianamiller/accessible-web-app](http://github.com/dianamiller/accessible-web-app)
+* **Personal Website:** A personal website built using React, Redux, and Webpack. [dianamiller.com](http://dianamiller.com)
+
+**Achievements:**
+
+* **Certified Front-end Developer, Front-end Masters (2019)**
+* **Winner, ABC Corporation's Hackathon (2019)**
+* **Speaker, Front-end Conference (2018)**
+
+Note: This is just a sample resume, and you should customize it to fit your own experiences and qualifications. Also, make sure to proofread your resume multiple times for grammar, spelling, and formatting errors.

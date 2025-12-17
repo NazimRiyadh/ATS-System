@@ -1,0 +1,55 @@
+here's a sample resume for george gross applying for a data engineer role:
+
+george gross
+contact information:
+
+* email: [ggross@email.com](mailto:ggross@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/georgegross
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in designing, building, and maintaining large-scale data processing pipelines using airflow, spark, and big data technologies. proven track record of delivering high-quality solutions that drive business insights and improve operational efficiency.
+
+technical skills:
+
+* programming languages: python, scala
+* big data technologies: hadoop, spark, hive
+* data processing frameworks: apache airflow, apache beam
+* data storage: hdfs, cassandra, nosql databases
+* operating systems: linux, windows
+* agile methodologies: scrum, kanban
+* cloud platforms: aws, gcp
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* designed and implemented complex data pipelines using apache airflow, spark, and hadoop to process large-scale data sets
+* collaborated with cross-functional teams to develop and deploy data-driven solutions that improved business outcomes
+* managed and maintained large-scale data infrastructure, including hdfs, cassandra, and nosql databases
+* implemented data quality checks and data validation to ensure data accuracy and reliability
+* worked closely with data scientists to develop and deploy machine learning models using spark and pyspark
+
+junior data engineer, def startup (2015-2018)
+
+* participated in the design and implementation of data pipelines using apache airflow and spark
+* assisted in the development and deployment of data-driven solutions using hadoop and hive
+* collaborated with data scientists to develop and deploy machine learning models using spark and pyspark
+* contributed to the development of data quality checks and data validation scripts using python and scala
+
+education:
+
+* master of science in computer science, xyz university (2015)
+* bachelor of science in computer science, abc university (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified scrum master, scrum alliance (2018)
+
+personal projects:
+
+* developed a data processing pipeline using apache airflow and spark to process and analyze nba data (2019)
+* created a web application using python and flask to visualize and analyze cryptocurrency data (2018)
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

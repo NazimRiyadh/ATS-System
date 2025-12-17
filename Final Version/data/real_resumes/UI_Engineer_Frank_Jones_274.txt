@@ -1,0 +1,56 @@
+Here's a sample resume for Frank Jones, a UI Engineer who was reject for the role:
+
+**Frank Jones**
+**Contact Information:**
+
+* Email: [frankjones@email.com](mailto:frankjones@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/frankjonesui
+* GitHub: github.com/frankjonesui
+
+**Summary:**
+Highly motivated and detail-oriented UI Engineer with 5+ years of experience in designing and developing user interfaces for web and mobile applications. Proficient in a range of technologies, including HTML, CSS, JavaScript, and React. Passionate about creating intuitive and visually appealing user experiences that drive business results.
+
+**Technical Skills:**
+
+* Front-end development: HTML, CSS, JavaScript, JSX, React, Angular, Vue.js
+* Design tools: Sketch, Figma, Adobe XD
+* State management: Redux, MobX
+* Testing frameworks: Jest, Enzyme
+* Build tools: Webpack, Gulp
+* Operating Systems: Windows, macOS, Linux
+* Familiarity with Agile development methodologies
+
+**Professional Experience:**
+
+**UI Engineer, ABC Corporation (2018-Present)**
+
+* Designed and developed user interfaces for web and mobile applications using React, Redux, and CSS
+* Collaborated with cross-functional teams to identify design requirements and deliver high-quality UI components
+* Improved application performance by optimizing code and implementing caching mechanisms
+* Developed and maintained a reusable UI component library using Webpack and Jest
+
+**Senior UI Developer, DEF Agency (2015-2018)**
+
+* Led the design and development of user interfaces for web applications using HTML, CSS, and JavaScript
+* Worked with designers to implement design specifications and deliver high-quality UI components
+* Developed and maintained a range of UI components, including navigation menus, forms, and modals
+* Collaborated with QA engineers to identify and fix UI-related bugs
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+**Achievements:**
+
+* Developed and open-sourced a popular React UI component library, which has been used by over 10,000 developers worldwide
+* Improved application performance by 30% through code optimization and caching mechanisms
+* Collaborated with designers to deliver a new UI design system that resulted in a 25% increase in user engagement
+
+**Projects:**
+
+* **React UI Component Library**: Developed a reusable UI component library using React, Redux, and Webpack. The library includes a range of components, including navigation menus, forms, and modals. (GitHub: github.com/frankjonesui/react-ui-components)
+* **E-commerce Application**: Designed and developed a e-commerce application using React, Redux, and CSS. The application includes features such as product filtering, sorting, and payment processing. (GitHub: github.com/frankjonesui/ecommerce-app)
+* **Mobile App**: Developed a mobile app using React Native and Redux. The app includes features such as user authentication, data storage, and push notifications. (GitHub: github.com/frankjonesui/mobile-app)
+
+I hope this sample resume helps! Remember to tailor your resume to the specific job you're applying for, and highlight your relevant skills and experience.

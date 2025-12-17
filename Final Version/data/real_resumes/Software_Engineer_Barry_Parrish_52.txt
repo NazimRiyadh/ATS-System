@@ -1,0 +1,56 @@
+Barry Parrish
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [bparrish@email.com](mailto:bparrish@email.com)
+* LinkedIn: linkedin.com/in/barryparrish
+* GitHub: github.com/bparrish
+
+Summary:
+Highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software systems. Proficient in Java, algorithms, and data structures, with a strong background in web development, backend development, and DevOps.
+
+Technical Skills:
+
+* Programming languages: Java, Python, JavaScript
+* Web development frameworks: Spring Boot, Spring MVC, Hibernate
+* Backend development frameworks: Node.js, Express.js
+* Databases: MySQL, MongoDB, PostgreSQL
+* Version control systems: Git, SVN
+* DevOps tools: Jenkins, Docker, Kubernetes
+* APIs: RESTful APIs, GraphQL APIs
+* Algorithms and data structures: sorting, searching, graph algorithms, tree algorithms
+
+Professional Experience:
+
+Software Engineer, ABC Company (2018-Present)
+
+* Designed and developed a scalable e-commerce platform using Spring Boot and Hibernate
+* Implemented RESTful APIs using Spring MVC and Swagger
+* Collaborated with cross-functional teams to deploy the platform on AWS using Jenkins and Docker
+* Participated in code reviews and ensured adherence to coding standards and best practices
+* Mentored junior engineers on Java, Spring Boot, and DevOps
+
+Software Developer, DEF Startups (2015-2018)
+
+* Developed a web-based application for managing customer relationships using Node.js, Express.js, and MongoDB
+* Designed and implemented a real-time chat system using Socket.io and WebSockets
+* Integrated the application with third-party APIs using OAuth and JWT
+* Participated in the development of the company's DevOps pipeline using Jenkins and Docker
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Projects:
+
+* E-commerce Platform: Designed and developed a scalable e-commerce platform using Spring Boot and Hibernate
+* Chat Application: Developed a real-time chat system using Node.js, Express.js, and MongoDB
+* Data Structures and Algorithms: Implemented various algorithms and data structures in Java, including sorting, searching, and graph algorithms
+
+Certifications:
+
+* Certified Java Developer, Oracle Corporation (2016)
+* Certified DevOps Engineer, AWS (2019)
+
+References:
+Available upon request.

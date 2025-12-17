@@ -1,0 +1,58 @@
+Jackson Torres
+Data Engineer
+
+Contact Information:
+
+* Email: [jtorres@email.com](mailto:jtorres@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/jacksontorres
+
+Summary:
+
+Highly motivated and detail-oriented Data Engineer with expertise in designing, developing, and maintaining large-scale data pipelines and data warehouses. Skilled in leveraging Big Data Frameworks, ETL tools, and Python to extract insights from complex data sets.
+
+Technical Skills:
+
+* Programming languages: Python
+* Big Data Frameworks: Apache Hadoop, Apache Spark
+* Data Pipelines: Apache Beam, Apache NiFi
+* ETL Tools: Apache Airflow, Informatica PowerCenter
+* Data Warehousing: Amazon Redshift, Google BigQuery
+* Databases: MySQL, PostgreSQL
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed complex data pipelines using Apache Beam and Apache NiFi to process large datasets
+* Implemented data warehousing solutions using Amazon Redshift and Google BigQuery to improve data analysis and reporting capabilities
+* Developed ETL processes using Informatica PowerCenter to integrate data from various sources
+* Collaborated with cross-functional teams to design and implement data governance frameworks
+* Implemented data quality checks and data validation processes to ensure data accuracy and integrity
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed and maintained data pipelines using Apache Spark to process large-scale datasets
+* Implemented data warehousing solutions using MySQL and PostgreSQL to support business intelligence and reporting needs
+* Designed and developed ETL processes using Apache Airflow to integrate data from various sources
+* Collaborated with data scientists to develop data models and machine learning algorithms
+* Implemented data security and access controls to ensure compliance with regulatory requirements
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Institute (2019)
+* Certified Apache Hadoop Developer, Hadoop University (2016)
+
+Projects:
+
+* Project: Data Pipeline for Real-time Analytics: Designed and developed a real-time data pipeline using Apache Beam and Apache NiFi to process large-scale data sets and provide insights to business stakeholders
+* Project: Data Warehousing for E-commerce Company: Implemented a data warehousing solution using Amazon Redshift and Google BigQuery to improve data analysis and reporting capabilities for an e-commerce company
+
+References:
+
+Available upon request.

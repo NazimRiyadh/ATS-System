@@ -1,0 +1,61 @@
+here's a sample resume for natalie ray applying for the role of data scientist:
+
+natalie ray
+contact information:
+
+* email: [natalieray@email.com](mailto:natalieray@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/natalierayds
+* github: github.com/natalierayds
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, sql, and data visualization. proven track record of delivering high-quality insights and recommendations to inform business decisions. passionate about leveraging data to drive innovation and growth.
+
+technical skills:
+
+* programming languages: python ( numpy, pandas, scikit-learn), sql (mysql, postgresql)
+* data visualization tools: tableau, matplotlib, seaborn, plotly
+* machine learning libraries: scikit-learn, tensorflow, pytorch
+* data analysis and manipulation libraries: pandas, numpy, scipy
+* operating systems: windows, macos, linux
+* agile development methodologies: scrum, kanban
+
+professional experience:
+
+data scientist, abc company (2020-present)
+
+* designed and developed predictive models using python and scikit-learn to forecast customer churn and improve customer retention
+* analyzed large datasets using sql and pandas to identify trends and insights that informed business decisions
+* created interactive dashboards using tableau to visualize key metrics and track performance
+* collaborated with cross-functional teams to develop data-driven recommendations and implement process improvements
+* developed and maintained a data pipeline using python and aws to ensure data quality and accuracy
+
+data analyst, def startups (2018-2020)
+
+* collected and cleaned data from various sources using sql and python
+* created reports and visualizations using tableau and matplotlib to communicate insights to stakeholders
+* analyzed customer behavior and preferences to inform product development and marketing strategies
+* developed and maintained a data warehouse using mysql to store and manage data
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: machine learning, data mining, natural language processing, data visualization
+* bachelor of science in computer science, abc university (2016)
+	+ coursework: algorithms, data structures, computer systems, web development
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified analytics professional, institute for operations research and the management sciences (2019)
+
+projects:
+
+* predicting customer churn using machine learning: developed a predictive model using scikit-learn to forecast customer churn and improve customer retention
+* data visualization of covid-19 cases: created interactive dashboards using tableau to visualize covid-19 cases and trends
+* movie recommendation system: developed a movie recommendation system using collaborative filtering and matrix factorization techniques
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize yours to fit your specific experiences and the job you're applying for. also, make sure to proofread your resume multiple times for any grammar or formatting errors.

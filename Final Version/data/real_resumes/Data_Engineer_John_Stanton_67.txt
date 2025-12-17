@@ -1,0 +1,51 @@
+John Stanton
+Contact Information:
+
+* Email: [jstanton@email.com](mailto:jstanton@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/jstanton
+
+Summary:
+
+Highly skilled Data Engineer with expertise in ETL tools, cloud platforms, and data warehousing. Proficient in designing, developing, and deploying scalable data pipelines using Python. Proven track record of implementing CI/CD tools to enhance data delivery efficiency.
+
+Technical Skills:
+
+* ETL Tools: Informatica PowerCenter, Talend
+* Cloud Platforms: AWS, Azure, Google Cloud Platform
+* Programming Languages: Python (3.x), SQL
+* Data Warehousing: Starburst Enterprise, Apache Hive
+* CI/CD Tools: Jenkins, GitLab CI/CD, Docker
+* Operating Systems: Linux, Windows
+* Databases: MySQL, PostgreSQL, MongoDB
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented ETL pipelines using Informatica PowerCenter to extract, transform, and load data from various sources into a data warehouse.
+* Developed and deployed data pipelines using Python and AWS Lambda to automate data processing and delivery.
+* Collaborated with cross-functional teams to design and implement data visualizations using Tableau and Power BI.
+* Implemented CI/CD pipelines using Jenkins and GitLab CI/CD to automate testing, building, and deployment of data pipelines.
+* Migrated a large on-premises data warehouse to a cloud-based data warehousing solution using Starburst Enterprise.
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Designed and developed data pipelines using Talend to extract data from social media platforms and load it into a data warehouse.
+* Developed and deployed data processing scripts using Python and Apache Spark to process large datasets.
+* Collaborated with data scientists to develop and deploy machine learning models using scikit-learn and TensorFlow.
+* Implemented data quality checks and data validation using SQL and Python.
+* Assisted in the design and implementation of a data governance framework to ensure data quality and compliance.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Scrum Master, Scrum Alliance (2017)
+
+References:
+
+Available upon request.

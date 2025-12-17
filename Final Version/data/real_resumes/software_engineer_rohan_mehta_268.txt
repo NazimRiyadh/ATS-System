@@ -1,0 +1,53 @@
+rohan mehta
+contact information:
+
+* email: [rohan.mehta@email.com](mailto:rohan.mehta@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/rohanmehta
+
+summary:
+highly motivated and skilled software engineer with 5+ years of experience in designing and developing scalable, efficient, and reliable software systems. proficient in java, python, javascript, and other programming languages, with expertise in system design, algorithms, data structures, and rest apis. strong understanding of software development principles, including git, ci/cd, and microservices architecture.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, restful apis, scalability, performance optimization
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, dynamic programming, greedy algorithms
+* development tools: git, jenkins, docker, kubernetes
+* database management: mysql, mongodb, postgresql
+* operating systems: windows, linux, macos
+
+professional experience:
+
+* senior software engineer, abc corporation (2018-present)
+	+ designed and developed multiple microservices using java and python, resulting in a 30% increase in system scalability and efficiency
+	+ collaborated with cross-functional teams to implement restful apis, utilizing javascript and node.js, to enhance system integrations
+	+ implemented ci/cd pipelines using jenkins and docker, reducing deployment time by 50%
+	+ participated in code reviews and ensured adherence to coding standards and best practices
+* software engineer, def startups (2015-2018)
+	+ contributed to the development of a cloud-based platform using python and django, resulting in a 25% increase in user engagement
+	+ designed and implemented algorithms and data structures to optimize system performance, reducing response times by 40%
+	+ collaborated with the devops team to implement git and ci/cd pipelines, improving deployment frequency and reducing downtime
+	+ participated in system design and architecture discussions, ensuring scalability and maintainability
+
+education:
+
+* bachelor of technology in computer science, xyz university (2010-2014)
+	+ coursework: data structures, algorithms, computer systems, database systems, software engineering
+
+achievements:
+
+* google code-in award, 2013
+	+ participated in google's annual code-in contest, developing a python script to automate a task, and received a special recognition award
+* hackathon winner, 2015
+	+ developed a mobile app using java and android, winning a hackathon competition, and receiving a cash prize
+
+certifications:
+
+* certified java developer, oracle corporation, 2016
+	+ completed a certification program, demonstrating expertise in java programming and design patterns
+* certified python developer, python institute, 2018
+	+ completed a certification program, demonstrating expertise in python programming and data science
+
+references:
+available upon request.

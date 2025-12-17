@@ -1,0 +1,50 @@
+here's a sample resume for james rios applying for the role of data engineer:
+
+james rios
+contact information:
+
+* phone: (123) 456-7890
+* email: [james.rios@email.com](mailto:james.rios@email.com)
+* linkedin: linkedin.com/in/jamesrios
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in designing, developing, and maintaining large-scale data processing systems using airflow, big data, and cloud platforms. proven track record of delivering scalable and efficient data pipelines that drive business insights.
+
+technical skills:
+
+* airflow: proficient in designing and implementing workflows using apache airflow, including dags, tasks, and dependencies.
+* big data: experienced in working with hadoop, spark, and nosql databases to process and analyze large datasets.
+* cloud platforms: skilled in deploying and managing data processing workloads on cloud platforms such as aws and google cloud.
+* spark: proficient in using spark for real-time data processing, including spark core, spark sql, and spark streaming.
+* programming languages: proficient in python, java, and scala.
+* data storage: experienced with data storage systems such as hdfs, s3, and cassandra.
+* version control: experienced with git and svn for version control and collaboration.
+
+professional experience:
+
+data engineer, abc company (2020-present)
+
+* designed and implemented a data pipeline using airflow to process and analyze customer data, resulting in a 30% increase in sales insights.
+* collaborated with cross-functional teams to design and deploy a cloud-based data warehousing solution using spark and aws.
+* developed and maintained a set of spark-based etl jobs to process and transform data from various sources.
+* provided technical guidance and support to junior engineers on data processing and analytics projects.
+
+senior data analyst, def startup (2018-2020)
+
+* developed and maintained a data pipeline using spark and hadoop to process and analyze user behavior data, resulting in a 25% increase in user engagement.
+* designed and implemented a data visualization dashboard using tableau to provide insights to stakeholders.
+* collaborated with the engineering team to design and implement a real-time data processing system using spark streaming.
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified spark developer, spark certification program (2018)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and requirements, and highlight your unique skills and experiences.

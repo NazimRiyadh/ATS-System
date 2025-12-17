@@ -1,0 +1,54 @@
+diya bansal
+software engineer
+
+contact information:
+
+* email: [diya.bansal@email.com](mailto:diya.bansal@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/diyabansal
+
+summary:
+highly motivated and detail-oriented software engineer with 4+ years of experience in designing and developing scalable, efficient, and secure software systems. proficient in a range of programming languages, including java, python, and javascript, with a strong background in system design, algorithms, and data structures. proven ability to work effectively in a team environment and deliver high-quality results under tight deadlines.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design principles: rest apis, microservices, ci/cd
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs
+* git: version control, branching, merging
+* ci/cd: jenkins, docker, kubernetes
+* agile development methodologies: scrum, kanban
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple features for a cloud-based platform using java, spring boot, and rest apis
+* worked with cross-functional teams to identify and prioritize requirements, develop technical specifications, and implement solutions
+* improved system performance and scalability by optimizing database queries, caching, and load balancing
+* collaborated with qa engineers to write unit tests, integration tests, and ui tests using junit, mockito, and selenium
+* participated in code reviews, ensured code quality, and maintained high standards of coding practices
+
+software development intern, def startup (summer 2017)
+
+* contributed to the development of a mobile app using python, django, and react native
+* assisted in setting up ci/cd pipelines using jenkins, docker, and kubernetes
+* worked on improving app performance and usability by optimizing ui components and implementing features like caching and lazy loading
+* attended daily stand-ups, weekly code reviews, and sprint planning meetings to stay up-to-date with project progress and requirements
+
+education:
+
+* bachelor of technology in computer science, xyz university (2014-2018)
+	+ coursework: data structures, algorithms, computer systems, computer networks, database systems, software engineering
+
+achievements:
+
+* 2nd place in xyz university's hackathon (2017)
+	+ developed a mobile app using python and django that won the competition's best use of apis category
+* published a research paper on "improving system performance using microservices architecture" in an international conference (2018)
+	+ presented research on the benefits of microservices architecture in improving system performance and scalability
+
+certifications:
+
+* certified java developer (ocpjp), oracle corporation (2019)
+* certified scrum master (csm), scrum alliance (2019)

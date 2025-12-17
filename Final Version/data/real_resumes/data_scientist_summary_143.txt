@@ -1,0 +1,38 @@
+**candidate profile: saanvi gulati - data scientist**
+
+**summary**
+saanvi gulati, a strong analytical thinker, demonstrated enthusiasm for the data scientist role. while they showed promise, certain skill gaps and areas for improvement were identified during the interview process.
+
+**technical skills**
+
+* strong understanding of database management concepts
+* familiarity with data visualization tools, but limited experience with popular libraries like tableau, power bi, or d3.js
+* basic programming skills in r, but struggled with more advanced tasks and lacked experience with python
+* limited exposure to machine learning concepts, statistical modeling, and big data processing
+* notable gaps in proficiency with essential tools and technologies like hadoop, hive, spark, and nosql databases
+
+**concerns and areas for improvement**
+
+* difficulty with statistical modeling and hypothesis testing, as evidenced by struggles with understanding confidence intervals and p-values
+* limited experience with data cleaning and preprocessing, resulting in hesitation when faced with handling missing values and outliers
+* lack of familiarity with popular data visualization libraries and tools, making it challenging to effectively communicate insights to stakeholders
+* inability to implement machine learning algorithms, even with guidance, highlighting a need for more comprehensive training in this area
+* struggled with programming tasks, particularly in python, indicating a need for more practice and reinforcement
+
+**interview feedback**
+
+* saanvi demonstrated excellent problem-solving skills, but often relied on manual calculations rather than leveraging statistical software or programming languages
+* difficulty with explaining complex concepts, such as data normalization and feature engineering, highlighted a need for more experience and confidence in these areas
+* struggled with time management, often requiring additional time to complete tasks, which may impact productivity in a fast-paced data science environment
+
+**growth potential and recommendation**
+
+despite these areas for improvement, saanvi demonstrated potential for growth and a willingness to learn. with targeted training and exposure to the required skills and technologies, they could develop into a competent data scientist. recommendations for further development include:
+
+* comprehensive training in machine learning, statistical modeling, and big data processing
+* practice with popular data visualization libraries and tools, such as tableau, power bi, or d3.js
+* reinforcement training in python, including extensive practice with libraries like pandas, numpy, and scikit-learn
+* exposure to essential tools and technologies, like hadoop, hive, spark, and nosql databases
+
+**conclusion**
+saanvi gulati is a strong candidate with a solid foundation in analytical thinking. while they require significant development in certain areas, their enthusiasm and willingness to learn make them a potential fit for a data scientist role with a tailored training and growth plan.

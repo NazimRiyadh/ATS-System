@@ -1,0 +1,50 @@
+here's a sample resume for a software engineer position, tailored to robert gomez's skills:
+
+robert gomez
+contact information:
+
+* phone: (555) 555-5555
+* email: [rgomez@email.com](mailto:rgomez@email.com)
+* linkedin: linkedin.com/in/rgomez
+* github: github.com/rgomez
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in c++, data structures, and system design. proficient in designing and implementing scalable software solutions with a strong focus on efficiency, reliability, and maintainability. proficient in c++ programming languages, data structures, and system design.
+
+technical skills:
+
+* programming languages: c++, java, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: designing scalable and efficient software systems, including architecture, data modeling, and system integration
+* operating systems: windows, linux, macos
+* development tools: git, github, jenkins, eclipse, visual studio
+* database: mysql, mongodb, postgresql
+
+professional experience:
+
+* software engineer, xyz corporation (2018-present)
+	+ designed and developed multiple software systems using c++ and java, resulting in a 30% reduction in development time and a 25% increase in system reliability
+	+ implemented data structures and algorithms to optimize system performance and scalability
+	+ collaborated with cross-functional teams to design and implement system integrations, resulting in a 40% reduction in system downtime
+* intern, abc startup (summer 2017)
+	+ contributed to the development of a machine learning platform using c++ and python
+	+ implemented data structures and algorithms to optimize system performance and scalability
+	+ assisted in the design and implementation of system integrations, resulting in a 20% reduction in system downtime
+
+education:
+
+* bachelor of science in computer science, university of [name] (2015-2018)
+	+ coursework: data structures, algorithms, computer systems, operating systems, database systems
+
+projects:
+
+* c++ library for designing scalable data structures: a c++ library for designing and implementing scalable data structures, including arrays, linked lists, stacks, and queues.
+* system design for a cloud-based application: a system design for a cloud-based application, including architecture, data modeling, and system integration.
+
+certifications:
+
+* certified c++ developer, c++ institute (2019)
+* certified system administrator, linux professional institute (2018)
+
+references:
+available upon request.

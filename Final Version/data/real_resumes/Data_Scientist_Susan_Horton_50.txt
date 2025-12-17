@@ -1,0 +1,55 @@
+Susan Horton
+Contact Information:
+
+* Email: [susan.horton@email.com](mailto:susan.horton@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/susanhorton
+
+Summary:
+Highly motivated and detail-oriented Data Scientist with expertise in machine learning, statistics, and deep learning. Proficient in Python programming and experienced in developing and deploying predictive models to drive business growth.
+
+Technical Skills:
+
+* Programming languages: Python (3.x)
+* Machine learning libraries: Scikit-learn, TensorFlow, Keras
+* Deep learning frameworks: PyTorch
+* Statistics and probability: Hypothesis testing, confidence intervals, Bayesian inference
+* Data preprocessing and visualization: Pandas, NumPy, Matplotlib, Seaborn
+* Data storage and manipulation: SQLite, MySQL, PostgreSQL
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Data Scientist, XYZ Corporation (2018-Present)
+
+* Developed and deployed multiple machine learning models for predicting customer churn, credit risk, and sales forecasting, resulting in a 25% reduction in customer churn and a 15% increase in sales
+* Collaborated with cross-functional teams to design and implement data pipelines, data quality checks, and data visualization dashboards
+* Conducted A/B testing and experiment design to measure the impact of feature engineering and model selection on business outcomes
+* Worked with stakeholders to communicate complex technical concepts and insights to non-technical audiences
+
+Data Analyst, ABC Startups (2015-2018)
+
+* Analyzed large datasets to identify trends, patterns, and correlations, and developed statistical models to quantify the impact of various factors on business outcomes
+* Built and maintained dashboards to track key performance indicators (KPIs) and provide real-time insights to stakeholders
+* Collaborated with data engineers to design and implement data warehousing and ETL processes
+* Developed and presented reports and recommendations to senior management to inform business decisions
+
+Education:
+
+* Master of Science in Data Science, University of California, Berkeley (2015)
+* Bachelor of Science in Mathematics, Stanford University (2010)
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2018)
+* Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2016)
+
+Projects:
+
+* Predicting Stock Prices using Deep Learning: Developed a deep learning model using PyTorch to predict stock prices based on historical data, achieving an RMSPE of 0.05
+* Customer Segmentation using Clustering: Applied k-means clustering to segment customers based on their purchase history and demographics, resulting in a 20% increase in targeted marketing effectiveness
+
+Publications:
+
+* "A Comparative Study of Machine Learning Algorithms for Predicting Customer Churn", International Journal of Data Science and Analytics (2019)
+* "Deep Learning for Stock Price Prediction: A Review", Journal of Financial Data Science (2020)

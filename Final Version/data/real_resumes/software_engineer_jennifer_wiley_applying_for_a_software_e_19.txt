@@ -1,0 +1,56 @@
+here's a sample resume for jennifer wiley applying for a software engineer role:
+
+jennifer wiley
+contact information:
+
+* email: [jennifer.wiley@email.com](mailto:jennifer.wiley@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/jenniferwiley
+* github: github.com/jenniferwiley
+
+summary:
+highly motivated and detail-oriented software engineer with a strong background in algorithms, data structures, and system design. proficient in multiple programming languages and experienced in developing scalable and efficient software solutions.
+
+technical skills:
+
+* programming languages: java, python, c++, javascript
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, greedy, dynamic programming, recursion
+* system design: microservices architecture, restful apis, database design
+* development tools: git, jira, agile methodologies
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc company (2020-present)
+
+* designed and developed multiple features for a large-scale e-commerce platform using java and spring boot
+* implemented efficient algorithms and data structures to optimize database queries and improve system performance
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+junior software engineer, def startups (2018-2020)
+
+* contributed to the development of a cloud-based saas application using python and django
+* worked on improving system scalability and reliability through caching, load balancing, and error handling
+* assisted in testing and debugging of multiple components, ensuring high-quality releases
+* participated in technical interviews and helped hire new engineers for the team
+
+education:
+
+* bachelor of science in computer science, xyz university (2018)
+
+projects:
+
+* personal project: developed a web scraper using python and beautifulsoup to extract data from multiple websites
+* github projects: contributed to multiple open-source projects on github, including a machine learning library and a data visualization tool
+
+certifications:
+
+* certified java developer, oracle corporation (2020)
+* certified python developer, python institute (2019)
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should customize it to fit your own experiences and style. also, make sure to proofread your resume multiple times for any grammar or formatting errors before submitting it to potential employers.

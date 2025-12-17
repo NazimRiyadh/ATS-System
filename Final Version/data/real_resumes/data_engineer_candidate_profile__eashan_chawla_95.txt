@@ -1,0 +1,27 @@
+**candidate profile: eashan chawla**
+
+eashan chawla's interview for the data engineer role highlighted several areas where his skills and experience did not fully align with the job requirements. while he demonstrated a strong foundation in programming languages, data analysis, and statistics, there were notable gaps in his proficiency with data warehousing, etl processes, big data technologies, database administration, and cloud services.
+
+**gaps in skills and experience**
+
+1. **data warehousing**: eashan's limited exposure to data warehousing concepts and tools, such as star schema, snowflake schema, and etl tools like informatica, became apparent during the interview. he struggled to explain the importance of data warehousing and how to design a data warehouse architecture.
+2. **etl processes**: eashan lacked experience with etl tools and processes, which led to difficulties in explaining the etl workflow, data transformation, and data quality control.
+3. **big data technologies**: although eashan had some exposure to python and data analysis, his understanding of big data technologies like hadoop, spark, and nosql databases was limited. he was unfamiliar with the intricacies of distributed computing, data processing, and storage.
+4. **database administration**: eashan's database administration skills were not well-developed, and he struggled to explain database normalization, indexing, and query optimization techniques.
+5. **cloud services**: eashan's experience with cloud services like aws and azure was limited to basic setup and configuration, and he was not familiar with cloud-based data warehousing, data lakes, and data processing architectures.
+
+**concerns raised during the interview**
+
+* difficulty with certain tasks, such as designing a data warehousing architecture or explaining etl processes, raised concerns about eashan's ability to perform complex data engineering tasks.
+* lack of familiarity with specific tools and technologies, such as hadoop, spark, and nosql databases, made it challenging for eashan to provide concrete examples or demonstrate his understanding of these technologies.
+* eashan's limited experience with database administration and cloud services raised concerns about his ability to design and implement scalable, secure, and efficient data architectures.
+
+**potential for growth**
+
+despite these gaps, eashan demonstrated a strong foundation in programming languages, data analysis, and statistics. he showed a willingness to learn and a positive attitude towards acquiring new skills. with further training, exposure, and experience, eashan has the potential to bridge these gaps and become a proficient data engineer.
+
+**recommendations for growth and development**
+
+* provide training and exposure to data warehousing, etl processes, big data technologies, database administration, and cloud services to address the identified gaps.
+* assign projects and tasks that focus on building eashan's skills in these areas, with mentorship and guidance from experienced data engineers.
+* encourage eashan to participate in online courses, webinars, and industry events to stay updated on the latest technologies and trends in data engineering.

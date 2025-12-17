@@ -1,0 +1,64 @@
+Here's a sample resume for William Logan:
+
+William Logan
+Contact Information:
+
+* Email: [william.logan@email.com](mailto:william.logan@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/williamlogan
+* GitHub: github.com/williamlogan
+
+Summary:
+Highly motivated and detail-oriented QA Engineer with 3+ years of experience in automated testing, performance testing, and test case development. Proficient in Selenium and other industry-standard tools. Proven track record of delivering high-quality software releases and improving test efficiency through automation.
+
+Professional Experience:
+
+QA Engineer, ABC Corporation (2020-Present)
+
+* Designed and executed automated test scripts using Selenium WebDriver and Appium for web and mobile applications
+* Developed and maintained test cases for performance testing, regression testing, and exploratory testing
+* Collaborated with cross-functional teams to identify and prioritize testing objectives
+* Implemented automated testing frameworks to improve test coverage and efficiency
+* Utilized JIRA and TestRail to manage test cases, test runs, and defects
+* Participated in code reviews and provided feedback to improve code quality and maintainability
+
+QA Engineer, DEF Company (2018-2020)
+
+* Conducted performance testing using load testing tools such as JMeter and NeoLoad
+* Developed and executed test cases for regression testing, exploratory testing, and user acceptance testing
+* Created and maintained test documentation, including test plans, test cases, and test reports
+* Collaborated with development teams to identify and prioritize testing objectives
+* Implemented automated testing frameworks using Selenium WebDriver and Python
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Skills:
+
+* Automated testing: Selenium WebDriver, Appium, JMeter, NeoLoad
+* Programming languages: Java, Python, C#
+* Test management tools: JIRA, TestRail
+* Performance testing tools: JMeter, NeoLoad
+* Agile methodologies: Scrum, Kanban
+* Operating Systems: Windows, Linux, macOS
+
+Certifications:
+
+* Certified Selenium Specialist (CSS)
+* Certified Scrum Master (CSM)
+
+Achievements:
+
+* Improved testing efficiency by 30% through automation of regression testing
+* Identified and reported critical defects in production, resulting in a 20% reduction in defects
+* Developed and implemented a performance testing framework, resulting in a 25% reduction in performance issues
+* Collaborated with development teams to improve code quality and maintainability through code reviews and feedback
+
+Professional Memberships:
+
+* International Software Testing Qualifications Board (ISTQB)
+* Software Testing Institute (STI)
+
+References:
+Available upon request.

@@ -1,0 +1,52 @@
+here's a sample resume for michael lopez applying for the role of ui engineer:
+
+michael lopez
+ui engineer
+
+contact information:
+
+* email: [mlopez@email.com](mailto:mlopez@email.com)
+* phone: (555) 123-4567
+* linkedin: linkedin.com/in/michaellopez
+* github: github.com/mlopez
+
+summary:
+highly skilled ui engineer with 5+ years of experience in designing and developing user interfaces for web applications. proficient in html, css, javascript, and react, with a strong understanding of wireframing and user experience principles. passionate about creating visually appealing and intuitive interfaces that drive user engagement.
+
+technical skills:
+
+* programming languages: html, css, javascript
+* frameworks: react
+* design tools: figma, sketch, adobe xd
+* version control: git
+* operating systems: windows, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+* ui engineer, abc company (2018-present)
+	+ designed and developed user interfaces for multiple web applications using react, html, and css
+	+ collaborated with cross-functional teams to define product requirements and design specifications
+	+ conducted user research and usability testing to inform design decisions
+	+ implemented accessibility features to ensure compliance with wcag 2.1 guidelines
+* front-end developer, def agency (2015-2018)
+	+ developed front-end components using html, css, and javascript for various web applications
+	+ worked with designers to implement design specifications and create responsive layouts
+	+ collaborated with back-end developers to integrate front-end components with server-side logic
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+projects:
+
+* personal portfolio: built a personal portfolio website using react and deployed it on a cloud platform (github.com/mlopez/portfolio)
+* to-do list app: developed a to-do list app using react and implemented features such as authentication, real-time updates, and offline support (github.com/mlopez/todo-app)
+
+certifications:
+
+* certified front-end developer, front-end masters (2019)
+* certified ui designer, nielsen norman group (2018)
+
+references:
+available upon request.

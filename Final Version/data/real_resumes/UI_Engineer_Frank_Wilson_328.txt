@@ -1,0 +1,54 @@
+Here's a sample resume for Frank Wilson, who has been select for the UI Engineer role:
+
+**Frank Wilson**
+**Contact Information:**
+
+* Email: [frankwilson@email.com](mailto:frankwilson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/frankwilsonui
+* GitHub: github.com/frankwilsonui
+
+**Summary:**
+Highly motivated and experienced UI Engineer with 5+ years of experience in designing and developing user interface components, applications, and systems. Skilled in JavaScript, HTML/CSS, and React, with a strong focus on creating scalable, accessible, and user-friendly interfaces. Proven track record of delivering high-quality solutions on time and collaborating effectively with cross-functional teams.
+
+**Technical Skills:**
+
+* Programming languages: JavaScript, HTML/CSS, TypeScript
+* Frameworks: React, Angular, Vue.js
+* Libraries: Material-UI, Bootstrap, Tailwind CSS
+* Tools: Webpack, Babel, ESLint, Jest
+* Design principles: User-centered design, accessibility, responsive design
+* Operating Systems: Windows, macOS, Linux
+* Version Control: Git, SVN
+
+**Experience:**
+
+* **UI Engineer, ABC Corporation (2020-Present)**
+	+ Designed and developed multiple UI components, including a custom dashboard, using React and Material-UI
+	+ Collaborated with the design team to create high-fidelity prototypes and iterate on design solutions
+	+ Implemented accessibility features, such as ARIA attributes and keyboard navigation, to improve user experience
+	+ Worked with the QA team to identify and resolve UI-related bugs
+* **Senior UI Engineer, DEF Startups (2018-2020)**
+	+ Led the development of a React-based web application, responsible for the UI and UX of multiple features
+	+ Mentored junior engineers on best practices for UI development and design principles
+	+ Implemented performance optimizations, resulting in a 30% reduction in page load times
+	+ Collaborated with the product team to design and develop a new feature, resulting in a 25% increase in user engagement
+* **UI Engineer, GHI Company (2015-2018)**
+	+ Developed multiple UI components using Angular and Bootstrap
+	+ Worked with the design team to create a consistent UI style guide
+	+ Implemented automated testing using Jest and Enzyme
+	+ Collaborated with the devOps team to implement continuous integration and deployment
+
+**Achievements:**
+
+* **Awarded "Best UI Engineer" by ABC Corporation (2020)**
+* **Published "Building Accessible UI Components with React" on Medium (2019)**
+* **Presented "Designing Scalable UI Systems" at a industry conference (2018)**
+
+**Projects:**
+
+* **Personal Website:** [frankwilsonui.com](http://frankwilsonui.com) - a portfolio website showcasing UI components and design principles
+* **React UI Component Library:** [github.com/frankwilsonui/react-ui-components](http://github.com/frankwilsonui/react-ui-components) - an open-source library of reusable UI components
+* **Accessible UI Design System:** [github.com/frankwilsonui/accessible-ui-design-system](http://github.com/frankwilsonui/accessible-ui-design-system) - a design system focused on accessibility and user-centered design
+
+Note that this is just a sample resume, and you should customize it to fit your own experiences and style. Good luck with your new role!

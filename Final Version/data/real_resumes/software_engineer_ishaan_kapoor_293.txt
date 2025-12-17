@@ -1,0 +1,59 @@
+ishaan kapoor
+contact information:
+
+* phone: (123) 456-7890
+* email: [ishaan.kapoor@email.com](mailto:ishaan.kapoor@email.com)
+* linkedin: linkedin.com/in/ishaan-kapoor
+* github: github.com/ishaan-kapoor
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable, efficient, and maintainable software systems. proficient in a range of programming languages, including java, python, and javascript, with expertise in system design, algorithms, and data structures. proven track record of delivering high-quality software solutions using agile methodologies and version control systems like git.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design and architecture
+* algorithms and data structures
+* restful apis
+* git and version control
+* ci/cd pipelines
+* microservices architecture
+* cloud platforms (aws, azure)
+* agile development methodologies
+
+professional experience:
+
+software engineer, abc inc. (2020-present)
+
+* designed and developed multiple features for a large-scale e-commerce platform using java, python, and javascript
+* implemented restful apis for interacting with external services, resulting in a 30% reduction in api latency
+* collaborated with cross-functional teams to deliver high-quality software releases using agile methodologies
+* utilized git for version control and jenkins for ci/cd pipeline management
+* contributed to the development of a microservices-based architecture, resulting in improved system scalability and maintainability
+
+software development intern, def corp. (summer 2019)
+
+* assisted in the development of a machine learning-based chatbot using python and natural language processing
+* worked on improving the chatbot's response time by 25% using caching and optimization techniques
+* participated in code reviews and provided feedback to improve team code quality
+* gained experience with git and version control best practices
+
+education:
+
+* bachelor of technology in computer science, xyz university (2016-2020)
+	+ coursework: data structures, algorithms, computer networks, database systems, and software engineering
+	+ relevant projects: development of a web crawler using java, implementation of a sorting algorithm, and design of a database schema
+
+achievements:
+
+* won the "best project" award at the university's annual hackathon for developing a mobile app using python and flask
+* participated in the google code-in competition and won a certificate for completing tasks related to open-source software development
+* published a blog post on "designing scalable systems" on medium, which received over 1,000 views and 50 likes
+
+certifications:
+
+* certified java developer, oracle corporation (2020)
+* certified scrum master, scrum alliance (2019)
+
+references:
+available upon request.

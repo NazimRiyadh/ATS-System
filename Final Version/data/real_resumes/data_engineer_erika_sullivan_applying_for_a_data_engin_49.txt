@@ -1,0 +1,56 @@
+here's a sample resume for erika sullivan applying for a data engineer role:
+
+erika sullivan
+contact information:
+
+* phone: (555) 123-4567
+* email: [erika.sullivan@email.com](mailto:erika.sullivan@email.com)
+* linkedin: linkedin.com/in/erikasullivan
+* github: github.com/erikasullivan
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and implementing large-scale data processing systems using big data technologies. skilled in etl, cloud platforms, and spark, with a strong passion for building scalable and efficient data pipelines.
+
+technical skills:
+
+* programming languages: java, python, scala, sql
+* big data technologies: hadoop, spark, hbase, hive
+* cloud platforms: aws, google cloud, azure
+* etl tools: apache beam, apache nifi, informatica powercenter
+* databases: mysql, postgresql, cassandra, hbase
+* operating systems: linux, windows
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* design and develop large-scale data processing systems using hadoop, spark, and cloud platforms
+* implement etl pipelines using apache beam and apache nifi to extract, transform, and load data from various sources
+* collaborate with cross-functional teams to design and implement data warehouses and data lakes
+* develop and maintain data pipelines in cloud platforms such as aws and google cloud
+* implement data quality checks and data validation using apache spark and python
+
+data engineer, def startups (2015-2018)
+
+* designed and developed data processing systems using hadoop and spark
+* implemented etl pipelines using informatica powercenter to extract, transform, and load data from various sources
+* developed and maintained data pipelines in cloud platforms such as aws and azure
+* collaborated with data scientists to develop and deploy machine learning models using spark and python
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2016)
+* certified hadoop developer, hadoop certification board (2015)
+
+projects:
+
+* apache spark-based data pipeline: designed and developed a data pipeline using apache spark and python to process large-scale data sets for a finance company
+* cloud-based data warehouse: designed and implemented a cloud-based data warehouse using aws and apache parquet to store and query large-scale data sets for a retail company
+
+references:
+available upon request.

@@ -1,0 +1,61 @@
+Here's a sample resume for Danielle Higgins:
+
+Danielle Higgins
+System Administrator
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [danielle.higgins@email.com](mailto:danielle.higgins@email.com)
+* LinkedIn: linkedin.com/in/daniellehiggins
+
+Summary:
+Highly motivated and experienced System Administrator with expertise in Linux/Unix, Active Directory, and Virtualization. Proven track record of delivering high-quality services, ensuring system uptime, and driving infrastructure modernization. Strong passion for automation, scripting, and collaboration.
+
+Technical Skills:
+
+* Operating Systems: Linux (Red Hat, Ubuntu), Unix, Windows Server
+* Virtualization: VMware, KVM
+* Networking: TCP/IP, DNS, DHCP, Firewalls
+* Security: Active Directory, ACLs, Kerberos
+* Scripting: Bash, PowerShell, Python
+* Automation: Ansible, Puppet
+* Cloud Computing: AWS, Azure (basic)
+
+Professional Experience:
+
+System Administrator, XYZ Corporation (2018-Present)
+
+* Manage and maintain a fleet of 200 Linux/Unix servers, ensuring 99.9% uptime and responsiveness.
+* Design and implement a virtualization strategy using VMware, resulting in 30% reduction in hardware costs and 25% increase in server density.
+* Develop and deploy scripts using Bash and Ansible to automate system maintenance, patching, and backups.
+* Collaborate with the security team to implement Active Directory and Kerberos, enhancing security posture and reducing vulnerabilities.
+* Provide Tier 2 support for Windows and Linux desktops, resolving 95% of issues within SLA.
+
+Senior System Administrator, ABC Inc. (2015-2018)
+
+* Led a team of 3 system administrators, providing guidance and mentorship on best practices, scripting, and automation.
+* Designed and implemented a Disaster Recovery (DR) plan, ensuring minimal downtime in the event of a disaster.
+* Developed and taught training sessions on Linux, Unix, and Virtualization to junior staff.
+* Collaborated with the network team to implement a new TCP/IP segmentation plan, improving network performance by 20%.
+
+Education:
+
+* Bachelor's Degree in Computer Science, University of [Name] (2010-2014)
+
+Certifications:
+
+* CompTIA Linux+ (2016)
+* CompTIA Server+ (2014)
+* Microsoft Certified: Active Directory Services (2015)
+
+Achievements:
+
+* Won the "Best System Administrator" award at XYZ Corporation (2020)
+* Successfully implemented a cloud-based infrastructure using AWS, reducing costs by 40% (2019)
+* Achieved 99.999% uptime for a critical Linux application, exceeding SLA requirements (2018)
+
+References:
+Available upon request.
+
+I hope this helps! Remember to tailor your resume to the specific job description and highlight your unique skills and experiences.

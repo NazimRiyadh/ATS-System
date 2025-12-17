@@ -1,0 +1,61 @@
+Miranda Kaiser
+UI Engineer
+
+Contact Information:
+
+* Email: [miranda.kaiser@email.com](mailto:miranda.kaiser@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/mirandakaiser
+
+Technical Skills:
+
+* Frontend Frameworks:
+	+ React
+	+ Angular
+	+ Vue.js
+* Design Tools:
+	+ Sketch
+	+ Figma
+	+ Adobe XD
+* Programming Languages:
+	+ JavaScript (ES6+)
+	+ HTML5
+	+ CSS3 (Sass/SCSS)
+* Version Control:
+	+ Git
+* APIs:
+	+ RESTful APIs
+	+ GraphQL
+
+Professional Experience:
+
+Senior UI Engineer, TechCorp (2018-Present)
+
+* Led the development of multiple UI components, utilizing React, Angular, and Vue.js frameworks
+* Designed and implemented responsive UI layouts using CSS Grid and Flexbox
+* Utilized Sketch, Figma, and Adobe XD to create and manage design systems
+* Collaborated with cross-functional teams to integrate UI components with backend APIs
+* Conducted code reviews and ensured adherence to coding standards
+
+UI Engineer, StartupX (2015-2018)
+
+* Developed and maintained multiple web applications using React and Angular
+* Created and implemented responsive UI layouts using CSS3
+* Utilized Sketch and Figma to create and manage design systems
+* Collaborated with designers to implement design specifications
+* Participated in code reviews and ensured adherence to coding standards
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Frontend Developer, Frontend Masters (2017)
+* Certified Design Systems Specialist, Design Systems Conference (2019)
+
+Personal Projects:
+
+* Developed a responsive UI component library using React and CSS3
+* Created a design system using Sketch and Figma
+* Built a web application using Vue.js and RESTful APIs

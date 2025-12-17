@@ -1,0 +1,61 @@
+Here's a sample resume for Keith Mathis:
+
+Keith Mathis
+Database Administrator
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [keith.mathis@email.com](mailto:keith.mathis@email.com)
+* LinkedIn: linkedin.com/in/keithmathis
+
+Professional Summary:
+Highly skilled Database Administrator with 8+ years of experience in database optimization, security, and performance tuning. Proven track record of improving database performance, ensuring data security, and driving business growth through data-driven insights. Possess excellent technical skills and expertise in database management systems.
+
+Technical Skills:
+
+* Database Management Systems: Oracle, Microsoft SQL Server, MySQL
+* Database Optimization: Indexing, Partitioning, Query Tuning
+* Database Security: Access Control, Encryption, Auditing
+* Performance Tuning: Profiler, Explain Plan, Statistics
+* Operating Systems: Windows, Linux
+* Scripting Languages: SQL, PL/SQL, T-SQL
+
+Professional Experience:
+
+Database Administrator
+ABC Corporation (2018 - Present)
+
+* Designed and implemented database optimization strategies, resulting in 30% improvement in query performance
+* Implemented multi-layered security measures, including encryption, access control, and auditing, to ensure data confidentiality and integrity
+* Conducted regular database maintenance, including backups, index maintenance, and statistics updates
+* Collaborated with development team to design and implement database schema changes, ensuring seamless integration with application code
+* Developed and maintained database documentation, including data dictionary, ER diagrams, and SQL scripts
+
+Senior Database Administrator
+ DEF Company (2015 - 2018)
+
+* Led database optimization efforts, resulting in 25% reduction in database size and 40% improvement in query performance
+* Implemented database security measures, including access controls, encryption, and auditing, to ensure data security
+* Conducted regular performance tuning, including query tuning, indexing, and statistics updates, to optimize database performance
+* Collaborated with development team to design and implement database schema changes, ensuring seamless integration with application code
+* Developed and maintained database documentation, including data dictionary, ER diagrams, and SQL scripts
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010 - 2014)
+
+Certifications:
+
+* Oracle Certified Professional (OCP) in Database Administration (2016)
+* Microsoft Certified: Data Platform Developer Associate (2018)
+
+Achievements:
+
+* Improved database performance by 30% through optimized indexing and query tuning
+* Reduced database size by 25% through data compression and partitioning
+* Implemented multi-factor authentication and encryption to ensure data security
+* Collaborated with development team to design and implement database schema changes, resulting in 20% reduction in development time
+
+References:
+Available upon request.

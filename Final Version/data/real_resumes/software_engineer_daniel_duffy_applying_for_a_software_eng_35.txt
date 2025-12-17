@@ -1,0 +1,58 @@
+here's a sample resume for daniel duffy applying for a software engineer role:
+
+daniel duffy
+contact information:
+
+* email: [daniel.duffy@email.com](mailto:daniel.duffy@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/danielduffy
+* github: github.com/danielduffy
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and testing software applications. skilled in multiple programming languages, including java, c++, and python. strong understanding of algorithms and data structures, with a passion for staying up-to-date with the latest technologies.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, dynamic programming, divide and conquer, greedy algorithms
+* software development methodologies: agile, scrum
+* operating systems: windows, linux, macos
+* database management: mysql, mongodb
+* version control systems: git, svn
+* cloud platforms: aws, azure
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple software applications using java, c++, and python
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* implemented algorithms and data structures to optimize application performance and scalability
+* deployed applications to production environments using aws and azure cloud platforms
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+software development intern, def startups (summer 2016)
+
+* assisted in the development of a mobile application using java and c++
+* contributed to the design and implementation of algorithms and data structures
+* collaborated with the development team to identify and resolve technical issues
+* presented project updates and insights to the development team and stakeholders
+
+education:
+
+* bachelor of science in computer science, xyz university (2016-2020)
+	+ coursework: data structures, algorithms, computer systems, software engineering, computer networks
+	+ project: designed and developed a web application using python and flask to manage student information
+
+certifications:
+
+* certified java developer (ocpjp), oracle corporation (2019)
+* certified c++ professional (ccp), c++ institute (2020)
+
+personal projects:
+
+* developed a python-based chatbot using natural language processing (nlp) techniques
+* created a java-based game using java swing and javafx
+* contributed to open-source projects on github, including a python-based machine learning library
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for, and highlight your unique skills and experiences.

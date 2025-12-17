@@ -1,0 +1,56 @@
+here's a resume for dana white applying for the role of data scientist:
+
+dana white
+contact information:
+
+* address: 123 main st, anytown, usa 12345
+* phone: (555) 555-5555
+* email: [dwhite@email.com](mailto:dwhite@email.com)
+* linkedin: linkedin.com/in/danawhite
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, machine learning, sql, and data visualization. proven track record of delivering high-quality insights and actionable recommendations that drive business growth. passionate about leveraging data to tell compelling stories and drive strategic decision-making.
+
+technical skills:
+
+* programming languages: python, r
+* data analysis and visualization tools: pandas, numpy, matplotlib, seaborn, tableau, power bi
+* machine learning libraries: scikit-learn, tensorflow
+* database management: sql, mysql, postgresql
+* operating systems: windows, linux, macos
+* familiarity with cloud-based platforms: aws, google cloud, microsoft azure
+
+professional experience:
+
+data scientist, abc company (2020-present)
+
+* designed and implemented predictive models using scikit-learn and tensorflow to forecast customer churn and improve retention rates
+* developed and maintained data pipelines using python and pandas to extract insights from large datasets
+* collaborated with cross-functional teams to integrate data-driven insights into business decision-making processes
+* created interactive dashboards using tableau to communicate complex data insights to non-technical stakeholders
+
+data analyst, def startups (2018-2020)
+
+* collected and analyzed large datasets using sql and python to identify trends and opportunities for growth
+* built and maintained databases using mysql and postgresql to support business intelligence initiatives
+* worked with stakeholders to design and implement data visualization dashboards using power bi and tableau
+* contributed to the development of data-driven marketing campaigns that resulted in significant revenue growth
+
+education:
+
+* bachelor of science in statistics, xyz university (2015-2019)
+	+ coursework: statistical inference, machine learning, data mining, regression analysis, probability theory
+
+certifications:
+
+* certified data scientist (cds), data science council of america (2020)
+* certified analytics professional (cap), institute for operations research and the management sciences (2019)
+
+projects:
+
+* predicting housing prices using machine learning: built and trained a regression model using scikit-learn to predict housing prices based on features such as location, size, and amenities.
+* analyzing customer behavior using sql and tableau: designed and implemented a data pipeline to extract insights from a large customer database, and created interactive dashboards to communicate findings to stakeholders.
+* building a recommendation system using collaborative filtering: developed a recommendation system using python and scikit-learn to suggest products based on user behavior and preferences.
+
+references:
+available upon request.

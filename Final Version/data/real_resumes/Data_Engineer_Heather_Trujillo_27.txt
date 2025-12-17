@@ -1,0 +1,59 @@
+Here's a sample resume for Heather Trujillo:
+
+Heather Trujillo
+Data Engineer
+
+Contact Information:
+
+* Email: [heather.trujillo@email.com](mailto:heather.trujillo@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/heathertrujillo
+* GitHub: github.com/heathertrujillo
+
+Professional Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using MLOps, Airflow, ETL, and Big Data technologies. Proven track record of delivering high-quality solutions on cloud platforms, including AWS and GCP. Passionate about leveraging data engineering to drive business growth and innovation.
+
+Technical Skills:
+
+* MLOps: TensorFlow, PyTorch, Scikit-learn
+* Data Pipelines: Apache Airflow, AWS Glue, GCP Dataflow
+* ETL: Apache Beam, Apache NiFi
+* Big Data: Hadoop, Spark, NoSQL databases (e.g. Cassandra, MongoDB)
+* Cloud Platforms: AWS, GCP, Azure
+* Programming Languages: Python, Java, SQL
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2020-Present)
+
+* Designed and developed multiple data pipelines using Apache Airflow and AWS Glue to process and transform large datasets for business intelligence and predictive analytics
+* Collaborated with cross-functional teams to integrate data engineering solutions with machine learning models and data science applications
+* Implemented data quality checks and data governance policies to ensure data accuracy and compliance
+* Mentored junior engineers and contributed to the development of team processes and best practices
+
+Data Engineer, DEF Startups (2018-2020)
+
+* Built and deployed data pipelines using Apache Beam and GCP Dataflow to process and analyze large datasets for customer segmentation and marketing analytics
+* Worked with data scientists to integrate data engineering solutions with machine learning models and data visualization tools
+* Implemented data security and access controls to ensure data protection and compliance
+* Participated in the development of the company's data architecture and data governance policies
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Achievements:
+
+* Designed and developed a data pipeline using Apache Airflow and AWS Glue that reduced data processing time by 90% and improved data quality by 95%
+* Implemented a data governance policy using Apache Ranger and AWS Lake Formation that ensured data compliance and security
+* Developed a machine learning model using TensorFlow that improved predictive accuracy by 25% and reduced false positives by 30%
+* Received the "Data Engineer of the Year" award at the 2022 Data Engineering Conference
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Institute (2020)
+* Certified AWS Solutions Architect, AWS University (2019)
+
+References:
+Available upon request.

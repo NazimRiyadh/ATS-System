@@ -1,0 +1,64 @@
+Here's a sample resume for Amy Fritz:
+
+Amy Fritz
+DevOps Engineer
+
+Contact Information:
+
+* Email: [amy.fritz@email.com](mailto:amy.fritz@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/amyfritz
+* GitHub: github.com/amyfritz
+
+Professional Summary:
+
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, cloud platforms, and infrastructure automation. Proven track record of improving application delivery pipelines, ensuring high-quality releases, and optimizing infrastructure efficiency. Skilled in Docker, Ansible, and monitoring tools, with a strong focus on Infrastructure as Code (IaC) and cloud-native technologies.
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure Automation: Ansible, Terraform
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* IaC: Terraform, CloudFormation
+* Scripting Languages: Python, Bash
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Docker, resulting in a 30% reduction in deployment time and a 25% increase in quality
+* Built and maintained a containerized application using Docker and Kubernetes, ensuring high availability and scalability
+* Automated infrastructure provisioning using Ansible and Terraform, reducing manual errors and improving consistency
+* Implemented monitoring and logging tools using Prometheus, Grafana, and New Relic, providing real-time insights and improving troubleshooting efficiency
+* Collaborated with cross-functional teams to design and implement a cloud-native architecture on AWS, resulting in a 40% reduction in costs and a 20% increase in performance
+
+DevOps Engineer, DEF Startups (2015-2018)
+
+* Developed and implemented a CI/CD pipeline using GitLab CI/CD and Docker, resulting in a 50% reduction in deployment time and a 30% increase in quality
+* Built and maintained a scalable infrastructure using Ansible and Terraform, ensuring high availability and reliability
+* Implemented monitoring and logging tools using Prometheus, Grafana, and New Relic, providing real-time insights and improving troubleshooting efficiency
+* Collaborated with the development team to design and implement a cloud-native architecture on AWS, resulting in a 30% reduction in costs and a 15% increase in performance
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified DevOps Engineer - Professional, Amazon Web Services (2019)
+* Certified Ansible Engineer, Red Hat (2018)
+
+Achievements:
+
+* Best Practices Award, ABC Corporation (2020) - recognized for implementing best practices in CI/CD and infrastructure automation
+* Innovation Award, DEF Startups (2017) - recognized for innovative use of Docker and Kubernetes in application delivery
+* Community Participation Award, Open Source Community (2015) - recognized for contributions to open-source projects and community engagement
+
+References:
+
+Available upon request.
+
+I hope this sample resume helps! Remember to tailor your own resume to your specific experience and the job you're applying for.

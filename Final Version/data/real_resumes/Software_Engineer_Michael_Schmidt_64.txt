@@ -1,0 +1,56 @@
+Michael Schmidt
+Contact Information:
+
+* Email: [michael.schmidt@email.com](mailto:michael.schmidt@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/michaelschmidt
+
+Summary:
+Highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software systems using Java and DevOps practices. Skilled in algorithm and data structure fundamentals, API design, and testing methodologies.
+
+Technical Skills:
+
+* Programming languages: Java (8 and 11), Python (2.7 and 3.9)
+* Development frameworks: Spring Boot, Hibernate
+* Database management: MySQL, MongoDB
+* Operating Systems: Windows, Linux (Ubuntu, CentOS)
+* Cloud platforms: AWS (EC2, RDS, S3), Google Cloud (GCE, GCS)
+* Version control: Git, SVN
+* Agile methodologies: Scrum, Kanban
+* Testing frameworks: JUnit, Mockito, Selenium
+* API design: RESTful, GraphQL
+
+Professional Experience:
+
+Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple microservices using Java 11, Spring Boot, and AWS services (EC2, RDS, S3)
+* Implemented DevOps practices, including continuous integration and delivery using Jenkins and GitLab CI/CD
+* Collaborated with cross-functional teams to design and deploy scalable API gateways using NGINX and Amazon API Gateway
+* Conducted code reviews, ensured code quality, and implemented testing frameworks (JUnit, Mockito) to ensure robustness and reliability
+* Participated in on-call rotations, ensuring 24/7 availability and resolving production issues promptly
+
+Junior Software Engineer, DEF Startups (2015-2018)
+
+* Participated in the development of multiple web applications using Java 8, Spring Framework, and MySQL database
+* Developed and maintained APIs using RESTful and GraphQL, ensuring data consistency and integrity
+* Worked with testing frameworks (JUnit, Selenium) to ensure thorough testing and validation of code changes
+* Collaborated with team members to design and implement data structures and algorithms to optimize system performance
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+* Relevant coursework: Algorithms, Data Structures, Computer Systems, Web Development
+
+Certifications:
+
+* Certified Scrum Master (CSM), Scrum Alliance (2019)
+* Certified Java Developer, Oracle Corporation (2018)
+
+Personal Projects:
+
+* Developed a personal project, "TaskManager", a task management system using Java 11, Spring Boot, and MySQL database
+* Contributed to open-source projects, including a Java-based implementation of the Dijkstra's algorithm and a RESTful API for a simple banking system
+
+References:
+Available upon request.

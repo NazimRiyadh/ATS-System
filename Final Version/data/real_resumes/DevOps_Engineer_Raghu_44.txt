@@ -1,0 +1,46 @@
+Here's a professional resume for Raghu, a DevOps Engineer with 6 years of experience:
+
+**Raghu**
+**DevOps Engineer**
+
+**Contact Information:**
+
+* Email: [raghu@email.com](mailto:raghu@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/raghu-devops
+
+**Objective:**
+To leverage my expertise in containerization, Kubernetes, and Linux to drive innovation and efficiency in a DevOps role, and contribute to the success of a dynamic and forward-thinking organization.
+
+**Summary:**
+Highly motivated and experienced DevOps Engineer with 6 years of experience in designing, implementing, and maintaining scalable and highly available systems. Proven expertise in containerization using Docker, Kubernetes orchestration, and Linux system administration. Skilled in automating deployment, scaling, and monitoring of cloud-based applications.
+
+**Technical Skills:**
+
+* Containerization: Docker, Kubernetes
+* Linux: System administration, scripting (bash, shell)
+* Cloud Platforms: AWS, Azure
+* Automation Tools: Ansible, Terraform
+* Monitoring Tools: Prometheus, Grafana
+* CI/CD Tools: Jenkins, GitLab CI/CD
+
+**Experience:**
+
+**DevOps Engineer, ABC Corporation (2018 - Present)**
+
+* Designed and implemented a containerized architecture using Docker and Kubernetes for a microservices-based application
+* Automated deployment, scaling, and monitoring of the application using Ansible and Prometheus
+* Worked closely with development teams to ensure smooth deployment and integration of new features
+* Collaborated with operations teams to maintain high availability and uptime of the application
+
+**Senior Linux Administrator, DEF Company (2015 - 2018)**
+
+* Managed and maintained a large-scale Linux infrastructure for a cloud-based application
+* Designed and implemented automated backup and disaster recovery processes using shell scripting and Ansible
+* Provided technical support and troubleshooting for Linux-based systems and applications
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Note: I've kept the education section brief and only included the relevant degree. You can add more details if necessary. Also, I've used a standard font and formatting to make the resume easy to read. Let me know if you need any further changes!

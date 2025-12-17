@@ -1,0 +1,54 @@
+Here's a sample resume for Jenny Butler, a DevOps Engineer candidate:
+
+Jenny Butler
+Contact Information:
+
+* Email: [jenny.butler@email.com](mailto:jenny.butler@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/jennybutlerdevops
+* GitHub: github.com/jennybutler
+
+Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, containerization, and cloud infrastructure. Proven track record of designing and implementing scalable, reliable, and secure systems. Skilled in a range of technologies, including Docker, Kubernetes, and cloud platforms. Passionate about automation, continuous improvement, and collaboration.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, Ansible, CloudFormation
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+* Scripting Languages: Python, Bash, PowerShell
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+DevOps Engineer
+ABC Company (2020-Present)
+
+* Designed and implemented a scalable CI/CD pipeline using Jenkins and Docker, resulting in 30% reduction in deployment time and 25% reduction in errors
+* Collaborated with development teams to migrate applications to Kubernetes, resulting in 40% increase in throughput and 20% reduction in latency
+* Implemented monitoring and logging systems using Prometheus and Grafana, providing real-time insights into system performance and identifying areas for improvement
+* Worked with infrastructure teams to design and implement a cloud-based infrastructure using AWS and Terraform, resulting in 50% reduction in costs and 20% increase in scalability
+
+Senior DevOps Engineer
+DEF Company (2018-2020)
+
+* Led a team of engineers to design and implement a containerization strategy using Docker and Kubernetes, resulting in 25% reduction in application downtime and 15% reduction in resource utilization
+* Implemented a continuous integration and delivery pipeline using GitLab CI/CD and CircleCI, resulting in 40% reduction in deployment time and 20% reduction in errors
+* Worked with security teams to design and implement a secure infrastructure using AWS and CloudFormation, resulting in 25% reduction in security incidents and 20% reduction in compliance issues
+* Collaborated with operations teams to design and implement a monitoring and logging system using New Relic and Splunk, providing real-time insights into system performance and identifying areas for improvement
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified DevOps Engineer, Docker Inc. (2019)
+* Certified Kubernetes Administrator, Cloud Native Computing Foundation (2020)
+
+References:
+Available upon request.
+
+This is just a sample, and you should customize your resume to fit your specific experience and the job you're applying for. Remember to use clear and concise language, and to use bullet points and white space to make your resume easy to read. Good luck with your job search!

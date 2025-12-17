@@ -1,0 +1,53 @@
+here's a sample resume for mr. patrick carroll applying for a data engineer role:
+
+patrick carroll
+contact information:
+
+* email: [patrick.carroll@email.com](mailto:patrick.carroll@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/patrickcarroll
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, building, and maintaining large-scale data processing systems. skilled in airflow, etl, big data, cloud platforms, and spark. proven track record of delivering high-quality solutions on time and on budget.
+
+technical skills:
+
+* programming languages: python, java, sql
+* data processing frameworks: apache airflow, apache spark
+* big data technologies: hadoop, hive, pig
+* cloud platforms: aws, gcp, azure
+* etl tools: informatica, talend
+* databases: relational (mysql, postgresql), nosql (cassandra, mongodb)
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and implemented large-scale data processing systems using apache airflow and apache spark
+* developed and maintained etl pipelines using informatica and talend
+* worked with cross-functional teams to integrate data from various sources into a unified data warehouse
+* collaborated with data scientists to develop and deploy machine learning models
+* ensured data quality, security, and compliance with regulatory requirements
+
+data engineer, def startups (2015-2018)
+
+* built and maintained data pipelines using apache spark and hadoop
+* worked with cloud platforms (aws, gcp) to design and deploy scalable data processing systems
+* developed and deployed etl scripts using python and sql
+* collaborated with data analysts to create data visualizations and reports
+* participated in code reviews and ensured high-quality code
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified scrum master, scrum alliance (2017)
+
+references:
+available upon request.
+
+note: the above is just a sample, and you should customize the resume to fit your specific experience and the requirements of the job you're applying for.

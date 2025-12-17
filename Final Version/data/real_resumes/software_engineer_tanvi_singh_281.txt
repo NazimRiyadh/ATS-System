@@ -1,0 +1,56 @@
+tanvi singh
+contact information:
+
+* email: [tanvi.singh@email.com](mailto:tanvi.singh@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/tanvisingh
+
+summary:
+highly motivated and detail-oriented software engineer with 4+ years of experience in designing, developing, and deploying scalable software systems. proficient in a range of programming languages, including java, python, and javascript. skilled in system design, algorithms, data structures, and rest apis. strong understanding of ci/cd pipelines and microservices architecture.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design and architecture: microservices, restful apis, soa
+* data structures and algorithms: arrays, linked lists, trees, graphs, hash tables, sorting, and searching
+* development tools: git, jenkins, docker, kubernetes
+* database management: mysql, mongodb, postgresql
+* operating systems: windows, linux, macos
+
+professional experience:
+
+senior software engineer, abc corporation (2020-present)
+
+* designed and developed multiple microservices using java, python, and spring boot
+* implemented restful apis for data exchange between microservices
+* collaborated with cross-functional teams to identify and resolve technical issues
+* mentored junior engineers and contributed to code reviews
+* implemented ci/cd pipelines using jenkins, docker, and kubernetes
+* participated in code refactoring and optimization for performance improvement
+
+software engineer, def startups (2018-2020)
+
+* developed and deployed multiple web applications using python, django, and flask
+* designed and implemented database schema using mysql and mongodb
+* collaborated with the design team to implement responsive ui/ux designs
+* implemented restful apis for data exchange between web applications
+* participated in code reviews and contributed to code optimization
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer networks, database systems, operating systems, and software engineering
+
+achievements:
+
+* hackathon winner, xyz university (2018): developed a machine learning-based chatbot using python and tensorflow, which won the hackathon
+* codeforces silver medal, codeforces (2019): achieved a silver rating on codeforces, a competitive programming platform
+* published research paper, international journal of computer science and engineering (2020): co-authored a research paper on "design and implementation of a real-time event processing system" using java and spring boot
+
+certifications:
+
+* certified java developer, oracle corporation (2020)
+* certified python developer, python institute (2019)
+
+references:
+available upon request.

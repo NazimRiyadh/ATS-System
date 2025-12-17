@@ -1,0 +1,60 @@
+here's a sample resume for jeremy taylor applying for the role of data engineer:
+
+jeremy taylor
+contact information:
+
+* email: [jeremy.taylor@email.com](mailto:jeremy.taylor@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/jeremytaylor
+* github: github.com/jeremytaylor
+
+summary:
+
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using mlops, airflow, etl, big data, and cloud platforms. proven track record of delivering high-quality data solutions that drive business growth and improve decision-making processes.
+
+technical skills:
+
+* programming languages: python, sql, java
+* data engineering tools: apache airflow, apache beam, apache spark, aws glue, azure data factory
+* big data technologies: hadoop, spark, hive, pig, nosql databases (e.g., cassandra, mongodb)
+* cloud platforms: amazon web services (aws), microsoft azure, google cloud platform (gcp)
+* data science and machine learning: tensorflow, pytorch, scikit-learn, keras
+* etl tools: informatica powercenter, talend, aws glue
+* operating systems: linux, windows, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc company (2020 - present)
+
+* designed and developed scalable data pipelines using apache airflow, apache beam, and aws glue to process 10+ tb of data daily
+* worked closely with data scientists to deploy machine learning models using tensorflow and pytorch
+* developed and maintained etl processes using informatica powercenter and talend
+* collaborated with cross-functional teams to design and implement data warehouses using amazon redshift and google bigquery
+* implemented data governance and quality control processes using apache beam and aws glue
+
+data engineer, def company (2018 - 2020)
+
+* developed and deployed data pipelines using apache spark, hadoop, and apache hive to process 5+ tb of data daily
+* worked with data analysts to design and implement data visualizations using tableau and power bi
+* developed and maintained etl processes using aws glue and azure data factory
+* collaborated with data scientists to deploy machine learning models using scikit-learn and keras
+* implemented data quality control processes using apache beam and aws glue
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015 - 2019)
+
+certifications:
+
+* certified data engineer, data science council of america (dasca)
+* certified scrum master, scrum alliance
+* certified aws developer - associate, amazon web services
+
+projects:
+
+* developed a data pipeline using apache airflow and aws glue to process 10+ tb of data daily, resulting in a 30% reduction in processing time
+* built a machine learning model using tensorflow and pytorch to predict customer churn, resulting in a 25% reduction in customer churn rate
+* designed and implemented a data warehouse using amazon redshift and google bigquery, resulting in a 50% reduction in reporting time
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

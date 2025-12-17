@@ -1,0 +1,59 @@
+aditya singh
+contact information:
+
+* email: [adityasingh@email.com](mailto:adityasingh@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/adityasingh
+* github: github.com/adityasingh
+
+summary:
+highly motivated and detail-driven software engineer with 4+ years of experience in designing and developing scalable, efficient, and reliable software systems. proficient in a range of technologies, including java, python, javascript, and experience with system design, algorithms, data structures, rest apis, git, ci/cd, and microservices.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design and architecture: microservices, service-oriented architecture (soa)
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs
+* restful apis: design, implementation, and testing
+* version control systems: git
+* continuous integration and continuous deployment (ci/cd) tools: jenkins, docker
+* agile methodologies: scrum, kanban
+* operating systems: windows, linux, macos
+* familiarity with cloud platforms: aws, azure
+
+professional experience:
+
+software engineer, abc corporation (2020-present)
+
+* designed and developed multiple microservices using java and spring boot, resulting in a 30% reduction in system latency
+* collaborated with cross-functional teams to implement restful apis, improving api response time by 25%
+* utilized git for version control and jenkins for ci/cd, ensuring efficient and reliable code deployment
+* worked on several high-priority projects, including a large-scale data processing system using python and apache spark
+* participated in code reviews, providing feedback and improving overall code quality
+
+software engineer, def startups (2018-2020)
+
+* developed a real-time analytics platform using node.js, express.js, and mongodb, resulting in a 50% increase in user engagement
+* designed and implemented a system for data ingestion and processing using python and apache beam
+* worked closely with the devops team to implement ci/cd pipelines using jenkins and docker
+* collaborated with the qa team to identify and resolve issues, improving system reliability by 20%
+* participated in design reviews, ensuring that system designs were scalable, efficient, and maintainable
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+* master of science in computer science, pqr university (2020-2022)
+
+achievements:
+
+* published a research paper on "efficient data processing using apache spark" in an international conference
+* participated in several hackathons, including the google code-in competition
+* won the "best project" award at the xyz university hackathon
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (2020)
+* certified java developer (ocpjp), oracle (2019)
+
+references:
+available upon request.

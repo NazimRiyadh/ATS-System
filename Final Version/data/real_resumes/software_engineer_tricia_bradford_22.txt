@@ -1,0 +1,55 @@
+here's a sample resume for tricia bradford:
+
+tricia bradford
+contact information:
+
+* email: [tricia.bradford@email.com](mailto:tricia.bradford@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/triciabradford
+* github: github.com/triciabradford
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in c++, python, and system design. proven track record of delivering high-quality software solutions in a timely manner. strong passion for problem-solving and continuous learning.
+
+technical skills:
+
+* programming languages: c++, python, java
+* system design: microservices architecture, cloud computing (aws, azure)
+* development frameworks: django, flask
+* databases: mysql, mongodb, postgresql
+* agile methodologies: scrum, kanban
+* version control: git, svn
+
+professional experience:
+
+* software engineer, abc corporation (20xx-20xx)
+	+ designed and developed multiple software components using c++ and python
+	+ collaborated with cross-functional teams to identify and prioritize project requirements
+	+ deployed applications to production using automated deployment scripts
+	+ participated in code reviews and ensured adherence to coding standards
+* development engineer, def startup (20xx-20xx)
+	+ built scalable systems using microservices architecture and cloud computing
+	+ implemented data analytics using python and data visualization libraries
+	+ conducted unit testing and integration testing using pytest and unittest
+
+education:
+
+* bachelor of science in computer science, xyz university (20xx-20xx)
+	+ coursework: data structures, algorithms, computer systems, software engineering, and database systems
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (20xx)
+* certified python developer, python institute (20xx)
+
+projects:
+
+* personal project: chatbot using python and natural language processing
+	+ built a conversational ai chatbot using python and nltk libraries
+	+ implemented intent detection and entity recognition using machine learning algorithms
+* collaborative project: image recognition system using c++ and opencv
+	+ developed a computer vision system for image recognition using c++ and opencv libraries
+	+ implemented feature extraction and classification using machine learning algorithms
+
+references:
+available upon request.

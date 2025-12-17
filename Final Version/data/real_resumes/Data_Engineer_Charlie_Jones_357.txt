@@ -1,0 +1,55 @@
+Here's a sample resume for Charlie Jones, a Data Engineer who was select for the role:
+
+**Charlie Jones**
+**Contact Information:**
+
+* Email: [charlie.jones@email.com](mailto:charlie.jones@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/charliejones
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, building, and maintaining large-scale data systems. Skilled in working with various data technologies, including Hadoop, Spark, and NoSQL databases. Proven track record of delivering high-quality solutions on time and on budget.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, Scala
+* Data processing frameworks: Apache Hadoop, Apache Spark, Apache Beam
+* Databases: HBase, Cassandra, MySQL
+* Data warehousing: Amazon Redshift, Snowflake
+* Data visualization tools: Tableau, Power BI
+* Operating Systems: Linux, Windows
+* Agile methodologies: Scrum, Kanban
+
+**Experience:**
+
+**Senior Data Engineer, ABC Corporation (2018-Present)**
+
+* Designed and developed a scalable data pipeline for processing 10TB of data per day using Apache Beam and BigQuery
+* Built and maintained a data warehouse using Amazon Redshift and Snowflake, providing insights to business stakeholders
+* Collaborated with cross-functional teams to deliver data-driven solutions, resulting in 25% increase in sales revenue
+* Mentored junior data engineers and provided technical guidance on data engineering best practices
+
+**Data Engineer, DEF Startups (2015-2018)**
+
+* Built and deployed a real-time data processing system using Apache Kafka, Apache Storm, and Cassandra, processing 100,000 events per second
+* Designed and implemented a data quality framework using Apache Spark and HBase, resulting in 99.99% data accuracy
+* Worked with data analysts to develop data visualizations using Tableau, providing actionable insights to business stakeholders
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+**Achievements:**
+
+* Certified Apache Hadoop Developer (2016)
+* Certified Scrum Master (2018)
+* Winner of the ABC Corporation Hackathon (2019) for developing a data-driven solution using Apache Beam and BigQuery
+
+**Projects:**
+
+* **Real-time Weather Data Processing**: Designed and built a real-time weather data processing system using Apache Kafka, Apache Storm, and Cassandra. The system processed 100,000 events per second and provided insights to weather analysts.
+* **Data Quality Framework**: Developed a data quality framework using Apache Spark and HBase, resulting in 99.99% data accuracy.
+* **Data Visualization Dashboard**: Built a data visualization dashboard using Tableau, providing actionable insights to business stakeholders.
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experiences and the job you're applying for.

@@ -1,0 +1,53 @@
+Jacqueline Castro
+Contact Information:
+
+* Email: [jacqueline.castro@email.com](mailto:jacqueline.castro@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/jacquelinecastro
+
+Summary:
+Highly motivated and experienced Data Engineer with expertise in Big Data Frameworks, Data Pipelines, ETL Tools, Databases, and Cloud Platforms. Proficient in Python programming language and passionate about designing and developing scalable, efficient, and reliable data solutions.
+
+Technical Skills:
+
+* Big Data Frameworks: Hadoop, Spark, Flink
+* Data Pipelines: Apache Beam, Airflow
+* ETL Tools: Informatica PowerCenter, Talend
+* Databases: Relational (MySQL, PostgreSQL), NoSQL (MongoDB, Cassandra)
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Programming Languages: Python, Java, SQL
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2018-Present)
+
+* Designed and implemented large-scale data pipelines using Apache Beam and Airflow to process terabytes of data in real-time
+* Developed and deployed ETL jobs using Informatica PowerCenter to integrate data from multiple sources
+* Collaborated with cross-functional teams to architect and implement data warehousing solutions on AWS
+* Mentored junior engineers in Big Data technologies and provided guidance on best practices
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Built and maintained data infrastructure using Hadoop and Spark to process large datasets
+* Developed and deployed data pipelines using Apache Flink to process streaming data
+* Worked with data scientists to develop and deploy machine learning models using Python and scikit-learn
+* Implemented data quality checks and data governance best practices
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Big Data Engineer, Big Data University (2016)
+* Certified Data Engineer, Data Engineering Council (2018)
+
+Personal Projects:
+
+* Developed a real-time data processing pipeline using Apache Beam and Google Cloud Pub/Sub to process IoT data
+* Built a data visualization dashboard using Python and Dash to display insights on energy consumption
+* Contributed to an open-source data pipeline project using Apache Flink and Apache Kafka
+
+References:
+Available upon request.

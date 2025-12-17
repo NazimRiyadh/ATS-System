@@ -1,0 +1,57 @@
+rohan sharma
+contact information:
+
+* email: [rohan.sharma@email.com](mailto:rohan.sharma@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/rohan-sharma
+
+summary:
+highly motivated and detail-oriented data engineer with 4+ years of experience in designing, developing, and deploying large-scale data processing systems. proven expertise in python, sql, etl, airflow, spark, data modeling, aws, docker, kubernetes, and data warehousing. strong experience in working with distributed systems and ensuring high availability and scalability.
+
+technical skills:
+
+* programming languages: python, sql
+* data processing: etl, airflow, spark
+* data modeling: data warehousing, data lake
+* cloud platforms: aws
+* containerization: docker
+* orchestration: kubernetes
+* operating systems: linux, windows
+* data management: relational databases (mysql, postgresql), nosql databases (mongodb, cassandra)
+
+professional experience:
+
+senior data engineer, abc company (2020 - present)
+
+* designed and implemented data pipelines using python, airflow, and spark to process large datasets
+* developed and maintained data models for data warehousing and data lake environments
+* collaborated with cross-functional teams to ensure data quality and reliability
+* implemented containerization using docker and orchestration using kubernetes to ensure high availability and scalability
+* migrated data processing from on-premises environment to cloud-based aws environment
+
+data engineer, def startups (2018 - 2020)
+
+* built and maintained data pipelines using python, sql, and etl tools to process large datasets
+* designed and implemented data models for relational databases (mysql, postgresql) and nosql databases (mongodb, cassandra)
+* collaborated with data scientists to ensure data quality and reliability for machine learning model development
+* implemented data warehousing and data lake environments using aws services (redshift, s3, glue)
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015 - 2019)
+* certification in data engineering, abc university (2020)
+
+achievements:
+
+* designed and implemented a data pipeline that reduced processing time by 50% and improved data quality by 30%
+* developed and maintained a data warehousing environment that reduced query time by 90% and improved data accessibility by 50%
+* collaborated with cross-functional teams to ensure data quality and reliability for a large-scale machine learning project
+
+projects:
+
+* data lake implementation: designed and implemented a data lake environment using aws services (s3, glue, lake formation) to process large datasets
+* data pipeline automation: built and maintained a data pipeline using python, airflow, and spark to automate data processing and reduce processing time by 50%
+* data warehousing: designed and implemented a data warehousing environment using aws services (redshift, s3, glue) to improve data accessibility and reduce query time by 90%
+
+references:
+available upon request.

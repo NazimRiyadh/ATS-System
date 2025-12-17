@@ -1,0 +1,54 @@
+here's a sample resume for sean buck applying for the role of ui engineer:
+
+sean buck
+contact information:
+
+* email: [sean.buck@email.com](mailto:sean.buck@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/seanbuck
+* github: github.com/seanbuck
+
+summary:
+highly motivated and detail-oriented ui engineer with 5+ years of experience in designing and developing user interfaces for web applications. skilled in html, css, javascript, and react, with a strong understanding of ui/ux design principles. proficient in creating visually appealing and user-friendly interfaces that drive engagement and conversion.
+
+technical skills:
+
+* front-end development: html, css, javascript, react
+* ui/ux design: sketch, figma, adobe xd
+* version control: git, svn
+* collaboration tools: slack, trello, jira
+* operating systems: windows, macos
+
+professional experience:
+
+ui engineer, abc company (2018-present)
+
+* designed and developed user interfaces for multiple web applications using react, html, and css
+* collaborated with cross-functional teams to ensure seamless integration of ui components with backend systems
+* implemented responsive design principles to ensure compatibility with various devices and screen sizes
+* conducted a/b testing and analytics to inform design decisions and optimize user experience
+* participated in code reviews and contributed to the improvement of the codebase
+
+junior ui engineer, def company (2015-2018)
+
+* assisted in the design and development of user interfaces for web applications using html, css, and javascript
+* worked closely with designers to implement ui/ux designs and prototypes
+* contributed to the development of new features and bug fixes
+* participated in code reviews and learned from senior engineers
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+projects:
+
+* [personal website](https://seanbuck.github.io/): a personal website showcasing ui/ux design and development skills using react, html, and css
+* [todo list app](https://github.com/seanbuck/todo-list-app): a simple todo list app built using react, html, and css
+* [responsive-design-example](https://github.com/seanbuck/responsive-design-example): a responsive design example showcasing the use of css media queries and flexbox
+
+certifications:
+
+* certified in ui/ux design principles and best practices
+
+references:
+available upon request.

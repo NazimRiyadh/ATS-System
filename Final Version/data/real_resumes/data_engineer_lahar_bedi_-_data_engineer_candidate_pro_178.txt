@@ -1,0 +1,39 @@
+**lahar bedi - data engineer candidate profile**
+
+**summary:**
+
+lahar bedi, a skilled software engineer, demonstrated a strong foundation in programming languages and software development methodologies during the interview process. however, their profile for the data engineer role revealed some areas that require attention to meet the job requirements.
+
+**technical skills:**
+
+* proficient in programming languages: python, java, c++, and sql
+* experience with data analysis and visualization using libraries like pandas, numpy, and matplotlib
+* familiarity with agile development methodologies
+* knowledge of operating systems, networking fundamentals, and database concepts
+
+**gaps and concerns:**
+
+* **lacking proficiency in data warehousing:** lahar's experience with data warehousing technologies like amazon redshift, google bigquery, or snowflake was limited. they struggled to explain the concept of data warehousing and its applications, which raised concerns about their ability to design and implement data warehousing solutions.
+* **etl processes:** although familiar with etl concepts, lahar's hands-on experience with etl tools like informatica, talend, or aws glue was limited. they had difficulty explaining the process of designing and implementing etl workflows, which may impact their ability to effectively extract, transform, and load data.
+* **big data technologies:** lahar did not have direct experience with hadoop, spark, or other big data technologies, which are essential for handling large-scale data processing. their lack of familiarity with these technologies may hinder their ability to design and implement scalable data processing pipelines.
+* **database administration:** while knowledgeable about database concepts, lahar's experience with database administration, including database design, performance tuning, and security, was not sufficient. they may require additional training to effectively manage and optimize databases.
+* **cloud services:** although familiar with cloud computing concepts, lahar's experience with cloud services like aws or azure was limited. they had difficulty explaining the process of designing and implementing cloud-based data solutions, which may impact their ability to leverage cloud services effectively.
+* **lack of experience with specific tools and technologies:** lahar's experience with log analysis tools like elk, splunk, or sumo logic, finance-specific tools like bloomberg or factset, and healthcare-related technologies was limited. they may require additional exposure to these tools and technologies to effectively support business needs.
+
+**concerns raised during the interview:**
+
+* difficulty with tasks that required in-depth knowledge of data warehousing, etl processes, and big data technologies.
+* lack of familiarity with specific tools and technologies.
+* struggled to explain complex data processing concepts and design scalable data pipelines.
+
+**potential for growth:**
+
+despite the identified gaps, lahar demonstrated a strong foundation in programming languages and software development methodologies. with further training, exposure, and experience, they have the potential to fill the gaps and become a proficient data engineer. the company could consider providing additional training or mentorship to help lahar develop the necessary skills to excel in the role.
+
+**recommendations:**
+
+* provide additional training on data warehousing technologies, etl processes, and big data technologies to help lahar develop a deeper understanding of these concepts.
+* offer exposure to log analysis tools, finance-specific tools, and healthcare-related technologies to broaden their skill set.
+* pair lahar with experienced team members or mentors to guide them in their learning journey and provide hands-on experience with specific tools and technologies.
+
+by acknowledging the areas where lahar needs improvement and providing targeted support, the company can help them grow into a skilled data engineer and make a meaningful contribution to the team.

@@ -1,0 +1,59 @@
+ananya singh
+contact information:
+
+* email: [ananya.singh@email.com](mailto:ananya.singh@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ananyasingh
+* github: github.com/ananyasingh
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying large-scale data systems. proven expertise in etl, data modeling, and data warehousing. skilled in python, sql, airflow, spark, and cloud-based technologies such as aws, docker, and kubernetes.
+
+technical skills:
+
+* programming languages: python, sql
+* data engineering: etl, airflow, spark
+* data modeling: data warehousing, data mart
+* cloud platforms: aws, docker, kubernetes
+* operating systems: linux, windows
+* databases: mysql, postgresql, oracle
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and developed etl pipelines using python, airflow, and spark to extract, transform, and load data from various sources
+* built and maintained data warehouses on aws redshift and amazon s3
+* implemented data modeling and data governance best practices to ensure data quality and consistency
+* collaborated with cross-functional teams to integrate data into business intelligence applications
+* improved data processing time by 30% using spark and optimized database queries
+
+senior data analyst, def startups (2015-2018)
+
+* developed and maintained complex sql queries to extract insights from large datasets
+* created data visualizations using tableau and power bi to communicate insights to stakeholders
+* designed and implemented data quality checks and data validation rules using python and sql
+* worked with the product team to integrate data into web applications
+
+education:
+
+* master of science in computer science, xyz university (2015)
+	+ coursework: data mining, database systems, software engineering
+* bachelor of science in computer science, pqr university (2013)
+	+ coursework: data structures, algorithms, computer systems
+
+achievements:
+
+* aws certified data engineer - professional
+* certified scrum master (csm)
+* published two research papers on data warehousing and etl in international conferences
+
+projects:
+
+* data warehouse on aws: designed and developed a data warehouse on aws redshift and amazon s3 using etl pipelines and data modeling best practices
+* real-time data processing using spark: built a real-time data processing system using spark and python to process large-scale data streams
+* data governance framework: developed a data governance framework using python and sql to ensure data quality and consistency across the organization
+
+references:
+available upon request.

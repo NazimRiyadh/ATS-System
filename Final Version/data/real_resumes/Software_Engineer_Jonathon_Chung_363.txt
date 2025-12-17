@@ -1,0 +1,59 @@
+Here's a sample resume for Jonathon Chung:
+
+Jonathon Chung
+Software Engineer
+
+Contact Information:
+
+* Email: [jonathon.chung@email.com](mailto:jonathon.chung@email.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/jonathonchung
+* GitHub: github.com/jonathonchung
+
+Professional Summary:
+Highly motivated and detail-oriented software engineer with 5 years of experience in developing scalable and efficient software solutions using C++, Python, and DevOps tools. Skilled in algorithms, data structures, and software design patterns. Proven track record of delivering high-quality codebases and collaborating with cross-functional teams to achieve project goals.
+
+Technical Skills:
+
+* Programming languages: C++, Python, Java
+* Data structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
+* Algorithms: Sorting, Searching, Dynamic Programming, Greedy Algorithms, Divide and Conquer
+* DevOps tools: Docker, Kubernetes, Jenkins, Git
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior Software Engineer, ABC Company (2018-Present)
+
+* Designed and implemented multiple high-traffic web applications using C++ and Python
+* Developed and maintained a large-scale data processing pipeline using Apache Kafka, Apache Spark, and Python
+* Collaborated with the DevOps team to deploy and maintain applications on AWS using Docker, Kubernetes, and Jenkins
+* Mentored junior engineers and provided technical guidance on software design and implementation
+* Contributed to the company's open-source projects on GitHub, including a popular C++ library for data structures
+
+Software Engineer, DEF Startup (2015-2018)
+
+* Developed a scalable e-commerce platform using Python, Flask, and MySQL
+* Implemented a real-time analytics system using Apache Storm, Python, and Redis
+* Collaborated with the QA team to design and implement automated testing frameworks using Pytest and Selenium
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Achievements:
+
+* Patent Pending: "Efficient Data Processing Pipeline for Big Data Applications"
+* GitHub Star: "C++ Library for Data Structures" (over 1,000 stars)
+* Code Kata: "Solved 50+ coding challenges on LeetCode, HackerRank, and CodeWars"
+* Awards: "Best Engineer" award at ABC Company (2019), "Top Contributor" award at DEF Startup (2017)
+
+Certifications:
+
+* Certified Scrum Master (CSM), Scrum Alliance (2019)
+* Certified Python Developer, Python Institute (2018)
+
+References:
+Available upon request.

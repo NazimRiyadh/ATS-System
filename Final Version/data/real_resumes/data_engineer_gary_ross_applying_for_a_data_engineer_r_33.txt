@@ -1,0 +1,65 @@
+here's a sample resume for gary ross applying for a data engineer role:
+
+gary ross
+contact information:
+
+* email: [gary.ross@email.com](mailto:gary.ross@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/garyrossdataengineer
+
+summary:
+highly motivated and experienced data engineer with expertise in designing, developing, and deploying scalable data pipelines using mlops, airflow, etl, big data, and spark technologies. proven track record of delivering high-quality solutions that improve data processing efficiency, reduce costs, and enable data-driven decision making.
+
+technical skills:
+
+* mlops:
+	+ experience with model deployment, monitoring, and serving using tools like tensorflow serving, azure machine learning, and aws sagemaker
+	+ knowledge of model serving architectures, including batch and online serving
+* airflow:
+	+ proficient in designing and implementing complex workflows using airflow
+	+ experience with airflow operators, including bash, python, and sql
+* etl:
+	+ strong understanding of etl processes and methodologies
+	+ experience with data integration tools like apache beam, spark, and pandas
+* big data:
+	+ proficient in working with large datasets, including hadoop, spark, and nosql databases
+	+ experience with data processing frameworks like mapreduce, spark sql, and hive
+* spark:
+	+ in-depth knowledge of apache spark, including spark core, spark sql, and spark mllib
+	+ experience with spark programming models, including resilient distributed datasets (rdds), dataframes, and datasets
+* programming languages:
+	+ python
+	+ sql
+	+ java
+* tools and technologies:
+	+ apache airflow
+	+ apache spark
+	+ hadoop
+	+ nosql databases (e.g., cassandra, mongodb)
+	+ cloud platforms (e.g., aws, azure, gcp)
+
+professional experience:
+
+data engineer, abc corporation (2020-present)
+
+* designed and developed scalable data pipelines using airflow, spark, and etl processes to support business intelligence and analytics use cases
+* collaborated with data scientists to deploy machine learning models using mlops tools and technologies
+* implemented data quality and governance processes using apache beam and spark
+* worked with cross-functional teams to identify business requirements and design data solutions
+
+data analyst, def startup (2018-2020)
+
+* developed etl processes using pandas, spark, and apache beam to integrate and process large datasets
+* created data visualizations and reports using tableau and power bi to support business decision making
+* worked with data engineers to design and implement data architectures using hadoop and spark
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015-2018)
+
+certifications:
+
+* certified data scientist, data science council of america (2020)
+* certified big data engineer, hortonworks (2019)
+
+i hope this helps! remember to customize your resume to fit your specific experience and the job description you're applying for.

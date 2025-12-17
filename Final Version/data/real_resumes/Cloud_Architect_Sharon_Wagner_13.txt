@@ -1,0 +1,59 @@
+Here is a professional resume for Sharon Wagner:
+
+Sharon Wagner
+Cloud Architect
+
+Contact Information:
+
+* Email: [sharon.wagner@email.com](mailto:sharon.wagner@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/sharonwagnercloud
+
+Summary:
+Highly skilled Cloud Architect with 8+ years of experience in designing, deploying, and managing large-scale cloud infrastructure on AWS. Proven expertise in cloud security, compliance, and governance. Proficient in Terraform and other cloud automation tools. Strong leadership skills with experience leading cross-functional teams.
+
+Professional Experience:
+
+Cloud Architect, XYZ Corporation (2018-Present)
+
+* Designed and deployed multiple large-scale cloud applications on AWS, including a 1000+ instance fleet for a major e-commerce company
+* Led a team of 5 engineers to migrate a legacy on-premises application to AWS, resulting in 30% cost savings and 90% reduction in downtime
+* Implemented cloud security best practices, including IAM, VPC, and CloudWatch, to ensure compliance with industry regulations
+* Collaborated with DevOps team to implement continuous integration and continuous deployment (CI/CD) pipelines using Terraform and AWS CodePipeline
+* Developed and maintained cloud architecture documents, including technical requirements and design specifications
+
+Senior Cloud Engineer, ABC Startups (2015-2018)
+
+* Designed and implemented cloud infrastructure for multiple startups, including a 50+ instance fleet for a data analytics company
+* Implemented cloud security measures, including encryption, access controls, and monitoring, to ensure data protection
+* Collaborated with development teams to implement cloud-based services, including AWS Lambda and API Gateway
+* Developed and maintained cloud automation scripts using Terraform and AWS CloudFormation
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* AWS Certified Developer - Associate
+* CompTIA Cloud+ Certification
+
+Skills:
+
+* Cloud Architecture and Design
+* Cloud Security and Compliance
+* Terraform and AWS CloudFormation
+* AWS Services (EC2, S3, Lambda, API Gateway, etc.)
+* Cloud Automation and Scripting
+* Leadership and Team Management
+* Communication and Collaboration
+
+Achievements:
+
+* Received the "Cloud Architect of the Year" award at the 2020 Cloud Computing Awards
+* Published a whitepaper on "Cloud Security Best Practices" in the 2020 Cloud Computing Journal
+* Led a team to achieve 100% uptime for a major e-commerce company using AWS and Terraform
+
+References:
+Available upon request.

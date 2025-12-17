@@ -1,0 +1,57 @@
+here's a sample resume for barbara jones applying for the role of data engineer:
+
+barbara jones
+contact information:
+
+* email: [bjones@email.com](mailto:bjones@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/barbarajones
+* github: github.com/barbarajones
+
+summary:
+highly motivated and experienced data engineer with expertise in mlops, etl, big data, cloud platforms, and spark. skilled in designing, building, and deploying scalable data pipelines and applications. passionate about leveraging data to drive business insights and decision-making.
+
+technical skills:
+
+* programming languages: python, java, scala
+* big data technologies: apache spark, hadoop, hive
+* cloud platforms: aws, gcp, azure
+* mlops: model deployment, model serving, model monitoring
+* etl: data integration, data transformation, data quality
+* data storage: relational databases (mysql, postgresql), nosql databases (mongodb, cassandra)
+* data visualization: tableau, power bi, d3.js
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and developed large-scale etl pipelines using apache spark and python to process over 100 million records per day
+* built and deployed multiple machine learning models using tensorflow and pytorch, achieving accuracy improvements of up to 20%
+* collaborated with cross-functional teams to design and implement data governance policies and procedures
+* provided technical leadership and mentorship to junior data engineers, ensuring successful project delivery and knowledge sharing
+
+data engineer, def startup (2015-2018)
+
+* built and maintained a data warehouse using amazon redshift, integrating data from multiple sources using etl scripts
+* developed and deployed a real-time data streaming application using apache storm and apache kafka
+* collaborated with data scientists to develop and deploy machine learning models using scikit-learn and tensorflow
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+education:
+
+* master of science in computer science, xyz university (2010-2012)
+* bachelor of science in computer science, abc university (2005-2009)
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified scrum master, scrum alliance (2018)
+
+projects:
+
+* mlops pipeline: developed a end-to-end mlops pipeline using tensorflow, pytorch, and apache spark to deploy and monitor machine learning models
+* big data processing: built a big data processing pipeline using apache spark and python to process large-scale datasets
+* data visualization: developed a data visualization dashboard using tableau and power bi to showcase business insights and trends
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and highlight your unique skills and experiences.

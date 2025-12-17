@@ -1,0 +1,50 @@
+here's a sample resume for a data engineer candidate named allen smith:
+
+allen smith
+contact information:
+
+* email: [allensmith@email.com](mailto:allensmith@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/allensmith
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, etl, cloud platforms, and spark. proven track record of delivering scalable, efficient, and reliable data engineering solutions that drive business value. skilled in designing and implementing data pipelines, machine learning workflows, and data architectures on cloud-based platforms.
+
+technical skills:
+
+* mlops: tensorflow, pytorch, scikit-learn, keras, model serving with tensorflow serving and aws sagemaker
+* airflow: dag design, workflow orchestration, task scheduling, and monitoring
+* etl: data extraction, transformation, and loading using apache beam, apache spark, and aws glue
+* cloud platforms: aws (ec2, s3, lambda, glue), gcp (dataproc, cloud storage, cloud functions), azure (hdinsight, data factory)
+* spark: scala, java, python, and r programming languages for spark development
+* data warehousing: amazon redshift, google bigquery, azure synapse analytics
+* devops: git, docker, kubernetes, jenkins
+
+professional experience:
+
+data engineer, abc company (2020-present)
+
+* designed and implemented etl pipelines using apache beam and spark to extract, transform, and load data from various sources
+* developed and deployed machine learning models using tensorflow and pytorch, and served them using tensorflow serving and aws sagemaker
+* created and managed dags using airflow to orchestrate data pipelines and workflows
+* collaborated with data scientists to design and implement data architectures and machine learning workflows
+* deployed data engineering solutions on aws and gcp cloud platforms
+
+data analyst, def startups (2018-2020)
+
+* designed and implemented data pipelines using python and spark to extract, transform, and load data from various sources
+* developed data visualizations and reports using tableau and power bi
+* created and maintained data warehouses using amazon redshift and google bigquery
+* collaborated with cross-functional teams to design and implement data-driven solutions
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified cloud practitioner, aws (2020)
+
+references:
+available upon request.

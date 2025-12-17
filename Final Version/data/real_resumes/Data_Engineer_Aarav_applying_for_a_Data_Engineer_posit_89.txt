@@ -1,0 +1,61 @@
+Here's a sample resume for Aarav applying for a Data Engineer position:
+
+**Aarav**
+**Contact Information:**
+
+* Email: [a.arav@example.com](mailto:a.arav@example.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/aaravdataengineer
+* GitHub: github.com/aaravdataengineer
+
+**Summary:**
+Highly motivated and experienced Senior Data Engineer with 4.2 years of expertise in designing, building, and maintaining large-scale data pipelines. Proven track record of delivering high-quality solutions, leading teams, and driving business growth through data-driven insights. Skilled in a range of technologies, including Apache Spark, Hadoop, and cloud-based data platforms.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, Scala
+* Data engineering tools: Apache Beam, Apache Spark, Apache NiFi, Airflow
+* Cloud platforms: AWS, GCP, Azure
+* Databases: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Linux, Windows
+* Agile methodologies: Scrum, Kanban
+
+**Experience:**
+
+**Senior Data Engineer, ABC Corporation (2018-Present)**
+
+* Design and implement large-scale data pipelines using Apache Beam and Apache Spark
+* Lead a team of 3 data engineers in developing and maintaining data infrastructure
+* Collaborate with cross-functional teams to identify business needs and develop data-driven solutions
+* Implemented data quality checks and data governance policies to ensure data accuracy and compliance
+* Improved data processing time by 30% and reduced data storage costs by 25%
+
+**Data Engineer, DEF Startups (2016-2018)**
+
+* Designed and developed data pipelines using Apache NiFi and Airflow
+* Worked with stakeholders to gather requirements and deliver data solutions
+* Implemented data visualization tools such as Tableau and Power BI
+* Developed and maintained data documentation and standards
+* Improved data processing time by 25% and reduced data storage costs by 15%
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2016)
+
+**Competitions and Achievements:**
+
+* **1st Place, Data Science Bowl 2019**: Developed a machine learning model to predict traffic congestion, achieving a 25% improvement in accuracy
+* **2nd Place, Hackathon 2018**: Developed a data pipeline to process and analyze customer transaction data, resulting in a 30% increase in sales
+* **Certified Data Engineer, Google Cloud**: Completed a comprehensive training program to demonstrate expertise in Google Cloud data engineering
+* **Certified Apache Spark Developer, Databricks**: Completed a training program to demonstrate expertise in Apache Spark development
+
+**Certifications:**
+
+* Certified Data Engineer, Google Cloud
+* Certified Apache Spark Developer, Databricks
+* Certified Scrum Master, Scrum Alliance
+
+**References:**
+Available upon request.
+
+I hope this sample resume helps Aarav stand out as a strong candidate for the Data Engineer position!

@@ -1,0 +1,52 @@
+here's a sample resume for a data engineer candidate, justin graham:
+
+justin graham
+contact information:
+
+* email: [justingraham@email.com](mailto:justingraham@email.com)
+* phone: (555) 555-5555
+* linkedin: linkedin.com/in/justingraham
+* github: github.com/justingraham
+
+summary:
+highly motivated and detail-oriented data engineer with expertise in mlops, airflow, and spark. proven track record of designing, developing, and deploying scalable data pipelines to drive business insights. skilled in data engineering, machine learning, and scientific computing.
+
+technical skills:
+
+* programming languages: python, scala
+* data engineering tools: apache airflow, apache spark, apache beam
+* machine learning libraries: tensorflow, scikit-learn, pytorch
+* cloud platforms: aws, gcp, azure
+* databases: mysql, postgresql, cassandra
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc company (2020-present)
+
+* designed and developed a scalable data pipeline using apache airflow to process and analyze customer data, resulting in a 30% increase in data quality and a 25% reduction in processing time.
+* developed and deployed multiple machine learning models using tensorflow and scikit-learn to predict customer churn and recommend products, achieving a 20% lift in sales revenue.
+* collaborated with cross-functional teams to integrate data engineering workflows into the company's data warehousing and business intelligence infrastructure.
+
+data scientist, def startups (2018-2020)
+
+* developed and deployed a real-time data processing pipeline using apache spark to analyze customer behavior and optimize marketing campaigns.
+* built and deployed multiple data visualizations using tableau and power bi to communicate insights to stakeholders.
+* collaborated with the engineering team to design and implement a data lake using hdfs and hive.
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015-2019)
+
+projects:
+
+* mlops pipeline: developed a seamless mlops pipeline using apache airflow, tensorflow, and scikit-learn to automate model training, deployment, and monitoring.
+* real-time data processing: built a real-time data processing pipeline using apache spark and kafka to analyze customer behavior and optimize marketing campaigns.
+* data visualization: created interactive data visualizations using tableau and power bi to communicate insights to stakeholders.
+
+certifications:
+
+* certified data engineer, data science council of america (dasca)
+* certified scrum master, scrum alliance
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

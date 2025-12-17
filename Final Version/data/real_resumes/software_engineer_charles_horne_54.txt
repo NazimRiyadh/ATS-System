@@ -1,0 +1,51 @@
+here's a sample resume for charles horne, a software engineer candidate:
+
+charles horne
+contact information:
+
+* email: [charles.horne@email.com](mailto:charles.horne@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/charleshorne
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software applications using java, c++, and python. skilled in data structures, system design, and software development life cycle methodologies.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: microservices architecture, restful apis, cloud computing (aws)
+* development tools: git, maven, gradle, docker, kubernetes
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+* senior software engineer, abc corporation (2018-present)
+	+ designed and developed multiple software applications using java, c++, and python for a large-scale e-commerce platform.
+	+ collaborated with cross-functional teams to identify and prioritize project requirements.
+	+ implemented data structures and algorithms to optimize system performance and scalability.
+	+ deployed applications to production using docker and kubernetes.
+* software engineer, def startups (2015-2018)
+	+ developed multiple software applications using java and python for a startup company.
+	+ worked on system design and architecture to ensure scalability and reliability.
+	+ participated in code reviews and ensured high-quality code delivery.
+	+ collaborated with qa team to identify and fix bugs.
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+certifications:
+
+* certified java developer (ocpjp), oracle corporation (2016)
+* certified scrum master (csm), scrum alliance (2017)
+
+projects:
+
+* personal website: developed a personal website using python and flask to showcase projects and skills.
+* game development: developed a 2d game using java and javafx to demonstrate understanding of object-oriented programming.
+
+references:
+available upon request.

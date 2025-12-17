@@ -1,0 +1,53 @@
+Melissa Porter
+Contact Information:
+
+* Email: [melissa.porter@email.com](mailto:melissa.porter@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/melissaporter
+* GitHub: github.com/melissaporter
+
+Summary:
+Highly motivated and detail-oriented Data Scientist with expertise in data manipulation, machine learning, and data visualization. Proficient in Python and experienced in extracting insights from complex data sets to drive business decisions.
+
+Technical Skills:
+
+* Programming languages: Python (3.x)
+* Data manipulation and analysis: Pandas, NumPy, Matplotlib, Seaborn
+* Machine learning: Scikit-learn, TensorFlow
+* Data visualization: Matplotlib, Seaborn, Plotly
+* Operating Systems: Windows, Linux
+* Database management: MySQL, PostgreSQL
+
+Professional Experience:
+
+Data Scientist, XYZ Corporation (2018-Present)
+
+* Developed and implemented machine learning models to predict customer churn, resulting in a 25% reduction in churn rate
+* Created interactive dashboards using Plotly to visualize key business metrics for senior leadership
+* Collaborated with cross-functional teams to design and implement A/B testing experiments to optimize marketing campaigns
+* Built and maintained large-scale data pipelines using Python and Pandas to process and analyze customer data
+
+Data Analyst, ABC Startups (2015-2018)
+
+* Analyzed customer data to identify trends and opportunities for growth, presenting findings to executive team
+* Created data visualizations using Matplotlib and Seaborn to communicate complex insights to stakeholders
+* Built and maintained databases using MySQL to store and manage customer data
+* Developed and implemented data models using Pandas and NumPy to process and analyze large data sets
+
+Education:
+
+* Master of Science in Data Science, University of California, Berkeley (2015)
+* Bachelor of Science in Computer Science, Stanford University (2013)
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2018)
+
+Projects:
+
+* Predicting House Prices with Machine Learning: Built and deployed a machine learning model using Scikit-learn and TensorFlow to predict house prices in the San Francisco Bay Area
+* Analyzing Customer Churn with Data Visualization: Created interactive dashboards using Plotly to visualize key business metrics and identify opportunities for growth
+
+References:
+Available upon request.

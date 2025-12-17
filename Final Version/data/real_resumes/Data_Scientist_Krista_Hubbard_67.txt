@@ -1,0 +1,49 @@
+Krista Hubbard
+Contact Information:
+
+* Email: [kristahubbard@email.com](mailto:kristahubbard@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/kristahubbard
+
+Summary:
+Highly motivated and detail-driven data scientist with expertise in data manipulation, statistical modeling, and deep learning. Proficient in Python and experienced in data visualization, with a strong foundation in probability and statistics. Proven track record of delivering data-driven insights to drive business growth.
+
+Technical Skills:
+
+* Programming languages: Python
+* Data manipulation and analysis libraries: Pandas, NumPy, Matplotlib, Seaborn
+* Deep learning frameworks: TensorFlow, PyTorch
+* Data visualization tools: Tableau, Power BI
+* Statistical and machine learning libraries: Scikit-learn, Statsmodels
+* Operating Systems: Windows, Linux
+
+Professional Experience:
+
+Data Scientist, XYZ Corporation (2018-Present)
+
+* Developed and implemented predictive models using deep learning techniques to improve customer churn prediction accuracy by 25%
+* Designed and implemented data pipelines using Python and Pandas to collect and preprocess large datasets
+* Created data visualizations using Tableau to communicate insights to stakeholders, resulting in a 30% reduction in project timeline
+* Collaborated with cross-functional teams to develop data-driven strategies to improve business outcomes
+
+Junior Data Analyst, ABC Startups (2015-2018)
+
+* Analyzed and visualized data to identify trends and patterns using statistical and machine learning techniques
+* Developed and maintained databases using Python and Pandas to support data-driven decision making
+* Created reports and dashboards using Power BI to communicate insights to stakeholders
+
+Education:
+
+* Master of Science in Data Science, Stanford University (2015)
+* Bachelor of Science in Statistics, Carnegie Mellon University (2013)
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2018)
+* Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2016)
+
+Projects:
+
+* Predicting Customer Churn using Deep Learning: Developed a deep learning model using TensorFlow to predict customer churn, resulting in a 25% improvement in accuracy
+* Analyzing Stock Market Trends: Used statistical and machine learning techniques to analyze stock market trends and make predictions about future market performance
+* Visualizing Healthcare Data: Created interactive visualizations using Tableau to communicate insights about healthcare data to stakeholders

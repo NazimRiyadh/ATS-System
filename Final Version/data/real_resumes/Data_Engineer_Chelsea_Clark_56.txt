@@ -1,0 +1,68 @@
+Chelsea Clark
+Data Engineer
+
+Contact Information:
+
+* Email: [chelsea.clark@email.com](mailto:chelsea.clark@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/chelseaclark
+
+Summary:
+
+Highly skilled Data Engineer with expertise in designing, developing, and implementing large-scale data pipelines, data warehouses, and data processing systems. Proficient in Big Data frameworks, ETL tools, databases, and cloud platforms. Strong background in Python programming and experience with data warehousing.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop
+	+ Apache Spark
+	+ Apache Flink
+* Data Pipelines:
+	+ Apache Beam
+	+ Apache NiFi
+	+ AWS Glue
+* ETL Tools:
+	+ Informatica PowerCenter
+	+ Talend ETL
+	+ AWS Glue
+* Databases:
+	+ Relational databases (MySQL, PostgreSQL)
+	+ NoSQL databases (HBase, Cassandra)
+	+ Cloud databases (AWS Aurora, Google Cloud SQL)
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Google Cloud Platform (GCP)
+	+ Microsoft Azure (Azure)
+* Programming Languages:
+	+ Python (PySpark, Pandas, NumPy)
+	+ SQL (T-SQL, PL/SQL)
+* Data Warehousing:
+	+ Data modeling and design
+	+ ETL process development
+	+ Data quality and governance
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed large-scale data pipelines using Apache Beam and Apache Spark
+* Built and maintained data warehouses using Amazon Redshift and Google BigQuery
+* Implemented ETL processes using Informatica PowerCenter and AWS Glue
+* Collaborated with cross-functional teams to integrate data into business applications
+* Developed and maintained Python scripts using PySpark and Pandas
+
+Senior Data Analyst, DEF Startups (2015-2018)
+
+* Developed and maintained databases using MySQL and PostgreSQL
+* Designed and implemented data visualization dashboards using Tableau and Power BI
+* Created and maintained data quality and governance processes
+* Collaborated with stakeholders to identify business needs and develop data-driven solutions
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (DASCA)
+* Certified Apache Hadoop Developer, Hortonworks

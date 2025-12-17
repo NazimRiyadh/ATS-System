@@ -1,0 +1,59 @@
+here's a sample resume for thomas rice applying for the role of data engineer:
+
+thomas rice
+contact information:
+
+* email: [thomas.rice@email.com](mailto:thomas.rice@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/thomasrice
+
+summary:
+highly motivated and experienced data engineer with expertise in mlops, airflow, etl, big data, and spark. proven track record of designing, developing, and deploying scalable data systems to drive business insights. skilled in full-stack data engineering, with a strong passion for innovation and collaboration.
+
+technical skills:
+
+* programming languages: python, scala
+* data engineering tools: apache airflow, apache spark, apache beam
+* big data platforms: hadoop, spark, nosql databases (e.g. cassandra, hbase)
+* etl tools: apache beam, aws glue, informatica powercenter
+* mlops: tensorflow, pytorch, scikit-learn
+* data storage: relational databases (e.g. mysql, postgresql), nosql databases
+* operating systems: linux, windows, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and developed a scalable data architecture using apache airflow, spark, and hadoop to process 100m+ records per day
+* implemented a real-time etl pipeline using apache beam, kafka, and cassandra to support business analytics
+* collaborated with data scientists to deploy machine learning models using tensorflow and pytorch
+* mentored junior engineers to improve team productivity and knowledge sharing
+* contributed to the development of a cloud-agnostic data platform using aws and gcp
+
+data engineer, def startups (2015-2018)
+
+* built and maintained a data warehouse using informatica powercenter and oracle
+* designed and implemented a data pipeline using apache spark and hdfs to process 10m+ records per day
+* developed a data quality framework using python and apache beam to ensure data accuracy and completeness
+* worked closely with data analysts to provide data insights and support business decision-making
+
+education:
+
+* bachelor's degree in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified scrum master, scrum alliance (2018)
+
+projects:
+
+* developed a real-time anomaly detection system using apache spark, tensorflow, and cassandra
+* built a cloud-agnostic data platform using aws, gcp, and apache airflow
+* created a data visualization dashboard using tableau and python
+
+references:
+available upon request.
+
+i hope this helps! remember to tailor your resume to the specific job description and requirements, and highlight your unique skills and experiences.

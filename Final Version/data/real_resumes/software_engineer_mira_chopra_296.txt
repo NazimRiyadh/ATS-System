@@ -1,0 +1,60 @@
+mira chopra
+software engineer
+
+contact information:
+
+* email: [mira.chopra@email.com](mailto:mira.chopra@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/mirachopra
+
+summary:
+
+highly motivated and detail-oriented software engineer with 4+ years of experience in designing, developing, and deploying scalable software systems. skilled in a range of programming languages, including java, python, and javascript, with expertise in system design, algorithms, and data structures. proficient in rest apis, git, ci/cd, and microservices architecture. proven track record of delivering high-quality software solutions on time and on budget.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design and architecture: microservices, rest apis, soa
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, sorting, searching
+* development tools: git, jenkins, docker, kubernetes
+* cloud platforms: aws, azure
+* databases: mysql, mongodb
+
+professional experience:
+
+senior software engineer, abc corporation (2020-present)
+
+* designed and developed a scalable e-commerce platform using java, spring boot, and hibernate
+* implemented rest apis for payment gateway integration, using java and spring framework
+* collaborated with cross-functional teams to deploy the platform on aws, using docker and kubernetes
+* utilized git for version control and jenkins for ci/cd pipeline management
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+software engineer, def startups (2018-2020)
+
+* developed a real-time analytics dashboard using python, flask, and mongodb
+* designed and implemented a microservices-based architecture for the dashboard, using python and flask
+* collaborated with the qa team to identify and resolve bugs, using python and pytest
+* participated in code reviews and ensured adherence to coding standards and best practices
+* utilized git for version control and jenkins for ci/cd pipeline management
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+achievements:
+
+* certified java developer, oracle corporation (2019)
+* certified python developer, python institute (2020)
+* contributor, open source projects on github (2018-present)
+
+projects:
+
+* e-commerce platform, built using java, spring boot, and hibernate
+* real-time analytics dashboard, built using python, flask, and mongodb
+* microservices-based architecture, built using python, flask, and mongodb
+
+references:
+
+available upon request.

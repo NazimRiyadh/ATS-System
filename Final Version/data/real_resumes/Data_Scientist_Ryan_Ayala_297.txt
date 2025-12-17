@@ -1,0 +1,61 @@
+Here's a sample resume for Ryan Ayala:
+
+Ryan Ayala
+Contact Information:
+
+* Email: [ryan.ayala@email.com](mailto:ryan.ayala@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/ryanayala
+* GitHub: github.com/ryanayala
+
+Professional Summary:
+
+Highly motivated and detail-oriented Data Scientist with a strong background in Python, Statistics, and Machine Learning. Skilled in building and deploying predictive models, performing data visualization, and extracting insights from complex datasets. Proficient in TensorFlow and experienced in working with large datasets. Proven track record of delivering high-quality results and collaborating with cross-functional teams to drive business growth.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine Learning libraries: TensorFlow, Scikit-learn, Keras
+* Data Visualization tools: Matplotlib, Seaborn, Plotly
+* Statistics and Probability: Hypothesis testing, Confidence intervals, Bayesian inference
+* Operating Systems: Windows, Linux
+* Agile development methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Senior Data Scientist, ABC Company (2018-Present)
+
+* Led the development of predictive models for customer churn, resulting in a 25% reduction in churn rate
+* Collaborated with the product team to integrate machine learning models into the company's CRM system
+* Designed and implemented data pipelines to extract insights from customer data, resulting in a 30% increase in sales
+* Mentored junior data scientists and engineers to improve team-wide skills and knowledge
+
+Data Scientist, DEF Startups (2015-2018)
+
+* Built and deployed machine learning models for demand forecasting, resulting in a 15% reduction in inventory costs
+* Conducted statistical analysis to identify trends and correlations in customer behavior, informing product development decisions
+* Developed and maintained data visualizations to communicate insights to stakeholders
+* Collaborated with the engineering team to integrate machine learning models into the company's product
+
+Education:
+
+* Master of Science in Data Science, XYZ University (2015)
+	+ Coursework: Machine Learning, Deep Learning, Natural Language Processing, Data Mining
+	+ Thesis: "An Empirical Study of Deep Learning Methods for Image Classification"
+* Bachelor of Science in Statistics, ABC University (2013)
+
+Achievements:
+
+* Winner, Kaggle Competition: "Predicting Stock Prices with Deep Learning" (2017)
+	+ Developed and deployed a deep learning model to predict stock prices, achieving a 10% improvement over the baseline model
+* Author, "A Survey of Deep Learning Methods for Natural Language Processing" (2018)
+	+ Published a paper on the state-of-the-art in deep learning for NLP, highlighting the strengths and limitations of various methods
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2016)
+* Certified Scrum Master, Scrum Alliance (2018)
+
+References:
+
+Available upon request.

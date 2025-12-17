@@ -1,0 +1,63 @@
+here is a sample resume for carrie simpson, applying for the role of data engineer:
+
+carrie simpson
+contact information:
+
+* email: [carriesimpson@email.com](mailto:carriesimpson@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/carriesimpson
+* github: github.com/carriesimpson
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying scalable data architectures on cloud platforms. skilled in mlops, big data, and cloud computing. proficient in leading cross-functional teams to deliver high-quality data solutions. strong passion for innovation and staying up-to-date with the latest trends and technologies.
+
+technical skills:
+
+* programming languages: python, java, scala
+* cloud platforms: aws, gcp, azure
+* big data technologies: hadoop, spark, hive, pig
+* mlops: tensorflow, pytorch, scikit-learn, keras
+* data engineering tools: apache beam, airflow, luigi
+* operating systems: linux, windows
+* databases: relational (mysql, postgresql), nosql (mongodb, cassandra)
+* data visualization tools: tableau, power bi
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and developed large-scale data pipelines on aws using apache beam and apache spark
+* led a team of 3 data engineers to deploy a machine learning model on gcp using tensorflow and automl
+* collaborated with data scientists to develop and deploy data products using python and scikit-learn
+* developed and maintained a data warehouse on redshift using sql and data modeling techniques
+* implemented data quality checks and monitoring using apache airflow and prometheus
+
+data engineer, def startups (2015-2018)
+
+* built and deployed a data pipeline on azure using hadoop and spark
+* developed a data ingestion framework using apache kafka and flume
+* collaborated with data scientists to develop and deploy predictive models using r and scikit-learn
+* designed and implemented data visualizations using tableau and power bi
+* participated in on-call rotations to ensure 24/7 data system uptime
+
+education:
+
+* master of science in computer science, xyz university (2010-2012)
+* bachelor of science in computer science, abc university (2006-2010)
+
+certifications:
+
+* certified cloud engineer, aws (2019)
+* certified data scientist, google cloud (2018)
+* certified big data engineer, hortonworks (2017)
+
+projects:
+
+* developed a real-time data pipeline on aws using apache kafka and apache beam to process iot sensor data
+* built a machine learning model on gcp using tensorflow and automl to predict customer churn
+* designed and implemented a data warehousing solution on redshift using sql and data modeling techniques
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and highlight your unique skills and experiences.

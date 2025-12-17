@@ -1,0 +1,61 @@
+Here's a sample resume for Sherry Davis:
+
+Sherry Davis
+QA Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [sherry.davis@email.com](mailto:sherry.davis@email.com)
+* LinkedIn: linkedin.com/in/sherrydavisqa
+
+Summary:
+Highly motivated and detail-oriented QA Engineer with 5+ years of experience in manual testing, bug tracking, performance testing, and test case development. Proficient in using various testing tools and technologies to ensure high-quality software products. Strong analytical and problem-solving skills with excellent communication and teamwork abilities.
+
+Professional Experience:
+
+QA Engineer, ABC Corporation (2018-Present)
+
+* Conducted manual testing on web and mobile applications to identify bugs and defects
+* Developed and executed test cases to ensure coverage of all functional requirements
+* Used JIRA and TestRail to track and manage bugs, test cases, and test runs
+* Collaborated with development team to reproduce and resolve defects
+* Conducted performance testing to ensure optimal system performance
+* Participated in project planning and estimation to ensure testing efforts were aligned with project goals
+
+QA Tester, DEF Solutions (2015-2018)
+
+* Tested software applications to identify bugs and defects
+* Created and executed test cases to ensure coverage of all functional requirements
+* Used Bugzilla and TestLink to track and manage bugs and test cases
+* Collaborated with development team to reproduce and resolve defects
+* Participated in project planning and estimation to ensure testing efforts were aligned with project goals
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Skills:
+
+* Manual testing
+* Bug tracking (JIRA, Bugzilla)
+* Performance testing (LoadRunner, JMeter)
+* Test case development (TestRail, TestLink)
+* Agile methodologies (Scrum, Kanban)
+* Version control systems (Git, SVN)
+* Operating Systems (Windows, Linux, macOS)
+
+Achievements:
+
+* Successfully reduced defect density by 30% in a 6-month period through effective testing and bug tracking
+* Developed and implemented a test automation framework using Selenium WebDriver, resulting in a 50% reduction in testing time
+* Collaborated with cross-functional teams to deliver high-quality software products on time and within budget
+* Received recognition for outstanding contributions to QA team and company-wide quality initiatives
+
+Certifications:
+
+* Certified Associate in Software Testing (CAST), International Software Testing Qualifications Board (ISTQB)
+* Certified Scrum Master (CSM), Scrum Alliance
+
+References:
+Available upon request.

@@ -1,0 +1,58 @@
+Here's a sample resume for Ashley Hanson:
+
+Ashley Hanson
+Contact Information:
+
+* Email: [ashley.hanson@email.com](mailto:ashley.hanson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/ashleyhanson
+* GitHub: github.com/ashleyhanson
+
+Professional Summary:
+Highly motivated and experienced AI researcher with a strong background in Generative Adversarial Networks (GANs), Reinforcement Learning, and Computer Vision. Proven track record of developing innovative solutions to complex problems, with a focus on applying AI to real-world applications. Skilled in designing and implementing AI systems that drive business value and improve decision-making.
+
+Technical Skills:
+
+* Programming languages: Python, TensorFlow, PyTorch
+* Deep learning frameworks: TensorFlow, PyTorch, Keras
+* Reinforcement learning libraries: Gym, Stable Baselines
+* Computer vision libraries: OpenCV, Pillow
+* Operating Systems: Linux, Windows
+* Cloud platforms: AWS, Google Cloud
+
+Education:
+
+* Ph.D. in Computer Science, Stanford University (2018-2022)
+	+ Dissertation: "Generative Adversarial Networks for Image Generation and Manipulation"
+* M.Sc. in Computer Science, University of California, Berkeley (2015-2017)
+	+ Thesis: "Reinforcement Learning for Robotics"
+* B.Sc. in Computer Science, University of Michigan (2010-2014)
+
+Research Experience:
+
+* AI Researcher, Alphabet (2022-Present)
+	+ Developed and implemented GAN-based models for image generation and manipulation
+	+ Collaborated with cross-functional teams to apply AI solutions to real-world problems
+	+ Published several papers in top-tier conferences, including NIPS and ICLR
+* Research Intern, Google (Summer 2020)
+	+ Worked on a project to develop a reinforcement learning-based robot control system
+	+ Contributed to the development of a new reinforcement learning library
+* Teaching Assistant, Stanford University (2018-2020)
+	+ Taught computer vision and machine learning courses to undergraduate and graduate students
+	+ Graded assignments and exams, and provided individualized feedback to students
+
+Achievements:
+
+* Best Paper Award, NIPS 2020
+* Second Place, Reinforcement Learning Competition, IJCAI 2019
+* Published 10+ papers in top-tier conferences and journals, including NIPS, ICLR, and JMLR
+* Developed and open-sourced several AI libraries and tools, including a GAN-based image generation library
+
+Projects:
+
+* GAN-based Image Generation, developed a GAN-based model for generating realistic images of objects
+* Reinforcement Learning for Robotics, developed a reinforcement learning-based robot control system
+* Computer Vision for Medical Imaging, developed a computer vision-based system for analyzing medical images
+
+References:
+Available upon request.

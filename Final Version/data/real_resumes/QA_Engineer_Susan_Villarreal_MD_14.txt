@@ -1,0 +1,66 @@
+Here's a sample resume for Susan Villarreal MD, a QA Engineer candidate:
+
+Susan Villarreal, MD
+Contact Information:
+
+* Address: [Insert Address]
+* Phone: [Insert Phone Number]
+* Email: [Insert Email]
+* LinkedIn: [Insert LinkedIn Profile]
+
+Summary:
+Highly skilled and detail-oriented QA Engineer with 5+ years of experience in manual and automated testing, specializing in Selenium and performance testing. Proven track record of identifying and reporting defects, improving software quality, and collaborating with cross-functional teams to drive product releases. Possess excellent problem-solving skills, attention to detail, and a passion for delivering high-quality products.
+
+Professional Experience:
+
+QA Engineer, XYZ Corporation (2018-Present)
+
+* Design, develop, and execute manual and automated test cases using Selenium and other testing tools to ensure software quality and reliability
+* Collaborate with development teams to identify and prioritize testing needs, providing recommendations for test automation and manual testing strategies
+* Identify, report, and track defects using bug tracking tools (JIRA, Bugzilla) to ensure timely resolution and minimal business impact
+* Conduct performance testing to ensure software meets performance and scalability requirements
+* Develop and maintain test documentation, including test plans, test cases, and test scripts
+* Participate in retrospectives and continuous improvement initiatives to enhance testing processes and methodologies
+
+Senior QA Engineer, ABC Company (2015-2018)
+
+* Led manual and automated testing efforts for multiple software releases, ensuring high-quality deliverables and on-time product launches
+* Developed and maintained comprehensive test plans, test cases, and test scripts using Selenium and other testing tools
+* Collaborated with development teams to identify and prioritize testing needs, providing recommendations for test automation and manual testing strategies
+* Conducted performance testing to ensure software meets performance and scalability requirements
+* Participated in code reviews and provided feedback to development teams to ensure high-quality code
+
+Education:
+
+* Doctor of Medicine (MD), [University Name], [Graduation Date]
+* Bachelor of Science in Computer Science, [University Name], [Graduation Date]
+
+Certifications:
+
+* Certified Software Test Engineer (CSTE), [Certification Date]
+* Certified Associate in Software Testing (CAST), [Certification Date]
+
+Technical Skills:
+
+* Manual testing
+* Automated testing (Selenium, Appium)
+* Bug tracking (JIRA, Bugzilla)
+* Performance testing (LoadRunner, JMeter)
+* Test management (TestRail, PractiTest)
+* Version control (Git, SVN)
+* Agile methodologies (Scrum, Kanban)
+
+Achievements:
+
+* Successfully identified and reported 500+ defects during a 6-month product release cycle, resulting in a 20% reduction in defect density
+* Developed and implemented a comprehensive test automation framework using Selenium, reducing manual testing effort by 30%
+* Collaborated with development teams to implement a continuous integration/continuous deployment (CI/CD) pipeline, resulting in a 50% reduction in build time and a 25% reduction in deployment time
+* Participated in a company-wide quality initiative, resulting in a 15% reduction in defect density and a 20% improvement in customer satisfaction
+
+Professional Memberships:
+
+* International Software Testing Qualifications Board (ISTQB)
+* Software Development Metrics Association (SDMA)
+
+References:
+Available upon request.

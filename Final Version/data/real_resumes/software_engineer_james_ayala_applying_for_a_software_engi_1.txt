@@ -1,0 +1,57 @@
+here's a sample resume for james ayala applying for a software engineer position:
+
+james ayala
+contact information:
+
+* email: [james.ayala@email.com](mailto:james.ayala@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/jamesayala
+* github: github.com/jamesayala
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in algorithms, data structures, and system design. proficient in a range of programming languages and technologies. strong passion for solving complex problems and delivering high-quality software solutions.
+
+technical skills:
+
+* programming languages: java, python, c++, javascript
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, greedy, dynamic programming, backtracking
+* system design: microservices, restful apis, web applications, cloud computing
+* development frameworks: spring, django, react
+* databases: mysql, mongodb, postgresql
+* operating systems: windows, linux, macos
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+* software engineer, abc company (2020-present)
+	+ designed and developed multiple features for a high-traffic web application using java, spring, and react
+	+ collaborated with cross-functional teams to identify and prioritize project requirements
+	+ implemented efficient algorithms and data structures to optimize system performance
+	+ participated in code reviews and ensured adherence to coding standards
+* junior software engineer, def startups (2018-2020)
+	+ contributed to the development of a cloud-based saas application using python, django, and mongodb
+	+ worked on automating testing and deployment processes using ansible and jenkins
+	+ assisted in the design and implementation of a scalable system architecture
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, software engineering, database systems
+
+projects:
+
+* personal projects:
+	+ developed a web scraper using python and beautifulsoup to extract data from a popular e-commerce website
+	+ built a simple video streaming application using react, node.js, and mongodb
+* competitions:
+	+ participated in the leetcode coding challenge and achieved a top-100 ranking
+	+ won a local hackathon for a project that used machine learning to predict stock prices
+
+certifications:
+
+* certified scrum master, scrum alliance (2020)
+* certified java developer, oracle corporation (2019)
+
+references:
+available upon request.

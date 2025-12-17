@@ -1,0 +1,59 @@
+Here's a professional resume for Travis Simpson III:
+
+Travis Simpson III
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [travis.simpson@email.com](mailto:travis.simpson@email.com)
+* LinkedIn: linkedin.com/in/travissimpsoniii
+* GitHub: github.com/travissimpsoniii
+
+Professional Summary:
+Highly skilled Data Engineer with expertise in MLOps, ETL, Big Data, Cloud Platforms, and Data Warehousing. Proven track record of delivering scalable and efficient data solutions using Airflow, AWS, and GCP. Strong passion for leveraging data to drive business insights and growth.
+
+Technical Skills:
+
+* Programming languages: Python, Java, SQL
+* Data Engineering tools: Airflow, Apache Beam, Apache Spark
+* Cloud Platforms: AWS, GCP, Azure
+* Data Warehousing: Amazon Redshift, Google BigQuery
+* Big Data: Hadoop, Spark, NoSQL databases
+* MLOps: TensorFlow, PyTorch, Scikit-learn
+* ETL: Apache NiFi, AWS Glue
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2019-Present)
+
+* Designed and implemented scalable data pipelines using Airflow, Apache Beam, and Apache Spark to process large datasets
+* Developed and deployed machine learning models using TensorFlow and PyTorch to drive business insights
+* Collaborated with cross-functional teams to design and implement data warehousing solutions using Amazon Redshift and Google BigQuery
+* Ensured data quality and integrity by implementing data validation and quality control processes
+
+Data Engineer, DEF Startups (2017-2019)
+
+* Built and maintained ETL pipelines using Apache NiFi and AWS Glue to process customer data
+* Designed and implemented data visualizations using Tableau and Power BI to drive business insights
+* Collaborated with data scientists to develop and deploy machine learning models using Scikit-learn and TensorFlow
+* Ensured data security and compliance by implementing data encryption and access controls
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2017)
+
+Achievements:
+
+* Successfully implemented a data pipeline using Airflow and Apache Beam that processed 10x more data in 50% less time, resulting in a 25% reduction in data processing costs
+* Developed and deployed a machine learning model using TensorFlow that improved customer churn prediction accuracy by 30%
+* Collaborated with cross-functional teams to design and implement a data warehousing solution using Amazon Redshift that reduced data query time by 90%
+* Presented a paper on "MLOps Best Practices" at the annual Data Science Conference, which received a standing ovation
+
+Certifications:
+
+* AWS Certified Developer - Associate
+* Google Cloud Certified - Professional Data Engineer
+* Certified Data Engineer, Data Science Council of America (DASCA)
+
+References:
+Available upon request.

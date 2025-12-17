@@ -1,0 +1,50 @@
+diya rao
+contact information:
+
+* email: [diya.rao@email.com](mailto:diya.rao@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/diya-rao
+
+summary:
+highly motivated and detail-oriented data scientist with a strong background in machine learning, statistics, and data visualization. proficient in python, sql, and various machine learning libraries. proven ability to extract insights from complex data sets and communicate findings effectively to stakeholders.
+
+technical skills:
+
+* programming languages: python, r
+* machine learning libraries: scikit-learn, tensorflow
+* data visualization tools: matplotlib, seaborn, tableau
+* databases: mysql, postgresql
+* operating systems: windows, linux
+* statistical analysis: hypothesis testing, confidence intervals, regression analysis
+* a/b testing: split-testing, multivariate testing
+
+professional experience:
+
+data scientist, abc analytics (2020-present)
+
+* developed and deployed multiple machine learning models using scikit-learn and tensorflow to predict user behavior and improve customer engagement
+* collaborated with cross-functional teams to design and implement a/b testing experiments to measure the impact of design changes on user behavior
+* built and maintained complex sql queries to extract insights from large datasets
+* created interactive dashboards using tableau to visualize key performance indicators (kpis) and communicate findings to stakeholders
+* worked with stakeholders to identify business problems and develop data-driven solutions
+
+senior analyst, def insights (2018-2020)
+
+* conducted statistical analysis and machine learning modeling to identify trends and patterns in customer data
+* developed and implemented data visualization tools using matplotlib and seaborn to communicate findings to stakeholders
+* collaborated with data engineers to design and implement data pipelines using apache beam and apache spark
+* worked with product teams to develop data-driven product recommendations and improve customer experience
+
+education:
+
+* master of science in data science, xyz university (2018)
+	+ coursework: machine learning, natural language processing, computer vision, data mining, statistical learning theory
+	+ thesis: "applying machine learning to predict customer churn"
+* bachelor of science in mathematics, abc university (2016)
+	+ coursework: linear algebra, calculus, probability and statistics, mathematical statistics
+
+achievements:
+
+* winner, abc analytics hackathon (2020): developed a predictive model using scikit-learn and tensorflow to predict customer churn, resulting in a 20% reduction in churn rate
+* featured speaker, def insights conference (2019): presented on "applying machine learning to real-world problems" to an audience of industry professionals
+* published research paper, journal of machine learning research (2018): co-authored a paper on "applying deep learning to predict customer behavior" in a top-tier machine learning journal

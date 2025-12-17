@@ -1,0 +1,68 @@
+here's a sample resume for danielle jackson applying for the role of data engineer:
+
+danielle jackson
+contact information:
+
+* email: [danielle.jackson@email.com](mailto:danielle.jackson@email.com)
+* phone: (555) 555-5555
+* linkedin: linkedin.com/in/daniellejackson
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using mlops, etl, and spark technologies. proven track record of improving data quality, reducing latency, and increasing data-driven decision-making capabilities.
+
+technical skills:
+
+* mlops:
+	+ model deployment using tensorflow serving and aws sagemaker
+	+ model monitoring and logging using prometheus and grafana
+	+ model serving using flask and restful apis
+* etl:
+	+ data ingestion using apache nifi and apache beam
+	+ data processing using apache spark and hadoop
+	+ data warehousing using amazon redshift and snowflake
+* spark:
+	+ apache spark development using scala and python
+	+ spark sql and dataframes
+	+ spark streaming and dstream
+* programming languages:
+	+ python (2.7, 3.x)
+	+ scala
+	+ java
+* databases:
+	+ relational databases (mysql, postgresql)
+	+ nosql databases (cassandra, mongodb)
+* operating systems:
+	+ linux (ubuntu, centos)
+	+ windows
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* designed and developed a scalable data pipeline using apache spark and apache beam to process 10tb of customer data per day
+* implemented model deployment using tensorflow serving and aws sagemaker to improve model serving latency by 50%
+* collaborated with cross-functional teams to improve data quality and reduce data latency by 30%
+* mentored junior engineers on spark and etl development
+
+data analyst, def company (2015-2018)
+
+* developed etl processes using apache nifi and apache beam to extract and transform data from multiple sources
+* built data visualizations using tableau and power bi to improve business decision-making
+* collaborated with business stakeholders to understand data requirements and improve data quality
+
+education:
+
+* bachelor's degree in computer science, xyz university (2015)
+
+certifications:
+
+* certified data engineer, data science council of america (2019)
+* certified apache spark developer, databricks (2018)
+
+projects:
+
+* developed a spark-based recommendation engine using collaborative filtering and matrix factorization
+* built a tensorflow-based machine learning model for image classification using convolutional neural networks
+* created a data pipeline using apache nifi and apache beam to process and analyze iot sensor data
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experiences and the job you're applying for.

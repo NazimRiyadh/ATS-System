@@ -1,0 +1,60 @@
+Here's a sample resume for Sarah Mullins, a DevOps Engineer candidate:
+
+Sarah Mullins
+DevOps Engineer
+
+Contact Information:
+
+* Email: [smullins@email.com](mailto:smullins@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/sarahmullins
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in CI/CD, containerization, and automation. Proven expertise in implementing scalable and efficient infrastructure solutions using Docker, Ansible, and Monitoring Tools. Skilled in improving software release cycles and ensuring high-quality software delivery.
+
+Technical Skills:
+
+* CI/CD Tools: Jenkins, GitLab CI/CD, CircleCI
+* Containerization: Docker, Kubernetes
+* Automation: Ansible, Puppet
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Programming Languages: Python, Bash, Ruby
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2018-Present)
+
+* Designed and implemented a containerized CI/CD pipeline using Docker, Jenkins, and GitLab CI/CD, resulting in a 30% reduction in software release cycle time
+* Developed and maintained Ansible playbooks for automating infrastructure deployments and configuration management
+* Implemented monitoring tools such as Prometheus and Grafana to provide real-time monitoring and alerting for production applications
+* Collaborated with cross-functional teams to identify and resolve production issues, ensuring high uptime and availability
+* Provided training and support to development teams on DevOps practices, CI/CD tools, and containerization
+
+Junior DevOps Engineer, DEF Startup (2015-2018)
+
+* Assisted in implementing a scalable CI/CD pipeline using Jenkins and GitLab CI/CD
+* Developed and maintained Python scripts for automating infrastructure tasks and monitoring tools
+* Collaborated with development teams to identify and resolve production issues, ensuring high uptime and availability
+* Participated in on-call rotations to provide 24/7 support for production applications
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified DevOps Engineer, DevOps Institute (2020)
+* Certified Ansible Engineer, Red Hat (2019)
+
+Achievements:
+
+* Recipient of the ABC Company's DevOps Engineer of the Year Award (2020)
+* Featured speaker at the 2020 DevOps Conference, presenting on "Containerization and CI/CD Pipelines"
+* Contributed to the development of the open-source Ansible module for Docker, resulting in improved automation and efficiency for users
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your own resume to fit your specific experience and the job you're applying for. Good luck with your job search!

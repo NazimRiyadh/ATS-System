@@ -1,0 +1,54 @@
+aarav gupta
+contact information:
+
+* email: [aagupta@email.com](mailto:aagupta@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/aaravgupta
+* github: github.com/aaravgupta
+
+summary:
+highly motivated and detail-oriented data engineer with 4+ years of experience in designing, building, and maintaining large-scale data systems. skilled in python, sql, etl, airflow, spark, data modeling, aws, docker, kubernetes, and data warehousing. proven track record of delivering high-quality solutions that meet business requirements.
+
+technical skills:
+
+* programming languages: python, sql
+* data processing: etl (extract, transform, load), airflow
+* big data: apache spark, hadoop
+* data modeling: entity-relationship modeling, database design
+* cloud platform: aws (ec2, s3, rds, redshift)
+* containerization: docker
+* orchestration: kubernetes
+* data warehousing: data modeling, etl, data visualization
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed and implemented a large-scale data pipeline using python, airflow, and spark to process 10tb of data daily
+* built and maintained a data warehouse using aws redshift, etl using aws glue
+* collaborated with cross-functional teams to develop data models and data visualizations to support business decision-making
+* implemented docker and kubernetes to containerize and orchestrate data processing tasks
+
+senior data analyst, def company (2015-2018)
+
+* developed and maintained complex sql queries to analyze large datasets
+* created data visualizations using tableau to present insights to stakeholders
+* worked with data engineers to design and implement etl processes
+* collaborated with product teams to develop data-driven product features
+
+education:
+
+* master of science in computer science, xyz university (2015)
+	+ coursework: data mining, database systems, computer networks, software engineering
+	+ thesis: "design and implementation of a real-time data processing system using apache spark"
+* bachelor of technology in computer science, abc university (2013)
+	+ coursework: data structures, algorithms, computer systems, operating systems
+
+achievements:
+
+* awarded "best data engineer" at abc corporation for delivering high-quality data solutions that met business requirements
+* published a research paper on "real-time data processing using apache spark" at the international conference on data science and engineering
+* certified in aws certified developer - associate and certified in certified data engineer
+
+references:
+available upon request.

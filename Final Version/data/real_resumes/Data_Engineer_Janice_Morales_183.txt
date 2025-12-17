@@ -1,0 +1,63 @@
+Here is a professional resume for Janice Morales, a Data Engineer candidate:
+
+Janice Morales
+Data Engineer
+
+Contact Information:
+
+* Email: [janice.morales@email.com](mailto:janice.morales@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/janicemorales
+
+Summary:
+Highly motivated and skilled Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data processing systems using Airflow, ETL, Big Data, and Cloud Platforms. Proven track record of delivering high-quality solutions that drive business growth and improve operational efficiency. Proficient in Spark, Scala, Python, and SQL, with excellent problem-solving skills and ability to work in a fast-paced environment.
+
+Technical Skills:
+
+* Airflow ( DAGs, Operators, Sensors)
+* ETL (Data Warehousing, Data Integration)
+* Big Data (Hadoop, Spark, NoSQL databases)
+* Cloud Platforms (AWS, GCP, Azure)
+* Spark (Scala, Python)
+* Python (Data Science, Machine Learning)
+* SQL (Database Design, Query Optimization)
+* Agile Methodologies (Scrum, Kanban)
+* Version Control (Git, SVN)
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2020-Present)
+
+* Design and develop scalable data processing systems using Airflow, ETL, and Big Data technologies to support business intelligence and data science initiatives
+* Collaborate with cross-functional teams to identify data requirements and develop data pipelines to meet business needs
+* Develop and maintain ETL processes using Python and Spark to load data into data warehouses and data lakes
+* Work with cloud platforms (AWS, GCP, Azure) to design and deploy scalable data processing systems
+* Mentor junior engineers and provide technical guidance to ensure high-quality code and adherence to best practices
+
+Data Engineer, DEF Startups (2018-2020)
+
+* Designed and developed data processing systems using Airflow, ETL, and Spark to support data-driven decision-making
+* Worked with big data technologies (Hadoop, NoSQL databases) to develop scalable data processing systems
+* Collaborated with data scientists to develop data pipelines to support machine learning models
+* Developed and maintained data quality and data governance frameworks to ensure data integrity and compliance
+* Participated in Agile development teams using Scrum and Kanban methodologies
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Scrum Master, Scrum Alliance (2020)
+
+Achievements:
+
+* Improved data processing time by 30% by optimizing ETL processes using Spark and Python
+* Designed and deployed a scalable data processing system using Airflow and Cloud Platforms to support business intelligence and data science initiatives
+* Developed and maintained a data quality and governance framework to ensure data integrity and compliance
+
+References:
+Available upon request.
+
+Note: This is just an example, and you should customize the resume to fit your specific experience and the job you are applying for.

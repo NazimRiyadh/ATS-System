@@ -1,0 +1,59 @@
+Here's a sample resume for Ellen Pope DDS, a DevOps Engineer candidate:
+
+Ellen Pope DDS
+DevOps Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [ellen.pope@gmail.com](mailto:ellen.pope@gmail.com)
+* LinkedIn: linkedin.com/in/ellenpope
+* GitLab: gitlab.com/ellenpope
+
+Professional Summary:
+Highly skilled DevOps Engineer with a strong background in software development, dental practice, and IT infrastructure. Proven expertise in Docker, Kubernetes, Infrastructure as Code, and Cloud Platforms. Passionate about delivering high-quality software solutions, driving innovation, and collaborating with cross-functional teams.
+
+Technical Skills:
+
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, Ansible
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Agile Methodologies: Scrum, Kanban
+* Programming Languages: Python, Java, C++
+* Operating Systems: Windows, Linux, macOS
+* Networking: TCP/IP, DNS, VLANs
+
+Achievements:
+
+* Automated Deployment of Dental Practice Management Software: Designed and implemented a Docker-based CI/CD pipeline to automate the deployment of dental practice management software, reducing deployment time by 85%.
+* Kubernetes Clustering for Scalable Applications: Successfully designed and deployed a Kubernetes cluster to support scalable applications, resulting in a 99.99% uptime and improved application performance.
+* Infrastructure as Code for Cloud Migration: Implemented Terraform to automate the migration of infrastructure to the cloud, reducing manual errors and improving consistency across environments.
+* Cloud Security and Compliance: Implemented a cloud security framework to ensure compliance with industry regulations, resulting in a 95% reduction in security incidents.
+
+Professional Experience:
+
+DevOps Engineer, Smile Dental Practice (2018-Present)
+
+* Designed and implemented a Docker-based CI/CD pipeline to automate the deployment of dental practice management software.
+* Collaborated with the development team to identify and resolve technical issues, ensuring timely delivery of software releases.
+* Implemented Kubernetes clustering to support scalable applications, resulting in improved application performance and uptime.
+
+Dental Practice Owner/Dentist, Smile Dental Practice (2015-2018)
+
+* Managed a dental practice, including patient care, staff supervision, and business operations.
+* Developed and implemented software solutions to automate practice management tasks, improving efficiency and reducing costs.
+
+Education:
+
+* DDS, University of California, Los Angeles (2015)
+* Bachelor of Science in Computer Science, University of California, Los Angeles (2012)
+
+Certifications:
+
+* Certified Scrum Master (CSM), Scrum Alliance (2019)
+* Certified Cloud Practitioner, AWS (2018)
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

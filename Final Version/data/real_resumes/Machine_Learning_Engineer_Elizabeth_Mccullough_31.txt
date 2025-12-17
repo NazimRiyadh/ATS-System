@@ -1,0 +1,61 @@
+Here is a professional resume for Elizabeth Mccullough:
+
+Elizabeth Mccullough
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [elizabeth.mccullough@email.com](mailto:elizabeth.mccullough@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/elizabethmccullough
+* GitHub: github.com/emccullough
+
+Summary:
+Highly motivated Machine Learning Engineer with 5+ years of experience in developing and deploying scalable and efficient machine learning models using Python, Scikit-learn, TensorFlow, and PyTorch. Proven track record of improving model performance through hyperparameter tuning and expertise in implementing robust and reliable machine learning pipelines. Proficient in working with large datasets and collaborating with cross-functional teams to deliver high-quality solutions.
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Company (2018-Present)
+
+* Designed and developed multiple machine learning models using Scikit-learn, TensorFlow, and PyTorch to improve predictive accuracy and reduce operational costs
+* Implemented hyperparameter tuning using GridSearchCV, RandomizedSearchCV, and Bayesian Optimization techniques to optimize model performance
+* Collaborated with data scientists and engineers to integrate machine learning models into production environments
+* Developed and maintained a robust and scalable data pipeline using Apache Beam and Apache Spark
+* Worked with cross-functional teams to deploy models to production environments using Docker and Kubernetes
+
+Machine Learning Engineer, DEF Startup (2015-2018)
+
+* Developed and deployed multiple machine learning models using Scikit-learn and TensorFlow to improve product recommendation and customer segmentation
+* Collaborated with data scientists to design and implement A/B testing experiments to measure model performance
+* Implemented data preprocessing and feature engineering techniques using Pandas and NumPy
+* Worked with the engineering team to integrate machine learning models into the product using Flask and Django
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+* Master of Science in Machine Learning, ABC University (2018)
+
+Skills:
+
+* Programming languages: Python, R
+* Machine learning frameworks: Scikit-learn, TensorFlow, PyTorch
+* Hyperparameter tuning: GridSearchCV, RandomizedSearchCV, Bayesian Optimization
+* Data preprocessing: Pandas, NumPy, Apache Beam
+* Model deployment: Docker, Kubernetes, Flask, Django
+* Operating Systems: Linux, Windows
+* Agile Methodologies: Scrum, Kanban
+
+Achievements:
+
+* Improved model accuracy by 20% through hyperparameter tuning and data preprocessing techniques
+* Reduced model training time by 50% using GPU acceleration and parallel processing
+* Developed and deployed multiple machine learning models to production environments using Docker and Kubernetes
+* Collaborated with cross-functional teams to deliver high-quality solutions and meet business objectives
+
+Certifications:
+
+* Certified Scikit-learn Developer, Scikit-learn Foundation (2019)
+* Certified TensorFlow Developer, TensorFlow Foundation (2020)
+
+References:
+Available upon request.

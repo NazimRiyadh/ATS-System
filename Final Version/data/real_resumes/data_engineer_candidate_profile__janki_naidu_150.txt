@@ -1,0 +1,39 @@
+**candidate profile: janki naidu**
+
+**interview details:**
+
+* date: [insert date]
+* role: data engineer
+* interviewer: [insert name]
+
+**summary:**
+
+janki naidu is a highly motivated and enthusiastic candidate with a strong foundation in computer science and data analysis. during the interview, she demonstrated excellent problem-solving skills, attention to detail, and effective communication. however, her skills and experience did not fully align with the requirements for the data engineer role.
+
+**skills and experience:**
+
+* programming languages: strong proficiency in python, java, and c++. however, she lacks experience with sql, which is a critical requirement for the role.
+* data analysis: janki has experience with data visualization tools like tableau and power bi, but she is not familiar with data warehousing concepts, etl processes, or big data technologies (hadoop, spark).
+* database administration: she has worked with relational databases, but her experience with database design, schema optimization, and performance tuning is limited.
+* cloud services: janki is not familiar with cloud platforms like aws or azure, which are essential for the data engineer role.
+* logics and structures: her experience with logics and structures, such as sql, is limited, and she struggled to grasp the concepts of indexing, partitioning, and clustering.
+
+**concerns raised during the interview:**
+
+* difficulty with certain tasks: janki struggled with tasks that required expertise in data warehousing, etl processes, and big data technologies.
+* lack of familiarity with specific tools or technologies: she was not familiar with cloud services, database administration, or advanced data analysis tools like spark.
+* limited experience with specific languages: janki's experience with sql is limited, which raised concerns about her ability to design and optimize databases.
+
+**potential for growth:**
+
+despite the gaps in her skills and experience, janki demonstrated a strong desire to learn and grow. she was enthusiastic about the opportunity to work in data engineering and was eager to develop new skills. with further training and exposure to the required technologies, janki has the potential to become a competent data engineer.
+
+**recommendations:**
+
+* provide janki with training and mentorship in data warehousing, etl processes, big data technologies, and cloud services.
+* offer her opportunities to work on projects that require expertise in database administration, logics, and structures.
+* encourage her to develop her skills in sql, data modeling, and database design.
+
+**conclusion:**
+
+janki naidu is a talented candidate with a strong foundation in computer science and data analysis. while her skills and experience did not fully align with the requirements for the data engineer role, she has the potential to grow and develop into a competent engineer with the right training and exposure.

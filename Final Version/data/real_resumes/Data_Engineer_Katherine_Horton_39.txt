@@ -1,0 +1,59 @@
+Here's a sample resume for Katherine Horton:
+
+Katherine Horton
+Contact Information:
+
+* Email: [katherine.horton@email.com](mailto:katherine.horton@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/katherinehorton
+* GitHub: github.com/katherinehorton
+
+Summary:
+Highly motivated and experienced Data Engineer with a strong background in MLOps, Airflow, ETL, Big Data, Cloud Platforms, and Data Warehousing. Proven track record of delivering scalable and efficient data solutions on cloud-based platforms. Skilled in designing and implementing data pipelines, data warehousing, and machine learning workflows. Seeking a challenging role that leverages my expertise in data engineering to drive business growth and innovation.
+
+Technical Skills:
+
+* Programming languages: Python, SQL, Java
+* Data Engineering: Airflow, Apache Beam, Apache Spark, Apache Kafka
+* Cloud Platforms: AWS, GCP, Azure
+* Big Data: Hadoop, Spark, NoSQL databases (e.g. Cassandra, MongoDB)
+* Data Warehousing: Snowflake, Redshift, BigQuery
+* Machine Learning: TensorFlow, scikit-learn, PyTorch
+* Operating Systems: Linux, Windows
+* Collaboration tools: Git, Jira, Confluence
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a data pipeline using Airflow and Apache Beam to process 10TB of data daily, resulting in a 30% reduction in data processing time.
+* Built and deployed a cloud-based data warehouse using Snowflake, providing real-time analytics to business stakeholders.
+* Collaborated with the machine learning team to develop and deploy a predictive model using TensorFlow and scikit-learn, resulting in a 25% increase in sales.
+* Mentored junior engineers on data engineering best practices and cloud platform utilization.
+
+Data Scientist, DEF Startup (2015-2018)
+
+* Developed and deployed a data pipeline using Apache Spark and Kafka to process 1TB of data daily, resulting in a 40% reduction in data processing time.
+* Built and maintained a data warehouse using Redshift, providing insights to business stakeholders.
+* Collaborated with the development team to integrate data into the company's product, resulting in a 20% increase in user engagement.
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015)
+* Bachelor of Science in Computer Science, ABC University (2012)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Institute (2019)
+* Certified Cloud Developer, AWS (2018)
+
+Achievements:
+
+* Recipient of the ABC Corporation Data Engineer of the Year Award (2020)
+* Published a research paper on "Designing Scalable Data Pipelines using Airflow and Apache Beam" in the Journal of Data Engineering (2020)
+* Organizer of the XYZ University Data Science Conference (2019)
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Let me know if you'd like me to make any changes.

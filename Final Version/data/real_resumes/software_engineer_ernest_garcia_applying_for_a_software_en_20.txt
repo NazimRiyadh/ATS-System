@@ -1,0 +1,52 @@
+here's a sample resume for ernest garcia applying for a software engineer position:
+
+ernest garcia
+contact information:
+
+* email: [ernest.garcia@email.com](mailto:ernest.garcia@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/ernestgarcia
+* github: github.com/ernestgarcia
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in python, algorithms, data structures, and system design. proficient in developing scalable and efficient software solutions. strong problem-solving skills and experience working with collaborative teams.
+
+technical skills:
+
+* programming languages: python, c++, java
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting, searching, graph algorithms, dynamic programming
+* system design: microservices architecture, containerization (docker), orchestration (kubernetes)
+* development frameworks: flask, django
+* databases: mysql, postgresql
+* operating systems: windows, linux, macos
+
+professional experience:
+
+* software engineer, abc company (2020-present)
+	+ developed multiple features for a cloud-based application using python and flask
+	+ collaborated with cross-functional teams to design and implement scalable system architecture
+	+ participated in code reviews and ensured high-quality code standards
+* intern, def company (summer 2019)
+	+ contributed to the development of a machine learning model using python and scikit-learn
+	+ assisted in testing and debugging code to ensure functionality and performance
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer architecture, operating systems, database systems
+
+projects:
+
+* personal project: developed a web scraper using python and beautifulsoup to extract data from a website
+* github open source contributions: contributed to multiple open-source projects on github, including a python library for natural language processing
+
+certifications/awards:
+
+* certified python programmer, python institute (2020)
+* recipient of the xyz university computer science award (2019)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experiences and the job you're applying for.

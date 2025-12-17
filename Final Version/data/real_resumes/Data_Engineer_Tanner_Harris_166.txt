@@ -1,0 +1,59 @@
+Here is a professional resume for Tanner Harris:
+
+Tanner Harris
+Data Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [tanner.harris@email.com](mailto:tanner.harris@email.com)
+* LinkedIn: linkedin.com/in/tannerharris
+* GitHub: github.com/tannerharris
+
+Professional Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines and architectures. Skilled in MLOps, ETL, Big Data, Cloud Platforms, Spark, and Data Warehousing. Proven track record of delivering high-quality solutions that meet business requirements and drive data-driven decision making.
+
+Technical Skills:
+
+* Programming languages: Python, Scala, Java
+* Data Engineering tools: Apache Spark, Apache Kafka, Apache Beam
+* Cloud Platforms: AWS, GCP, Azure
+* Data Warehousing: Amazon Redshift, Google BigQuery
+* MLOps: TensorFlow, PyTorch, scikit-learn
+* ETL: Apache NiFi, AWS Glue
+* Big Data: Hadoop, NoSQL databases (e.g. Cassandra, MongoDB)
+* Operating Systems: Linux, Windows
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2020-Present)
+
+* Designed and developed a scalable ETL pipeline using Apache Beam and BigQuery to process 10TB of data per day
+* Built a data lake on AWS S3 using Apache Spark and Glue to store and process 100TB of data
+* Implemented a machine learning pipeline using TensorFlow and scikit-learn to predict customer churn
+* Collaborated with cross-functional teams to develop and deploy data-driven features that increased revenue by 15%
+
+Data Engineer, DEF Startups (2018-2020)
+
+* Developed a real-time data processing pipeline using Apache Kafka and Spark Streaming to process 1TB of data per hour
+* Built a data warehouse on Amazon Redshift using ETL processes and SQL queries to support business intelligence and analytics
+* Implemented a data quality and governance framework using Apache NiFi and AWS Glue to ensure data accuracy and consistency
+* Participated in the design and development of a cloud-based data platform using AWS and GCP
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+
+Achievements:
+
+* Winner of the ABC Corporation Hackathon (2020) for developing a novel machine learning algorithm that improved customer churn prediction by 20%
+* Speaker at the Spark Summit (2019) on "Designing Scalable Data Pipelines using Apache Spark and Cloud Platforms"
+* Published a paper on "MLOps: A Framework for Deploying Machine Learning Models in Production" in the Journal of Data Science (2020)
+
+Certifications:
+
+* Certified Data Engineer, AWS (2020)
+* Certified Spark Developer, Spark Summit (2019)
+
+References:
+Available upon request.

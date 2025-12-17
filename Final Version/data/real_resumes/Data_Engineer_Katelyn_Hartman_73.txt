@@ -1,0 +1,64 @@
+Katelyn Hartman
+Contact Information:
+
+* Email: [katelynhartman@email.com](mailto:katelynhartman@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/katelynhartman
+
+Summary:
+Highly skilled Data Engineer with expertise in designing, developing, and deploying large-scale data systems. Proficient in Big Data Frameworks, ETL Tools, Databases, Cloud Platforms, Data Warehousing, and CI/CD Tools.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop
+	+ Apache Spark
+	+ Apache Beam
+	+ Hadoop Distributed File System (HDFS)
+* ETL Tools:
+	+ Apache NiFi
+	+ Talend
+	+ Informatica PowerCenter
+* Databases:
+	+ Relational databases (MySQL, PostgreSQL, Oracle)
+	+ NoSQL databases (MongoDB, Cassandra, Redis)
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud Platform (GCP)
+* Data Warehousing:
+	+ Data warehousing concepts
+	+ Star and snowflake schema design
+	+ ETL processes for data warehousing
+* CI/CD Tools:
+	+ Jenkins
+	+ GitLab CI/CD
+	+ Docker
+
+Professional Experience:
+
+Data Engineer, XYZ Corporation (2018-Present)
+
+* Designed and developed a large-scale data processing pipeline using Apache Spark and Hadoop
+* Developed and implemented ETL processes using Apache NiFi and Talend
+* Implemented data warehousing solutions using Amazon Redshift and Snowflake
+* Utilized AWS CloudFormation to automate infrastructure deployment
+* Collaborated with data scientists to develop and deploy machine learning models
+
+Data Analyst, ABC Startups (2015-2018)
+
+* Worked with various data sources (databases, APIs, files) to extract and transform data
+* Developed data visualizations using Tableau and Power BI
+* Created reports and dashboards to communicate insights to stakeholders
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2015)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Cloud Practitioner, AWS (2018)
+
+References:
+Available upon request.

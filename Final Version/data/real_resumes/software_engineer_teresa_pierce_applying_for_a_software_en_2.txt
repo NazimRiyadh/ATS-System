@@ -1,0 +1,54 @@
+here's a sample resume for teresa pierce applying for a software engineer role:
+
+teresa pierce
+contact information:
+
+* phone: (123) 456-7890
+* email: [teresapierce@email.com](mailto:teresapierce@email.com)
+* linkedin: linkedin.com/in/teresapierce
+* github: github.com/teresapierce
+
+summary:
+highly motivated and detail-oriented software engineer with experience in designing and developing scalable, efficient, and reliable software systems. skilled in c++, python, and system design principles. proficient in agile development methodologies and continuous integration.
+
+technical skills:
+
+* programming languages: c++, python, java
+* system design: microservices, containerization (docker), cloud computing (aws, azure)
+* database management: mysql, postgresql, mongodb
+* agile methodologies: scrum, kanban
+* version control: git
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc corporation (2018-present)
+
+* designed and developed multiple software systems using c++ and python, resulting in 30% increase in system efficiency
+* collaborated with cross-functional teams to integrate new features and fix bugs, using agile development methodologies
+* implemented continuous integration and continuous deployment (ci/cd) pipelines using jenkins and docker
+* developed and maintained multiple microservices using design patterns and principles
+
+software development intern, def startups (summer 2017)
+
+* contributed to the development of a machine learning platform using python and tensorflow
+* participated in code reviews and provided feedback to team members to improve code quality
+* assisted in testing and debugging of software systems to ensure reliability and stability
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+projects:
+
+* developed a real-time data processing system using c++ and python, which achieved a 20% increase in data processing speed
+* built a web scraper using python and beautifulsoup to extract data from multiple websites
+* contributed to an open-source project, a machine learning framework, using c++ and python
+
+certifications:
+
+* certified scrum master (csm)
+* certified java developer (ocpjp)
+
+references:
+available upon request.

@@ -1,0 +1,66 @@
+Here's a sample resume for Suma:
+
+**Suma**
+**DevOps Engineer**
+
+**Contact Information:**
+
+* Email: [suma@email.com](mailto:suma@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/suma-devops
+
+**Objective:**
+To leverage my 10 years of experience as a DevOps Engineer to drive innovation and efficiency in cloud-based infrastructure, ensuring seamless collaboration between development and operations teams.
+
+**Summary:**
+Highly skilled DevOps Engineer with 10 years of experience in designing, implementing, and maintaining scalable, secure, and efficient cloud-based infrastructure. Proven track record of implementing CI/CD pipelines, Kubernetes, and cloud platforms to drive automation, innovation, and business growth.
+
+**Technical Skills:**
+
+* **Cloud Platforms:**
+	+ Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud Platform (GCP)
+* **CI/CD Pipelines:**
+	+ Jenkins
+	+ GitLab CI/CD
+	+ CircleCI
+* **Containerization and Orchestration:**
+	+ Kubernetes
+	+ Docker
+* **Scripting and Automation:**
+	+ Python
+	+ Bash
+	+ Ansible
+* **Version Control:**
+	+ Git
+* **Operating Systems:**
+	+ Linux
+	+ Windows
+
+**Experience:**
+
+**DevOps Engineer, XYZ Corporation (2018-Present)**
+
+* Designed and implemented CI/CD pipelines using Jenkins and GitLab CI/CD to automate builds, testing, and deployment of applications.
+* Configured and managed Kubernetes clusters on AWS and GCP to ensure efficient and scalable container orchestration.
+* Collaborated with development teams to identify and address infrastructure and deployment challenges.
+* Developed and maintained automation scripts using Python and Ansible to streamline infrastructure provisioning and configuration.
+
+**Senior DevOps Engineer, ABC Startups (2015-2018)**
+
+* Led the design and implementation of cloud-based infrastructure on AWS and Azure, ensuring scalability and reliability.
+* Implemented monitoring and logging tools (e.g., Prometheus, Grafana) to provide real-time insights into application performance.
+* Collaborated with development teams to implement containerization using Docker and Kubernetes.
+* Developed and maintained technical documentation for infrastructure and deployment processes.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, [University Name] (2008-2012)
+
+**Certifications:**
+
+* Certified DevOps Engineer, [Certification Body] (2016)
+* Certified Kubernetes Administrator, [Certification Body] (2019)
+
+Note: This is just a sample resume, and you should tailor yours to the specific job you're applying for and highlight your unique experiences and skills.

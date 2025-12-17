@@ -1,0 +1,60 @@
+Here's a professional resume for James Harrell, a skilled DevOps Engineer:
+
+James Harrell
+DevOps Engineer
+
+Contact Information:
+
+* Email: [james.harrell@email.com](mailto:james.harrell@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/jamesharrelldevops
+
+Summary:
+Highly motivated and experienced DevOps Engineer with expertise in CI/CD, containerization, and cloud platforms. Proven track record of increasing efficiency, scalability, and reliability in complex software systems. Skilled in leveraging Infrastructure as Code, monitoring tools, and Kubernetes to drive automation and innovation.
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented CI/CD pipelines using Jenkins, GitLab CI/CD, and CircleCI, resulting in 30% reduction in deployment time
+* Configured Docker and Kubernetes clusters to deploy scalable and highly available applications
+* Implemented Infrastructure as Code using Terraform and AWS CloudFormation, reducing configuration errors by 50%
+* Collaborated with cross-functional teams to design and deploy monitoring tools, including Prometheus, Grafana, and ELK Stack
+* Mentored junior engineers on DevOps best practices, ensuring knowledge sharing and continuous improvement
+
+DevOps Engineer, DEF Startups (2015-2018)
+
+* Developed and maintained CI/CD pipelines using GitLab CI/CD and Jenkins, resulting in 25% reduction in build time
+* Implemented containerization using Docker, reducing application dependencies by 20%
+* Configured AWS CloudWatch and Prometheus for monitoring and logging, improving incident response time by 40%
+* Collaborated with engineering teams to design and deploy cloud-native applications on AWS and GCP
+* Participated in code reviews, ensuring adherence to coding standards and best practices
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified DevOps Engineer - Professional
+* Google Cloud Certified - Professional Cloud Developer
+
+Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, CircleCI, Docker, Kubernetes
+* Containerization: Docker, Kubernetes
+* Infrastructure as Code: Terraform, AWS CloudFormation, Ansible
+* Monitoring Tools: Prometheus, Grafana, ELK Stack, AWS CloudWatch
+* Cloud Platforms: AWS, GCP, Azure
+* Programming Languages: Python, Java, C++, Go
+
+Achievements:
+
+* Winner of the 2019 AWS DevOps Competency Challenge, demonstrating expertise in AWS DevOps practices
+* Recipient of the 2017 DEF Startups Innovation Award, recognizing contributions to innovation and process improvement
+
+References:
+
+Available upon request.
+
+I hope this helps! Let me know if you have any questions or if you'd like me to revise anything.

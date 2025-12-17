@@ -1,0 +1,58 @@
+**Amelia**
+**Contact Information:**
+
+* Email: [amelia@email.com](mailto:amelia@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/amelia
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 2 years of experience in designing, developing, and deploying data pipelines and storage solutions. Proven track record of delivering high-quality data solutions with a strong focus on data integration, optimization, and scalability. Skilled in a range of technologies, including Python, Scala, and cloud-based data tools.
+
+**Technical Skills:**
+
+* Programming languages: Python, Scala
+* Data storage solutions: Relational databases (MySQL, PostgreSQL), NoSQL databases (Cassandra, MongoDB), Cloud-based storage solutions (AWS S3, Google Cloud Storage)
+* Data pipeline orchestration: Apache Airflow, AWS Glue
+* Data integration: ETL tools (Apache Beam, AWS Glue), Data warehousing (Amazon Redshift, Google BigQuery)
+* SQL optimization: Indexing, caching, query optimization
+* Cloud data tools: AWS, GCP, Azure
+* Operating Systems: Windows, Linux
+
+**Professional Experience:**
+
+**Data Engineer**, ABC Company (2020-Present)
+
+* Designed and developed ETL pipelines using Apache Beam and AWS Glue to integrate data from various sources
+* Developed and deployed data storage solutions using relational and NoSQL databases to support business intelligence and analytics
+* Optimized SQL queries using indexing and caching techniques to improve query performance
+* Collaborated with cross-functional teams to design and implement data pipelines and storage solutions
+* Maintained and improved existing data pipelines and storage solutions to ensure data quality and integrity
+
+**Data Analyst**, DEF Company (2018-2020)
+
+* Developed and maintained data visualizations using Python and Tableau to support business decision-making
+* Assisted in designing and developing data pipelines using Apache Airflow and AWS Glue
+* Collaborated with data scientists to develop and deploy machine learning models using Python and scikit-learn
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2018)
+
+**Achievements:**
+
+* Top 3 finisher in the 2020 Data Science Competition, winning a prize of $10,000
+* Achieved a score of 5.0 in the 2019 Data Engineering Competition, recognized as a top performer in the field
+* Published a research paper on "Optimizing Data Pipelines for Scalability and Performance" in the Journal of Data Science
+
+**Certifications:**
+
+* Certified Data Engineer, Google Cloud (2020)
+* Certified Developer, Apache Beam (2019)
+
+**Personal Projects:**
+
+* Developed a personal project using Python and Apache Airflow to automate data pipelines for a fictional company
+* Built a data visualization dashboard using Tableau to track and analyze customer behavior
+
+**References:**
+Available upon request.

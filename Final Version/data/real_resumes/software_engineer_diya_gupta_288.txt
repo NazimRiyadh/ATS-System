@@ -1,0 +1,55 @@
+diya gupta
+contact information:
+
+* email: [diya.gupta@email.com](mailto:diya.gupta@email.com)
+* phone: 0123456789
+* linkedin: linkedin.com/in/diyagupta
+
+summary:
+highly motivated and detail-oriented software engineer with 4+ years of experience in designing, developing, and deploying scalable software systems. proficient in a range of programming languages, including java, python, and javascript. strong understanding of system design, algorithms, data structures, and software development methodologies.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, rest apis, database design
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs
+* software development methodologies: agile, scrum
+* version control systems: git, svn
+* ci/cd tools: jenkins, docker
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc corporation (jan 2020 - present)
+
+* designed and developed a cloud-based microservices architecture for a streaming platform using java, python, and javascript
+* implemented rest apis for user authentication, data retrieval, and content delivery
+* collaborated with cross-functional teams to integrate features and resolve technical issues
+* utilized git for version control and jenkins for ci/cd pipeline management
+* deployed applications on docker containers in a kubernetes environment
+
+software development intern, def startup (june 2018 - aug 2018)
+
+* contributed to the development of a web-based project management tool using python and javascript
+* worked on implementing data structures and algorithms for efficient data retrieval and manipulation
+* participated in code reviews and ensured adherence to coding standards
+* assisted in testing and debugging of the application
+
+education:
+
+* bachelor of technology in computer science and engineering, xyz university (2016-2020)
+* master of science in computer science, pqr university (2020-2022)
+
+certifications:
+
+* certified scrum master (csm), scrum alliance
+* certified java developer (ocpjp), oracle corporation
+
+achievements:
+
+* developed a mobile app for tracking personal expenses using java and android studio, which achieved a rating of 4.5/5 on the google play store
+* participated in hackathons and coding challenges, including the google code-in and hackerrank, and achieved top rankings
+* published research papers on software engineering and artificial intelligence in international conferences and journals
+
+references:
+available upon request.

@@ -1,0 +1,52 @@
+tanvi sharma
+contact information:
+
+* address: 123 main st, anytown, usa 12345
+* phone: (555) 555-5555
+* email: [tanvi.sharma@email.com](mailto:tanvi.sharma@email.com)
+* linkedin: linkedin.com/in/tanvi-sharma
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable and efficient software systems. proficient in a range of programming languages, including java, python, and javascript. strong understanding of system design, algorithms, data structures, and microservices architecture.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, rest apis, web services
+* algorithms and data structures: arrays, linked lists, stacks, queues, trees, graphs
+* development tools: git, ci/cd, docker
+* database management systems: mysql, mongodb
+
+professional experience:
+
+software engineer, abc corporation (2020-present)
+
+* designed and developed multiple microservices using java, python, and javascript, resulting in a 30% increase in system efficiency
+* implemented rest apis to integrate with external systems, improving data exchange by 25%
+* collaborated with cross-functional teams to identify and resolve technical issues, achieving a 90% reduction in defect rates
+* utilized git, ci/cd, and docker to automate deployment and testing processes, reducing deployment time by 50%
+
+software engineer, def startups (2018-2020)
+
+* developed multiple web applications using javascript, react, and node.js, resulting in a 20% increase in user engagement
+* designed and implemented algorithms and data structures to optimize system performance, achieving a 40% reduction in response time
+* worked with the qa team to identify and resolve defects, achieving a 95% reduction in defect rates
+* utilized rest apis to integrate with external systems, improving data exchange by 20%
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2018)
+	+ coursework: data structures, algorithms, computer systems, web development, database systems
+
+achievements:
+
+* hackathon winner, abc corporation (2020) - developed a chatbot using natural language processing and machine learning algorithms
+* codeathon participant, def startups (2019) - developed a web application using javascript, react, and node.js
+* published research paper, xyz university (2018) - "optimizing system performance using algorithms and data structures"
+
+certifications:
+
+* certified java developer, oracle corporation (2019)
+* certified python developer, python institute (2018)
+
+i am excited to apply for the software engineer role at [company name] and contribute my skills and experience to help drive innovation and success. thank you for considering my application.

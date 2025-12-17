@@ -1,0 +1,59 @@
+kabir kapoor
+contact information:
+
+* email: [kabirkapoor@email.com](mailto:kabirkapoor@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/kabirkapoor
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying large-scale data processing systems. proven expertise in python, sql, etl, airflow, spark, data modeling, aws, docker, kubernetes, and data warehousing. skilled in architecting and implementing data pipelines, resolving complex data-related issues, and collaborating with cross-functional teams.
+
+technical skills:
+
+* programming languages: python, sql
+* data processing: etl, airflow, spark
+* data storage: aws s3, apache hive
+* data modeling: er diagrams, data warehousing
+* containerization: docker
+* orchestration: kubernetes
+* cloud services: aws
+* operating systems: linux, windows
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and developed multiple etl pipelines to integrate data from various sources, including relational databases and apis
+* built and deployed data processing workflows using airflow, ensuring timely data delivery and minimizing sla breaches
+* collaborated with data scientists to develop and deploy machine learning models, ensuring efficient data ingestion and feature engineering
+* implemented data warehousing using amazon redshift, ensuring data availability and performance
+* mentored junior engineers to improve their skills in data engineering and data science
+
+data engineer, def startups (2015-2018)
+
+* developed and deployed data pipelines using spark, ensuring efficient data processing and data quality
+* designed and implemented data models using er diagrams, ensuring data consistency and data integrity
+* worked with cross-functional teams to resolve complex data-related issues, ensuring data availability and performance
+* implemented data storage using aws s3, ensuring data durability and data availability
+
+education:
+
+* master of science in computer science, xyz university (2015)
+	+ coursework: data science, machine learning, natural language processing, database systems
+	+ thesis: "design and implementation of a real-time data processing system using spark and kafka"
+* bachelor of technology in computer science, pqr university (2013)
+	+ coursework: data structures, algorithms, computer networks, database systems
+
+achievements:
+
+* developed and deployed a real-time data processing system using spark and kafka, resulting in a 90% reduction in data processing time
+* implemented a data warehousing solution using amazon redshift, resulting in a 95% reduction in data latency
+* mentored 5 junior engineers, resulting in a 30% improvement in their skills and productivity
+
+certifications:
+
+* certified data engineer, data science council of america (dasca)
+* certified aws developer, amazon web services
+
+references:
+available upon request.

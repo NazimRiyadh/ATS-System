@@ -1,0 +1,67 @@
+Cynthia Roth
+Contact Information:
+
+* Email: [cynthia.roth@email.com](mailto:cynthia.roth@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/cynthiaroth
+
+Summary:
+Highly skilled Data Engineer with 8 years of experience in designing, developing, and deploying large-scale data systems using Big Data frameworks, databases, cloud platforms, and data warehousing technologies. Proven expertise in CI/CD tools and a strong passion for data-driven decision making.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop (HDFS, MapReduce, YARN)
+	+ Apache Spark (Scala, Python, Java)
+	+ Apache Flink
+	+ Apache Beam
+* Databases:
+	+ Relational databases (MySQL, PostgreSQL, Oracle)
+	+ NoSQL databases (MongoDB, Cassandra, Redis)
+	+ Data warehouses (Snowflake, Redshift, BigQuery)
+* Cloud Platforms:
+	+ Amazon Web Services (AWS) - EC2, S3, Lambda, Glue, EMR
+	+ Microsoft Azure - HDInsight, Data Factory, Cosmos DB
+	+ Google Cloud Platform - Cloud Dataflow, Cloud Dataproc, Bigtable
+* Data Warehousing:
+	+ Data modeling and ETL design
+	+ Data governance and security
+	+ Data visualization and reporting
+* CI/CD Tools:
+	+ Jenkins
+	+ GitLab CI/CD
+	+ Apache Airflow
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed a scalable data pipeline using Apache Spark, AWS Glue, and S3 for data ingestion and processing
+* Implemented a data warehouse on Snowflake for reporting and analytics
+* Implemented CI/CD pipelines using Jenkins and GitLab CI/CD for automated deployment and testing
+* Collaborated with cross-functional teams to design and implement a data governance framework
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Developed a real-time data processing system using Apache Flink and Apache Kafka for IoT data ingestion
+* Designed and implemented a data warehousing solution on Amazon Redshift for reporting and analytics
+* Implemented data quality checks and data validation using Apache Beam and Apache Airflow
+* Collaborated with data scientists to integrate data engineering components into machine learning models
+
+Education:
+
+* Bachelor of Science in Computer Science, University of California (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Council (2019)
+* Certified Cloud Developer, AWS (2018)
+
+Projects:
+
+* Data Engineering with Apache Spark: Developed a Spark-based data processing pipeline for real-time data ingestion and processing
+* Data Warehouse Design on Snowflake: Designed and implemented a data warehouse on Snowflake for reporting and analytics
+* CI/CD Pipeline with Jenkins and GitLab CI/CD: Implemented a CI/CD pipeline using Jenkins and GitLab CI/CD for automated deployment and testing
+
+References:
+Available upon request.

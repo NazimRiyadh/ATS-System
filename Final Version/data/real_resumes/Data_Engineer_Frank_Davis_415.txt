@@ -1,0 +1,57 @@
+Here's a sample resume for Frank Davis, who was select for the Data Engineer role:
+
+**Frank Davis**
+**Contact Information:**
+
+* Email: [frank.davis@email.com](mailto:frank.davis@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/frankdavis
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, building, and maintaining large-scale data systems. Proven track record of delivering high-quality data solutions that drive business growth and improve operational efficiency. Skilled in a range of data technologies, including big data, cloud computing, and data warehousing.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, SQL, Bash
+* Data technologies: Hadoop, Spark, Hive, Pig, Kafka, Cassandra, MongoDB
+* Cloud platforms: AWS, Azure, Google Cloud
+* Data warehousing: Snowflake, Amazon Redshift, Google BigQuery
+* Operating Systems: Linux, Windows
+* Agile methodologies: Scrum, Kanban
+* Data visualization tools: Tableau, Power BI, D3.js
+
+**Professional Experience:**
+
+**Senior Data Engineer, ABC Corporation (2018-Present)**
+
+* Designed and developed a data lake architecture using Apache Hadoop and Spark to process and analyze large-scale customer data
+* Built and maintained a data warehouse using Amazon Redshift to support business intelligence and reporting
+* Developed and deployed ETL pipelines using Python and Apache Beam to extract, transform, and load data from various sources
+* Collaborated with cross-functional teams to design and implement data visualizations using Tableau and Power BI
+* Mentored junior engineers and provided technical guidance on data engineering best practices
+
+**Data Engineer, DEF Startups (2015-2018)**
+
+* Built and maintained a big data architecture using Apache Kafka and Cassandra to process and analyze real-time customer data
+* Developed and deployed data pipelines using Python and Apache Airflow to extract, transform, and load data from various sources
+* Collaborated with data scientists to develop and deploy machine learning models using scikit-learn and TensorFlow
+* Designed and implemented data governance and security policies to ensure compliance with regulatory requirements
+
+**Education:**
+
+* **Master of Science in Computer Science, XYZ University (2015)**
+* **Bachelor of Science in Computer Science, ABC University (2013)**
+
+**Projects:**
+
+* **Data Lake Architecture**: Designed and developed a data lake architecture using Apache Hadoop and Spark to process and analyze large-scale customer data. Successfully deployed the architecture on AWS and achieved a 30% reduction in data processing time.
+* **Real-time Analytics Dashboard**: Built and maintained a real-time analytics dashboard using Apache Kafka, Cassandra, and Tableau to analyze customer behavior and sentiment. Successfully deployed the dashboard on AWS and achieved a 25% increase in sales.
+* **Machine Learning Model**: Developed and deployed a machine learning model using scikit-learn and TensorFlow to predict customer churn. Successfully deployed the model on AWS and achieved a 20% reduction in customer churn.
+
+**Certifications:**
+
+* **Certified Data Engineer, Data Engineering Institute (2019)**
+* **Certified Scrum Master, Scrum Alliance (2018)**
+
+**References:**
+Available upon request.

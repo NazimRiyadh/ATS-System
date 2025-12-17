@@ -1,0 +1,59 @@
+Here's a sample resume for Jody Tanner:
+
+Jody Tanner
+Contact Information:
+
+* Email: [jody.tanner@email.com](mailto:jody.tanner@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/jodytanner
+* GitHub: github.com/jodytanner
+
+Professional Summary:
+Highly motivated and detail-oriented AI researcher with expertise in Transformers and Reinforcement Learning. Proficient in PyTorch and experienced in developing and deploying AI models for various applications. Strong passion for innovation and collaboration, with a proven track record of publishing research papers and contributing to open-source projects.
+
+Technical Skills:
+
+* Transformers (e.g., BERT, RoBERTa, XLNet)
+* Reinforcement Learning (e.g., Q-learning, Actor-Critic, Deep Q-Networks)
+* PyTorch (e.g., building and training models, optimizing performance)
+* Natural Language Processing (NLP)
+* Computer Vision
+* Deep Learning
+* Python (e.g., NumPy, Pandas, Matplotlib)
+
+Research Experience:
+
+* Researcher, AI Lab (2020-Present)
+	+ Conducted research on Transformers and Reinforcement Learning for natural language processing and computer vision tasks
+	+ Developed and implemented various AI models using PyTorch, achieving state-of-the-art results in multiple benchmarks
+	+ Published research papers in top-tier conferences and journals, including ACL, IJCAI, and ICML
+	+ Collaborated with cross-functional teams to integrate AI models into production environments
+* Research Assistant, University of California, Berkeley (2018-2020)
+	+ Assisted in teaching and researching AI-related courses, including Reinforcement Learning and Deep Learning
+	+ Contributed to the development of open-source AI projects, including a PyTorch-based NLP library
+	+ Participated in various hackathons and competitions, showcasing AI research and innovation
+
+Achievements:
+
+* Best Paper Award, ACL 2020: "Transformers for Reinforcement Learning: A New Paradigm for NLP"
+* Microsoft Research Fellowship, 2020-2021
+* PyTorch Contributer, 2019-2020
+
+Education:
+
+* Ph.D. in Computer Science, University of California, Berkeley (2018-2022)
+* M.S. in Computer Science, Stanford University (2016-2018)
+* B.S. in Computer Science, University of Michigan (2012-2016)
+
+Projects:
+
+* Transformer-Based NLP Library: An open-source PyTorch library for building and training Transformers for NLP tasks
+* Reinforcement Learning for Computer Vision: A research project exploring the application of Reinforcement Learning to Computer Vision tasks
+
+Publications:
+
+* Jody Tanner, et al. "Transformers for Reinforcement Learning: A New Paradigm for NLP." ACL 2020.
+* Jody Tanner, et al. "PyTorch-Based NLP Library for Transformers." ICML 2019.
+
+References:
+Available upon request.

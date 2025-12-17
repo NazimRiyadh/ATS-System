@@ -1,0 +1,57 @@
+here's a sample resume for gregory watson applying for a data scientist position:
+
+gregory watson
+contact information:
+
+* email: [gregory.watson@email.com](mailto:gregory.watson@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/gregorywatson
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, machine learning, deep learning, and sql. proven track record of delivering high-quality data-driven insights and solutions in various industries. strong passion for exploring complex data sets and developing predictive models.
+
+technical skills:
+
+* programming languages: python (numpy, pandas, scikit-learn), sql
+* machine learning libraries: scikit-learn, tensorflow, keras
+* deep learning frameworks: tensorflow, pytorch
+* data visualization tools: matplotlib, seaborn, plotly
+* operating systems: windows, linux, macos
+* familiarity with cloud platforms: aws, google cloud, azure
+
+professional experience:
+
+data scientist, xyz corporation (2018-present)
+
+* developed and deployed predictive models using scikit-learn and tensorflow to improve customer churn prediction and reduce costs by 20%
+* designed and implemented a machine learning pipeline using python and sql to analyze customer behavior and preferences
+* collaborated with cross-functional teams to integrate data-driven insights into business decisions
+* built and maintained databases using mysql and postgresql to store and retrieve large datasets
+
+data analyst, abc startups (2015-2018)
+
+* analyzed large datasets using python and sql to identify trends and patterns in customer behavior
+* developed and presented data visualizations using matplotlib and seaborn to communicate insights to stakeholders
+* built and maintained data dashboards using tableau to track key performance indicators (kpis)
+* collaborated with data engineering teams to design and implement data pipelines using apache beam and spark
+
+education:
+
+* master of science in data science, university of massachusetts (2015)
+* bachelor of science in computer science, university of california (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified scrum master, scrum alliance (2018)
+
+projects:
+
+* credit risk prediction: developed a machine learning model using scikit-learn and tensorflow to predict credit risk for a leading bank
+* customer segmentation: built a clustering model using k-means and dbscan to segment customers based on their behavior and preferences
+* image classification: developed a deep learning model using pytorch to classify images using convolutional neural networks (cnns)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experiences and the job you're applying for.

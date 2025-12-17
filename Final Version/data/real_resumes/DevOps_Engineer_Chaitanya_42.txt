@@ -1,0 +1,48 @@
+Here's a professional resume for Chaitanya:
+
+**Chaitanya**
+**DevOps Engineer**
+
+**Contact Information:**
+
+* Email: [chaitanya@email.com](mailto:chaitanya@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/chaitanya
+
+**Objective:**
+To leverage my 8 years of experience in DevOps engineering to drive automation, efficiency, and innovation in a dynamic cloud-based environment.
+
+**Summary:**
+Highly motivated and experienced DevOps Engineer with 8 years of expertise in designing, implementing, and maintaining scalable CI/CD pipelines, Kubernetes deployments, and cloud platforms. Proven track record of driving automation, improving deployment speed, and ensuring high-quality software releases. Skilled in collaborating with cross-functional teams to deliver business outcomes.
+
+**Technical Experience:**
+
+* **Senior DevOps Engineer**, ABC Corporation (2018-Present)
+	+ Designed and implemented CI/CD pipelines using Jenkins, GitLab CI/CD, and Ansible for multiple cloud-based applications
+	+ Deployed and managed Kubernetes clusters on AWS, GCP, and Azure for containerized applications
+	+ Collaborated with development teams to implement continuous integration and delivery practices
+	+ Implemented monitoring and logging tools such as Prometheus, Grafana, and ELK Stack
+* **DevOps Engineer**, DEF Startups (2015-2018)
+	+ Developed and maintained automated testing frameworks using Selenium and Appium
+	+ Implemented continuous deployment pipelines using Docker and Kubernetes
+	+ Collaborated with QA teams to identify and resolve production issues
+
+**Core Skills:**
+
+* **CI/CD Pipelines:** Jenkins, GitLab CI/CD, Ansible, Docker
+* **Containerization:** Docker, Kubernetes, Helm
+* **Cloud Platforms:** AWS, GCP, Azure
+* **Automation:** Python, PowerShell, Bash
+* **Monitoring and Logging:** Prometheus, Grafana, ELK Stack
+* **Agile Methodologies:** Scrum, Kanban
+
+**Education:**
+
+* **Bachelor's Degree in Computer Science**, XYZ University (2010-2014)
+
+**Certifications:**
+
+* **AWS Certified DevOps Engineer - Professional**, Amazon Web Services
+* **Google Cloud Certified - Professional Cloud Developer**, Google Cloud
+
+I hope this helps! Let me know if you'd like me to make any changes.

@@ -1,0 +1,53 @@
+aditya singh
+data scientist
+
+contact information:
+
+* email: [adityasingh@email.com](mailto:adityasingh@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/adityasinghds
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in analyzing and interpreting complex data sets to drive business growth. proficient in a range of programming languages, machine learning algorithms, and data visualization tools. proven track record of delivering high-quality insights and recommendations to stakeholders.
+
+technical skills:
+
+* programming languages: python
+* machine learning libraries: scikit-learn, tensorflow
+* data visualization tools: matplotlib, seaborn, tableau
+* databases: sql, nosql
+* operating systems: windows, linux
+* familiarity with a/b testing, statistical analysis, and data preprocessing techniques
+
+professional experience:
+
+* data scientist, xyz corporation (2018-present)
+	+ analyzed large datasets to identify trends and patterns, resulting in a 25% increase in sales revenue
+	+ developed and deployed machine learning models using scikit-learn and tensorflow to predict customer churn and improve customer retention
+	+ collaborated with cross-functional teams to design and implement a/b testing experiments to optimize marketing campaigns
+	+ created data visualizations using tableau to communicate complex insights to stakeholders
+* data analyst, abc startups (2015-2018)
+	+ collected and analyzed data from various sources to inform business decisions
+	+ built predictive models using regression analysis and machine learning algorithms to forecast sales and revenue
+	+ developed reports and dashboards using sql and excel to track key performance indicators (kpis)
+
+education:
+
+* master of science in data science, stanford university (2015)
+	+ coursework: machine learning, statistical analysis, data visualization, and natural language processing
+* bachelor of technology in computer science, indian institute of technology (2010-2014)
+	+ coursework: algorithms, data structures, computer networks, and database systems
+
+certifications:
+
+* certified data scientist, data science council of america (2018)
+* google cloud certified - professional data engineer (2019)
+
+projects:
+
+* predicting customer churn using machine learning: developed a machine learning model using scikit-learn to predict customer churn in a telecom company
+* analyzing stock market trends using time series analysis: analyzed stock market data using python and pandas to identify trends and patterns
+* visualizing crime data using data visualization: created interactive visualizations using tableau to illustrate crime trends in a city
+
+references:
+available upon request.

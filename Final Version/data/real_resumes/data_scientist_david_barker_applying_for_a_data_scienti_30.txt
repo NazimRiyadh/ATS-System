@@ -1,0 +1,55 @@
+here's a sample resume for david barker applying for a data scientist role:
+
+david barker
+contact information:
+
+* email: [dbarker@email.com](mailto:dbarker@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/davidbarkerds
+* github: github.com/davidbarkerds
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in statistics, deep learning, and data visualization. proficient in designing and implementing data-driven solutions using a range of tools and technologies. strong passion for extracting insights from complex data sets and communicating findings effectively to both technical and non-technical stakeholders.
+
+technical skills:
+
+* programming languages: python, r, sql
+* deep learning frameworks: tensorflow, pytorch
+* data visualization tools: tableau, matplotlib, seaborn, plotly
+* statistics and machine learning libraries: scikit-learn, pandas, numpy
+* operating systems: windows, linux, macos
+* familiarity with cloud-based platforms: aws, gcp
+
+professional experience:
+
+data scientist, abc company (2018-present)
+
+* designed and developed predictive models using deep learning techniques to forecast sales and customer churn
+* built and maintained a data warehouse using sql and data processing frameworks (e.g., apache beam)
+* created interactive dashboards using tableau to visualize and communicate insights to stakeholders
+* collaborated with cross-functional teams to integrate data-driven recommendations into business decision-making processes
+
+research assistant, university of xyz (2015-2018)
+
+* conducted research on statistical modeling and machine learning techniques for forecasting and anomaly detection
+* developed and implemented novel algorithms using r and python for data analysis and visualization
+* presented research findings at conferences and published papers in peer-reviewed journals
+
+education:
+
+* master of science in statistics, university of xyz (2015-2017)
+* bachelor of science in mathematics, university of abc (2010-2014)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* image classification using deep learning: built a convolutional neural network using tensorflow to classify images into different categories. achieved an accuracy of 95% on a benchmark dataset.
+* time series forecasting using arima: developed a model using arima to predict stock prices. reduced mean absolute error by 30% compared to a naive baseline model.
+* data visualization dashboard: created an interactive dashboard using tableau to visualize sales data for a retail company. identified trends and insights that informed business decisions.
+
+references:
+available upon request.

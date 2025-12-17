@@ -1,0 +1,33 @@
+**candidate profile: naksh kaur**
+
+**interview for data engineer role**
+
+naksh kaur demonstrated enthusiasm and eagerness to learn during the interview process for the data engineer position. however, upon reviewing their qualifications, it became apparent that their skills and experience did not fully align with the job requirements.
+
+**key areas for improvement:**
+
+1. **data warehousing:** naksh's lack of proficiency in data warehousing concepts, tools, and techniques was a notable concern. they seemed unfamiliar with etl processes, data modeling, and data warehousing architectures. while they mentioned having experience with data analysis, they did not have a strong understanding of data warehousing principles.
+2. **big data technologies (hadoop, spark):** naksh expressed limited knowledge of hadoop and spark, which are essential tools for processing large datasets. they seemed to lack hands-on experience with these technologies, which raised concerns about their ability to design and implement scalable data processing solutions.
+3. **database administration:** naksh's lack of experience in database administration, including database design, performance tuning, and security, was another area for improvement. they seemed unfamiliar with various database management systems, such as mysql, postgresql, and oracle.
+4. **cloud services (aws, azure):** naksh's limited exposure to cloud computing principles and services, such as aws and azure, was a significant concern. they did not have experience with cloud-based data storage, processing, and analytics, which are critical components of modern data engineering.
+5. **logging, observability, and monitoring:** naksh's lack of familiarity with logging, observability, and monitoring tools, such as elk stack, prometheus, and grafana, raised concerns about their ability to troubleshoot and optimize data processing pipelines.
+
+**concerns raised during the interview:**
+
+* naksh struggled to explain how they would design and implement a data pipeline using hadoop and spark.
+* they had difficulty describing their experience with database administration and performance tuning.
+* naksh seemed uncertain about how to approach data warehousing design and etl process development.
+* they had limited understanding of cloud computing principles and services, including aws and azure.
+
+**potential for growth:**
+
+despite these gaps in their skills and experience, naksh demonstrated a willingness to learn and grow. they asked thoughtful questions and showed enthusiasm for the role. with further training, exposure, and mentorship, naksh could develop the necessary skills to excel as a data engineer. they may benefit from courses or training programs focused on data warehousing, big data technologies, database administration, cloud services, and logging, observability, and monitoring.
+
+**recommendations:**
+
+to support naksh's growth and development, it would be beneficial to provide:
+
+* additional training and coursework in data warehousing, big data technologies, and database administration.
+* hands-on experience with cloud services, such as aws and azure, through projects or internships.
+* mentorship and guidance from experienced data engineers to help them develop practical skills.
+* opportunities to work on real-world projects that integrate various data engineering concepts, tools, and technologies.

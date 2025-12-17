@@ -1,0 +1,52 @@
+ishaan mehta
+contact information:
+
+* email: [ishaan.mehta@email.com](mailto:ishaan.mehta@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/ishaan-mehta
+
+summary:
+highly skilled ui engineer with 4+ years of experience in designing and developing user interfaces for web applications. proficient in html, css, javascript, react, and ui/ux design principles. strong understanding of responsive design, web accessibility, and frontend testing. proficient in version control using git.
+
+technical skills:
+
+* frontend technologies: html, css, javascript, react
+* ui/ux design: sketch, figma, adobe xd
+* responsive design: media queries, flexbox, grid
+* web accessibility: wcag 2.1, accessibility guidelines
+* version control: git
+* frontend testing: jest, enzyme
+* web performance: performance optimization, cache management
+
+professional experience:
+
+* ui engineer, xyz corporation (2020-present)
+	+ designed and developed user interfaces for multiple web applications using react and html/css.
+	+ implemented responsive design and web accessibility guidelines to ensure a seamless user experience.
+	+ collaborated with cross-functional teams to identify and prioritize feature development.
+	+ conducted frontend testing and debugging to ensure high-quality code.
+	+ utilized git for version control and collaborated with other team members to resolve merge conflicts.
+* senior ui designer, abc agency (2018-2020)
+	+ led the design process for multiple web applications, including creating wireframes, prototypes, and high-fidelity designs.
+	+ conducted user research and usability testing to inform design decisions.
+	+ worked closely with development team to ensure design implementation.
+	+ developed and maintained design systems and guidelines for future applications.
+
+education:
+
+* bachelor of science in computer science, university of california, berkeley (2015-2019)
+	+ coursework: computer science fundamentals, data structures, algorithms, web development, human-computer interaction
+
+achievements:
+
+* react conference speaker (2020) - presented a talk on "building accessible react applications"
+* codepen challenge winner (2019) - won a codepen challenge for building a responsive and accessible web application using react and css
+* github open source contributor (2018) - contributed to multiple open-source projects on github, including react and webpack
+
+certifications:
+
+* certified accessibility specialist, accessibility standards association (2019)
+* certified ux designer, nielsen norman group (2018)
+
+references:
+available upon request.

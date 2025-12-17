@@ -1,0 +1,73 @@
+Elizabeth Smith
+UI Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [elizabeth.smith@email.com](mailto:elizabeth.smith@email.com)
+* LinkedIn: linkedin.com/in/elizabethsmithui
+
+Summary:
+Highly skilled UI Engineer with expertise in building engaging user interfaces using Frontend Frameworks, Animation Libraries, and cutting-edge technologies. Proficient in creating responsive, interactive, and visually appealing experiences for web applications.
+
+Technical Skills:
+
+* Frontend Frameworks:
+	+ React
+	+ Angular
+	+ Vue.js
+* Animation Libraries:
+	+ GSAP
+	+ AnimeJS
+	+ GreenSock
+* Programming Languages:
+	+ JavaScript (ES6+)
+	+ TypeScript
+* UI/UX Design Tools:
+	+ Sketch
+	+ Figma
+	+ Adobe XD
+* Version Control Systems:
+	+ Git
+	+ SVN
+* Operating Systems:
+	+ Windows
+	+ macOS
+* Familiarity with:
+	+ CSS Preprocessors (Sass, Less)
+	+ Bundlers (Webpack, Rollup)
+	+ Task Runners (Gulp, Grunt)
+
+Professional Experience:
+
+UI Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed high-performance, responsive user interfaces for web applications using React, Angular, and Vue.js
+* Utilized GSAP and AnimeJS to create complex animations and interactive effects
+* Collaborated with cross-functional teams to ensure seamless integration with backend services and APIs
+* Implemented accessibility features and ensured compliance with web accessibility standards
+* Conducted code reviews and contributed to the improvement of the codebase
+
+Junior UI Engineer, DEF Startups (2015-2018)
+
+* Worked on multiple projects, building user interfaces using React, Angular, and Vue.js
+* Implemented responsive design patterns to ensure optimal user experience across various devices and screen sizes
+* Used Sketch and Figma to design UI components and collaborate with designers
+* Participated in code reviews and learned from senior engineers to improve coding skills
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Frontend Developer, Frontend Masters (2017)
+* Certified UI Engineer, UI Engineers Academy (2019)
+
+Projects:
+
+* Responsive UI Kit: A reusable UI kit built using React and GSAP, featuring a set of responsive components and animations.
+* Animated Webpage: A showcase of complex animations created using AnimeJS and GreenSock, demonstrating expertise in animation libraries.
+
+References:
+Available upon request.

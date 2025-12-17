@@ -1,0 +1,53 @@
+harshitha kapoor
+ui engineer
+
+contact information:
+
+* email: [harshithakapoor@email.com](mailto:harshithakapoor@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/harshithakapoor
+
+summary:
+highly skilled ui engineer with a strong background in building responsive, accessible, and high-performance user interfaces using html, css, javascript, and react. proficient in ui/ux design, frontend testing, and version control. passionate about delivering exceptional user experiences and optimizing web applications for improved performance.
+
+technical skills:
+
+* programming languages: html, css, javascript, react
+* ui/ux design: wireframing, prototyping, usability testing
+* responsive design: mobile-first approach, grid systems, flexbox
+* web accessibility: wcag 2.1 guidelines, accessibility auditing
+* version control: git, github
+* frontend testing: jest, enzyme
+* web performance: page speed optimization, browser caching
+
+professional experience:
+
+ui engineer, techcorp (2020-present)
+
+* designed and developed responsive ui components for a large-scale e-commerce platform using react, html, and css.
+* collaborated with cross-functional teams to ensure accessibility and usability of the application, resulting in a 95% accessibility score.
+* implemented frontend testing using jest and enzyme, resulting in a 30% reduction in bug density.
+* optimized web performance by implementing page speed optimization techniques, resulting in a 50% improvement in page load time.
+
+frontend developer, startup (2018-2020)
+
+* developed multiple ui components for a startup's web application using html, css, and javascript.
+* designed and implemented a responsive ui for the application, resulting in a 90% increase in mobile conversions.
+* collaborated with the design team to ensure ui/ux consistency across the application.
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+	+ coursework: data structures, algorithms, computer systems, web development, ui/ux design
+	+ senior thesis: "designing accessible and responsive ui components for web applications"
+
+achievements:
+
+* winner, techcorp hackathon (2020): designed and developed a responsive ui for a mobile application, resulting in a 25% increase in user engagement.
+* contributor, react community (2019-present): contributed to several open-source react projects, including a popular ui component library.
+* speaker, ui engineering conference (2019): presented a talk on "designing accessible and responsive ui components for web applications"
+
+certifications:
+
+* certified ui engineer, ui engineering association (2020)
+* certified accessibility specialist, accessibility association (2019)

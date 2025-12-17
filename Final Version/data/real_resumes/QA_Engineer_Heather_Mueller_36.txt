@@ -1,0 +1,61 @@
+Here's a sample resume for Heather Mueller:
+
+Heather Mueller
+Quality Assurance Engineer
+
+Contact Information:
+
+* Email: [heather.mueller@email.com](mailto:heather.mueller@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/heathermuellerqa
+
+Summary:
+Highly motivated and detail-oriented QA Engineer with 5+ years of experience in manual and automated testing, specializing in Selenium-based automation. Proven track record of identifying and reporting defects, improving test automation coverage, and collaborating with cross-functional teams to deliver high-quality software products.
+
+Professional Experience:
+
+QA Engineer, ABC Corporation (2018-Present)
+
+* Design and execute manual and automated testing scripts using Selenium, Appium, and JUnit
+* Identify and report defects, working closely with development teams to resolve issues
+* Develop and maintain test automation frameworks, increasing test coverage by 30% within 6 months
+* Collaborate with product managers to create test plans and ensure compliance with QA standards
+* Participate in agile development teams, providing input on testable requirements and ensuring testability
+* Mentor junior QA engineers, sharing knowledge and best practices in test automation and manual testing
+
+QA Engineer, DEF Agency (2015-2018)
+
+* Conducted manual testing of software applications, identifying defects and reporting to development teams
+* Developed and executed automated testing scripts using Selenium and Appium
+* Created and maintained test cases, ensuring test coverage and effectiveness
+* Worked with development teams to resolve defects and improve testability
+* Collaborated with project managers to create test plans and ensure compliance with QA standards
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Skills:
+
+* Manual testing (black box, white box, grey box)
+* Automated testing (Selenium, Appium, JUnit)
+* Test automation frameworks (Cucumber, TestNG)
+* Bug tracking tools (JIRA, Bugzilla)
+* Agile methodologies (Scrum, Kanban)
+* Version control systems (Git, SVN)
+* Programming languages (Java, Python)
+
+Achievements:
+
+* Improved test automation coverage by 30% within 6 months, resulting in significant cost savings and increased efficiency
+* Developed and maintained a Selenium-based test automation framework, reducing manual testing efforts by 25%
+* Collaborated with development teams to resolve 90% of defects reported, resulting in improved product quality and customer satisfaction
+* Mentored junior QA engineers, resulting in improved test automation skills and increased team productivity
+
+Certifications:
+
+* Certified Software Tester (CSTE), International Software Testing Qualifications Board (ISTQB)
+* Certified Automation Tester (CAT), ISTQB
+
+References:
+Available upon request.

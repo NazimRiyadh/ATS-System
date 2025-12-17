@@ -1,0 +1,59 @@
+Here's a professional resume for Jackie Coffey:
+
+Jackie Coffey
+Data Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [jackie.coffey@email.com](mailto:jackie.coffey@email.com)
+* LinkedIn: linkedin.com/in/jackiecoffey
+
+Professional Summary:
+Highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using MLOps, Airflow, ETL, and Big Data technologies. Proven expertise in cloud platforms, data warehousing, and data engineering. Skilled in leveraging data to drive business insights and inform strategic decision-making.
+
+Technical Skills:
+
+* MLOps: TensorFlow, PyTorch, scikit-learn
+* Airflow: DAGs, Operators, Sensors
+* ETL: Apache Beam, Apache Spark
+* Big Data: Hadoop, Spark, NoSQL databases
+* Cloud Platforms: AWS, GCP, Azure
+* Data Warehousing: Snowflake, Redshift
+* Programming languages: Python, Scala, Java
+
+Professional Experience:
+
+Senior Data Engineer, ABC Company (2018-Present)
+
+* Design and develop complex data pipelines using Airflow, Apache Beam, and Apache Spark to process large-scale datasets
+* Collaborate with cross-functional teams to integrate data into business applications and inform strategic decision-making
+* Develop and maintain data warehouses using Snowflake and Redshift to support business analytics
+* Implement data quality checks and data governance processes to ensure data accuracy and integrity
+
+Data Engineer, DEF Start-up (2015-2018)
+
+* Developed and deployed data pipelines using Apache Beam and Apache Spark to process large-scale datasets
+* Designed and implemented data warehousing solutions using Hadoop and NoSQL databases
+* Collaborated with data scientists to develop and deploy machine learning models using scikit-learn and TensorFlow
+* Implemented data security and access control measures to ensure data confidentiality and integrity
+
+Achievements:
+
+* Successfully designed and deployed a scalable data pipeline using Airflow and Apache Beam to process 10TB of data in under 24 hours
+* Improved data quality and reduced data latency by 30% through implementation of data governance processes and data quality checks
+* Collaborated with cross-functional teams to develop and deploy a data-driven product feature that resulted in 25% increase in customer engagement
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Institute (2019)
+* Certified Cloud Developer, AWS Certified Developer (2018)
+
+References:
+Available upon request.
+
+This is just a sample resume, and you should customize it to fit your specific experience and the job you're applying for. Remember to proofread your resume multiple times for spelling, grammar, and formatting errors before submitting it. Good luck with your job search!

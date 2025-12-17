@@ -1,0 +1,59 @@
+here's a sample resume for alan torres applying for a software engineer role:
+
+alan torres
+contact information:
+
+* email: [alan.torres@email.com](mailto:alan.torres@email.com)
+* phone: 555-123-4567
+* linkedin: linkedin.com/in/alan-torres
+* github: github.com/alan-torres
+
+summary:
+highly motivated and detail-oriented software engineer with expertise in java, python, and algorithmic thinking. proficient in designing and implementing scalable, efficient, and maintainable software solutions. profound understanding of data structures and algorithms, with a passion for problem-solving and continuous learning.
+
+technical skills:
+
+* programming languages: java, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* algorithms: sorting (bubblesort, selection sort, insertion sort), searching (linear search, binary search), dynamic programming
+* development frameworks: spring (java), flask (python)
+* databases: mysql, mongodb
+* operating systems: windows, linux
+* agile development methodologies: scrum, kanban
+
+professional experience:
+
+software engineer, abc company (2018-present)
+
+* designed and implemented multiple features for a large-scale e-commerce platform using java and spring framework
+* collaborated with cross-functional teams to identify and prioritize project requirements
+* developed and maintained high-quality code, following industry best practices and coding standards
+* participated in code reviews and provided constructive feedback to improve team's overall code quality
+* implemented automated tests using junit and mockito to ensure code reliability and stability
+
+junior software engineer, def startup (2015-2018)
+
+* contributed to the development of a cloud-based platform using python and flask framework
+* developed and deployed multiple apis and microservices, ensuring scalability and performance
+* worked closely with the qa team to identify and resolve bugs, improving overall product quality
+* participated in code reviews and provided input on design patterns and coding best practices
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+* coursework: data structures, algorithms, computer systems, software engineering, web development
+
+projects:
+
+* personal project: developed a machine learning model using python and scikit-learn library to predict house prices based on multiple features
+* github open-source contribution: contributed to a popular open-source project, implementing a new algorithm for efficient data processing
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified python developer, python institute (2018)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job you're applying for, and highlight your unique strengths and experiences.

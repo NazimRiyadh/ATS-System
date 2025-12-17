@@ -1,0 +1,54 @@
+ishaan joshi
+ui engineer
+
+contact information:
+
+* email: [ishaan.joshi@email.com](mailto:ishaan.joshi@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ishanjoshi
+
+summary:
+highly motivated and detail-oriented ui engineer with a strong background in front-end development, ui/ux design, and responsive design. proficient in html, css, javascript, react, and other relevant technologies. proven track record of delivering high-quality, accessible, and performant web applications.
+
+technical skills:
+
+* front-end development: html, css, javascript, react
+* ui/ux design: sketch, figma, adobe xd
+* responsive design: media queries, flexbox, grid
+* web accessibility: wcag 2.1, aria, axe
+* version control: git, svn
+* frontend testing: jest, enzyme
+* web performance: webpack, babel, lighthouse
+
+professional experience:
+
+ui engineer, abc corporation (2020-present)
+
+* designed and developed responsive, accessible, and performant ui components for multiple web applications using react, html, css, and javascript
+* collaborated with cross-functional teams to ensure seamless integration with backend apis and services
+* implemented automated testing and validation using jest and enzyme to ensure high-quality code
+* conducted performance optimization using webpack, babel, and lighthouse to improve application speed and overall user experience
+* utilized git for version control and collaborated with team members to ensure smooth code reviews and deployments
+
+senior ui developer, def startups (2018-2020)
+
+* led the development of multiple web applications using react, html, css, and javascript
+* collaborated with designers to ensure ui/ux designs were accurately implemented and met accessibility guidelines
+* developed and maintained a comprehensive style guide for the company's ui components
+* conducted a/b testing and analyzed user behavior to inform design decisions
+* implemented automated testing and validation using jest and enzyme to ensure high-quality code
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+* certificate in ui/ux design, uie (2019)
+
+achievements:
+
+* certified front-end developer, frontend masters (2020)
+* certified ui/ux designer, nielsen norman group (2019)
+* winner, abc corporation's hackathon (2020)
+* recipient, def startups' innovation award (2019)
+
+references:
+available upon request.

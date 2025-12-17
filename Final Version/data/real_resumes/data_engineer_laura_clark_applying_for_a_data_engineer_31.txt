@@ -1,0 +1,67 @@
+here's a sample resume for laura clark applying for a data engineer role:
+
+laura clark
+contact information:
+
+* email: [lclark@email.com](mailto:lclark@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/lauraclark
+* github: github.com/lclark
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, building, and maintaining large-scale data processing systems. skilled in airflow, big data, and spark, with a proven track record of delivering high-quality solutions on time. passionate about leveraging data to drive business growth and innovation.
+
+technical skills:
+
+* airflow:
+	+ designed and implemented complex data pipelines using airflow 2.0
+	+ created dags to automate data processing and integration workflows
+	+ utilized airflow's built-in features for monitoring, logging, and scheduling
+* big data:
+	+ worked with hadoop, spark, and nosql databases to process and analyze large datasets
+	+ experienced with data ingestion, processing, and storage using technologies like apache kafka, apache flume, and hdfs
+	+ proficient in data modeling and schema design for large-scale data systems
+* spark:
+	+ developed and deployed spark applications for real-time data processing and analytics
+	+ utilized spark sql, spark streaming, and spark mllib for data processing and machine learning
+	+ experienced with spark's data serialization and deserialization libraries (e.g., kryo, parquet)
+* programming languages:
+	+ python (primary language)
+	+ java
+	+ scala
+* data storage:
+	+ experienced with various data storage solutions, including relational databases (e.g., mysql, postgresql), nosql databases (e.g., cassandra, mongodb), and cloud-based storage (e.g., aws s3)
+* operating systems:
+	+ linux (red hat, ubuntu)
+	+ windows
+* tools and technologies:
+	+ apache beam
+	+ apache nifi
+	+ docker
+	+ kubernetes
+
+professional experience:
+
+data engineer, abc company (2018-present)
+
+* designed and implemented data pipelines using airflow 2.0 to process and integrate data from multiple sources
+* developed and deployed spark applications for real-time data processing and analytics
+* worked with cross-functional teams to design and implement data governance and quality control processes
+* collaborated with data scientists to develop and deploy machine learning models using spark mllib
+
+senior data analyst, def startup (2015-2018)
+
+* designed and developed data visualizations using tableau and power bi
+* created data models and implemented data warehousing solutions using sql and nosql databases
+* worked with data scientists to develop and deploy predictive models using r and python
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+
+certifications:
+
+* certified data scientist, data science council of america (2017)
+* certified airflow developer, airflow institute (2020)
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experience and the job you're applying for.

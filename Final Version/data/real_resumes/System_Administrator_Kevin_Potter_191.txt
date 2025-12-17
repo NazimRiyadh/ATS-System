@@ -1,0 +1,58 @@
+Here's a sample resume for Kevin Potter:
+
+Kevin Potter
+System Administrator Candidate
+
+Contact Information:
+
+* Address: 123 Main St, Anytown, USA 12345
+* Phone: (555) 555-5555
+* Email: [kevin.potter@email.com](mailto:kevin.potter@email.com)
+* LinkedIn: linkedin.com/in/kevinpotter
+
+Summary:
+Highly skilled and experienced System Administrator with expertise in Linux/Unix, Networking, and Virtualization. Proven track record of designing, implementing, and maintaining complex systems to ensure high availability, scalability, and security. Proficient in troubleshooting and resolving technical issues, with excellent communication and interpersonal skills.
+
+Professional Experience:
+
+* Senior System Administrator, ABC Corporation (2018-Present)
+	+ Designed and implemented a virtualized infrastructure using VMware vSphere, resulting in 30% reduction in hardware costs and 25% increase in server utilization.
+	+ Configured and maintained Linux and Unix servers for web and database applications, ensuring 99.99% uptime and 0 security breaches.
+	+ Collaborated with cross-functional teams to develop and implement disaster recovery and business continuity plans.
+	+ Provided technical support and training to junior administrators and end-users.
+* System Administrator, DEF Company (2015-2018)
+	+ Migrated a large network of Windows servers to Linux and Unix, resulting in 20% reduction in software costs and 15% increase in system performance.
+	+ Designed and implemented a robust network security architecture using firewalls, access controls, and intrusion detection systems.
+	+ Assisted in the development and implementation of a cloud-based infrastructure using Amazon Web Services (AWS).
+* Junior System Administrator, GHI Organization (2012-2015)
+	+ Assisted in the maintenance and troubleshooting of Linux and Unix servers, ensuring 99% uptime and 0 security breaches.
+	+ Configured and implemented network devices, including routers, switches, and firewalls.
+	+ Collaborated with senior administrators to develop and implement technical documentation and procedures.
+
+Technical Skills:
+
+* Operating Systems: Linux (Red Hat, Ubuntu), Unix (Solaris, AIX), Windows
+* Networking: Cisco routers and switches, firewall configuration, network protocols (TCP/IP, DNS, DHCP)
+* Virtualization: VMware vSphere, KVM, Xen
+* Cloud Computing: Amazon Web Services (AWS), Microsoft Azure
+* Scripting: Bash, Perl, Python
+* Security: Access controls, intrusion detection systems, security auditing and compliance
+
+Achievements:
+
+* Successfully implemented a Linux-based disaster recovery solution, resulting in 0 data loss during a catastrophic hardware failure.
+* Developed and implemented a network security policy, resulting in 0 security breaches in a 12-month period.
+* Collaborated with a team to develop and implement a cloud-based infrastructure, resulting in 25% reduction in IT costs and 20% increase in system performance.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2012)
+
+Certifications:
+
+* CompTIA Linux+ (2015)
+* CompTIA Network+ (2013)
+* VMware vSphere Install, Configure, Manage (VCP-550) (2017)
+
+References:
+Available upon request.

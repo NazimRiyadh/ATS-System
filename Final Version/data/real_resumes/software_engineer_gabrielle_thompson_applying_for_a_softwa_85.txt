@@ -1,0 +1,55 @@
+here's a sample resume for gabrielle thompson applying for a software engineer role:
+
+gabrielle thompson
+contact information:
+
+* email: [gabrielle.thompson@email.com](mailto:gabrielle.thompson@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/gabriellethompson
+* github: github.com/gabriellethompson
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and testing software applications using java, c++, and other programming languages. proven track record of delivering high-quality software solutions and collaborating with cross-functional teams to meet project deadlines.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures and algorithms: arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, dynamic programming
+* system design: microservices, event-driven architecture, restful apis
+* agile development methodologies: scrum, kanban
+* version control systems: git, svn
+* operating systems: windows, linux, macos
+* familiarity with cloud platforms: aws, azure
+
+professional experience:
+
+software engineer, xyz corporation (2018-2020)
+
+* designed and developed multiple software applications using java and c++ for client-side and server-side applications
+* collaborated with the development team to design and implement a microservices-based architecture for a large-scale e-commerce platform
+* participated in code reviews and ensured that code quality met the company's standards
+* worked on improving the performance and scalability of the existing system by optimizing algorithms and data structures
+
+software developer, abc startups (2015-2018)
+
+* developed and maintained multiple mobile apps using java and python for android and ios platforms
+* designed and implemented a restful api using java for a web-based application
+* collaborated with the qa team to identify and fix bugs in the software
+* worked on integrating third-party libraries and apis into the application
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+certifications:
+
+* certified java developer, oracle corporation (2016)
+* certified c++ programmer, c++ institute (2018)
+
+projects:
+
+* implementation of a trie data structure in java: designed and implemented a trie data structure in java to optimize the lookup time of words in a dictionary. (github: https://github.com/gabriellethompson/trie-data-structure)
+* development of a restful api using java: designed and implemented a restful api using java for a web-based application to manage user data. (github: https://github.com/gabriellethompson/restful-api)
+
+references:
+available upon request.

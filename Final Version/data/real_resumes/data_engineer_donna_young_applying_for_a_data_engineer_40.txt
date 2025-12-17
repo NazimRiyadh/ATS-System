@@ -1,0 +1,56 @@
+here's a sample resume for donna young applying for a data engineer role:
+
+donna young
+contact information:
+
+* email: [donna.young@email.com](mailto:donna.young@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/donnayoung
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and deploying scalable data pipelines using mlops, airflow, and spark. proven track record of delivering high-quality data products that drive business insights and decision-making.
+
+technical skills:
+
+* programming languages: python, scala
+* data engineering tools: mlops, airflow, spark, apache beam
+* data storage: apache hadoop, nosql databases (e.g. cassandra)
+* data processing: spark, hadoop mapreduce
+* agile development methodologies: scrum, kanban
+* operating systems: linux, windows
+
+professional experience:
+
+data engineer, abc corporation (2018-present)
+
+* designed, developed, and deployed scalable data pipelines using mlops, airflow, and spark to support predictive modeling and machine learning initiatives
+* collaborated with data scientists to integrate data pipelines into production environments, ensuring high-quality data delivery
+* built and maintained large-scale data processing applications using spark and hadoop
+* implemented data quality control measures to ensure data accuracy and reliability
+* mentored junior engineers on data engineering best practices and tooling
+
+data analyst, def start-up (2015-2018)
+
+* worked with cross-functional teams to design and implement data analytics solutions using python, pandas, and numpy
+* developed and maintained databases using nosql databases (e.g. cassandra)
+* built data visualizations using tableau and power bi
+* collaborated with stakeholders to identify business needs and develop data-driven solutions
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified scrum master, scrum alliance (2018)
+
+projects:
+
+* mlops pipeline: designed and developed an mlops pipeline using airflow and spark to deploy machine learning models into production
+* data lake architecture: designed and implemented a data lake architecture using apache hadoop and nosql databases to support large-scale data processing
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to tailor your resume to the specific job description and requirements, and don't hesitate to reach out if you have any questions or need further assistance.

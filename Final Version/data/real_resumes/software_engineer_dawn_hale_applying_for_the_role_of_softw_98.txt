@@ -1,0 +1,54 @@
+here's a sample resume for dawn hale applying for the role of software engineer:
+
+dawn hale
+contact information:
+
+* email: [dawn.hale@email.com](mailto:dawn.hale@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/dawnhale
+* github: github.com/dawnhale
+
+summary:
+highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and testing software applications using java, data structures, and system design principles. skilled in breaking down complex problems into manageable parts and delivering high-quality solutions on time.
+
+technical skills:
+
+* programming languages: java (8-11)
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: microservices architecture, restful apis, database design
+* development tools: eclipse, intellij idea, git, maven, jenkins
+* operating systems: windows, linux, macos
+* agile development methodologies: scrum, kanban
+
+professional experience:
+
+software engineer, abc company (2018-present)
+
+* designed and developed multiple features for a large-scale e-commerce application using java and spring boot
+* implemented data structures and algorithms to optimize application performance and scalability
+* collaborated with cross-functional teams to identify and prioritize features, and ensured timely delivery of high-quality software
+* participated in code reviews and provided feedback to improve team's coding standards and best practices
+
+software development intern, def startups (summer 2017)
+
+* contributed to the development of a mobile application using java and android sdk
+* worked on improving the application's user interface and user experience using design patterns and principles
+* assisted in testing and debugging the application to ensure high-quality delivery
+
+education:
+
+* bachelor of science in computer science, xyz university (2015-2019)
+
+projects:
+
+* e-commerce application: designed and developed a full-stack e-commerce application using java, spring boot, and react.js
+* sorting algorithm visualizer: created a tool to visualize and compare different sorting algorithms using java and swing
+* microservices architecture: implemented a microservices architecture using java, spring boot, and docker to demonstrate scalability and fault tolerance
+
+certifications:
+
+* certified java developer, oracle corporation
+* certified scrum master, scrum alliance
+
+references:
+available upon request.

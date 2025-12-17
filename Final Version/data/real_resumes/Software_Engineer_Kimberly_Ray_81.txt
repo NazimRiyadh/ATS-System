@@ -1,0 +1,52 @@
+Kimberly Ray
+Contact Information:
+
+* Email: [kimberly.ray@email.com](mailto:kimberly.ray@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/kimberlyray
+
+Summary:
+Highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software solutions using Java and related technologies. Proficient in algorithms and data structures, with expertise in backend development and API design.
+
+Technical Skills:
+
+* Programming languages: Java, Python
+* Development frameworks: Spring Boot, Hibernate
+* Database management systems: MySQL, PostgreSQL
+* Operating Systems: Windows, Linux
+* Agile methodologies: Scrum, Kanban
+* Version control systems: Git
+
+Professional Experience:
+
+Senior Software Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple microservices using Java and Spring Boot, resulting in a 30% increase in system scalability and reliability
+* Implemented API gateway using Spring Cloud Gateway, improving API performance by 25%
+* Collaborated with cross-functional teams to integrate APIs with third-party services, ensuring seamless data exchange
+* Conducted code reviews and provided feedback to junior engineers to improve code quality and maintainability
+* Participated in on-call rotations, providing 24/7 support for production issues and ensuring minimal downtime
+
+Software Engineer, DEF Startups (2015-2018)
+
+* Developed multiple web applications using Java and Spring Framework, resulting in a 25% increase in customer engagement
+* Designed and implemented RESTful APIs using Spring MVC, improving API response times by 40%
+* Collaborated with QA team to identify and resolve defects, ensuring high-quality releases
+* Participated in technical workshops and training sessions to improve skills and stay up-to-date with industry trends
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Java Developer, Oracle Corporation (2016)
+* Certified Scrum Master, Scrum Alliance (2017)
+
+Personal Projects:
+
+* Developed a personal project using Java and Spring Boot, a scalable e-commerce platform with real-time analytics and recommendations
+* Contributed to open-source projects on GitHub, including a Java-based machine learning library and a Spring Boot-based API gateway
+
+References:
+Available upon request.

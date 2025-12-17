@@ -1,0 +1,57 @@
+here's a sample resume for nicole wheeler applying for the role of data scientist:
+
+nicole wheeler
+contact information:
+
+* email: [nicole.wheeler@email.com](mailto:nicole.wheeler@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/nicolewheelerds
+* github: github.com/nicolewheeler
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in analyzing and interpreting complex data sets. skilled in a wide range of tools and techniques, including statistics, machine learning, deep learning, sql, and data visualization. strong background in research and development, with a passion for driving business growth through data-driven insights.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning libraries: scikit-learn, tensorflow, pytorch
+* deep learning frameworks: keras, theano
+* data visualization tools: tableau, matplotlib, seaborn
+* operating systems: windows, linux, macos
+* database management: mysql, postgresql, mongodb
+
+professional experience:
+
+senior data scientist, abc corporation (2018-present)
+
+* led a team of data analysts to develop and deploy predictive models for customer churn and retention
+* designed and implemented a deep learning-based system for image classification, resulting in a 25% increase in accuracy
+* developed and maintained a data warehouse using sql and etl processes, providing insights to stakeholders through data visualization
+* collaborated with cross-functional teams to identify business opportunities and drive data-driven decision making
+
+data scientist, def startups (2015-2018)
+
+* built and deployed machine learning models for demand forecasting and supply chain optimization
+* conducted statistical analysis and a/b testing to optimize marketing campaigns and improve conversion rates
+* developed and maintained a data pipeline using python and sql, providing real-time insights to stakeholders
+* participated in hackathons and ideathons to develop and prototype new data science ideas
+
+education:
+
+* master of science in statistics, xyz university (2015)
+	+ coursework: statistical inference, machine learning, data mining, mathematical statistics
+	+ thesis: "developing a predictive model for stock prices using machine learning"
+* bachelor of science in mathematics, abc university (2013)
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+publications and presentations:
+
+* "a comparative study of machine learning algorithms for time series prediction", international journal of machine learning and artificial intelligence (2019)
+* "deep learning for image classification: a review of current methods and future directions", arxiv (2018)
+* "using data science to drive business growth", presentation at the data science conference (2019)
+
+i hope this sample resume helps! remember to tailor your own resume to the specific job you're applying for, and highlight your unique strengths and experiences.

@@ -1,0 +1,59 @@
+Here is a sample resume for Thomas Waters:
+
+Thomas Waters
+Quality Assurance (QA) Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [thomas.waters@email.com](mailto:thomas.waters@email.com)
+* LinkedIn: linkedin.com/in/thomaswatersqa
+
+Summary:
+Highly skilled QA Engineer with over 5 years of experience in manual and automated testing, bug tracking, and performance testing. Proven track record of delivering high-quality results in fast-paced environments, with a strong focus on efficiency and effectiveness. Proficient in a range of testing tools and technologies, with excellent problem-solving skills and attention to detail.
+
+Technical Skills:
+
+* Manual Testing: Test planning, test case development, test execution, and defect reporting
+* Automated Testing: Test automation frameworks (Selenium, Appium), test scripts development, and test data management
+* Bug Tracking: JIRA, Bugzilla, and Trello
+* Performance Testing: LoadRunner, JMeter, and Gatling
+* Operating Systems: Windows, Linux, and macOS
+* Programming Languages: Java, Python, and C#
+
+Professional Experience:
+
+QA Engineer, XYZ Corporation (2018-Present)
+
+* Conducted manual and automated testing on multiple software applications, including web, mobile, and desktop applications
+* Developed and executed test plans, test cases, and test scripts using Selenium and Appium
+* Identified and reported defects to the development team, and worked with the team to resolve issues
+* Collaborated with cross-functional teams to ensure quality and deliverables met customer requirements
+* Implemented performance testing using LoadRunner and JMeter to optimize application performance
+* Utilized JIRA for bug tracking and project management
+
+QA Engineer, ABC Startups (2015-2018)
+
+* Conducted manual testing on multiple software applications, including web and mobile applications
+* Developed and executed test plans, test cases, and test scripts using manual testing techniques
+* Identified and reported defects to the development team, and worked with the team to resolve issues
+* Collaborated with cross-functional teams to ensure quality and deliverables met customer requirements
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2015)
+
+Certifications:
+
+* ISTQB (International Software Testing Qualifications Board) Certified Tester Foundation Level (2017)
+* Certified Scrum Master (CSM) (2019)
+
+Achievements:
+
+* Successfully reduced defect density by 30% through the implementation of automated testing and performance testing
+* Improved testing efficiency by 25% through the development and execution of reusable test scripts
+* Implemented a test automation framework using Selenium and Appium, resulting in a 50% reduction in manual testing time
+* Collaborated with cross-functional teams to deliver multiple software releases on time and within budget
+
+References:
+Available upon request.

@@ -1,0 +1,61 @@
+**Sophia**
+**Data Engineer**
+
+**Contact Information:**
+
+* Phone: (123) 456-7890
+* Email: [sophia@email.com](mailto:sophia@email.com)
+* LinkedIn: linkedin.com/in/sophia
+
+**Summary:**
+Highly skilled Data Engineer with 5+ years of experience in designing, developing, and deploying scalable data systems. Proven track record of delivering high-quality projects on time, with a strong focus on data quality, performance, and security.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, SQL
+* Data platforms: Apache Hadoop, Apache Spark, Amazon Redshift
+* Data warehouses: Amazon S3, Google Cloud Storage
+* Database management: MySQL, PostgreSQL, MongoDB
+* Operating Systems: Linux, Windows
+* Cloud platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP)
+* Data processing frameworks: Apache Beam, Apache Flink
+* Data visualization tools: Tableau, Power BI
+* Agile methodologies: Scrum, Kanban
+
+**Professional Experience:**
+
+* **Senior Data Engineer**, ABC Company (2018-Present)
+	+ Designed and developed a real-time data pipeline using Apache Kafka, Apache Spark, and Apache Cassandra to process 100 million transactions per day
+	+ Implemented a data quality framework using Apache Beam and Apache Airflow to ensure data consistency and accuracy
+	+ Collaborated with the data science team to develop a machine learning model using TensorFlow and scikit-learn to predict customer churn
+	+ Mentored junior data engineers and provided technical guidance on data engineering best practices
+* **Data Engineer**, DEF Company (2015-2018)
+	+ Built and deployed a data warehouse using Amazon Redshift, Amazon S3, and Amazon Glue to support business intelligence and data analytics
+	+ Developed a data processing framework using Apache Hadoop and Apache Spark to process 10 billion records per day
+	+ Implemented a data governance framework using Apache Atlas and Apache Ranger to ensure data security and compliance
+	+ Collaborated with the data architecture team to design and implement a cloud-based data architecture using AWS and GCP
+
+**Education:**
+
+* **Bachelor's Degree in Computer Science**, XYZ University (2010-2014)
+	+ GPA: 3.8/4.0
+	+ Relevant coursework: Data Structures, Algorithms, Computer Systems, Database Systems, Data Mining, and Machine Learning
+
+**Competitions and Achievements:**
+
+* **Winner**, Data Science Bowl (2016)
+	+ Developed a machine learning model using scikit-learn and TensorFlow to predict ocean health
+	+ Implemented a data processing pipeline using Apache Spark and Apache Hadoop to process 100 million records per day
+	+ Collaborated with a team of data scientists to develop a data visualization dashboard using Tableau
+* **Finalist**, Kaggle Data Science Competition (2017)
+	+ Developed a machine learning model using scikit-learn and TensorFlow to predict customer churn
+	+ Implemented a data processing pipeline using Apache Beam and Apache Airflow to process 10 million records per day
+	+ Collaborated with a team of data scientists to develop a data visualization dashboard using Power BI
+
+**Certifications:**
+
+* **Certified Data Engineer**, Data Science Council of America (DASCA)
+* **Certified Apache Spark Developer**, Apache Software Foundation
+
+**References:**
+Available upon request.

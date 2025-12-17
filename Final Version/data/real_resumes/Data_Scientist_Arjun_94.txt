@@ -1,0 +1,54 @@
+**Arjun**
+**Contact Information:**
+
+* Email: [arjun@email.com](mailto:arjun@email.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/arjun
+* GitHub: github.com/arjun
+
+**Summary:**
+Highly motivated and detail-oriented data science professional with a strong foundation in statistics, machine learning, and programming. Proven track record of success in data competitions, with a 3.4 average ranking in top-tier competitions. Proficient in a range of programming languages, including Python, R, and SQL. Strong understanding of data visualization and communication principles.
+
+**Education:**
+
+* **Bachelor of Science in Data Science**, XYZ University (20XX-20XX)
+	+ Coursework: Probability and Statistics, Machine Learning, Data Mining, Data Visualization, and SQL
+	+ GPA: 3.5/4.0
+
+**Competitions:**
+
+* **Kaggle Competitions:**
+	+ 1st Place: **Titanic: Machine Learning from Disaster** (3.4/4.0)
+	+ Top 10%: **House Prices: Advanced Regression Techniques** (3.2/4.0)
+	+ Top 20%: **Word2Vec** (3.1/4.0)
+* **Data Science Bowl:** 15th Place (3.3/4.0)
+* **Google Analytics Competition:** 20th Place (3.1/4.0)
+
+**Skills:**
+
+* Programming languages: Python, R, SQL
+* Machine learning algorithms: Linear Regression, Decision Trees, Random Forest, Support Vector Machines, Neural Networks
+* Data visualization tools: Matplotlib, Seaborn, Tableau
+* Data preprocessing techniques: Data cleaning, feature engineering, dimensionality reduction
+* Operating Systems: Windows, Linux
+
+**Projects:**
+
+* **Predicting House Prices:** Built a linear regression model to predict house prices using Kaggle's House Prices dataset. Achieved a correlation coefficient of 0.85 with the actual prices.
+* **Titanic Survival Analysis:** Analyzed the Titanic dataset to identify the factors that contributed to survival. Used decision trees and random forests to build models that achieved a classification accuracy of 85%.
+* **Netflix Recommendation System:** Built a recommendation system using matrix factorization and collaborative filtering. Achieved a precision of 0.8 and recall of 0.7 on the test set.
+
+**Tools:**
+
+* Jupyter Notebook
+* Python libraries: NumPy, Pandas, scikit-learn, TensorFlow
+* R libraries: dplyr, tidyr, caret
+* SQL databases: MySQL, PostgreSQL
+
+**Certifications:**
+
+* **Certified Data Scientist**, Data Science Council of America (20XX)
+* **Certified Analytics Professional**, Institute for Operations Research and the Management Sciences (20XX)
+
+**References:**
+Available upon request.

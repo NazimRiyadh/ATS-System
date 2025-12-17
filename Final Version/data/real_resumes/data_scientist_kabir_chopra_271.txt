@@ -1,0 +1,59 @@
+kabir chopra
+data scientist
+
+contact information:
+
+* email: [kabir.chopra@email.com](mailto:kabir.chopra@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/kabirchopra
+
+summary:
+highly motivated and detail-oriented data scientist with 5+ years of experience in developing and deploying machine learning models to drive business growth. skilled in python, statistics, machine learning, sql, and data visualization. proven track record of delivering high-impact projects and collaborating with cross-functional teams to drive business outcomes.
+
+professional experience:
+
+senior data scientist, abc company (2018-present)
+
+* led the development of predictive models to identify high-value customers, resulting in a 25% increase in sales revenue
+* designed and implemented a/b testing frameworks to measure the impact of marketing campaigns, driving a 30% increase in conversion rates
+* collaborated with the engineering team to integrate machine learning models into production, resulting in a 99.9% uptime and 0 errors
+* built and maintained complex databases using sql, providing insights to inform business decisions
+* utilized scikit-learn and tensorflow to develop and deploy deep learning models for image and natural language processing tasks
+
+data scientist, def startup (2015-2018)
+
+* worked on a team to develop a recommendation engine using collaborative filtering and matrix factorization, resulting in a 20% increase in user engagement
+* built and maintained dashboards using tableau and power bi to visualize data insights for stakeholders
+* conducted statistical analysis to identify trends and patterns in customer behavior, providing actionable recommendations to product teams
+* developed and deployed machine learning models using scikit-learn to predict customer churn, resulting in a 15% reduction in churn rate
+
+education:
+
+* master of science in data science, xyz university (2015)
+	+ coursework: machine learning, statistical computing, data visualization, and database systems
+	+ thesis: "anomaly detection in time series data using deep learning techniques"
+* bachelor of science in statistics, pqr university (2013)
+	+ coursework: probability, statistics, mathematical statistics, and linear algebra
+
+skills:
+
+* programming languages: python, r, sql
+* machine learning libraries: scikit-learn, tensorflow, pytorch
+* data visualization tools: tableau, power bi, matplotlib, seaborn
+* database management: mysql, postgresql
+* operating systems: windows, linux, macos
+* tools: jupyter notebook, pandas, numpy, scipy
+
+achievements:
+
+* winner, xyz university data science competition (2015)
+	+ developed and deployed a predictive model using machine learning techniques to forecast stock prices, resulting in a 20% increase in accuracy
+* featured speaker, abc conference (2019)
+	+ presented a talk on "applying deep learning to image classification tasks"
+* published research paper, journal of machine learning research (2020)
+	+ co-authored a paper on "an empirical study of transfer learning for natural language processing tasks"
+
+certifications:
+
+* certified data scientist, certified data scientist association (2020)
+* certified scikit-learn developer, scikit-learn foundation (2019)

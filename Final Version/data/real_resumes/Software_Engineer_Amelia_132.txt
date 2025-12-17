@@ -1,0 +1,56 @@
+**Amelia**
+**Contact Information:**
+
+* Email: [amelia@email.com](mailto:amelia@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/amelia
+
+**Summary:**
+Highly motivated and detail-oriented Entry-level Software Engineer with 2 years of experience in developing scalable and efficient software solutions. Proficient in a range of technologies including JavaScript, Node.js, and Microservices. Proven track record of delivering high-quality code and achieving excellence in competitions, with a 4.2 average ranking. Skilled in Version control, Unit testing, CI/CD pipelines, and System architecture. Proficient in working in a Remote environment and collaborating with cross-functional teams.
+
+**Technical Skills:**
+
+* Programming languages: JavaScript (Node.js, Browser)
+* Frameworks: Express.js, Koa.js
+* Databases: MongoDB, MySQL
+* Operating Systems: Windows, Linux
+* Version Control: Git, SVN
+* Unit Testing: Jest, Mocha
+* CI/CD pipelines: Jenkins, CircleCI
+* System architecture: Microservices, Containerization (Docker)
+* Cloud platforms: AWS, Google Cloud
+
+**Professional Experience:**
+
+**Software Engineer, ABC Company (2020-Present)**
+
+* Designed and developed scalable software solutions using Node.js, Express.js, and MongoDB
+* Implemented Unit tests using Jest and Mocha to ensure high-quality code
+* Collaborated with cross-functional teams to implement CI/CD pipelines using Jenkins and CircleCI
+* Participated in code reviews and ensured adherence to coding standards
+* Contributed to the development of System architecture and Microservices design
+
+**Competitions and Achievements:**
+
+* **4.2 average ranking in Hackathon 2020**, with a project that utilized Node.js and Express.js to create a scalable web application
+* **Winner of the Code Challenge 2021**, with a project that implemented Microservices architecture using Docker and Kubernetes
+* **Finalist in the DevOps Competition 2022**, with a project that utilized CI/CD pipelines and System architecture to deploy a scalable web application
+
+**Education:**
+
+* **Bachelor of Science in Computer Science, XYZ University (2018-2022)**
+* **Coursework:** Data Structures, Algorithms, Computer Systems, Web Development, and Database Systems
+
+**Certifications:**
+
+* **Certified Scrum Master (CSM)**, Scrum Alliance (2022)
+* **Certified Node.js Developer**, Node.js Foundation (2021)
+
+**Personal Projects:**
+
+* **Personal Blog**, built using Node.js, Express.js, and MongoDB
+* **To-Do List App**, built using JavaScript, HTML/CSS, and React
+* **Weather API**, built using Node.js, Express.js, and OpenWeatherMap API
+
+**References:**
+Available upon request.

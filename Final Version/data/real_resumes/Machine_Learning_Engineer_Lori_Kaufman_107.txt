@@ -1,0 +1,62 @@
+Here's a sample professional resume for Lori Kaufman:
+
+Lori Kaufman
+Contact Information:
+
+* Email: [lori.kaufman@email.com](mailto:lori.kaufman@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/lorikaufman
+* GitHub: github.com/lorikaufman
+
+Summary:
+Highly motivated and experienced Machine Learning Engineer with a strong background in developing and deploying predictive models using Python, Scikit-learn, and TensorFlow. Proven expertise in optimizing model performance through hyperparameter tuning and experimentation. Passionate about leveraging machine learning to drive business growth and improve customer experiences.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine Learning libraries: Scikit-learn, TensorFlow, Keras
+* Data preprocessing and feature engineering: Pandas, NumPy, Matplotlib
+* Hyperparameter tuning: GridSearchCV, RandomSearchCV, Hyperopt
+* Deep learning frameworks: TensorFlow, Keras
+* Operating Systems: Windows, Linux, macOS
+* Agile development methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Company (2020-Present)
+
+* Designed and developed predictive models using Scikit-learn and TensorFlow to optimize customer churn and improve sales forecasting
+* Implemented hyperparameter tuning using GridSearchCV and RandomSearchCV to improve model performance
+* Collaborated with cross-functional teams to integrate machine learning models into production pipelines
+* Developed and maintained high-quality code using Python and Git
+* Mentored junior engineers and provided technical guidance on machine learning projects
+
+Machine Learning Consultant, DEF Agency (2018-2020)
+
+* Worked with clients to identify business problems and develop machine learning solutions
+* Built and deployed models using Scikit-learn and TensorFlow to solve problems in customer segmentation, recommendation systems, and sentiment analysis
+* Conducted experiments using Hyperopt to optimize model performance and hyperparameters
+* Provided technical training and support to clients on machine learning concepts and best practices
+* Collaborated with data scientists and engineers to integrate machine learning models into production systems
+
+Education:
+
+* Master of Science in Computer Science, XYZ University (2015-2017)
+	+ Coursework: Machine Learning, Natural Language Processing, Computer Vision
+	+ Thesis: "Optimizing Hyperparameters for Deep Learning Models using Bayesian Optimization"
+* Bachelor of Science in Computer Science, ABC University (2010-2014)
+	+ Coursework: Data Structures, Algorithms, Computer Systems
+
+Achievements:
+
+* Winner, ABC Company Hackathon (2020): Developed a winning solution using Scikit-learn and TensorFlow to predict customer churn
+* Published Research Paper, International Journal of Machine Learning and Applications (2019): "Optimizing Hyperparameters for Deep Learning Models using Bayesian Optimization"
+* Certified Scikit-learn Developer, Scikit-learn Organization (2018)
+
+Certifications:
+
+* Certified Scikit-learn Developer, Scikit-learn Organization (2018)
+* Certified TensorFlow Developer, TensorFlow Organization (2019)
+
+References:
+Available upon request.

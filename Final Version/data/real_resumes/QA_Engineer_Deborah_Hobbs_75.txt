@@ -1,0 +1,54 @@
+Here's a sample resume for Deborah Hobbs:
+
+Deborah Hobbs
+QA Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [deborah.hobbs@email.com](mailto:deborah.hobbs@email.com)
+* LinkedIn: linkedin.com/in/deborahhobbsqa
+
+Professional Summary:
+Highly motivated and detail-oriented QA Engineer with 5+ years of experience in software testing, specializing in automated testing using Selenium and performance testing. Proven track record of delivering high-quality test cases, identifying defects, and improving product quality. Skilled in test case development, test automation, and collaboration with cross-functional teams.
+
+Technical Skills:
+
+* Programming languages: Java, Python, C#
+* Testing frameworks: Selenium, JUnit, TestNG
+* Performance testing tools: JMeter, Gatling
+* CI/CD tools: Jenkins, GitLab CI/CD
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+QA Engineer, ABC Corporation (2018-Present)
+
+* Developed and maintained a comprehensive test automation framework using Selenium, resulting in a 30% reduction in testing time and a 25% increase in test coverage
+* Collaborated with development teams to identify and prioritize defects, ensuring timely resolution and minimizing product risks
+* Conducted performance testing using JMeter, identifying bottlenecks and optimizing application performance by 20%
+* Created and maintained test cases for multiple software applications, ensuring 95% accuracy and coverage
+
+Test Engineer, DEF Startups (2015-2018)
+
+* Designed and executed manual and automated tests for mobile and web applications, ensuring 90% test coverage and a 75% defect detection rate
+* Worked closely with development teams to identify and prioritize defects, resulting in a 40% reduction in defect density
+* Developed and maintained test cases for multiple software applications, ensuring 92% accuracy and coverage
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* ISTQB Foundation Certificate in Software Testing (2016)
+* Selenium Certification by Edureka (2018)
+
+Achievements:
+
+* Winner of the "Best Test Automation Framework" award at ABC Corporation's annual innovation fair (2020)
+* Featured as a speaker at the "Automation Testing Conference" (2019) on the topic of "Selenium Best Practices"
+* Published an article on "Performance Testing Using JMeter" in the "Software Testing Times" magazine (2018)
+
+References:
+Available upon request.

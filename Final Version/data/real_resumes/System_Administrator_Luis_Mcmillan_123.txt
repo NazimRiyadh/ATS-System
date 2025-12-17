@@ -1,0 +1,62 @@
+Here's a sample resume for Luis Mcmillan:
+
+Luis Mcmillan
+System Administrator
+
+Contact Information:
+
+* Email: [lmcmillan@email.com](mailto:lmcmillan@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/luismcmillan
+* Location: [City, State]
+
+Summary:
+Highly skilled and experienced System Administrator with a strong background in Windows Server, Active Directory, Networking, Virtualization, and System Monitoring. Proven track record of successfully implementing and managing complex IT systems, ensuring high levels of uptime and availability. Proficient in a range of technologies, with excellent problem-solving and communication skills.
+
+Technical Skills:
+
+* Operating Systems: Windows Server (2008-2019), Windows 10
+* Directory Services: Active Directory (AD DS, AD LDS)
+* Networking: TCP/IP, DNS, DHCP, VPN, Firewalls
+* Virtualization: VMware vSphere, Hyper-V
+* System Monitoring: SCOM, Nagios, Splunk
+* Scripting: PowerShell, VBScript
+* Cloud: Azure, AWS (brief experience)
+
+Professional Experience:
+
+System Administrator, XYZ Corporation (2018-Present)
+
+* Managed and maintained a large-scale Windows Server environment, including 500+ servers, 10,000+ users, and 100+ virtual machines
+* Implemented and configured Active Directory, DNS, DHCP, and VPN services, ensuring high levels of security and availability
+* Utilized VMware vSphere to manage and monitor virtual machines, achieving 99.99% uptime and reducing VM downtime by 30%
+* Implemented and configured SCOM for system monitoring and alerting, reducing incident resolution time by 50%
+* Collaborated with IT teams to implement and manage cloud services, including Azure and AWS
+
+Senior System Administrator, ABC Inc. (2015-2018)
+
+* Migrated 50+ servers to Windows Server 2012, resulting in a 20% reduction in system administration costs
+* Designed and implemented a virtualization strategy, deploying 100+ virtual machines using Hyper-V
+* Implemented and configured Active Directory Federation Services (ADFS) for single sign-on, reducing authentication time by 75%
+* Collaborated with network teams to design and implement a network security strategy, including firewalls and VPNs
+
+Education:
+
+* Bachelor's Degree in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* Microsoft Certified Solutions Expert (MCSE): Windows Server 2016
+* Microsoft Certified Solutions Administrator (MCSA): Windows Server 2012
+* CompTIA A+ (2015)
+
+Achievements:
+
+* Winner of XYZ Corporation's IT Excellence Award (2019)
+* Featured speaker at ABC Inc.'s IT Conference (2017)
+* Published article on virtualization best practices in a leading IT industry publication (2016)
+
+References:
+Available upon request.
+
+This is just a sample, and you can customize it to fit your own experiences and style. Remember to proofread carefully and tailor your resume to the specific job you're applying for. Good luck with your job search!

@@ -1,0 +1,61 @@
+here's a sample resume for kevin willis applying for the role of ui engineer:
+
+kevin willis
+contact information:
+
+* email: [kevin.willis@email.com](mailto:kevin.willis@email.com)
+* phone: (123) 456-7890
+* linkedin: linkedin.com/in/kevinwillisui
+* github: github.com/kevinwillisui
+
+summary:
+highly motivated and detail-oriented ui engineer with 3+ years of experience in designing and developing user interfaces for web applications. skilled in html, javascript, react, ui/ux design, and wireframing. proficient in collaborating with cross-functional teams to deliver high-quality products that meet business objectives.
+
+technical skills:
+
+* programming languages: javascript, html, css
+* frameworks: react
+* design tools: sketch, figma, adobe xd
+* wireframing tools: axure, balsamiq
+* version control: git
+* operating systems: windows, macos
+* familiarity with: agile development methodologies, restful apis, and cloud-based services
+
+experience:
+
+ui engineer, abc company (2019-present)
+
+* designed and developed user interfaces for web applications using react, html, and css
+* collaborated with the product team to define and implement the product vision
+* created wireframes and prototypes to visualize and test new features
+* worked closely with the qa team to identify and resolve bugs
+* participated in code reviews to ensure high-quality code and adherence to coding standards
+
+junior ui engineer, def startup (2017-2019)
+
+* assisted in the design and development of user interfaces for web applications
+* created html, css, and javascript code to implement ui components
+* worked with the design team to implement design concepts into code
+* conducted usability testing and gathered feedback to improve the user experience
+* participated in the development of the company's design system
+
+education:
+
+* bachelor of science in computer science, xyz university (2017)
+
+certifications:
+
+* certified ui designer, ux design institute (2018)
+* certified react developer, react training institute (2019)
+
+projects:
+
+* personal project: [project name] (github.com/kevinwillisui/project-name)
+	+ a react-based web application that demonstrates a ui component library
+	+ utilizes css-in-js and state management with redux
+* team project: [project name] (github.com/team/project-name)
+	+ a collaborative project that showcases a ui/ux design process
+	+ implemented using react, html, and css
+
+references:
+available upon request.

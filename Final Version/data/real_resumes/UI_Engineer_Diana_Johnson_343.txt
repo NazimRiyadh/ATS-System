@@ -1,0 +1,57 @@
+Here's a sample resume for Diana Johnson, who applied for the UI Engineer role:
+
+**Diana Johnson**
+**Contact Information:**
+
+* Email: [diana.johnson@email.com](mailto:diana.johnson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/dianajohnson
+
+**Summary:**
+Highly motivated and detail-oriented UI Engineer with 5+ years of experience in designing and developing user interface components for web applications. Skilled in front-end development, HTML, CSS, JavaScript, and UI frameworks such as React and Angular. Proficient in agile development methodologies and passionate about delivering high-quality user experiences.
+
+**Technical Skills:**
+
+* Programming languages: JavaScript, HTML, CSS
+* UI frameworks: React, Angular, Vue.js
+* Front-end build tools: Webpack, Rollup
+* State management: Redux, MobX
+* CSS preprocessors: Sass, Less
+* Version control: Git, SVN
+* Agile development methodologies: Scrum, Kanban
+
+**Professional Experience:**
+
+* **Senior UI Engineer**, XYZ Corporation (2018-Present)
+	+ Designed and developed high-performing and responsive user interface components for web applications using React and Redux
+	+ Collaborated with cross-functional teams to identify and prioritize features and user experience improvements
+	+ Implemented automated testing and code review processes to ensure high-quality code
+	+ Mentored junior engineers in front-end development best practices and technologies
+* **UI Engineer**, ABC Startup (2015-2018)
+	+ Developed and maintained user interface components for web and mobile applications using Angular and Ionic
+	+ Worked with designers to implement UI/UX designs and create prototypes
+	+ Participated in code reviews and contributed to the improvement of code quality and maintainability
+	+ Collaborated with product managers to gather requirements and define product roadmaps
+
+**Achievements:**
+
+* Successfully migrated a large-scale web application from AngularJS to Angular, resulting in a 30% increase in application performance
+* Implemented a reusable UI component library using React and Sass, resulting in a 25% reduction in development time and a 20% reduction in maintenance costs
+* Received a 95% satisfaction rating from stakeholders and users for UX improvements and feature implementations
+
+**Projects:**
+
+* **React UI Component Library**: Developed a reusable UI component library using React and Sass, which can be used to create consistent and responsive user interfaces for web applications.
+* **AngularJS to Angular Migration**: Led the migration of a large-scale web application from AngularJS to Angular, resulting in improved performance and maintainability.
+* **Responsive Web Design**: Designed and developed a responsive web application using React and CSS preprocessors, which provides a great user experience on various devices and screen sizes.
+
+**Education:**
+
+* **Bachelor of Science in Computer Science**, University of California, Berkeley (2010-2014)
+
+**Certifications:**
+
+* **Certified Scrum Master (CSM)**, Scrum Alliance (2016)
+* **Certified Front-end Developer**, General Assembly (2015)
+
+I hope this sample resume helps! Remember to customize it to fit your own experiences and style.

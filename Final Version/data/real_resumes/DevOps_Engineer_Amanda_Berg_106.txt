@@ -1,0 +1,54 @@
+Here's a sample resume for Amanda Berg, a DevOps Engineer candidate:
+
+Amanda Berg
+Contact Information:
+
+* Email: [amanda.berg@email.com](mailto:amanda.berg@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/amandabergdevops
+* GitHub: github.com/amandaberg
+
+Professional Summary:
+Highly motivated and experienced DevOps Engineer with a strong background in containerization, orchestration, and automation. Proficient in Docker, Kubernetes, Ansible, and Infrastructure as Code tools. Proven track record of improving deployment efficiency, reducing downtime, and enhancing overall system reliability.
+
+Technical Skills:
+
+* Containerization: Docker
+* Orchestration: Kubernetes, Docker Swarm
+* Automation: Ansible, Terraform
+* Infrastructure as Code: AWS CloudFormation, Azure Resource Manager
+* Monitoring Tools: Prometheus, Grafana, New Relic
+* Operating Systems: Linux (Ubuntu, CentOS), Windows
+* Programming Languages: Python, Bash, YAML
+
+Professional Experience:
+
+Senior DevOps Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a containerized application using Docker and Kubernetes, resulting in a 30% reduction in deployment time and a 25% increase in application scalability
+* Developed and maintained Ansible playbooks to automate infrastructure provisioning and configuration, reducing manual errors by 90%
+* Collaborated with development teams to implement Infrastructure as Code using AWS CloudFormation, resulting in a 40% reduction in deployment time and a 20% increase in infrastructure consistency
+* Implemented Prometheus and Grafana for application monitoring, resulting in a 25% reduction in mean time to detect (MTTD) and a 20% reduction in mean time to resolve (MTTR)
+
+DevOps Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Docker, resulting in a 50% reduction in deployment time and a 30% increase in application quality
+* Developed and maintained Ansible playbooks to automate infrastructure provisioning and configuration, reducing manual errors by 80%
+* Collaborated with development teams to implement Infrastructure as Code using Terraform, resulting in a 20% reduction in deployment time and a 15% increase in infrastructure consistency
+* Implemented New Relic for application monitoring, resulting in a 20% reduction in MTTD and a 15% reduction in MTTR
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified DevOps Engineer, DevOps Institute (2016)
+* Certified Cloud Practitioner, AWS (2018)
+
+Personal Projects:
+
+* Developed a Dockerized web application using Kubernetes and Prometheus for monitoring (github.com/amandaberg/docker-webapp)
+* Created an Ansible playbook to automate infrastructure provisioning and configuration for a fictional company (github.com/amandaberg/ansible-playbook)
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

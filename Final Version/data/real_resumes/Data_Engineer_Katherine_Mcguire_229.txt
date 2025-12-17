@@ -1,0 +1,60 @@
+Here's a sample resume for Katherine Mcguire:
+
+Katherine Mcguire
+Data Engineer
+
+Contact Information:
+
+* Email: [katherine.mcguire@email.com](mailto:katherine.mcguire@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/katherinemcguire
+
+Summary:
+
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and deploying large-scale data pipelines using Airflow, ETL, Big Data, and Cloud Platforms. Proficient in Spark and experienced in working with distributed systems. Proven track record of delivering high-quality solutions on time and on budget. Passionate about leveraging data to drive business growth and innovation.
+
+Technical Skills:
+
+* Programming languages: Python, Scala, Java
+* Data Engineering tools: Airflow, Apache Beam, AWS Glue, Apache Spark
+* Big Data frameworks: Hadoop, Spark, NoSQL databases
+* Cloud platforms: AWS, GCP, Azure
+* Operating Systems: Linux, Windows
+* Data modeling and architecture: SQL, NoSQL, data warehousing
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed a scalable data pipeline using Airflow, Apache Beam, and Spark to process 10TB of data daily
+* Collaborated with cross-functional teams to implement data-driven decision-making processes, resulting in a 25% increase in sales revenue
+* Migrated a legacy ETL process to a Cloud-based solution using AWS Glue and Spark, reducing processing time by 90%
+* Developed and maintained a data catalog using Apache Atlas, improving data governance and compliance
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Built and deployed a Big Data processing pipeline using Apache Spark and Hadoop to analyze customer behavior, resulting in a 30% increase in customer engagement
+* Designed and implemented a data warehousing solution using AWS Redshift and ETL, reducing query time by 95%
+* Collaborated with data scientists to develop predictive models using Spark MLlib, resulting in a 25% reduction in customer churn
+
+Education:
+
+* Bachelor's degree in Computer Science, XYZ University (2010-2014)
+
+Achievements:
+
+* Certified Apache Spark Developer, Spark Summit (2019)
+* Certified AWS Solutions Architect, AWS Certification Program (2018)
+* Published a research paper on "Big Data Processing using Apache Spark" at the IEEE International Conference on Data Science and Engineering (2017)
+
+Certifications:
+
+* Certified Apache Spark Developer
+* Certified AWS Solutions Architect
+* Certified Data Engineer, Google Cloud Certification Program
+
+References:
+
+Available upon request.
+
+I hope this sample resume helps! Remember to customize it to fit your specific experience and the job description you're applying for.

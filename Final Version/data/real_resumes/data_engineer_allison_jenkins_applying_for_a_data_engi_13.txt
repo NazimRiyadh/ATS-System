@@ -1,0 +1,55 @@
+here's a sample resume for allison jenkins applying for a data engineer role:
+
+allison jenkins
+contact information:
+
+* phone: (123) 456-7890
+* email: [allison.jenkins@email.com](mailto:allison.jenkins@email.com)
+* linkedin: linkedin.com/in/allisonjenkins
+* github: github.com/allisonjenkins
+
+summary:
+highly motivated and experienced data engineer with expertise in mlops, etl, big data, cloud platforms, and spark. proven track record of designing, implementing, and deploying scalable data pipelines and machine learning models. skilled in leveraging cloud-based technologies to drive business growth and improve decision-making.
+
+technical skills:
+
+* programming languages: python, scala, java
+* big data technologies: hadoop, spark, hive
+* cloud platforms: aws, gcp, azure
+* mlops: tensorflow, pytorch, scikit-learn
+* etl: apache beam, apache nifi
+* data storage: relational databases (mysql, postgresql), nosql databases (cassandra, mongodb)
+* data visualization: tableau, power bi
+
+professional experience:
+
+senior data engineer, xyz corporation (2018-present)
+
+* designed and implemented large-scale data pipelines using apache beam and spark for data warehousing and business intelligence
+* developed and deployed machine learning models using tensorflow and pytorch for predictive analytics and business forecasting
+* collaborated with cross-functional teams to integrate data engineering with data science and product development
+* mentored junior engineers in data engineering best practices and cloud-based technologies
+
+data engineer, abc startups (2015-2018)
+
+* built and maintained large-scale data pipelines using apache nifi and apache beam for data ingestion and processing
+* implemented data storage and retrieval using relational and nosql databases
+* developed and deployed data visualizations using tableau and power bi for business stakeholders
+* worked with data scientists to integrate data engineering with data science and machine learning
+
+education:
+
+* bachelor's degree in computer science, [university name] (2010-2014)
+
+certifications:
+
+* certified data engineer, [certification name] (2019)
+* certified cloud practitioner, [certification name] (2018)
+
+projects:
+
+* mlops project: developed and deployed a machine learning model using tensorflow and pytorch for predicting customer churn, resulting in a 25% reduction in churn rate.
+* etl project: designed and implemented a large-scale etl pipeline using apache beam and spark for data warehousing and business intelligence, resulting in a 50% reduction in data processing time.
+
+references:
+available upon request.

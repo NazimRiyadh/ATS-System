@@ -1,0 +1,65 @@
+Here's a sample resume for Hank Jones, a UI Engineer who was select for the role:
+
+**Hank Jones**
+**UI Engineer**
+
+**Contact Information:**
+
+* Email: [hank.jones@email.com](mailto:hank.jones@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/hankjones
+
+**Summary:**
+Highly motivated and detail-oriented UI Engineer with 5+ years of experience in designing and developing user-centered interfaces for web and mobile applications. Proficient in a range of front-end technologies, including HTML, CSS, JavaScript, and React. Proven track record of delivering high-quality products on time and exceeding customer expectations.
+
+**Technical Skills:**
+
+* Front-end development: HTML, CSS, JavaScript, React, Angular, Vue.js
+* UI frameworks: Material-UI, Bootstrap, Tailwind CSS
+* State management: Redux, MobX
+* CSS preprocessors: Sass, Less
+* Build tools: Webpack, Rollup
+* Testing frameworks: Jest, Enzyme
+* Version control: Git, SVN
+* Operating Systems: Windows, macOS, Linux
+
+**Professional Experience:**
+
+**UI Engineer, ABC Company (2018 - Present)**
+
+* Designed and developed user interfaces for multiple web and mobile applications using React, Angular, and Vue.js
+* Collaborated with cross-functional teams, including product managers, designers, and backend engineers to deliver high-quality products on time
+* Implemented responsive design principles to ensure seamless user experiences across various devices and screen sizes
+* Developed and maintained reusable UI components using React Hooks and Context API
+* Conducted unit testing and integration testing using Jest and Enzyme to ensure code quality and stability
+
+**Senior Front-end Developer, DEF Agency (2015 - 2018)**
+
+* Led the front-end development team in building large-scale web applications using HTML, CSS, and JavaScript
+* Designed and implemented responsive layouts using CSS preprocessors like Sass and Less
+* Collaborated with designers to implement design concepts and ensure visual consistency across the application
+* Implemented accessibility features to ensure compliance with W3C Web Content Accessibility Guidelines (WCAG 2.1)
+* Mentored junior developers to improve their front-end development skills
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2010 - 2014)
+
+**Achievements:**
+
+* Successfully led the front-end development team in building a large-scale web application for a Fortune 500 company, resulting in a 25% increase in customer engagement
+* Developed and maintained a reusable UI component library using React Hooks and Context API, which reduced development time by 30%
+* Collaborated with the design team to implement a design system, resulting in a 25% reduction in design and development time
+
+**Projects:**
+
+* **React UI Component Library**: Developed a reusable UI component library using React Hooks and Context API, which provides a set of customizable UI components for building web applications.
+* **Accessible Web Application**: Built a web application that meets the W3C Web Content Accessibility Guidelines (WCAG 2.1) using HTML, CSS, and JavaScript.
+* **Responsive Web Design**: Designed and implemented a responsive web design for a large-scale web application using CSS preprocessors like Sass and Less.
+
+**Certifications:**
+
+* Certified Front-end Developer, Front-end Masters (2016)
+* Certified UI Engineer, UI Engineer Certification Board (2018)
+
+Note that this is just a sample resume, and you should customize it to fit your own experiences and qualifications. Good luck with your new role!

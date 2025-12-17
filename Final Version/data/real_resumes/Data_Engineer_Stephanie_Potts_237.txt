@@ -1,0 +1,59 @@
+Here's a professional resume for Stephanie Potts:
+
+Stephanie Potts
+Contact Information:
+
+* Email: [stephanie.potts@email.com](mailto:stephanie.potts@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/stephaniepotts
+
+Summary:
+Highly skilled Data Engineer with expertise in MLOps, Airflow, ETL, Cloud Platforms, Spark, and Data Warehousing. Proven track record of designing and implementing scalable, efficient, and secure data pipelines and data infrastructure. Proficient in collaborating with cross-functional teams to drive business outcomes through data-driven insights.
+
+Technical Skills:
+
+* MLOps: Model deployment, training, and serving
+* Airflow: Workflow orchestration, scheduling, and monitoring
+* ETL: Data extraction, transformation, and loading
+* Cloud Platforms: AWS, GCP, Azure
+* Spark: Scala, Python, and R programming
+* Data Warehousing: Snowflake, Redshift, BigQuery
+* Programming languages: Python, Java, Scala, R
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2020-Present)
+
+* Designed and implemented a scalable data pipeline using Airflow and Spark to process 1 TB of data daily
+* Collaborated with the data science team to deploy machine learning models using MLOps and Airflow
+* Developed and maintained a data warehouse on Snowflake, providing insights to business stakeholders
+* Worked with the DevOps team to implement cloud-based data infrastructure on AWS
+* Mentored junior data engineers and provided technical guidance on data engineering best practices
+
+Data Engineer, DEF Startup (2018-2020)
+
+* Built and maintained ETL pipelines using Python and Scala to integrate with various data sources
+* Implemented data quality checks and data validation using Spark and Python
+* Designed and deployed a data lake on GCP, providing a centralized repository for raw data
+* Collaborated with the data science team to develop and deploy machine learning models using Spark and Python
+* Worked with the engineering team to implement data-driven features in the product
+
+Education:
+
+* Master of Science in Data Science, XYZ University (2018)
+* Bachelor of Science in Computer Science, ABC University (2016)
+
+Achievements:
+
+* Best Paper Award, Data Science Conference (2020): Presented a paper on "Scalable Data Pipelines using Airflow and Spark"
+* Winner, Data Engineering Hackathon (2019): Developed a solution using Spark and Python to process 100 TB of data in 24 hours
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+
+Certifications:
+
+* Certified Data Engineer, Data Engineering Certification Board (2019)
+* Certified Scrum Master, Scrum Alliance (2018)
+
+References:
+Available upon request.

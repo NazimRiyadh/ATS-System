@@ -1,0 +1,63 @@
+**Liam**
+**Contact Information:**
+
+* Email: [liam@email.com](mailto:liam@email.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/liamdataengineer
+* GitHub: github.com/liamdataengineer
+
+**Objective:**
+To obtain a challenging and rewarding Data Engineer position that utilizes my skills and experience to extract insights and drive business growth.
+
+**Summary:**
+
+* Entry-level Data Engineer with 1-year experience in data processing, analysis, and visualization.
+* Strong foundation in database management, data warehousing, and big data technologies.
+* Proficient in programming languages such as Python, SQL, and R.
+* Experience with data competitions, achieving 3.1 ranking and recognition.
+
+**Technical Skills:**
+
+* Programming languages: Python, SQL, R
+* Database management systems: MySQL, PostgreSQL, MongoDB
+* Data warehousing: Amazon Redshift, Google BigQuery
+* Big data technologies: Apache Hadoop, Apache Spark
+* Data visualization tools: Tableau, Power BI
+* Operating Systems: Windows, Linux
+
+**Professional Experience:**
+
+**Data Engineer Intern**
+ABC Company (June 2022 - August 2022)
+
+* Designed and developed a data pipeline using Apache Beam and Google Cloud Storage to process and analyze customer data.
+* Implemented data quality checks and data validation using SQL and Pandas.
+* Trained and deployed a machine learning model using TensorFlow and scikit-learn to predict customer churn.
+
+**Competitions:**
+
+* **Kaggle Competitions:**
+	+ Ranked 3.1 in the "House Prices: Advanced Regression Techniques" competition, achieving a score of 0.975.
+	+ Ranked 2.5 in the "Titanic: Machine Learning from Disaster" competition, achieving a score of 0.82.
+* **Data Science Bowl:**
+	+ Ranked 4.2 in the "Data Science Bowl 2022" competition, achieving a score of 0.78.
+
+**Education:**
+
+* **Bachelor of Science in Computer Science**
+University of California, Los Angeles (2020-2024)
+
+**Certifications:**
+
+* **Certified Data Engineer**
+Google Cloud Certified - Professional Data Engineer (2022)
+
+**Projects:**
+
+* **Data Warehouse Design**
+Designed a data warehouse using Amazon Redshift and ETL processes to handle 10 TB of customer data.
+* **Real-time Data Processing**
+Developed a real-time data processing pipeline using Apache Kafka and Apache Spark to analyze IoT sensor data.
+
+**References:**
+Available upon request.

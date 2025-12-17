@@ -1,0 +1,65 @@
+here's a sample resume for allison foster:
+
+allison foster
+contact information:
+
+* email: [allison.foster@email.com](mailto:allison.foster@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/allisonfoster
+
+summary:
+highly motivated data engineer with 5+ years of experience in designing, developing, and deploying scalable data processing systems using big data technologies, cloud platforms, and spark. proven track record of delivering high-quality solutions on time and on budget.
+
+technical skills:
+
+* big data:
+	+ hadoop (hdfs, mapreduce, yarn)
+	+ apache spark (spark core, spark sql, spark streaming)
+	+ apache kafka
+	+ apache hbase
+* cloud platforms:
+	+ amazon web services (aws) - ec2, s3, glue, emr
+	+ google cloud platform (gcp) - dataproc, bigtable, cloud storage
+	+ microsoft azure - hdinsight, data lake storage
+* programming languages:
+	+ java
+	+ python
+	+ scala
+* tools and technologies:
+	+ apache nifi
+	+ apache airflow
+	+ apache cassandra
+	+ tableau
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and developed a scalable data ingestion pipeline using apache kafka, apache nifi, and apache spark
+* built a data warehousing solution using apache hbase and apache hive on aws
+* implemented a real-time analytics platform using apache spark streaming and apache cassandra
+* collaborated with cross-functional teams to deliver high-quality data products on time and on budget
+
+data engineer, def startups (2015-2018)
+
+* developed and deployed a hadoop-based data processing system using apache mapreduce and apache yarn
+* built a data analytics platform using apache spark and apache hbase on gcp
+* implemented a data quality and governance framework using apache nifi and apache airflow
+* worked with data scientists to deliver high-quality data products and insights
+
+education:
+
+* bachelor of science in computer science, xyz university (2010-2014)
+* master of science in data science, abc university (2015-2016)
+
+certifications:
+
+* certified apache spark developer, apache software foundation
+* certified data engineer, google cloud
+
+projects:
+
+* apache spark-based real-time analytics platform: designed and developed a scalable real-time analytics platform using apache spark streaming and apache cassandra
+* hadoop-based data ingestion pipeline: built a scalable data ingestion pipeline using apache kafka, apache nifi, and apache spark
+
+note: this is just a sample resume, and you should customize it to fit your specific experience and qualifications. also, make sure to proofread your resume multiple times for any errors or typos. good luck with your job search!

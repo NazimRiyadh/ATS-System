@@ -1,0 +1,57 @@
+Scott Jenkins
+Contact Information:
+
+* Email: [sjenkins@email.com](mailto:sjenkins@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/scottjenkins
+
+Summary:
+Highly motivated and experienced software engineer with a strong background in Java, algorithm, and data structure. Skilled in web development, backend development, and DevOps. Proficient in testing and API development. Profound understanding of software development life cycle and best practices.
+
+Technical Skills:
+
+* Programming languages: Java (8, 11, 17)
+* Development frameworks: Spring Boot, Spring MVC
+* Data structures and algorithms: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Dynamic Programming, Greedy Algorithms, etc.
+* Web development: HTML, CSS, JavaScript, React, Angular
+* Backend development: Node.js, Express.js
+* DevOps: Docker, Kubernetes, Jenkins, Git
+* Testing: JUnit, Mockito, Selenium
+* API development: RESTful API, GraphQL
+* Databases: MySQL, MongoDB, PostgreSQL
+
+Professional Experience:
+
+Software Engineer, ABC Corporation (2018-Present)
+
+* Design, develop, and deploy scalable and efficient software solutions using Java and Spring Boot
+* Collaborate with cross-functional teams to identify and prioritize project requirements
+* Implement automated testing and CI/CD pipelines using JUnit, Mockito, and Jenkins
+* Develop and maintain RESTful APIs using Spring MVC and Swagger
+* Participate in code reviews and contribute to the improvement of overall code quality
+
+Software Engineer, DEF Startups (2015-2018)
+
+* Contributed to the development of multiple web applications using Java, Spring, and React
+* Implemented data structures and algorithms to optimize application performance
+* Collaborated with the DevOps team to implement continuous integration and deployment pipelines
+* Developed and maintained APIs using Node.js and Express.js
+* Participated in the design and development of a microservices architecture
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Java Developer, Oracle Corporation (2016)
+* Certified Scrum Master, Scrum Alliance (2018)
+
+Projects:
+
+* Developed a RESTful API using Spring Boot and MongoDB to manage a e-commerce platform
+* Created a scalable web application using Java, Spring, and React to display real-time data
+* Implemented a DevOps pipeline using Jenkins, Docker, and Kubernetes to deploy a microservices architecture
+
+References:
+Available upon request.

@@ -1,0 +1,52 @@
+ishaan singh
+contact information:
+
+* email: [ishaan.singh@email.com](mailto:ishaan.singh@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/ishaan-singh
+
+summary:
+highly motivated and detail-oriented data engineer with 5+ years of experience in designing, developing, and maintaining large-scale data systems. proficient in a range of technologies including python, sql, etl, airflow, spark, and cloud-based services such as aws, docker, and kubernetes. proven track record of delivering high-quality data solutions that meet business requirements and drive business growth.
+
+technical skills:
+
+* programming languages: python, sql
+* etl tools: apache beam, apache airflow
+* data processing: apache spark, hadoop
+* data modeling: star and snowflake schema design
+* cloud-based services: aws (s3, glue, redshift), docker, kubernetes
+* data warehousing: amazon redshift, google bigquery
+* operating systems: linux, windows
+* agile methodologies: scrum, kanban
+
+professional experience:
+
+senior data engineer, abc corporation (2018-present)
+
+* designed and developed a data pipeline using apache beam and apache airflow to process 10tb of data daily
+* built and maintained a data warehouse on amazon redshift, providing insights to 100+ users
+* collaborated with cross-functional teams to implement data-driven decision-making processes
+* deployed microservices using docker and kubernetes, improving scalability and reliability by 30%
+
+data engineer, def startups (2015-2018)
+
+* developed and maintained etl scripts using python and apache spark to process 1tb of data daily
+* implemented data modeling and data warehousing solutions using star and snowflake schema designs
+* worked with the data science team to develop predictive models using machine learning algorithms
+* participated in the implementation of a data governance framework, ensuring data quality and compliance
+
+education:
+
+* bachelor of technology in computer science, xyz university (2010-2014)
+* master of science in data science, pqr university (2015-2017)
+
+certifications:
+
+* certified data engineer, data engineering certification board (2019)
+* certified apache spark developer, apache spark certification board (2018)
+
+achievements:
+
+* winner of the abc corporation's innovation award for developing a data-driven decision-making process (2019)
+* featured speaker at the data engineering conference, presenting on "designing scalable data pipelines using apache beam" (2018)
+* published a paper on "data modeling for large-scale data warehousing" in the journal of data science (2017)

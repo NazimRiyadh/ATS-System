@@ -1,0 +1,53 @@
+aditya joshi
+contact information:
+
+* email: [aditya.joshi@email.com](mailto:aditya.joshi@email.com)
+* phone: 123-456-7890
+* linkedin: linkedin.com/in/adityajoshi
+
+summary:
+highly motivated and detail-oriented software engineer with 4+ years of experience in designing and developing scalable, efficient, and maintainable software systems. proficient in java, python, javascript, and expertise in system design, algorithms, data structures, rest apis, and microservices. proven track record of delivering high-quality projects on time and collaborating effectively with cross-functional teams.
+
+technical skills:
+
+* programming languages: java, python, javascript
+* system design: microservices, rest apis, event-driven architecture
+* algorithms and data structures: sorting, searching, graphs, trees, hashing
+* development tools: git, ci/cd pipelines (jenkins, travis ci), agile methodologies (scrum, kanban)
+* databases: mysql, mongodb, postgresql
+* operating systems: windows, linux, macos
+
+professional experience:
+
+software engineer, abc company (2020-present)
+
+* designed and developed multiple microservices using java and spring boot, resulting in a 30% reduction in project delivery time
+* implemented rest apis for data exchange between services, ensuring seamless integration and communication
+* collaborated with the qa team to identify and resolve bugs, improving overall system reliability and stability
+* mentored junior engineers in system design, algorithms, and data structures, promoting knowledge sharing and growth
+
+software engineer, def startups (2018-2020)
+
+* contributed to the development of a cloud-based saas platform using python and django, handling user authentication and authorization
+* developed a real-time analytics dashboard using javascript and react, providing insights into user behavior and engagement
+* worked with the devops team to implement ci/cd pipelines using jenkins and travis ci, reducing deployment time by 50%
+* participated in code reviews, ensuring high-quality code and adhering to coding standards
+
+education:
+
+* bachelor of technology in computer science, xyz university (2015-2019)
+* master of science in computer science, pqr university (2019-2020)
+
+achievements:
+
+* awarded "best paper" at the annual university tech fest for a project on "efficient data retrieval using indexing techniques"
+* participated in the google code-in competition, completing 10 tasks and contributing to open-source projects
+* published a research paper on "system design for scalability and performance" in the international journal of advanced research in computer science and engineering
+
+certifications:
+
+* certified scrum master (csm)
+* certified java developer (ocpjp)
+
+references:
+available upon request.

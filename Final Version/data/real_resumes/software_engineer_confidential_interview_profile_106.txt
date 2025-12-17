@@ -1,0 +1,35 @@
+**confidential interview profile**
+
+**candidate:** snehal bhardwaj
+**role:** software engineer
+
+**key strengths:**
+
+* strong problem-solving and analytical skills demonstrated through past experiences
+* excellent communication and interpersonal skills, as evident from the interview
+* enthusiastic and eager to learn, with a willingness to take on new challenges
+
+**key areas for improvement:**
+
+* **software development**: snehal's coding skills, particularly in languages such as java, python, or c++, were not thoroughly demonstrated during the interview. while they mentioned having some experience in programming, it was clear that they require further practice and training to become proficient.
+* **algorithms and data structures**: snehal struggled to articulate their understanding of common algorithms and data structures, such as sorting, searching, and graph traversal. this was a significant concern, as these concepts are fundamental to software engineering.
+* **version control (git)**: snehal was unfamiliar with version control systems, including git, and did not demonstrate an understanding of how to use them to manage code changes.
+* **database management**: snehal's experience with database management systems, such as mysql or mongodb, was limited, and they did not demonstrate an understanding of how to design and optimize database schema.
+* **web development**: snehal did not have any experience with web development frameworks, such as react or angular, and their understanding of front-end development concepts, such as html, css, and javascript, was limited.
+* **computer science fundamentals**: snehal's understanding of computer science concepts, such as time and space complexity, scalability, and performance optimization, was not evident during the interview.
+
+**concerns raised during the interview:**
+
+* difficulty with certain tasks, such as writing clean and efficient code, or debugging complex issues
+* lack of familiarity with specific tools, such as ides, debuggers, or testing frameworks
+* limited experience with agile development methodologies and continuous integration/continuous deployment (ci/cd) pipelines
+
+**growth potential:**
+
+despite the gaps in snehal's skills and experience, they demonstrated a strong desire to learn and improve. with further training and exposure to software engineering concepts, tools, and technologies, they have the potential to grow into a skilled software engineer. it is essential to provide them with targeted guidance, mentorship, and opportunities for hands-on practice to help them bridge the gaps in their skills.
+
+**recommendations:**
+
+* provide snehal with a comprehensive training program that focuses on software development, algorithms, and data structures, as well as version control, database management, and web development.
+* pair snehal with an experienced mentor who can guide them through hands-on projects and provide constructive feedback.
+* encourage snehal to participate in coding challenges, hackathons, or online coding communities to help them build their skills and network with other developers.

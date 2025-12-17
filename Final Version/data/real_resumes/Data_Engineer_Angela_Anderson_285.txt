@@ -1,0 +1,59 @@
+Here's a professional resume for Angela Anderson:
+
+Angela Anderson
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [angela.anderson@email.com](mailto:angela.anderson@email.com)
+* LinkedIn: linkedin.com/in/angelaanderson
+
+Professional Summary:
+
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, implementing, and maintaining large-scale data pipelines using MLOps, Airflow, ETL, and Cloud Platforms. Proven track record of delivering high-quality data solutions that drive business insights and growth. Skilled in Spark, Data Warehousing, and cloud-based technologies, with a passion for innovation and problem-solving.
+
+Technical Skills:
+
+* MLOps: Model deployment, monitoring, and maintenance
+* Airflow: Workflow management, automation, and orchestration
+* ETL: Data extraction, transformation, and loading
+* Cloud Platforms: AWS, GCP, Azure
+* Spark: Data processing, analytics, and machine learning
+* Data Warehousing: Data modeling, ETL, and reporting
+* Programming languages: Python, SQL, Java
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented a large-scale data pipeline using Airflow, Spark, and AWS to process and analyze customer data
+* Developed and maintained ETL processes using Python, SQL, and Java to extract and transform data from various sources
+* Collaborated with cross-functional teams to integrate machine learning models into the data pipeline using MLOps
+* Implemented data warehousing solutions using Snowflake and AWS Redshift to provide real-time insights to stakeholders
+* Improved data quality and reduced latency by 30% through process optimization and automation
+
+Senior Data Engineer, DEF Startups (2015-2018)
+
+* Led a team of data engineers to design and implement a data platform using Spark, Hadoop, and AWS to support business growth
+* Developed and deployed machine learning models using scikit-learn and TensorFlow to predict customer behavior
+* Designed and implemented a cloud-based data warehousing solution using AWS Redshift and Amazon S3
+* Collaborated with data scientists to integrate data insights into business decision-making
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (DASCA)
+* Certified Cloud Practitioner, Amazon Web Services (AWS)
+
+Achievements:
+
+* Received the "Data Engineer of the Year" award at the 2020 Data Science Awards
+* Published a research paper on "MLOps: A Framework for Model Deployment and Maintenance" at the 2019 International Conference on Machine Learning
+* Developed and maintained an open-source Airflow library, used by over 10,000 users worldwide
+
+References:
+
+Available upon request.

@@ -1,0 +1,54 @@
+here's a sample resume for robert rice applying for the role of ui engineer:
+
+robert rice
+ui engineer
+
+contact information:
+
+* email: [robert.rice@email.com](mailto:robert.rice@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/robert-rice-ui-engineer
+* github: github.com/robert-rice
+
+summary:
+highly motivated and detail-oriented ui engineer with 5+ years of experience in designing and developing user interfaces for web applications. skilled in html, javascript, react, and ux design principles. proven track record of delivering high-quality, user-centered designs that drive business results.
+
+technical skills:
+
+* programming languages: html, javascript, react
+* design tools: sketch, figma, adobe xd
+* wireframing and prototyping: figma, invision
+* operating systems: windows, macos
+* agile development methodologies: scrum, kanban
+
+professional experience:
+
+* ui engineer, xyz corporation (2018-present)
+	+ designed and developed user interfaces for web applications using react, html, and css.
+	+ collaborated with cross-functional teams to define and implement ui/ux design principles.
+	+ created wireframes and prototypes using figma and invision to visualize and test design concepts.
+	+ conducted user research and testing to inform design decisions and improve user experience.
+* junior front-end developer, abc startup (2015-2018)
+	+ built and maintained front-end components using html, css, and javascript.
+	+ assisted in designing and implementing ui/ux design principles for web applications.
+	+ participated in code reviews and contributed to improving code quality and maintainability.
+
+education:
+
+* bachelor of science in computer science, [university name] (2015)
+	+ coursework: web development, data structures, algorithms, computer systems
+
+certifications:
+
+* certified user experience designer (cuxd), [certification name] (2020)
+	+ demonstrated expertise in ux design principles, human-centered design, and user research methods.
+
+projects:
+
+* personal portfolio: [github.com/robert-rice/portfolio](https://github.com/robert-rice/portfolio)
+	+ a showcase of ui/ux design and front-end development projects, including a responsive landing page and a single-page application.
+* react todo list: [github.com/robert-rice/react-todo-list](https://github.com/robert-rice/react-todo-list)
+	+ a simple todo list application built using react, html, and css.
+
+references:
+available upon request.

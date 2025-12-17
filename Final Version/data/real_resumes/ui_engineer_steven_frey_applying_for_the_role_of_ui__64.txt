@@ -1,0 +1,55 @@
+here's a sample resume for steven frey applying for the role of ui engineer:
+
+steven frey
+contact information:
+
+* email: [steven.frey@email.com](mailto:steven.frey@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/stevenfrey
+* github: github.com/stevenfrey
+
+summary:
+highly skilled ui engineer with 3+ years of experience in designing and developing user-centered interfaces using html, react, and wireframing tools. proficient in creating responsive and accessible designs that meet business requirements and user needs. strong understanding of front-end development principles, design patterns, and human-computer interaction.
+
+technical skills:
+
+* programming languages: html, css, javascript (es6+), react
+* frameworks: react, create react app
+* design tools: figma, sketch, adobe xd
+* wireframing tools: axure, whimsical
+* version control: git
+* operating systems: windows, macos
+
+professional experience:
+
+ui engineer, abc corporation (2019-present)
+
+* designed and developed responsive user interfaces for web applications using html, css, and react
+* created wireframes and prototypes to visualize and test user interface ideas
+* collaborated with cross-functional teams, including product management, design, and engineering, to ensure seamless integration and delivery of ui components
+* implemented accessibility features to ensure compliance with accessibility standards
+* participated in code reviews and ensured adherence to coding standards and best practices
+
+junior ui engineer, def agency (2017-2019)
+
+* assisted in designing and developing user interfaces for web applications using html, css, and react
+* created wireframes and prototypes to visualize and test user interface ideas
+* collaborated with designers to ensure that designs were implemented accurately
+* participated in the development of reusable ui components using react
+
+education:
+
+* bachelor of science in computer science, xyz university (2017)
+
+certifications:
+
+* certified react developer, codecademy (2018)
+* certified web developer, w3cx (2016)
+
+personal projects:
+
+* developed a personal website using react and deployed it on github pages
+* participated in open-source projects on github, contributing to the development of ui components and features
+
+references:
+available upon request

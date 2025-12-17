@@ -1,0 +1,60 @@
+Here's a sample resume for Thomas Walls:
+
+Thomas Walls
+System Administrator
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [thomas.walls@email.com](mailto:thomas.walls@email.com)
+* LinkedIn: linkedin.com/in/thomaswalls
+
+Professional Summary:
+Highly motivated and experienced System Administrator with a strong background in Windows Server, Active Directory, and Virtualization. Proven track record of delivering high-quality IT solutions and ensuring seamless operations in dynamic environments. Possesses excellent problem-solving skills, attention to detail, and exceptional communication skills.
+
+Technical Skills:
+
+* Operating Systems: Windows Server (2008, 2012, 2016), Windows 10
+* Directory Services: Active Directory (2008, 2012, 2016)
+* Virtualization: VMware (vSphere, ESXi), Hyper-V
+* Networking: TCP/IP, DNS, DHCP, Firewall Configuration
+* Scripting: PowerShell, Batch
+* Security: Windows Firewall, Group Policy, BitLocker
+
+Professional Experience:
+
+Senior System Administrator, XYZ Corporation (2018-Present)
+
+* Designed, implemented, and managed Windows Server environments for multiple departments, including file and print services, DNS, DHCP, and Active Directory.
+* Implemented and maintained VMware vSphere environments for virtualized servers and applications.
+* Configured and managed firewall rules, Group Policy, and BitLocker for secure data protection.
+* Collaborated with IT teams to resolve complex technical issues and ensure high uptime of critical systems.
+* Developed and maintained PowerShell scripts for automation and reporting.
+
+System Administrator, ABC Company (2015-2018)
+
+* Managed and maintained Windows Server 2012 R2 environments, including Active Directory, DNS, and DHCP.
+* Implemented and configured Hyper-V virtualization environments for server consolidation.
+* Provided Level 2 and Level 3 technical support for end-users, including troubleshooting and resolving technical issues.
+* Developed and maintained batch scripts for automation and reporting.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Microsoft Certified: Windows Server 2016 (MCSE: Cloud Platform and Infrastructure)
+* VMware Certified Professional (VCP-DCV)
+* CompTIA A+
+
+Achievements:
+
+* Successfully migrated all Windows Server 2008 R2 environments to Windows Server 2012 R2, resulting in improved security and performance.
+* Designed and implemented a centralized monitoring system using PowerShell and SCOM, resulting in reduced mean time to detect (MTTD) and mean time to resolve (MTTR).
+* Improved system uptime by 99.99% through proactive monitoring and maintenance.
+
+References:
+Available upon request.
+
+I hope this sample resume helps! Remember to customize the resume to fit your own experiences and the specific job you're applying for. Good luck with your job search!

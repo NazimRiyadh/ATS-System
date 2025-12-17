@@ -1,0 +1,27 @@
+**candidate profile: oshee gulati**
+
+**interview for data scientist role**
+
+**strengths:**
+
+oshee demonstrated excellent communication skills, presenting clear and concise ideas during the interview. their problem-solving approach and ability to think critically were notable, showcasing potential in navigating complex data-driven challenges. additionally, oshee's enthusiasm and willingness to learn were evident, highlighting their eagerness to grow in the field.
+
+**areas for improvement:**
+
+1.  **lack of proficiency in machine learning:** oshee's limited experience with machine learning models and algorithms was a significant concern. they struggled to explain the basics of supervised and unsupervised learning, and their understanding of popular libraries like scikit-learn and tensorflow was limited. this gap in knowledge may hinder their ability to develop and implement effective machine learning solutions.
+2.  **insufficient statistics knowledge:** oshee's grasp of statistical concepts, such as hypothesis testing, confidence intervals, and regression analysis, was not up to par. they found it challenging to apply theoretical knowledge to practical problems, indicating a need for further education in statistical theory and application.
+3.  **limited data visualization skills:** oshee's experience with data visualization tools like tableau, power bi, or d3.js was nonexistent. they struggled to create informative and engaging visualizations, highlighting the importance of developing expertise in data storytelling and communication.
+4.  **inadequate programming skills:** oshee's proficiency in python and r was limited, with a lack of experience in programming languages commonly used in data science. they faced difficulties with tasks that required writing efficient code, debugging, and optimizing data pipelines.
+5.  **insufficient experience with big data:** oshee's familiarity with big data technologies like hadoop, spark, and nosql databases was limited. they found it challenging to work with large datasets, process data in parallel, and optimize data storage and retrieval.
+6.  **lack of exposure to relevant tools and technologies:** oshee's experience with tools like aws, azure, or google cloud was non-existent. they struggled to understand the benefits and applications of these platforms, which are essential for modern data science workflows.
+
+**concerns raised during the interview:**
+
+*   difficulty with tasks that required data wrangling, feature engineering, and data preprocessing
+*   struggles with interpreting and communicating complex data insights
+*   limited understanding of data quality control, data validation, and data governance
+*   inability to explain the concepts of data bias, data drift, and data quality
+
+**potential for growth:**
+
+despite these gaps, oshee demonstrated a strong desire to learn and grow in the field of data science. with targeted training, mentorship, and exposure to relevant tools and technologies, they have the potential to develop the necessary skills to excel as a data scientist.

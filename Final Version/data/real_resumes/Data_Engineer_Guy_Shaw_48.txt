@@ -1,0 +1,66 @@
+Guy Shaw
+Data Engineer
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [gshaw@email.com](mailto:gshaw@email.com)
+* LinkedIn: linkedin.com/in/guysshaw
+
+Summary:
+Highly skilled Data Engineer with expertise in designing, developing, and deploying scalable data pipelines, databases, and data warehouses on cloud platforms. Proficient in Big Data Frameworks, Python, and CI/CD tools. Proven track record of successfully implementing data engineering solutions that drive business growth and improve operational efficiency.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop
+	+ Apache Spark
+	+ Apache Flink
+* Data Pipelines:
+	+ Apache Beam
+	+ Apache NiFi
+	+ AWS Glue
+* Databases:
+	+ Relational databases (MySQL, PostgreSQL)
+	+ NoSQL databases (MongoDB, Cassandra)
+	+ Cloud-native databases (Amazon DynamoDB, Google Cloud Firestore)
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud Platform (GCP)
+* Programming Languages:
+	+ Python
+	+ Java
+	+ Scala
+* Data Warehousing:
+	+ Amazon Redshift
+	+ Google BigQuery
+	+ Snowflake
+* CI/CD Tools:
+	+ Jenkins
+	+ GitLab CI/CD
+	+ CircleCI
+
+Professional Experience:
+
+* Senior Data Engineer, ABC Company (2018-Present)
+	+ Designed and developed scalable data pipelines using Apache Beam and Apache NiFi
+	+ Implemented data warehousing solutions using Amazon Redshift and Google BigQuery
+	+ Collaborated with cross-functional teams to develop and deploy data engineering solutions
+	+ Developed and maintained Python scripts using libraries such as Pandas, NumPy, and Scikit-learn
+* Data Engineer, DEF Company (2015-2018)
+	+ Designed and developed data ingestion pipelines using Apache Kafka and Apache Flume
+	+ Implemented data processing pipelines using Apache Spark and Apache Flink
+	+ Developed and deployed data visualization dashboards using Tableau and Power BI
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (DASCA)
+* Certified Scrum Master, Scrum Alliance
+
+References:
+Available upon request.

@@ -1,0 +1,58 @@
+Here's a sample resume for Jack Wilson, a Data Engineer candidate who was select for the role:
+
+**Jack Wilson**
+**Data Engineer**
+
+**Contact Information:**
+
+* Email: [jwilson@email.com](mailto:jwilson@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/jackwilsondata
+
+**Summary:**
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, building, and maintaining large-scale data systems. Proficient in a range of technologies, including big data, cloud, and machine learning. Proven track record of delivering high-quality solutions on time and on budget.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, Scala
+* Data platforms: Apache Hadoop, Apache Spark, Apache Kafka
+* Data storage: Amazon S3, Apache HBase, Cassandra
+* Database management: MySQL, PostgreSQL, MongoDB
+* Cloud platforms: AWS, GCP, Azure
+* Big data tools: Apache Beam, Apache Flink, Apache Storm
+* Machine learning: scikit-learn, TensorFlow, PyTorch
+* Operating Systems: Linux, Windows, macOS
+
+**Professional Experience:**
+
+**Senior Data Engineer, ABC Corporation (2018-Present)**
+
+* Designed and implemented a large-scale data pipeline using Apache Beam and Apache Kafka to process 10 TB of data daily
+* Developed and maintained a data warehouse using Amazon Redshift and PostgreSQL, resulting in a 30% reduction in query latency
+* Collaborated with cross-functional teams to design and implement a machine learning model using scikit-learn and TensorFlow, resulting in a 25% increase in sales revenue
+* Mentored junior engineers and provided technical guidance on data engineering best practices
+
+**Data Engineer, DEF Startups (2015-2018)**
+
+* Built and maintained a real-time data processing system using Apache Storm and Apache Cassandra
+* Designed and implemented a data ingestion pipeline using Apache NiFi and Apache Kafka
+* Collaborated with data scientists to develop and deploy machine learning models using scikit-learn and scikit-image
+* Contributed to the development of a data governance framework using Apache Atlas and Apache Ambari
+
+**Education:**
+
+* **Bachelor of Science in Computer Science**, XYZ University (2015)
+
+**Achievements:**
+
+* **Recipient of the ABC Corporation's Excellence in Engineering Award** (2019)
+* **Contributor to the Apache Beam project**, with multiple commits and bug fixes (2018-present)
+* **Speaker at the Data Engineering Summit** (2019), presenting on the topic of "Real-time Data Processing with Apache Storm"
+
+**Projects:**
+
+* **Apache Beam Pipeline for Real-time Data Processing**: Designed and implemented a real-time data processing pipeline using Apache Beam and Apache Kafka, capable of processing 10 TB of data daily
+* **Machine Learning Model using scikit-learn and TensorFlow**: Developed and deployed a machine learning model using scikit-learn and TensorFlow, resulting in a 25% increase in sales revenue
+* **Data Governance Framework using Apache Atlas and Apache Ambari**: Contributed to the development of a data governance framework using Apache Atlas and Apache Ambari, resulting in improved data quality and reduced data latency
+
+I hope this sample resume helps! Remember to customize your own resume to fit your specific experiences and the job description.

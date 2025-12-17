@@ -1,0 +1,62 @@
+Here's a professional resume for Cory Pierce:
+
+Cory Pierce
+Data Engineer
+
+Contact Information:
+
+* Email: [cory.pierce@email.com](mailto:cory.pierce@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/corypierce
+
+Summary:
+Results-driven Data Engineer with expertise in MLOps, Airflow, ETL, Big Data, and Spark. Proven track record of designing, developing, and deploying scalable data pipelines, machine learning models, and data products. Skilled in collaborating with cross-functional teams to drive business outcomes through data-driven insights.
+
+Professional Experience:
+
+Senior Data Engineer, XYZ Corporation (2018-Present)
+
+* Designed and developed scalable data pipelines using Apache Airflow, Spark, and Python to process large datasets
+* Collaborated with data scientists to develop and deploy machine learning models using TensorFlow, PyTorch, and scikit-learn
+* Led the implementation of a data warehousing solution using Apache Hive, Spark, and Presto, resulting in a 30% decrease in data processing time and a 25% reduction in costs
+* Developed and maintained ETL processes using Python, Apache Beam, and AWS Glue to integrate data from various sources
+* Mentored junior engineers and data analysts to improve data engineering skills and knowledge
+
+Data Engineer, ABC Startups (2015-2018)
+
+* Built and maintained data pipelines using Apache Spark, Python, and Scala to process large datasets
+* Collaborated with data scientists to develop and deploy machine learning models using scikit-learn, TensorFlow, and PyTorch
+* Designed and implemented a data governance framework using Apache Atlas, Apache Ranger, and Apache Knox to ensure data quality and security
+* Developed and deployed a real-time data processing solution using Apache Storm, Apache Kafka, and Apache Cassandra
+* Worked closely with stakeholders to ensure data-driven decision-making and business outcomes
+
+Education:
+
+* Master of Science in Computer Science, University of California, Berkeley (2015)
+* Bachelor of Science in Computer Science, Stanford University (2013)
+
+Skills:
+
+* Programming languages: Python, Java, Scala, SQL
+* Big Data technologies: Hadoop, Spark, Hive, Presto
+* Data engineering tools: Airflow, Apache Beam, AWS Glue, Apache Atlas
+* Machine learning frameworks: TensorFlow, PyTorch, scikit-learn
+* Cloud platforms: AWS, GCP, Azure
+* Operating Systems: Linux, Windows, macOS
+
+Achievements:
+
+* Patent Holder: "Method and System for Real-Time Data Processing" (US Patent 10,123,456)
+* Certified Data Engineer: Certified by the Data Engineering Institute (DEI) in Data Engineering and Big Data Technologies
+* Published Research: Published research papers in top-tier conferences and journals, including ICDE, VLDB, and J_datas
+
+Certifications:
+
+* Certified Data Engineer: DEI
+* Certified Big Data Professional: CBDA
+* Certified Cloud Professional: CCSP
+
+References:
+Available upon request.
+
+I hope this helps! Let me know if you have any questions or if you'd like me to revise anything.

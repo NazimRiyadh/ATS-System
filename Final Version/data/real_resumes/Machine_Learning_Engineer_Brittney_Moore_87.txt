@@ -1,0 +1,58 @@
+Here's a sample resume for Brittney Moore:
+
+Brittney Moore
+Machine Learning Engineer
+
+Contact Information:
+
+* Email: [brittneymoore@email.com](mailto:brittneymoore@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/brittneymoore
+
+Summary:
+Highly skilled Machine Learning Engineer with expertise in developing and deploying predictive models using Scikit-learn, TensorFlow, and PyTorch. Proven track record of improving model performance through feature engineering and hyperparameter tuning. Passionate about leveraging machine learning to drive business growth and improve decision-making.
+
+Technical Skills:
+
+* Programming languages: Python, R
+* Machine learning libraries: Scikit-learn, TensorFlow, PyTorch
+* Data preprocessing and feature engineering: Pandas, NumPy, Scikit-learn
+* Hyperparameter tuning: Grid search, Random search, Bayesian optimization
+* Deep learning: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks
+* Model deployment: Model serving, Model monitoring, Model interpretability
+
+Professional Experience:
+
+Machine Learning Engineer, ABC Corporation (2018-Present)
+
+* Developed and deployed multiple machine learning models using Scikit-learn, TensorFlow, and PyTorch to improve customer segmentation, churn prediction, and revenue forecasting
+* Collaborated with cross-functional teams to integrate machine learning models into production environments, resulting in 25% increase in revenue and 30% reduction in customer churn
+* Designed and implemented feature engineering pipelines using Pandas and NumPy to improve model performance and reduce data noise
+* Conducted hyperparameter tuning using Grid search, Random search, and Bayesian optimization to optimize model performance and reduce overfitting
+
+Machine Learning Intern, DEF Startup (Summer 2017)
+
+* Developed and deployed a PyTorch-based model for object detection in images, achieving 95% accuracy and 10x speedup compared to baseline models
+* Assisted in designing and implementing a data preprocessing pipeline using Pandas and NumPy to improve data quality and reduce data noise
+* Collaborated with the development team to integrate machine learning models into the company's product, resulting in 20% increase in user engagement
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+	+ Coursework: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Data Structures, Algorithms
+
+Achievements:
+
+* Kaggle Competitions:
+	+ Ranked Top 10% in the 2018 Kaggle Machine Learning Competition for predicting customer churn
+	+ Ranked Top 20% in the 2019 Kaggle Deep Learning Competition for object detection in images
+* Research Papers:
+	+ Co-authored a research paper on "Feature Engineering for Text Classification" published in the Journal of Machine Learning Research (2019)
+	+ Co-authored a research paper on "Hyperparameter Tuning for Deep Neural Networks" published in the International Journal of Machine Learning and Artificial Intelligence (2020)
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Machine Learning Engineer, Machine Learning Council (2020)
+
+I hope this sample resume helps! Remember to customize your resume to fit your specific experience and the job you're applying for.

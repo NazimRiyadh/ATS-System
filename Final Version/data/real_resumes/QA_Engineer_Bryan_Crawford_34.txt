@@ -1,0 +1,60 @@
+Here's a sample resume for Bryan Crawford:
+
+Bryan Crawford
+Quality Assurance Engineer
+
+Contact Information:
+
+* Phone: (555) 123-4567
+* Email: [bryancrawford@email.com](mailto:bryancrawford@email.com)
+* LinkedIn: linkedin.com/in/bryancrawfordqa
+
+Summary:
+Highly motivated and detail-oriented Quality Assurance Engineer with 5+ years of experience in manual and automated testing, leveraging expertise in Selenium and test case development to ensure software applications meet the highest standards of quality. Proven track record of delivering high-quality results and collaborating effectively with cross-functional teams to drive product success.
+
+Technical Skills:
+
+* Manual and Automated Testing
+* Selenium WebDriver (Java and Python)
+* Test Case Development (TestNG, Cucumber)
+* Test Automation Frameworks (JUnit, JBehave)
+* Version Control Systems (Git, SVN)
+* Agile Methodologies (Scrum, Kanban)
+* Operating Systems (Windows, Linux, macOS)
+* Familiarity with Continuous Integration/Continuous Deployment (CI/CD) pipelines
+
+Professional Experience:
+
+Quality Assurance Engineer, ABC Corporation (2018-Present)
+
+* Designed and executed manual and automated test cases to ensure software applications met quality and functionality requirements
+* Developed and maintained test automation frameworks using Selenium WebDriver and TestNG
+* Collaborated with development teams to identify and prioritize test cases, ensuring timely delivery of high-quality software
+* Conducted regular testing sessions and provided detailed defect reports to development teams
+* Participated in Agile development methodologies, including Scrum and Kanban
+
+Junior QA Engineer, DEF Startups (2015-2018)
+
+* Assisted in manual testing and test case development for web and mobile applications
+* Gained experience with test automation frameworks, including JBehave and Cucumber
+* Developed and maintained test scripts using Selenium WebDriver and Java
+* Collaborated with development teams to identify and prioritize test cases, ensuring timely delivery of high-quality software
+
+Education:
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Associate in Software Testing (CAST), QAI Global Institute (2017)
+* Certified Scrum Master (CSM), Scrum Alliance (2019)
+
+Achievements:
+
+* Developed and implemented a test automation framework using Selenium WebDriver and TestNG, resulting in a 30% reduction in testing time
+* Collaborated with development teams to identify and prioritize test cases, ensuring timely delivery of high-quality software
+* Conducted regular testing sessions and provided detailed defect reports to development teams, resulting in a 25% reduction in defect density
+* Participated in Agile development methodologies, including Scrum and Kanban, and contributed to the implementation of CI/CD pipelines
+
+References:
+Available upon request.

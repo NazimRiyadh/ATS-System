@@ -1,0 +1,57 @@
+here's a sample resume for christopher lopez applying for a data scientist role:
+
+christopher lopez
+contact information:
+
+* email: [christopher.lopez@email.com](mailto:christopher.lopez@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/christopherlopezdsc
+* github: github.com/christopherlopezdsc
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in statistical modeling, data visualization, and sql. proficient in extracting insights from large datasets and communicating complex findings to both technical and non-technical stakeholders.
+
+technical skills:
+
+* programming languages: python, r
+* data analysis and visualization tools: tableau, power bi, matplotlib, seaborn
+* database management: sql, mysql, postgresql
+* statistical software: r studio, jupyter notebook
+* operating systems: windows, linux
+
+professional experience:
+
+data analyst, xyz corporation (2018-present)
+
+* analyzed large datasets to identify trends and patterns using statistical models and data visualization techniques
+* developed and maintained complex sql queries to extract insights from relational databases
+* created interactive dashboards to communicate findings to business stakeholders using tableau and power bi
+* collaborated with cross-functional teams to design and implement data-driven solutions
+* implemented a/b testing and experimentation methodology to optimize business outcomes
+
+research assistant, abc university (2015-2018)
+
+* assisted in designing and conducting statistical studies using r and python
+* developed and implemented data visualization tools using matplotlib and seaborn
+* analyzed and interpreted results from large-scale experiments using statistical software
+* presented research findings to academic and industry audiences
+
+education:
+
+* bachelor's/master's degree in statistics, abc university (2015-2018)
+	+ coursework: statistical inference, regression analysis, time series analysis, machine learning
+
+certifications:
+
+* certified data analyst, data science council of america
+* certified analytics professional, institute for operations research and the management sciences
+
+projects:
+
+* predicting customer churn using machine learning: developed a predictive model using python and scikit-learn to identify customers at risk of churning. (github: github.com/christopherlopezdsc/customer_churn)
+* analyzing the impact of weather on sales: used sql and tableau to analyze the relationship between weather patterns and sales data for a retail company. (github: github.com/christopherlopezdsc/weather_analysis)
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to the specific job you're applying for, and highlight your unique skills and experiences. good luck with your job search!

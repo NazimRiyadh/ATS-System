@@ -1,0 +1,48 @@
+Liam
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [liam@email.com](mailto:liam@email.com)
+* LinkedIn: linkedin.com/in/liam
+
+**Objective:**
+To obtain a Data Scientist position in a dynamic and innovative company.
+
+**Education:**
+
+* Bachelor's Degree in Statistics, XYZ University (2018-2022)
+	+ GPA: 3.2
+
+**Competitions and Projects:**
+
+* **Kaggle Competitions:**
+	+ **Titanic: Machine Learning from Disaster** - Ranked 2,304th out of 29,799 participants
+		- Score: 0.76712
+	+ **House Prices: Advanced Regression Techniques** - Ranked 1,001st out of 5,003 participants
+		- Score: 0.80014
+* **Personal Projects:**
+	+ **Predicting Customer Churn using Machine Learning** - Built a model to predict customer churn using Python and scikit-learn
+		- Accuracy: 85%
+	+ **Exploratory Data Analysis on Airbnb Listings** - Explored and visualized data on Airbnb listings using Python and Pandas
+
+**Skills:**
+
+* Programming languages: Python, R
+* Data analysis and visualization tools: Pandas, NumPy, Matplotlib, Seaborn
+* Machine learning libraries: scikit-learn, TensorFlow
+* Operating Systems: Windows, Linux
+
+**Experience:**
+
+* **Data Analyst, ABC Company** (Intern, June 2021 - August 2021)
+	+ Collected and cleaned data from various sources
+	+ Built and presented data visualizations to stakeholders
+	+ Assisted in data-driven decision making
+
+**Certifications:**
+
+* **Google Data Analytics Certification** (2020)
+* **Microsoft Professional Program in Data Science** (2020)
+
+**References:**
+Available upon request.

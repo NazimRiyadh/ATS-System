@@ -1,0 +1,67 @@
+Here's a sample resume for a System Administrator candidate:
+
+Daniel Key
+Contact Information:
+
+* Email: [daniel.key@email.com](mailto:daniel.key@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/danielkey
+
+Professional Summary:
+Highly motivated and experienced System Administrator with a strong background in Linux/Unix, Windows Server, and Virtualization. Proven track record of delivering high-quality IT services, with expertise in system monitoring, Active Directory, and network security. Possess excellent problem-solving skills, with the ability to work effectively in fast-paced environments.
+
+Technical Skills:
+
+* Operating Systems: Linux (Red Hat, Ubuntu), Unix (Solaris, AIX), Windows Server (2012, 2016, 2019)
+* Virtualization: VMware ESXi, Microsoft Hyper-V
+* System Monitoring: Nagios, Prometheus, Grafana
+* Active Directory: Windows Server 2012, 2016, 2019
+* Networking: TCP/IP, DNS, DHCP, Firewall
+* Scripting: Bash, PowerShell
+* Cloud Computing: Amazon Web Services (AWS), Microsoft Azure
+
+Professional Experience:
+
+System Administrator, ABC Corporation (2018-Present)
+
+* Managed and maintained a large-scale Linux environment, consisting of over 50 servers, with a focus on high availability and disaster recovery.
+* Implemented and configured Active Directory, including group policy, user/group management, and authentication.
+* Deployed and configured VMware ESXi virtualization environment, with over 200 virtual machines.
+* Monitored and analyzed system performance using Nagios and Prometheus, identifying and resolving critical issues.
+* Collaborated with development teams to implement and support new applications, ensuring smooth integration with existing infrastructure.
+
+System Engineer, DEF Company (2015-2018)
+
+* Designed and implemented a Windows Server 2012 environment, including AD, DNS, and DHCP.
+* Configured and managed network security, including firewalls and access control lists.
+* Deployed and configured Microsoft Hyper-V virtualization environment, with over 100 virtual machines.
+* Provided level 2 and level 3 support for systems, networks, and applications.
+* Participated in disaster recovery and business continuity planning, ensuring minimal downtime and data loss.
+
+Education and Certifications:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+* CompTIA A+ Certification (2012)
+* Microsoft Certified System Administrator (MCSA) Windows Server 2012 (2014)
+* Red Hat Certified Engineer (RHCE) Linux (2016)
+
+Achievements:
+
+* Successfully implemented a Linux-based load balancer, resulting in 30% reduction in system downtime.
+* Developed and deployed a PowerShell script to automate system monitoring, reducing manual effort by 50%.
+* Collaborated with a team to implement a cloud-based disaster recovery solution, ensuring 99.99% uptime for critical applications.
+* Received a "System Administrator of the Month" award for exceptional problem-solving skills and dedication to delivering high-quality IT services.
+
+References:
+Available upon request.
+
+This resume structure includes:
+
+1. A clear and concise professional summary, highlighting the candidate's key strengths and experience.
+2. A detailed technical skills section, showcasing the candidate's expertise in various operating systems, virtualization, system monitoring, and networking.
+3. A professional experience section, highlighting the candidate's achievements and responsibilities in previous roles.
+4. An education and certifications section, showcasing the candidate's formal education and relevant certifications.
+5. An achievements section, highlighting the candidate's notable accomplishments and successes.
+6. A clear and concise format, with bullet points and white space to make the resume easy to read and scan.
+
+Note that this is just a sample, and you should tailor your resume to your specific experience, skills, and the job you're applying for.

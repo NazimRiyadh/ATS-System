@@ -1,0 +1,57 @@
+here's a sample resume for connie roberts applying for the role of data scientist:
+
+connie roberts
+data scientist
+
+contact information:
+
+* email: [connie.roberts@email.com](mailto:connie.roberts@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/connieroberts
+* github: github.com/connieroberts
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in statistics, deep learning, and sql. proven track record of extracting insights from complex data sets and communicating findings to stakeholders. proficient in a range of programming languages, including python, r, and sql.
+
+technical skills:
+
+* programming languages: python, r, sql
+* machine learning libraries: tensorflow, pytorch, scikit-learn
+* deep learning frameworks: keras, theano
+* statistics and data visualization libraries: numpy, pandas, matplotlib, seaborn
+* databases: mysql, postgresql
+* operating systems: windows, linux, macos
+
+professional experience:
+
+data scientist, abc corporation (2018-present)
+
+* designed and implemented predictive models using deep learning and machine learning techniques to forecast customer churn and improve marketing campaigns
+* developed and maintained large-scale databases using sql to store and analyze customer data
+* collaborated with cross-functional teams to identify business opportunities and develop data-driven solutions
+* created data visualizations and reports to communicate insights to stakeholders using tools such as tableau and power bi
+
+data analyst, def startups (2015-2018)
+
+* conducted statistical analysis and data visualization to identify trends and insights from large datasets
+* developed and maintained databases using sql to store and analyze customer data
+* created reports and dashboards to communicate findings to stakeholders using tools such as excel and power bi
+
+education:
+
+* master of science in statistics, xyz university (2015)
+	+ coursework: statistical inference, machine learning, time series analysis, and data mining
+* bachelor of science in mathematics, abc university (2013)
+	+ coursework: calculus, linear algebra, probability, and statistics
+
+certifications:
+
+* certified data scientist, data science council of america (2019)
+* certified analytics professional, institute for operations research and the management sciences (2018)
+
+projects:
+
+* predicting customer churn using deep learning: developed a deep learning model using tensorflow to predict customer churn and improve marketing campaigns. (github: [github.com/connieroberts/customer_churn](http://github.com/connieroberts/customer_churn))
+* analyzing customer purchase behavior using sql: conducted statistical analysis and data visualization to identify trends and insights from customer purchase data using sql. (github: [github.com/connieroberts/customer_purchases](http://github.com/connieroberts/customer_purchases))
+
+i hope this helps! remember to tailor your resume to the specific job description and requirements, and don't hesitate to reach out if you have any questions or need further assistance.

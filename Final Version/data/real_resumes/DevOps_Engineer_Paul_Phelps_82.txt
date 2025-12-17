@@ -1,0 +1,57 @@
+Here's a professional resume for Paul Phelps:
+
+Paul Phelps
+DevOps Engineer
+
+Contact Information:
+
+* Email: [paulphelps@email.com](mailto:paulphelps@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/paulphelps
+
+Summary:
+Highly motivated and detail-oriented DevOps Engineer with expertise in CI/CD, Ansible, Infrastructure as Code, and Monitoring Tools. Proven track record of delivering high-quality solutions that improve efficiency, scalability, and reliability. Skilled in automating infrastructure provisioning, deployment, and management, with a strong focus on collaboration and continuous improvement.
+
+Technical Skills:
+
+* CI/CD: Jenkins, GitLab CI/CD, Docker
+* Infrastructure as Code: Ansible, Terraform, AWS CloudFormation
+* Monitoring Tools: Prometheus, Grafana, Nagios
+* Scripting: Python, Bash, Shell
+* Operating Systems: Linux (Red Hat, Ubuntu), Windows
+* Cloud Platforms: AWS, Azure, Google Cloud
+
+Professional Experience:
+
+DevOps Engineer, ABC Company (2020-Present)
+
+* Designed and implemented a CI/CD pipeline using Jenkins and Docker, resulting in 30% reduction in deployment time and 25% reduction in errors
+* Developed and maintained Ansible playbooks for infrastructure provisioning and configuration management
+* Implemented Monitoring Tools (Prometheus, Grafana) to provide real-time visibility into application performance and system metrics
+* Collaborated with cross-functional teams to identify and resolve infrastructure and application issues
+
+Senior Systems Administrator, DEF Company (2018-2020)
+
+* Managed and maintained large-scale Linux and Windows infrastructure environments
+* Developed and implemented automated scripts for system provisioning, patching, and security updates
+* Collaborated with development teams to ensure smooth deployment and rollout of new applications and services
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Ansible Administrator (CAA)
+* Certified Linux Administrator (CLA)
+
+Achievements:
+
+* Recipient of the ABC Company's "Innovation Award" for designing and implementing a novel CI/CD pipeline
+* Published a blog post on "Best Practices for Ansible Role Development" on the Ansible Community Blog
+* Participated in the DEF Company's "IT Innovation Challenge" and presented a solution for automating system provisioning using Ansible
+
+References:
+Available upon request.
+
+This resume follows a clear structure, highlighting Paul Phelps' technical skills, professional experience, education, and achievements. The summary provides a concise overview of his expertise and experience, while the technical skills section lists his proficiency in various tools and technologies. The professional experience section provides specific examples of his accomplishments and responsibilities, and the achievements section highlights his notable accomplishments and recognition.

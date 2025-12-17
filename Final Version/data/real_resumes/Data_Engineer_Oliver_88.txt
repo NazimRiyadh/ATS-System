@@ -1,0 +1,60 @@
+**Oliver**
+**Data Engineer**
+
+**Contact Information:**
+
+* Email: [oliver@email.com](mailto:oliver@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/oliverdataengineer
+* GitHub: github.com/oliverdataengineer
+
+**Summary:**
+Highly accomplished Senior Data Engineer with 8+ years of experience in designing, developing, and deploying large-scale data pipelines, architectures, and systems. Proven track record of delivering high-quality data solutions that drive business growth and insights. Skilled in a range of technologies, including data warehousing, ETL, big data processing, and cloud computing.
+
+**Technical Skills:**
+
+* Programming languages: Python, Java, Scala, SQL
+* Data platforms: Apache Hadoop, Apache Spark, Amazon Redshift, Google BigQuery
+* Data integration: Apache Beam, Apache NiFi, AWS Glue
+* Cloud platforms: Amazon Web Services, Google Cloud Platform, Microsoft Azure
+* Data warehousing: Amazon Redshift, Google BigQuery, Snowflake
+* Big data processing: Apache Spark, Apache Flink, Apache Storm
+* Operating Systems: Linux, Windows
+
+**Professional Experience:**
+
+* **Senior Data Engineer, ABC Company (2018-Present)**
+	+ Designed and developed a scalable data pipeline using Apache Beam and Google Cloud Dataflow to process 10+ TB of data daily
+	+ Built and maintained a data warehouse using Amazon Redshift, providing real-time insights to business stakeholders
+	+ Collaborated with cross-functional teams to design and implement a data lake using Amazon S3 and Apache Hadoop
+	+ Led a team of 3 data engineers to develop a cloud-based data processing platform using Apache Spark and AWS Glue
+* **Data Engineer, DEF Company (2015-2018)**
+	+ Developed and deployed a data integration platform using Apache NiFi and AWS Glue to integrate data from 10+ sources
+	+ Built and maintained a big data processing pipeline using Apache Spark and Apache Storm to process 1+ TB of data daily
+	+ Collaborated with data scientists to design and implement a data analytics platform using Python and Jupyter Notebook
+
+**Education:**
+
+* **Master of Science in Computer Science, XYZ University (2010-2012)**
+* **Bachelor of Science in Computer Science, ABC University (2006-2010)**
+
+**Competitions and Awards:**
+
+* **Winner, Google Analytics Competition (2018)**
+	+ Developed a predictive model using Google Cloud AI Platform and Python to predict website traffic and engagement
+	+ Won 1st prize and a $10,000 cash award
+* **Winner, Data Science Bowl (2017)**
+	+ Developed a machine learning model using Apache Spark and Python to predict heart disease risk factors
+	+ Won 1st prize and a $5,000 cash award
+* **Winner, AWS Machine Learning Competition (2016)**
+	+ Developed a recommender system using AWS SageMaker and Python to predict user behavior
+	+ Won 1st prize and a $2,000 cash award
+
+**Certifications:**
+
+* **Certified Data Engineer, Google Cloud (2019)**
+* **Certified Apache Spark Developer, Apache Software Foundation (2018)**
+* **Certified AWS Certified Data Engineer, Amazon Web Services (2017)**
+
+**References:**
+Available upon request.

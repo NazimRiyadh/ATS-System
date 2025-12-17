@@ -1,0 +1,62 @@
+**Noah**
+**Data Engineer**
+
+**Contact Information:**
+
+* Phone: 555-123-4567
+* Email: [noah@email.com](mailto:noah@email.com)
+* LinkedIn: linkedin.com/in/noahdatagenie
+
+**Summary:**
+Mid-level Data Engineer with 5+ years of experience in designing, developing, and maintaining large-scale data pipelines, with a strong focus on real-time analytics, ETL, and data warehousing. Proven track record of achieving high performance in competitions, with a 4.1 GPA. Skilled in Python, Scala, SQL optimization, and cloud data tools. Proficient in working in hybrid environments, with expertise in data integration, data warehousing, and real-time analytics.
+
+**Technical Skills:**
+
+* Programming languages: Python, Scala
+* Databases: MySQL, PostgreSQL, Redshift
+* Data integration tools: Apache Beam, Apache Spark
+* Cloud platforms: AWS, GCP
+* Data warehousing: Amazon Redshift, Snowflake
+* Real-time analytics: Apache Kafka, Apache Flink
+* ETL pipelines: Apache Airflow, AWS Glue
+* SQL optimization: Explain plans, indexing, and query rewriting
+* Data mining and machine learning: scikit-learn, TensorFlow
+
+**Professional Experience:**
+
+* **Data Engineer**, ABC Corporation (2018-Present)
+	+ Designed, developed, and maintained large-scale data pipelines for real-time analytics and business intelligence
+	+ Worked with cross-functional teams to integrate data from various sources, including social media, IoT devices, and customer feedback systems
+	+ Implemented data warehousing solutions using Amazon Redshift and Snowflake, with a focus on data modeling, data transformation, and data quality
+	+ Developed ETL pipelines using Apache Beam and Apache Spark, with a focus on scalability, performance, and fault tolerance
+	+ Collaborated with data scientists to develop machine learning models using scikit-learn and TensorFlow
+* **Junior Data Engineer**, DEF Startups (2015-2018)
+	+ Assisted in the design and development of data pipelines for real-time analytics and business intelligence
+	+ Worked with data analysts to integrate data from various sources, including customer feedback systems and social media
+	+ Implemented data warehousing solutions using MySQL and PostgreSQL, with a focus on data modeling, data transformation, and data quality
+	+ Developed ETL pipelines using Python and Apache Airflow, with a focus on scalability, performance, and fault tolerance
+
+**Education:**
+
+* **Master of Science in Data Science**, XYZ University (2015)
+	+ Coursework: Machine Learning, Data Mining, Data Visualization, and Database Systems
+	+ GPA: 4.1/4.0
+* **Bachelor of Science in Computer Science**, ABC University (2010-2014)
+	+ Coursework: Algorithms, Data Structures, Computer Systems, and Database Systems
+
+**Competitions:**
+
+* **1st Place**, Data Science Bowl (2018)
+	+ Developed a machine learning model using scikit-learn and TensorFlow to predict energy consumption
+	+ Collaborated with a team of data scientists to integrate data from various sources, including weather APIs and energy metering systems
+* **2nd Place**, Kaggle Competition (2017)
+	+ Developed a machine learning model using scikit-learn and TensorFlow to predict customer churn
+	+ Worked with a team of data analysts to integrate data from various sources, including customer feedback systems and social media
+
+**Certifications:**
+
+* **Certified Data Engineer**, Data Engineering Certification Board (2019)
+* **Certified Data Scientist**, Data Science Certification Board (2018)
+
+**References:**
+Available upon request.

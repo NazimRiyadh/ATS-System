@@ -1,0 +1,60 @@
+Luke Harris
+Software Engineer
+
+Contact Information:
+
+* Email: [lukes.harris@email.com](mailto:lukes.harris@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/lukemharris
+* GitHub: github.com/lukemharris
+
+Summary:
+Highly motivated and detail-oriented software engineer with 3+ years of experience in designing, developing, and deploying scalable software applications using Java, algorithms, and data structures. Skilled in backend development, web development, version control, testing, and API development. Proficient in a range of technologies and methodologies, with a strong passion for learning and growth.
+
+Technical Skills:
+
+* Programming languages: Java, Python
+* Frameworks: Spring, Hibernate
+* Databases: MySQL, MongoDB
+* Operating Systems: Windows, Linux
+* Version Control: Git, SVN
+* Agile Methodologies: Scrum, Kanban
+* Testing: JUnit, Mockito
+* APIs: RESTful, SOAP
+* Development Tools: Eclipse, IntelliJ, Visual Studio Code
+
+Experience:
+
+Software Engineer, ABC Company (2018-Present)
+
+* Designed and developed multiple web applications using Java, Spring, and Hibernate
+* Implemented advanced algorithms and data structures to optimize application performance
+* Collaborated with cross-functional teams to identify and prioritize project requirements
+* Utilized Git for version control and SVN for source control
+* Conducted unit testing and integration testing using JUnit and Mockito
+* Deployed applications to production using Docker and Kubernetes
+
+Junior Software Engineer, DEF Startups (2015-2018)
+
+* Participated in the development of several mobile applications using Java and Android SDK
+* Assisted in the design and implementation of backend APIs using RESTful and SOAP
+* Worked closely with the QA team to identify and resolve bugs
+* Collaborated with the design team to create user interfaces and user experiences
+* Utilized Agile methodologies, including Scrum and Kanban, to manage project workflows
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015)
+
+Certifications:
+
+* Certified Java Developer, Oracle Corporation (2016)
+* Certified Scrum Master, Scrum Alliance (2017)
+
+Projects:
+
+* Personal Project: Developed a RESTful API using Java and Spring to manage a simple blog application. Utilized Git for version control and deployed to Heroku.
+* Contributed to the open-source project, "AlgoExpert", which provides interactive coding challenges and exercises in algorithms and data structures. Utilized GitHub for version control and collaboration.
+
+References:
+Available upon request.

@@ -1,0 +1,59 @@
+Here's a sample resume for Carol Medina DVM, a Cloud Architect candidate with expertise in AWS, Azure, and Terraform:
+
+Carol Medina DVM
+Cloud Architect
+
+Contact Information:
+
+* Email: [carol.medina@email.com](mailto:carol.medina@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/carolmedinadvm
+
+Professional Summary:
+Highly skilled Cloud Architect with 10+ years of experience in designing, building, and managing scalable and secure cloud infrastructure on AWS, Azure, and Terraform. Proven track record of delivering complex projects on time and within budget. Possesses a strong understanding of cloud computing principles, architecture, and best practices.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Infrastructure as Code (IaC): Terraform, CloudFormation
+* Containerization: Docker, Kubernetes
+* Networking: VPC, Subnets, Security Groups, Load Balancers
+* Storage: S3, EBS, Azure Blob Storage
+* Security: IAM, RBAC, Compliance, Auditing
+* Monitoring: Prometheus, Grafana, New Relic
+* Agile Methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Cloud Architect, XYZ Corporation (2018-Present)
+
+* Designed and implemented a hybrid cloud infrastructure on AWS and Azure for a Fortune 500 company, resulting in 30% reduction in costs and 25% increase in scalability.
+* Led a team of 5 engineers to migrate a legacy on-premises application to AWS, resulting in 99.99% uptime and 40% reduction in maintenance costs.
+* Developed and maintained a Terraform-based IaC framework for provisioning and managing cloud resources, ensuring consistency and reproducibility across environments.
+* Collaborated with cross-functional teams to design and implement a cloud-based DevOps pipeline, resulting in 50% reduction in deployment time and 20% increase in quality.
+
+Senior Systems Engineer, ABC Startups (2015-2018)
+
+* Designed and implemented a scalable and secure cloud infrastructure on AWS for a startup, resulting in 90% reduction in costs and 95% increase in scalability.
+* Migrated a legacy on-premises application to Azure, resulting in 99.99% uptime and 30% reduction in maintenance costs.
+* Developed and maintained a comprehensive security framework for cloud environments, ensuring compliance with industry standards and regulations.
+
+Education:
+
+* Doctor of Veterinary Medicine (DVM), University of California, Davis (2005-2009)
+* Master of Science in Computer Science, Stanford University (2012-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional
+* Microsoft Certified: Azure Solutions Architect Expert
+* Certified Cloud Architect (CCA)
+
+Achievements:
+
+* Recipient of the 2019 AWS re:Invent Award for Innovation in Cloud Computing
+* Published 10+ technical articles on cloud computing and infrastructure as code
+* Speaker at 5+ industry conferences on cloud computing and DevOps
+
+References:
+Available upon request.

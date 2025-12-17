@@ -1,0 +1,52 @@
+here's a sample resume for thomas moore:
+
+thomas moore
+contact information:
+
+* email: [thomas.moore@email.com](mailto:thomas.moore@email.com)
+* phone: 555-555-5555
+* linkedin: linkedin.com/in/thomasmooresoftware
+* github: github.com/thomasmooresoftware
+
+summary:
+highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software systems. skilled in multiple programming languages, including java, c++, and python, with a strong foundation in data structures and system design. proficient in agile methodologies and passionate about delivering high-quality software solutions.
+
+technical skills:
+
+* programming languages: java, c++, python
+* data structures: arrays, linked lists, stacks, queues, trees, graphs
+* system design: microservices, restful apis, database design, cloud computing (aws, azure)
+* development tools: git, jenkins, maven, gradle, docker
+* agile methodologies: scrum, kanban
+* operating systems: windows, linux, macos
+
+professional experience:
+
+senior software engineer, abc corporation (2018-present)
+
+* designed and developed multiple microservices-based systems using java, spring boot, and docker
+* collaborated with cross-functional teams to identify and prioritize requirements, and ensured timely delivery of high-quality software
+* implemented scalable database solutions using mysql, postgresql, and mongodb
+* developed and maintained restful apis using spring mvc and swagger
+* participated in code reviews, ensured adherence to coding standards, and improved code quality
+
+software engineer, def startups (2015-2018)
+
+* contributed to the development of a real-time analytics platform using python, flask, and mongodb
+* designed and implemented a scalable data processing pipeline using apache kafka and apache storm
+* worked on multiple projects using c++, including a high-performance graphics rendering engine and a machine learning framework
+* participated in code reviews, ensured adherence to coding standards, and improved code quality
+
+education:
+
+* bachelor of science in computer science, xyz university (2015)
+
+certifications:
+
+* certified scrum master (csm), scrum alliance (2019)
+* certified java developer (ocpjp), oracle corporation (2016)
+
+references:
+available upon request.
+
+note: this is just a sample resume, and you should tailor your own resume to your specific experience and the job you're applying for. also, make sure to proofread your resume multiple times for any grammar or spelling errors before submitting it.

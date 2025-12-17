@@ -1,0 +1,59 @@
+here's a sample resume for bradley hawkins:
+
+bradley hawkins
+contact information:
+
+* address: [insert address]
+* phone: [insert phone number]
+* email: [insert email]
+* linkedin: [insert linkedin profile url]
+
+summary:
+highly motivated and detail-oriented data scientist with expertise in python, statistics, machine learning, sql, and data visualization. proven track record of delivering high-quality data-driven insights to inform business decisions. skilled in working with large datasets, identifying patterns, and developing predictive models to drive business growth.
+
+technical skills:
+
+* programming languages: python
+* statistical analysis: regression, hypothesis testing, time series analysis
+* machine learning: supervised and unsupervised learning, neural networks, gradient boosting
+* databases: sql, nosql
+* data visualization: matplotlib, seaborn, plotly, tableau
+* operating systems: windows, linux
+
+professional experience:
+
+data scientist, xyz corporation (2020-present)
+
+* developed and deployed predictive models using python and scikit-learn to forecast sales and customer churn
+* analyzed large datasets to identify trends and patterns, and provided insights to inform business decisions
+* worked with cross-functional teams to design and implement data visualizations to communicate complex data insights to non-technical stakeholders
+* collaborated with data engineers to ensure data quality and integrity
+* utilized sql to extract and manipulate data from relational databases
+
+data analyst, abc startups (2018-2020)
+
+* collected and analyzed data from various sources, including surveys, social media, and customer feedback
+* developed and maintained dashboards using tableau to track key performance indicators (kpis)
+* conducted statistical analysis to identify correlations and patterns in the data
+* implemented a/b testing and experimentation to measure the effectiveness of marketing campaigns
+* worked with the product team to design and implement data-driven product features
+
+education:
+
+* bachelor's degree in mathematics and statistics, [university name] (2018)
+* master's degree in data science, [university name] (2020)
+
+certifications:
+
+* certified data scientist, data science council of america (dasca) (2020)
+* certified analytics professional, institute for operations research and the management sciences (informs) (2019)
+
+projects:
+
+* recommendation system using collaborative filtering: developed a recommendation system using collaborative filtering to recommend products to customers based on their past purchases. implemented using python and scikit-learn.
+* time series analysis of stock prices: analyzed historical stock prices to identify trends and patterns using time series analysis techniques. implemented using python and pandas.
+
+references:
+available upon request.
+
+i hope this sample resume helps! remember to customize your resume to fit your specific experiences and the job you're applying for. good luck with your job search!

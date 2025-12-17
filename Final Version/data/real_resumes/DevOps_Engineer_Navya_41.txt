@@ -1,0 +1,51 @@
+Here's a professional resume for Navya:
+
+**Navya**
+**DevOps Engineer**
+
+**Contact Information:**
+
+* Phone: (123) 456-7890
+* Email: [navya@email.com](mailto:navya@email.com)
+* LinkedIn: linkedin.com/in/navya-devops
+
+**Objective:**
+To leverage my expertise in containerization, Linux, and Kubernetes to drive efficiency, scalability, and reliability in a forward-thinking organization as a DevOps Engineer.
+
+**Summary:**
+Highly motivated and experienced DevOps Engineer with 6+ years of successful experience in designing, implementing, and maintaining scalable and efficient software systems. Proficient in containerization, Linux, and Kubernetes, with a strong background in automation, deployment, and monitoring. Proven track record of improving team collaboration, reducing downtime, and increasing application availability.
+
+**Professional Experience:**
+
+**DevOps Engineer**, ABC Company (2018-Present)
+
+* Designed and implemented containerized solutions using Docker and Kubernetes to improve application deployment efficiency and scalability.
+* Collaborated with cross-functional teams to develop and deploy CI/CD pipelines using Jenkins and GitLab.
+* Implemented monitoring and logging tools such as Prometheus, Grafana, and ELK to improve system visibility and alerting.
+* Improved team collaboration and productivity by implementing automated testing and code review workflows.
+
+**Senior Systems Administrator**, DEF Company (2015-2018)
+
+* Managed and maintained large-scale Linux environments, ensuring high uptime and responsiveness.
+* Implemented automation scripts using Ansible and Bash to simplify system administration tasks.
+* Collaborated with development teams to resolve complex system issues and improve application performance.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+**Core Skills:**
+
+* **Containerization:** Docker, Kubernetes, container orchestration
+* **Linux:** Ubuntu, CentOS, Red Hat, system administration, automation
+* **Kubernetes:** cluster management, deployment, scaling, monitoring
+* **Automation:** Ansible, Bash, Python, scripting
+* **Monitoring and Logging:** Prometheus, Grafana, ELK, logging tools
+* **Agile Methodologies:** Scrum, Kanban, continuous integration and deployment
+
+**Certifications:**
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Docker Developer (CDD)
+
+I hope this helps! Remember to tailor your resume to the specific job you're applying for, and highlight your unique strengths and experiences.

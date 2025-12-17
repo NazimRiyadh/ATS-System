@@ -1,0 +1,68 @@
+Randy Cain
+UI Engineer
+
+Contact Information:
+
+* Email: [randy.cain@email.com](mailto:randy.cain@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/randycain
+
+Summary:
+
+Highly skilled UI Engineer with extensive experience in designing and developing engaging, user-friendly interfaces using cutting-edge Frontend Frameworks and Animation Libraries. Proficient in creating responsive, interactive, and visually appealing UI components that enhance user experience.
+
+Technical Skills:
+
+* Frontend Frameworks:
+	+ React
+	+ Angular
+	+ Vue.js
+* Animation Libraries:
+	+ GSAP
+	+ AnimeJS
+	+ Velocity.js
+* Programming Languages:
+	+ JavaScript (ES6+)
+	+ HTML5
+	+ CSS3 (Sass/SCSS)
+* Tools:
+	+ Webpack
+	+ Babel
+	+ Webpack Dev Server
+	+ Chrome DevTools
+
+Experience:
+
+UI Engineer, XYZ Corporation (2018-Present)
+
+* Designed and developed UI components for web applications using React, Angular, and Vue.js
+* Implemented animations and transitions using GSAP, AnimeJS, and Velocity.js
+* Collaborated with cross-functional teams to ensure seamless integration with backend services
+* Developed and maintained reusable UI components using Webpack and Babel
+* Conducted code reviews and ensured adherence to coding standards
+
+Frontend Developer, ABC Agency (2015-2018)
+
+* Built responsive UI components using HTML5, CSS3, and JavaScript
+* Utilized CSS preprocessors (Sass/SCSS) to write modular, maintainable CSS code
+* Implemented animations using jQuery and CSS3 animations
+* Collaborated with designers to implement design concepts into code
+* Conducted front-end architecture reviews to improve code quality and performance
+
+Education:
+
+* Bachelor of Science in Computer Science, [University Name] (2010-2014)
+
+Certifications:
+
+* Certified Frontend Developer, [Certification Name] (2016)
+
+Projects:
+
+* [Project Name]: Developed a responsive, multi-page website using React and GSAP for animations
+* [Project Name]: Built a single-page application using Angular and AnimeJS for animations
+* [Project Name]: Created a web application using Vue.js and Velocity.js for animations
+
+References:
+
+Available upon request

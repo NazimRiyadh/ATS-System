@@ -1,0 +1,62 @@
+Here is a professional resume for Brenda Sawyer, a skilled Cloud Architect applicant:
+
+Brenda Sawyer
+Cloud Architect
+
+Contact Information:
+
+* Phone: (123) 456-7890
+* Email: [brenda.sawyer@email.com](mailto:brenda.sawyer@email.com)
+* LinkedIn: linkedin.com/in/brendasawyer
+* GitHub: github.com/brendasawyer
+
+Professional Summary:
+
+Highly skilled Cloud Architect with 8+ years of experience designing, implementing, and managing cloud-based infrastructure and security solutions for large-scale organizations. Proficient in leading cross-functional teams to deliver complex cloud projects on time and within budget. Proven expertise in Terraform, Kubernetes, and Cloud Security, with a strong passion for staying up-to-date with the latest cloud technologies and trends.
+
+Technical Skills:
+
+* Cloud Platforms: AWS, Azure, Google Cloud
+* Infrastructure as Code (IaC): Terraform, CloudFormation
+* Containerization: Docker, Kubernetes
+* Cloud Security: IAM, Identity and Access Management, Compliance and Governance
+* Programming Languages: Python, Java, Bash
+* Collaboration Tools: Git, Jira, Slack
+
+Professional Experience:
+
+Senior Cloud Architect, ABC Corporation (2018-Present)
+
+* Designed and implemented a highly available and scalable cloud infrastructure for a global enterprise, leveraging Terraform and Kubernetes
+* Led a team of 5 engineers to migrate a legacy application to a cloud-native architecture, resulting in 30% reduction in costs and 25% improvement in performance
+* Developed and implemented a cloud security strategy, including IAM and Compliance and Governance, to ensure compliance with regulatory requirements
+* Collaborated with cross-functional teams to deliver cloud-based solutions, including DevOps, Security, and Compliance
+
+Cloud Engineer, DEF Startups (2015-2018)
+
+* Designed and implemented cloud-based infrastructure for several startups, leveraging AWS and Azure
+* Developed and deployed containerized applications using Docker and Kubernetes
+* Implemented cloud security measures, including IAM and Identity and Access Management
+* Collaborated with development teams to deliver cloud-based solutions, including DevOps and Security
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* AWS Certified Solutions Architect - Professional (2019)
+* Certified Kubernetes Administrator (CKA) (2020)
+* Certified Cloud Security Professional (CCSP) (2018)
+
+Achievements:
+
+* Winner of the 2020 AWS re:Invent Hackathon for designing and implementing a scalable and secure cloud-based architecture for a fictional startup
+* Featured speaker at the 2019 Cloud Security Summit, presenting on "Cloud Security Best Practices for Large-Scale Organizations"
+* Recipient of the 2018 ABC Corporation Innovation Award for developing and implementing a cloud-based solution that resulted in significant cost savings and improved performance
+
+References:
+
+Available upon request.
+
+I hope this helps! Let me know if you have any questions or if you'd like me to make any changes.

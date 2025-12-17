@@ -1,0 +1,56 @@
+Here's a sample resume for Jack Davis, a UI Engineer who was select for the role:
+
+**Jack Davis**
+**UI Engineer**
+
+**Contact Information:**
+
+* Email: [j.davis@email.com](mailto:j.davis@email.com)
+* Phone: (555) 123-4567
+* LinkedIn: linkedin.com/in/jackdavisui
+* GitHub: github.com/jackdavisui
+
+**Summary:**
+Highly motivated and detail-oriented UI Engineer with 5+ years of experience in designing and developing user interfaces for web applications. Skilled in front-end technologies such as React, Angular, and Vue.js, with expertise in responsive design, accessibility, and performance optimization.
+
+**Technical Skills:**
+
+* Front-end frameworks: React, Angular, Vue.js
+* Programming languages: JavaScript, TypeScript, HTML/CSS
+* Design tools: Sketch, Figma, Adobe XD
+* Version control: Git, GitHub
+* Build tools: Webpack, Rollup, Gulp
+* Operating Systems: Windows, macOS, Linux
+* Agile methodologies: Scrum, Kanban
+
+**Experience:**
+
+* **UI Engineer, ABC Corporation (2018-Present)**
+	+ Designed and developed user interfaces for multiple web applications using React and Angular
+	+ Collaborated with cross-functional teams to identify and prioritize design and development needs
+	+ Implemented responsive design patterns and accessibility features to improve user experience
+	+ Optimized application performance using techniques such as code splitting, lazy loading, and caching
+* **Front-end Developer, DEF Agency (2015-2018)**
+	+ Developed user interfaces for web and mobile applications using HTML/CSS, JavaScript, and frameworks such as Bootstrap and jQuery
+	+ Created reusable UI components and libraries to improve development efficiency
+	+ Collaborated with designers to implement design concepts and ensure visual consistency
+	+ Participated in code reviews and ensured high-quality code standards
+
+**Achievements:**
+
+* Successfully led a team of 3 developers to deliver a complex web application with over 100,000 users within 6 months
+* Improved application performance by 30% through optimization techniques and caching
+* Developed and maintained a reusable UI component library that reduced development time by 25%
+* Collaborated with designers to implement accessibility features and improve overall user experience
+
+**Projects:**
+
+* **React Todo List App**: A reusable Todo List app built using React, Redux, and Webpack. (GitHub: github.com/jackdavisui/react-todo-list)
+* **Angular Material Design**: A sample application built using Angular Material Design, demonstrating responsive design and accessibility features. (GitHub: github.com/jackdavisui/angular-material-design)
+* **Figma Design System**: A design system built using Figma, documenting design principles, components, and guidelines for a large-scale web application. (Figma: figma.com/@jackdavisui/design-system)
+
+**Education:**
+
+* **Bachelor of Science in Computer Science, XYZ University (2015)**
+
+Note: This is just a sample resume, and you should customize it to fit your own experiences and qualifications. Additionally, be sure to proofread your resume multiple times for grammar, spelling, and formatting errors before submitting it.

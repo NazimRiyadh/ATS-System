@@ -1,0 +1,58 @@
+Here's a sample resume for Hank Moore, a select candidate for the Data Scientist role:
+
+**Hank Moore**
+**Contact Information:**
+
+* Email: [hank.moore@email.com](mailto:hank.moore@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/hankmoore
+
+**Summary:**
+Highly motivated and detail-oriented data scientist with 5+ years of experience in data analysis, machine learning, and statistical modeling. Proven track record of delivering high-impact projects that drive business growth and improve decision-making. Skilled in a range of programming languages, tools, and techniques, with a strong passion for staying up-to-date with the latest trends and advancements in the field.
+
+**Technical Skills:**
+
+* Programming languages: Python, R, SQL, Julia
+* Machine learning frameworks: scikit-learn, TensorFlow, PyTorch
+* Data visualization tools: Tableau, Power BI, Matplotlib, Seaborn
+* Statistical software: pandas, NumPy, Statsmodels
+* Operating Systems: Windows, Linux, macOS
+* Databases: MySQL, PostgreSQL, MongoDB
+* Cloud platforms: AWS, GCP, Azure
+
+**Professional Experience:**
+
+* **Senior Data Scientist, ABC Corporation (2018-Present)**
+	+ Led a team of data scientists in developing and deploying predictive models to improve customer retention and sales forecasting
+	+ Collaborated with business stakeholders to identify key business questions and develop data-driven solutions
+	+ Built and maintained a range of data pipelines, including ETL processes and data warehousing
+	+ Developed and trained multiple machine learning models using scikit-learn and TensorFlow
+* **Data Scientist, DEF Startups (2015-2018)**
+	+ Analyzed and visualized large datasets to inform business decisions and drive growth
+	+ Built and deployed multiple data products, including a predictive maintenance platform and a customer segmentation tool
+	+ Collaborated with engineers to integrate machine learning models into production systems
+	+ Developed and maintained a range of data tools, including data pipelines and data visualization dashboards
+
+**Achievements:**
+
+* **20% increase in customer retention through predictive modeling**
+* **25% reduction in customer acquisition costs through data-driven marketing campaigns**
+* **10x increase in sales forecasting accuracy through machine learning models**
+* **Developed and deployed a predictive maintenance platform that reduced equipment downtime by 30%**
+
+**Projects:**
+
+* **Predictive Maintenance Platform:** Developed a predictive maintenance platform using machine learning and sensor data to predict equipment downtime and optimize maintenance schedules.
+* **Customer Segmentation Tool:** Built a customer segmentation tool using clustering and decision trees to identify high-value customers and inform marketing campaigns.
+* **Sales Forecasting Model:** Developed a sales forecasting model using ARIMA and LSTM to improve sales forecasting accuracy and drive business growth.
+* **Data Pipeline:** Built a data pipeline using ETL processes and data warehousing to integrate and analyze large datasets.
+
+**Education:**
+
+* **Master of Science in Data Science, XYZ University (2015)**
+* **Bachelor of Science in Computer Science, ABC University (2010)**
+
+**Certifications:**
+
+* **Certified Data Scientist, Data Science Council of America (2018)**
+* **Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2016)**

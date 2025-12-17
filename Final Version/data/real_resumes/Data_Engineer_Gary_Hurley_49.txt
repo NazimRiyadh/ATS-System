@@ -1,0 +1,72 @@
+Gary Hurley
+Contact Information:
+
+* Email: [ghurley@email.com](mailto:ghurley@email.com)
+* Phone: 123-456-7890
+* LinkedIn: linkedin.com/in/ghurley
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with 5+ years of experience in designing, developing, and implementing scalable data pipelines, ETL processes, and data warehouses. Proven expertise in Big Data frameworks, cloud platforms, and CI/CD tools.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop
+	+ Apache Spark
+	+ Apache Flink
+	+ Apache Kafka
+* Data Pipelines:
+	+ Apache NiFi
+	+ Apache Airflow
+	+ AWS Glue
+	+ Azure Data Factory
+* ETL Tools:
+	+ Informatica PowerCenter
+	+ Talend
+	+ AWS Glue
+	+ Azure Data Factory
+* Databases:
+	+ Relational databases (MySQL, PostgreSQL, Oracle)
+	+ NoSQL databases (MongoDB, Cassandra, Couchbase)
+	+ Time-series databases (InfluxDB, OpenTSDB)
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud Platform (GCP)
+	+ IBM Cloud
+* Data Warehousing:
+	+ Amazon Redshift
+	+ Google BigQuery
+	+ Microsoft SQL Server Analysis Services
+	+ Snowflake
+* CI/CD Tools:
+	+ Jenkins
+	+ GitLab CI/CD
+	+ Travis CI
+	+ CircleCI
+
+Professional Experience:
+
+Senior Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and developed multiple data pipelines using Apache NiFi, Apache Airflow, and AWS Glue to process data from various sources, including social media, IoT devices, and cloud storage.
+* Implemented ETL processes using Informatica PowerCenter and Talend to extract, transform, and load data from relational databases, NoSQL databases, and time-series databases.
+* Developed and deployed multiple microservices using Java, Python, and Scala on AWS and GCP cloud platforms.
+* Designed and implemented data warehouses using Amazon Redshift, Google BigQuery, and Microsoft SQL Server Analysis Services to store and analyze large datasets.
+* Implemented CI/CD pipelines using Jenkins, GitLab CI/CD, and Travis CI to automate testing, building, and deployment of data pipelines and ETL processes.
+
+Data Engineer, DEF Startups (2015-2018)
+
+* Designed and developed multiple data pipelines using Apache Hadoop, Apache Spark, and Apache Flink to process data from various sources, including social media, IoT devices, and cloud storage.
+* Implemented ETL processes using Informatica PowerCenter and Talend to extract, transform, and load data from relational databases, NoSQL databases, and time-series databases.
+* Developed and deployed multiple microservices using Java, Python, and Scala on AWS and GCP cloud platforms.
+* Designed and implemented data warehouses using Amazon Redshift, Google BigQuery, and Microsoft SQL Server Analysis Services to store and analyze large datasets.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (DASCA)
+* Certified Big Data Engineer, Hortonworks

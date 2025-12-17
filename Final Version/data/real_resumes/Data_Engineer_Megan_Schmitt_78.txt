@@ -1,0 +1,73 @@
+Megan Schmitt
+Data Engineer
+
+Contact Information:
+
+* Email: [megan.schmitt@email.com](mailto:megan.schmitt@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/meganschmitt
+
+Summary:
+Highly motivated and detail-oriented Data Engineer with expertise in designing, developing, and deploying large-scale data processing systems. Proven ability to work with diverse data sets, technologies, and stakeholders to deliver high-quality data solutions.
+
+Technical Skills:
+
+* Big Data Frameworks:
+	+ Apache Hadoop
+	+ Apache Spark
+	+ Apache Flink
+* Data Pipelines:
+	+ Apache Beam
+	+ AWS Glue
+	+ Apache NiFi
+* ETL Tools:
+	+ Informatica PowerCenter
+	+ Talend
+	+ Microsoft SSIS
+* Databases:
+	+ Relational databases (MySQL, PostgreSQL, Oracle)
+	+ NoSQL databases (MongoDB, Cassandra, Redis)
+	+ Data warehouses (Amazon Redshift, Google BigQuery, Snowflake)
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud Platform (GCP)
+* Programming Languages:
+	+ Python (PySpark, Pandas, NumPy, SciPy)
+	+ SQL (PL/SQL, T-SQL)
+* Data Warehousing:
+	+ Data modeling
+	+ ETL design and development
+	+ Data quality and governance
+
+Professional Experience:
+
+Data Engineer, ABC Corporation (2018-Present)
+
+* Designed and implemented data pipelines using Apache Beam, Apache NiFi, and AWS Glue to process and transform large-scale data sets.
+* Developed and maintained ETL processes using Informatica PowerCenter and Talend to integrate data from various sources.
+* Collaborated with data scientists to develop and deploy machine learning models using PySpark and Scikit-learn.
+* Worked with cross-functional teams to design and implement data warehousing solutions using Amazon Redshift and Snowflake.
+
+Data Analyst, DEF Startups (2015-2018)
+
+* Designed and developed data visualizations using Tableau and Power BI to communicate insights to stakeholders.
+* Worked with data engineers to develop and maintain data pipelines using Apache Hadoop and Apache Spark.
+* Conducted data quality checks and developed data governance processes to ensure data integrity.
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Data Engineer, Data Science Council of America (2019)
+* Certified Cloud Practitioner, Amazon Web Services (2018)
+
+Projects:
+
+* Developed a real-time data pipeline using Apache Beam and Google Cloud Storage to process and transform IoT sensor data.
+* Designed and implemented a data warehouse using Amazon Redshift and Snowflake to support business intelligence and analytics.
+
+References:
+Available upon request.

@@ -1,0 +1,51 @@
+Mark Mason
+Contact Information:
+
+* Email: [mark.mason@email.com](mailto:mark.mason@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/markmason
+
+Summary:
+Highly motivated and detail-oriented Data Scientist with expertise in Python, data manipulation, statistics and probability, NLP, deep learning, and data visualization. Proven track record of delivering insights-driven solutions to drive business growth.
+
+Technical Skills:
+
+* Programming Languages: Python (2.7, 3.x)
+* Data Manipulation: Pandas, NumPy, Matplotlib, Seaborn
+* Statistics and Probability: Statistical modeling, hypothesis testing, confidence intervals, Bayesian methods
+* NLP: NLTK, spaCy, scikit-learn, TensorFlow
+* Deep Learning: Keras, TensorFlow, PyTorch
+* Data Visualization: Matplotlib, Seaborn, Plotly, Tableau
+* Operating Systems: Windows, Linux, macOS
+* Tools: Jupyter Notebook, Git, SQL, Excel
+
+Work Experience:
+
+Data Scientist, XYZ Corporation (2018-Present)
+
+* Developed predictive models using machine learning algorithms to forecast customer churn, resulting in a 25% reduction in churn rate
+* Built and deployed NLP-based sentiment analysis tool to analyze customer feedback, leading to a 30% increase in customer satisfaction
+* Collaborated with cross-functional teams to design and implement data-driven solutions for business growth
+* Conducted exploratory data analysis and created visualizations to communicate insights to stakeholders
+
+Junior Data Analyst, ABC Startup (2016-2018)
+
+* Managed and analyzed large datasets using Python and SQL to identify trends and patterns
+* Developed statistical models to forecast sales, resulting in a 15% increase in sales forecasting accuracy
+* Created reports and dashboards using Tableau to present insights to stakeholders
+
+Education:
+
+* Master of Science in Data Science, Stanford University (2016)
+* Bachelor of Science in Computer Science, University of California, Berkeley (2014)
+
+Projects:
+
+* Text Classification using Deep Learning: Built a text classification model using PyTorch to classify customer reviews as positive, negative, or neutral
+* Time Series Forecasting: Developed a time series forecasting model using ARIMA to predict stock prices
+* Image Classification: Built a convolutional neural network using Keras to classify images of animals and vehicles
+
+Certifications:
+
+* Certified Data Scientist, Data Science Council of America (2019)
+* Certified Analytics Professional, Institute for Operations Research and the Management Sciences (2018)

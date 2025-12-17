@@ -1,0 +1,57 @@
+Aaron Jensen
+Contact Information:
+
+* Email: [ajensen@email.com](mailto:ajensen@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/aaronjensen
+* GitHub: github.com/aaronjensen
+
+Summary:
+Results-driven software engineer with 5+ years of experience in designing and developing scalable and efficient software systems using Java, Algorithm, and Data Structure. Proven expertise in Backend Development, Version Control, DevOps, and API development.
+
+Technical Skills:
+
+* Programming languages: Java, Python
+* Development frameworks: Spring Boot, Hibernate
+* Databases: MySQL, MongoDB, PostgreSQL
+* Algorithm and Data Structure: Arrays, Linked Lists, Stacks, Queues, Trees, and Graphs
+* Version Control: Git, SVN
+* DevOps: Jenkins, Docker, Kubernetes
+* API Development: RESTful APIs, GraphQL
+* Operating Systems: Windows, Linux
+* Agile methodologies: Scrum, Kanban
+
+Professional Experience:
+
+Software Engineer, ABC Company (2018-Present)
+
+* Designed and developed multiple backend services using Java, Spring Boot, and Hibernate
+* Implemented efficient algorithms and data structures to optimize system performance
+* Collaborated with cross-functional teams to deliver high-quality software products
+* Deployed and maintained applications on cloud platforms using Jenkins, Docker, and Kubernetes
+* Participated in code reviews to ensure code quality and adherence to coding standards
+
+Senior Software Engineer, DEF Company (2015-2018)
+
+* Led a team of developers to design and develop a scalable e-commerce platform using Java, Spring, and Hibernate
+* Developed and maintained RESTful APIs using Spring Boot and Swagger
+* Implemented data warehousing and business intelligence solutions using MySQL, MongoDB, and Tableau
+* Collaborated with QA team to ensure high-quality software products
+* Participated in technical design reviews and provided input on system architecture
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2010-2014)
+
+Certifications:
+
+* Certified Java Developer, Oracle Corporation (2016)
+* Certified Scrum Master, Scrum Alliance (2018)
+
+Projects:
+
+* Personal Project: Weather API: Developed a RESTful API using Java, Spring Boot, and MySQL to provide current and forecasted weather data
+* GitHub Repository: github.com/aaronjensen/weather-api
+
+References:
+Available upon request.

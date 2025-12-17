@@ -1,0 +1,64 @@
+Sarah Ingram
+Software Engineer
+
+Contact Information:
+
+* Email: [sarahingram@email.com](mailto:sarahingram@email.com)
+* Phone: (123) 456-7890
+* LinkedIn: linkedin.com/in/sarahingram
+* GitHub: github.com/sarahingram
+
+Professional Summary:
+
+Highly motivated and detail-oriented software engineer with 5+ years of experience in designing, developing, and deploying scalable software systems. Skilled in multiple programming languages, including Java, C++, and Python, with expertise in data structures, system design, and DevOps. Proven track record of delivering high-quality software solutions while collaborating with cross-functional teams.
+
+Technical Skills:
+
+* Programming languages: Java, C++, Python, JavaScript
+* Data structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
+* System design: Microservices, RESTful APIs, Event-driven architecture
+* DevOps: Docker, Kubernetes, Jenkins, Git
+* Agile methodologies: Scrum, Kanban
+* Operating Systems: Windows, Linux, macOS
+
+Professional Experience:
+
+* Senior Software Engineer, ABC Corporation (2020-Present)
+	+ Designed and developed a scalable e-commerce platform using Java, Spring Boot, and MySQL
+	+ Implemented a data processing pipeline using Python, Apache Beam, and BigQuery
+	+ Collaborated with the DevOps team to deploy the platform on Kubernetes and monitor its performance using Prometheus and Grafana
+	+ Mentored junior engineers and provided technical guidance on system design and coding best practices
+* Software Engineer, DEF Startup (2018-2020)
+	+ Contributed to the development of a machine learning-based recommendation engine using C++ and TensorFlow
+	+ Developed a RESTful API using Node.js, Express.js, and MongoDB for a mobile application
+	+ Participated in code reviews and ensured adherence to coding standards and testing guidelines
+	+ Worked closely with the QA team to identify and resolve bugs
+
+Education:
+
+* Bachelor of Science in Computer Science, XYZ University (2015-2019)
+	+ Coursework: Algorithms, Data Structures, Computer Systems, Operating Systems, Database Systems, Software Engineering
+
+Achievements:
+
+* Certified Java Developer, Oracle Corporation (2019)
+* Certified Scrum Master, Scrum Alliance (2018)
+* Winner, XYZ University Hackathon (2017)
+
+Projects:
+
+* Personal Project: To-Do List App (2020)
+	+ Developed a mobile application using React Native and Firebase for task management and reminders
+	+ Implemented authentication using OAuth and authorization using Firebase Realtime Database
+* Open-Source Contribution: PyTorch Tutorial (2019)
+	+ Contributed to a PyTorch tutorial project on GitHub, providing explanations and examples for deep learning concepts
+	+ Collaborated with other contributors to improve the tutorial's content and accuracy
+
+Certifications:
+
+* Certified Java Developer, Oracle Corporation (2019)
+* Certified Scrum Master, Scrum Alliance (2018)
+
+References:
+
+Available upon request.
