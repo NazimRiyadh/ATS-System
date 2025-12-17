@@ -322,7 +322,7 @@ def validate_grounded_response(response: str, context: str) -> Dict[str, Any]:
     import re
     
     # Check 1: Response is not empty or too short
-    if not response or len(response.strip()) < 50:
+    if not response or len(response.strip()) < 10:
         return {"valid": False, "reason": "Response too short to be meaningful"}
     
     # Check 2: Response doesn't end with incomplete sentence
@@ -331,18 +331,39 @@ def validate_grounded_response(response: str, context: str) -> Dict[str, Any]:
         return {"valid": False, "reason": "Response appears truncated"}
     
     # Check 3: Extract potential names from context and check if any appear in response
-    # Look for capitalized names (2-3 words)
+    # Look for capitalized names (2-3 words) to avoid common words
     name_pattern = r'\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,2})\b'
-    context_names = set(re.findall(name_pattern, context))
-    response_names = set(re.findall(name_pattern, response))
     
-    # If context has names, response should reference at least one
-    if context_names:
-        names_in_response = context_names & response_names
-        if not names_in_response and "no candidate" not in response.lower() and "not find" not in response.lower():
-            # Response has names but they're not from context - possible hallucination
-            if response_names:
-                return {"valid": False, "reason": "Response contains names not found in resume data"}
+    # helper to normalize names for comparison
+    def normalize_names(text):
+        matches = re.findall(name_pattern, text)
+        return {m.lower() for m in matches}
+
+    context_names = normalize_names(context)
+    response_names = normalize_names(response)
+    
+    # If context has names, response should reference at least one valid one
+    if context_names and response_names:
+        # Check intersection (exact match ignoring case)
+        exact_matches = context_names & response_names
+        
+        # Check partial match (e.g. "Tammy" in "Tammy McKenzie")
+        partial_matches = False
+        if not exact_matches:
+            for r_name in response_names:
+                for c_name in context_names:
+                    # If response name parts are subset of context name parts
+                    r_parts = set(r_name.split())
+                    c_parts = set(c_name.split())
+                    if r_parts & c_parts: # Overlap found
+                        partial_matches = True
+                        break
+                if partial_matches: break
+
+        if not exact_matches and not partial_matches:
+            # Check if it's a "no candidate found" type response
+            if "no candidate" not in response.lower() and "not find" not in response.lower() and "cannot provide" not in response.lower():
+                 return {"valid": False, "reason": "Response contains names not found in resume data"}
     
     # Check 4: Response shouldn't contain self-referential statements
     hallucination_markers = [

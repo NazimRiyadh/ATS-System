@@ -123,12 +123,13 @@ class OllamaAdapter:
                     "num_predict": 4096,      # Full response length for chat
                     "top_p": 0.9,             # Allow more varied vocabulary
                     # Minimal stop tokens for chat - let the model complete naturally
-                    "stop": ["\n\n\n\n", "<|end|>", "</s>"]
+                    "stop": ["\n\n\n\n", "<|end|>", "</s>"],
+                    "num_gpu": 999            # Force GPU offloading
                 }
         
         # Override options with kwargs if provided
         for k, v in kwargs.items():
-            if k in ["temperature", "max_tokens"]: 
+            if k in ["temperature", "max_tokens", "num_gpu"]: 
                 continue 
 
         try:

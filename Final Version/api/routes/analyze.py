@@ -377,30 +377,63 @@ def extract_experience_summary(content: str) -> str:
 
 def extract_candidate_name(content: str) -> str:
     """Extract candidate name from resume content (clean, short name only)."""
-    # Pattern 1: "Name: John Doe" - extract just the name part
-    name_match = re.search(r'Name:\s*([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,2})', content)
+    
+    def clean_name(raw_name: str) -> str:
+        """Helper to clean up extracted names."""
+        # Remove common prefixes/suffixes captured by regex
+        lower = raw_name.lower()
+        
+        # Stop words that start the suffix we don't want
+        stop_words = ["applying", "seeking", "interested", "looking", "resume", "cv", "profile"]
+        words = raw_name.split()
+        
+        cleaned_words = []
+        for w in words:
+            if w.lower() in stop_words:
+                break
+            cleaned_words.append(w)
+            
+        # Remove "Candidate" prefix if present
+        if cleaned_words and cleaned_words[0].lower() == "candidate":
+            cleaned_words.pop(0)
+            
+        # Join and Title Case
+        return " ".join(cleaned_words).title()
+
+    name = "Unknown Candidate"
+    
+    # Pattern 0: Specific "resume for [Name]" intro common in dataset
+    intro_match = re.search(r"here's a .*?resume for\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3})", content, re.IGNORECASE)
+    if intro_match:
+        name = clean_name(intro_match.group(1))
+        if 2 <= len(name.split()) <= 4:
+            return name
+
+    # Pattern 1: "Name: John Doe"
+    name_match = re.search(r'Name:\s*([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,2})', content, re.IGNORECASE)
     if name_match:
-        name = name_match.group(1).strip()
-        # Only return if it looks like a real name (2-3 words, reasonable length)
-        if 3 <= len(name) <= 50:
-            return name
+        matches = clean_name(name_match.group(1))
+        if 3 <= len(matches) <= 50:
+            return matches
     
-    # Pattern 2: Look for common name patterns at start
-    # Match: "FirstName LastName" at beginning of content
-    first_line = content.split('\n')[0].strip() if content else ""
-    first_line = re.sub(r'[#*\-_]', '', first_line).strip()
+    # Pattern 2: Start of file (Strict Capitalization)
+    lines = content.strip().split('\n')
+    for line in lines[:3]:
+        clean_line = re.sub(r'[#*\-_:.]', '', line).strip()
+        words = clean_line.split()
+        # Allow 2-4 words to catch "Candidate Name" then clean it
+        if 2 <= len(words) <= 4 and all(w[0].isupper() and w.isalpha() for w in words):
+            curr_name = ' '.join(words)
+            # Filter headers
+            if curr_name.lower() not in ["resume", "curriculum vitae", "candidate profile", "professional summary"]:
+                cleaned = clean_name(curr_name)
+                if cleaned and cleaned.lower() != "unknown candidate":
+                    return cleaned
     
-    # Check if first line looks like a name
-    words = first_line.split()
-    if 2 <= len(words) <= 3 and all(w[0].isupper() for w in words if w and len(w) > 0):
-        name = ' '.join(words)
-        if len(name) <= 40:
-            return name
-    
-    # Pattern 3: Look for Resume: type marker
-    resume_match = re.search(r'Resume:\s*\w+\s+([A-Z][a-z]+\s+[A-Z][a-z]+)', content)
+    # Pattern 3: Resume: marker
+    resume_match = re.search(r'Resume:\s*\w+\s+([A-Z][a-z]+\s+[A-Z][a-z]+)', content, re.IGNORECASE)
     if resume_match:
-        return resume_match.group(1).strip()
+        return clean_name(resume_match.group(1))
     
     return "Unknown Candidate"
 

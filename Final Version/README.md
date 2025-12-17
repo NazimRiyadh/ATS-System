@@ -27,56 +27,66 @@ Production-ready Applicant Tracking System with dual-level retrieval combining v
 
 ### 1. Prerequisites
 
-- Docker & Docker Compose
-- Python 3.10+
-- Ollama (with `qwen2.5:7b` model)
+- **OS**: Windows 10/11 (Project configured for Windows)
+- **Python**: 3.10+
+- **Docker & Docker Compose** (for Database containers)
+- **Ollama**: Installed and running (Model: `llama3.1:8b`) [Download Ollama](https://ollama.com/)
+- **GPU (Optional but Recommended)**: NVIDIA GPU with CUDA support for faster embeddings
 
-### 2. Start Databases
+### 2. Automated Setup (Recommended)
+
+Run the included setup script to checks requirements, create a virtual environment, and install dependencies:
 
 ```powershell
-docker-compose up -d
+.\setup_env.bat
 ```
 
-This starts:
+### 3. Start The System
 
-- PostgreSQL (port 5432) with pgvector
-- Neo4j (ports 7474, 7687)
+1. **Start Databases**:
 
-### 3. Install Dependencies
+   ```powershell
+   docker-compose up -d
+   ```
 
-```powershell
-python -m venv venv
+2. **Initialize Database Schema** (First time only):
+
+   ```powershell
+   python -m venv venv
+   ```
+
+# OR if using a custom name: python -m venv venv312
+
 .\venv\Scripts\activate
+
+# OR: .\venv312\Scripts\activate
+
 pip install -r requirements.txt
-```
 
-### 4. Pull Ollama Model
+````
 
-```powershell
-ollama pull qwen2.5:7b
-```
+3. **Ingest Resumes**:
 
-### 5. Initialize Databases
+   ```powershell
+   # Place resume files (PDF/DOCX/TXT) in data/resumes/
+   .\venv\Scripts\python scripts/ingest_resumes.py --dir data/resumes --batch-size 5
+````
 
-```powershell
-python scripts/init_db.py
-```
+4. **Run API Server**:
+   You can use the helper script:
 
-### 6. Ingest Resumes
+   ```powershell
+   .\run_api.bat
+   ```
 
-```powershell
-# Place resume files in data/resumes/
-python scripts/ingest_resumes.py --dir data/resumes --batch-size 5
-```
+   Or manually:
 
-### 7. Start API Server
+   ```powershell
+   cd api
+   ..\venv\Scripts\uvicorn main:app --reload --port 8000
+   ```
 
-```powershell
-cd api
-uvicorn main:app --reload --port 8000
-```
-
-API docs: http://localhost:8000/docs
+   **API Documentation**: http://localhost:8000/docs
 
 ## API Endpoints
 

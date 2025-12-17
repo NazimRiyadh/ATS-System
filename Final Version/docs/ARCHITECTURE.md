@@ -58,7 +58,7 @@
 │  • local  → Entity-specific from Knowledge Graph                │
 │  • global → Relationship patterns from KG                       │
 │  • hybrid → local + global combined                             │
-│  • mix    → Vector + Graph (recommended)                        │
+│  • mix    → Vector + Graph (recommended)                       │
 │                                                                  │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -115,7 +115,7 @@
 ├── src/                          # Core Business Logic
 │   ├── config.py                 # Settings from .env
 │   ├── rag_config.py             # LightRAG initialization with PostgreSQL/Neo4j
-│   ├── llm_adapter.py            # Ollama API wrapper with Llama 3.1 fixes
+│   ├── llm_adapter.py            # Ollama API wrapper with Qwen/Llama fixes
 │   ├── embedding.py              # BAAI/bge-m3 embeddings (GPU-accelerated)
 │   ├── ingestion.py              # Resume processing pipeline
 │   ├── resume_parser.py          # PDF/DOCX/TXT extraction
@@ -234,12 +234,13 @@ flowchart LR
 
 ## Storage Architecture
 
-| Component          | Technology            | Purpose                              |
-| ------------------ | --------------------- | ------------------------------------ |
-| **Vector Storage** | PostgreSQL + pgvector | Resume chunk embeddings (HNSW index) |
-| **KV Storage**     | PostgreSQL            | Full documents, text chunks, cache   |
-| **Graph Storage**  | Neo4j                 | Knowledge graph (entities/relations) |
-| **Doc Status**     | PostgreSQL            | Ingestion tracking                   |
+| Components         | Technology                                                 | Purpose                              |
+| ------------------ | ---------------------------------------------------------- | ------------------------------------ |
+| **Backbone LLM**   | Ollama `llama3.1:8b` (optimized for instruction following) | LLM for generation and extraction    |
+| **Vector Storage** | PostgreSQL + pgvector                                      | Resume chunk embeddings (HNSW index) |
+| **KV Storage**     | PostgreSQL                                                 | Full documents, text chunks, cache   |
+| **Graph Storage**  | Neo4j                                                      | Knowledge graph (entities/relations) |
+| **Doc Status**     | PostgreSQL                                                 | Ingestion tracking                   |
 
 ---
 
