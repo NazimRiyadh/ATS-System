@@ -12,7 +12,7 @@ venv312/
 
 # IDEs
 .vscode/
-.idea/
+idea/
 
 # Project Specific
 rag_storage/
@@ -20,7 +20,6 @@ rag_cache/
 *.log
 rag_storage/
 output/
-data/
 embeddings/
 
 # OS

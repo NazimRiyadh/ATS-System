@@ -1,0 +1,51 @@
+RESUME
+
+Name: Alex Thompson
+Email: alex.thompson@email.com
+Phone: +1-555-0199
+Location: San Francisco, CA, USA
+
+PROFESSIONAL SUMMARY
+Experienced Python Developer with 6 years of expertise in building scalable web applications, REST APIs, and machine learning solutions. Proficient in Django, FastAPI, PostgreSQL, and cloud technologies. Strong background in data engineering and DevOps practices.
+
+SKILLS
+- Programming Languages: Python, JavaScript, SQL, Bash
+- Frameworks: Django, FastAPI, Flask, React
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud: AWS (EC2, S3, Lambda), Docker, Kubernetes
+- Machine Learning: TensorFlow, PyTorch, scikit-learn
+- Tools: Git, Jenkins, Terraform, Grafana
+
+WORK EXPERIENCE
+
+Senior Python Developer
+TechCorp Inc., San Francisco, CA
+January 2021 - Present
+- Developed and maintained microservices architecture using FastAPI and Docker
+- Implemented machine learning pipelines for recommendation systems
+- Led a team of 4 developers on a high-traffic e-commerce platform
+- Reduced API response time by 40% through optimization
+
+Python Developer
+DataFlow Systems, Austin, TX
+June 2018 - December 2020
+- Built RESTful APIs using Django REST Framework
+- Designed and implemented PostgreSQL database schemas
+- Developed ETL pipelines for processing 10TB+ of daily data
+- Collaborated with data science team on model deployment
+
+Junior Developer
+StartupXYZ, Remote
+January 2017 - May 2018
+- Developed web applications using Python and Flask
+- Implemented automated testing with pytest
+- Participated in code reviews and agile sprints
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley
+Graduated: 2016
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Google Cloud Professional Data Engineer

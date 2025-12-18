@@ -1,11 +1,3 @@
-"""
-Custom prompts for ATS domain entity extraction.
-Optimized for LLM-based Knowledge Graph construction with strict schema enforcement.
-"""
-
-# =============================================================================
-# ENTITY EXTRACTION PROMPT
-# =============================================================================
 ATS_ENTITY_EXTRACTION_PROMPT = """
 -Goal-
 You are a precise Knowledge Graph extraction engine for an ATS (Applicant Tracking System).
@@ -38,9 +30,9 @@ You are a precise Knowledge Graph extraction engine for an ATS (Applicant Tracki
     3. Use consistent capitalization for entity names
     4. Resolve aliases where obvious (e.g., "ML" → "Machine Learning")
     5. Use the same PERSON name consistently across all tuples
-    6. If the candidate name is NOT explicitly stated, use: PERSON = "UNKNOWN_CANDIDATE"
     
     -Output Format (STRICT)-
+    ONE TUPLE PER LINE.
     Entity tuple:     ("entity"###<canonical_name>###<ENTITY_TYPE>###<brief description>)
     Relationship tuple: ("relationship"###<source>###<RELATIONSHIP_TYPE>###<target>###<evidence phrase>)
     
@@ -63,7 +55,8 @@ You are a precise Knowledge Graph extraction engine for an ATS (Applicant Tracki
        WRONG: ("entity"###John Doe###HAS_SKILL###Python###...)
        RIGHT: ("relationship"###John Doe###HAS_SKILL###Python###...)
     10. Output NOTHING if no valid entities or relationships exist in the text
-9. Output NOTHING if no valid entities or relationships exist in the text
+    11. **CRITICAL**: Do NOT use "UNKNOWN", "OTHER", or generic types. If the type is uncertain, SKIP the entity.
+    12. **CRITICAL**: Do NOT output "None" or empty fields.
 
 -Text-
 {input_text}
@@ -71,6 +64,8 @@ You are a precise Knowledge Graph extraction engine for an ATS (Applicant Tracki
 -Output-
 
 """
+
+
 
 # =============================================================================
 # QUERY ENHANCEMENT PROMPT

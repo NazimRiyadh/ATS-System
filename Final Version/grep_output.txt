@@ -1,0 +1,8 @@
+venv312/Lib/site-packages/lightrag\tools\lightrag_visualizer\graph_visualizer.py:18: import community
+venv312/Lib/site-packages/lightrag\tools\lightrag_visualizer\graph_visualizer.py:54: self.community_colors = None
+venv312/Lib/site-packages/lightrag\tools\lightrag_visualizer\graph_visualizer.py:541: self.communities = community.best_partition(self.graph)
+venv312/Lib/site-packages/lightrag\tools\lightrag_visualizer\graph_visualizer.py:543: self.community_colors = generate_colors(num_communities)
+venv312/Lib/site-packages/lightrag\tools\lightrag_visualizer\graph_visualizer.py:554: # Group nodes by community for shell layout
+venv312/Lib/site-packages/lightrag\tools\lightrag_visualizer\graph_visualizer.py:575: # Create nodes with community colors
+venv312/Lib/site-packages/lightrag\tools\lightrag_visualizer\graph_visualizer.py:602: """Get RGBA color based on community"""
+venv312/Lib/site-packages/lightrag\tools\lightrag_visualizer\graph_visualizer.py:605: color = self.community_colors[comm_id]

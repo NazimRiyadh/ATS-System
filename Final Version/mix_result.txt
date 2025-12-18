@@ -1,0 +1,40 @@
+Query: Who is Alex Thompson?
+
+Mix Mode Response:
+**Alex Thompson's Profile**
+==========================
+
+According to the provided resume, Alex Thompson is a seasoned Python Developer with 6 years of experience in building scalable web applications, REST APIs, and machine learning solutions.
+
+**Contact Information**
+----------------------
+
+* Name: Alex Thompson
+* Email: alex.thompson@email.com
+* Phone: +1-555-0199
+* Location: San Francisco, CA, USA
+
+**Professional Summary**
+------------------------
+
+Alex is an experienced Python Developer with a strong background in data engineering and DevOps practices. He has expertise in various technologies including Django, FastAPI, PostgreSQL, and cloud technologies.
+
+**Skills**
+----------
+
+Some of Alex's key skills include:
+
+* Programming Languages: Python, JavaScript, SQL, Bash
+* Frameworks: Django, FastAPI, Flask, React
+* Databases: PostgreSQL, MongoDB, Redis
+* Cloud: AWS (EC2, S3, Lambda), Docker, Kubernetes
+* Machine Learning: TensorFlow, PyTorch, scikit-learn
+* Tools: Git, Jenkins, Terraform, Grafana
+
+**Work Experience**
+-------------------
+
+Alex has worked as a Senior Python Developer at TechCorp Inc. since January 2021 and previously held positions at DataFlow Systems and StartupXYZ.
+
+References:
+* [DC] unknown_source

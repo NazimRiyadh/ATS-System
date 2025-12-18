@@ -126,7 +126,7 @@ class RAGManager:
                 ),
                 
                 # Reranking Configuration
-                rerank_model_func=rerank_func,
+                # rerank_model_func=rerank_func,  # REMOVED: Not supported in this LightRAG version
                 
                 # Storage Configuration - Use PostgreSQL and Neo4j
                 kv_storage="PGKVStorage",                    # PostgreSQL for key-value
@@ -146,8 +146,9 @@ class RAGManager:
             try:
                 from lightrag.prompt import PROMPTS
                 
-                # Update prompts and delimiters
-                PROMPTS["entity_extraction"] = ATS_ENTITY_EXTRACTION_PROMPT
+                # Override the entity extraction prompt with ATS-specific version
+                # Correct key for LightRAG 1.4.9.8 is "entity_extraction_system_prompt"
+                PROMPTS["entity_extraction_system_prompt"] = ATS_ENTITY_EXTRACTION_PROMPT
                 PROMPTS["DEFAULT_TUPLE_DELIMITER"] = "###"
                 PROMPTS["DEFAULT_RECORD_DELIMITER"] = "\n"
                 PROMPTS["DEFAULT_COMPLETION_DELIMITER"] = "\n\n"
@@ -190,13 +191,28 @@ class RAGManager:
                             new_results.extend(r.split(marker))
                         results = new_results
                     
-                    # Clean up results
                     results = [r.strip() for r in results if r.strip()]
+                    
+                    # SMART FIX: Auto-correct mislabeled relationships
+                    # If we find 5 fields labeled as "entity", change it to "relationship"
+                    # This fixes the issue where Llama 3.1 outputs ("entity", src, rel, tgt, ev)
+                    if len(results) == 5 and results[0] and "entity" in results[0].lower():
+                        results[0] = results[0].lower().replace("entity", "relationship")
+                        # print(f"DEBUG: Smart-corrected 'entity' -> 'relationship' for {results}")
                     
                     return results
 
-                # Overwrite the utility function directly
+                # Overwrite the utility function directly in utils
                 lightrag.utils.split_string_by_multi_markers = robust_split_string_by_multi_markers
+                
+                # Also overwrite in operate module if it was imported directly
+                try:
+                    import lightrag.operate
+                    lightrag.operate.split_string_by_multi_markers = robust_split_string_by_multi_markers
+                    logger.info("Applied Robust Parser monkey patch to lightrag.operate")
+                except ImportError:
+                    pass
+                    
                 logger.info("Applied Robust Parser monkey patch (fixes 'found X/Y fields' errors)")
                 
             except Exception as e:
@@ -208,10 +224,10 @@ class RAGManager:
             
             # Post-init concurrency configuration
             # Setting these attributes directly since __init__ rejected them
-            self._rag.embedding_func_max_async = 1
-            self._rag.map_func_max_async = 1
-            self._rag.reduce_func_max_async = 1
-            self._rag.llm_model_func_max_async = 1
+            self._rag.embedding_func_max_async = 3
+            self._rag.map_func_max_async = 3
+            self._rag.reduce_func_max_async = 3
+            self._rag.llm_model_func_max_async = 3
             print("Configured single-worker concurrency for Llama 3.1")
             logger.debug("RAG storages initialized")
             
