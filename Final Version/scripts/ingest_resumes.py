@@ -45,7 +45,8 @@ async def main(args):
     
     result = await ingest_resumes_from_directory(
         directory=str(directory),
-        batch_size=args.batch_size
+        batch_size=args.batch_size,
+        force=args.force
     )
     
     # Print summary
@@ -53,13 +54,14 @@ async def main(args):
     print("Ingestion Complete")
     print("="*50)
     print(f"  Total files: {result.total_files}")
+    print(f"  Skipped: {result.skipped}")
     print(f"  Successful: {result.successful}")
     print(f"  Failed: {result.failed}")
     print(f"  Time: {result.total_time:.2f}s")
     
-    if result.total_files > 0:
-        rate = result.total_files / result.total_time
-        print(f"  Rate: {rate:.2f} files/sec")
+    if result.total_files - result.skipped > 0:
+        rate = (result.total_files - result.skipped) / result.total_time
+        print(f"  Rate: {rate:.2f} files/sec (active)")
     
     if result.failed > 0:
         print("\nFailed files:")
@@ -84,6 +86,11 @@ if __name__ == "__main__":
         type=int,
         default=1,
         help="Batch size for concurrent processing (default: 1)"
+    )
+    parser.add_argument(
+        "--force", "-f",
+        action="store_true",
+        help="Force re-ingestion of all files (ignores state)"
     )
     
     args = parser.parse_args()

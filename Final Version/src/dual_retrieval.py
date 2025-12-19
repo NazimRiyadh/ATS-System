@@ -255,7 +255,7 @@ async def chat_with_dual_retrieval(
     try:
         raw_context = await rag.aquery(
             query,
-            param=QueryParam(mode="naive", only_need_context=True)
+            param=QueryParam(mode=mode, only_need_context=True)
         )
         logger.info(f"📄 Retrieved {len(raw_context) if raw_context else 0} chars of raw context")
     except Exception as e:

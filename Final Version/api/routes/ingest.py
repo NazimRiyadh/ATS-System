@@ -125,7 +125,8 @@ async def ingest_batch_resumes(request: BatchIngestionRequest):
     try:
         result = await ingest_resumes_from_directory(
             directory=str(directory),
-            batch_size=request.batch_size
+            batch_size=request.batch_size,
+            force=request.force
         )
         
         # Collect failed file paths
@@ -139,6 +140,7 @@ async def ingest_batch_resumes(request: BatchIngestionRequest):
             total_files=result.total_files,
             successful=result.successful,
             failed=result.failed,
+            skipped=result.skipped,
             total_time=result.total_time,
             failed_files=failed_files
         )

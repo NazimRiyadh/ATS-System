@@ -94,38 +94,49 @@ class OllamaAdapter:
             }
         }
         
-        if "llama3.1" in self.model:
-            # Detect if this is an entity extraction prompt (needs strict settings)
-            is_entity_extraction = any(kw in prompt.lower() for kw in ["entity", "extract", "tuple", "relationship"])
+        # Dynamic Model Routing
+        # Default to configured model (Llama 3.1)
+        current_model = self.model
+        
+        # Detect if this is an entity extraction task
+        is_entity_extraction = any(kw in prompt.lower() for kw in ["entity", "extract", "tuple", "relationship"])
+        
+        if is_entity_extraction:
+            # SWITCH TO EXTRACTION MODEL (Qwen 2.5 3B)
+            current_model = settings.llm_extraction_model
+            logger.info(f"🔄 Routing to Extraction Model: {current_model}")
             
-            if is_entity_extraction:
-                # 1. Force an "ATS Knowledge Graph Extraction" persona for Llama 3.1
-                if not system_prompt:
-                    system_prompt = (
-                        "You are a precise ATS knowledge graph extraction engine. "
-                        "Extract entities and relationships EXACTLY as specified in the schema. "
-                        "Output ONLY valid tuples with | delimiter. "
-                        "Do NOT add markdown, explanations, or inferred information."
-                    )
-                
-                # 2. Configure Strict Options for entity extraction
-                payload["options"] = {
-                    "temperature": 0.0,      # Absolute determinism
-                    "num_predict": 2048,     # Reduced window for extraction
-                    "top_p": 0.1,            # Restrict vocabulary to most likely tokens
-                    # CRITICAL: Stop tokens for extraction (NOT for chat)
-                    "stop": ["\n\n\n", "User:", "Observation:", "Text:"]
-                }
-            else:
-                # For chat/QA prompts - use more relaxed settings
-                payload["options"] = {
-                    "temperature": 0.1,       # Slight creativity allowed
-                    "num_predict": 4096,      # Full response length for chat
-                    "top_p": 0.9,             # Allow more varied vocabulary
-                    # Minimal stop tokens for chat - let the model complete naturally
-                    "stop": ["\n\n\n\n", "<|end|>", "</s>"],
-                    "num_gpu": 999            # Force GPU offloading
-                }
+            # 1. Force an "ATS Knowledge Graph Extraction" persona
+            if not system_prompt:
+                system_prompt = (
+                    "You are a precise ATS knowledge graph extraction engine. "
+                    "Extract entities and relationships EXACTLY as specified in the schema. "
+                    "Output ONLY valid tuples with | delimiter. "
+                    "Do NOT add markdown, explanations, or inferred information."
+                )
+            
+            # 2. Configure Strict Options for extraction
+            payload["options"] = {
+                "temperature": 0.0,      # Absolute determinism
+                "num_predict": 2048,     # Reduced window for extraction
+                "top_p": 0.1,            # Restrict vocabulary
+                "stop": ["\n\n\n", "User:", "Observation:", "Text:"]
+            }
+        else:
+            # USE CHAT MODEL (Llama 3.1 8B)
+            logger.info(f"💬 Routing to Chat Model: {current_model}")
+            
+            # For chat/QA prompts - use more relaxed settings
+            payload["options"] = {
+                "temperature": 0.1,       # Slight creativity allowed
+                "num_predict": 4096,      # Full response length for chat
+                "top_p": 0.9,             # Allow more varied vocabulary
+                "stop": ["\n\n\n\n", "<|end|>", "</s>"],
+                "num_gpu": 999            # Force GPU offloading
+            }
+            
+        # Update payload with routed model
+        payload["model"] = current_model
         
         # Override options with kwargs if provided
         for k, v in kwargs.items():

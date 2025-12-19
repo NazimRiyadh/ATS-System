@@ -20,6 +20,7 @@ class BatchIngestionRequest(BaseModel):
     directory: str = Field(..., description="Directory containing resume files")
     batch_size: int = Field(default=5, ge=1, le=20, description="Processing batch size")
     recursive: bool = Field(default=True, description="Search subdirectories")
+    force: bool = Field(default=False, description="Force re-ingestion of all files")
 
 
 class JobAnalysisRequest(BaseModel):
@@ -83,6 +84,7 @@ class BatchIngestionResponse(BaseModel):
     total_files: int
     successful: int
     failed: int
+    skipped: int = 0
     total_time: float
     failed_files: List[str] = Field(default_factory=list)
 

@@ -80,5 +80,45 @@ async def inspect():
 
     await conn.close()
 
+    # 4. Check Neo4j
+    print("-" * 40)
+    print("🕸️ Neo4j GRAPH DATA:")
+    
+    from neo4j import GraphDatabase
+    
+    NEO4J_URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
+    NEO4J_USER = os.getenv("NEO4J_USERNAME", "neo4j")
+    NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "password")
+    
+    try:
+        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+        driver.verify_connectivity()
+        print(f"✅ Connected to Neo4j at {NEO4J_URI}")
+        
+        with driver.session() as session:
+            # Count nodes
+            node_counts = session.run("""
+                MATCH (n) 
+                RETURN head(labels(n)) as Label, count(n) as Count 
+                ORDER BY Count DESC
+            """)
+            
+            print("\nNode Counts:")
+            print(tabulate(node_counts.values(), headers=["Label", "Count"], tablefmt="simple"))
+            
+            # Count relationships
+            rel_counts = session.run("""
+                MATCH ()-[r]->() 
+                RETURN type(r) as Type, count(r) as Count 
+                ORDER BY Count DESC LIMIT 10
+            """)
+            print("\nTop 10 Relationships:")
+            print(tabulate(rel_counts.values(), headers=["Type", "Count"], tablefmt="simple"))
+            
+        driver.close()
+    except Exception as e:
+        print(f"❌ Neo4j Error: {e}")
+
+
 if __name__ == "__main__":
     asyncio.run(inspect())

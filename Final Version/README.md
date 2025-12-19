@@ -5,6 +5,8 @@ Production-ready Applicant Tracking System with dual-level retrieval combining v
 ## Features
 
 - **Dual-Level Retrieval**: Combines vector similarity search (PostgreSQL/pgvector) with knowledge graph traversal (Neo4j)
+- **Status-Aware Ingestion**: Incremental processing with state tracking (skips unchanged files)
+- **Adaptive Model Routing**: Uses Qwen 2.5 3B for high-speed extraction and Llama 3.1 8B for reasoning
 - **5 Retrieval Modes**: naive, local, global, hybrid, mix - with automatic fallback
 - **Resume Ingestion**: Supports PDF, DOCX, and TXT formats
 - **Job-Based Analysis**: Shortlist candidates based on job descriptions
@@ -19,7 +21,8 @@ Production-ready Applicant Tracking System with dual-level retrieval combining v
 | RAG System | LightRAG                             |
 | Vector DB  | PostgreSQL 16 + pgvector             |
 | Graph DB   | Neo4j                                |
-| LLM        | Ollama + Qwen 2.5:7b                 |
+| LLM (Chat) | Ollama + Llama 3.1 8B                |
+| LLM (Extr) | Ollama + Qwen 2.5 3B                 |
 | Embeddings | BAAI/bge-m3 (1024 dim)               |
 | Reranking  | cross-encoder/ms-marco-MiniLM-L-6-v2 |
 
@@ -30,7 +33,8 @@ Production-ready Applicant Tracking System with dual-level retrieval combining v
 - **OS**: Windows 10/11 (Project configured for Windows)
 - **Python**: 3.10+
 - **Docker & Docker Compose** (for Database containers)
-- **Ollama**: Installed and running (Model: `llama3.1:8b`) [Download Ollama](https://ollama.com/)
+- **Ollama**: Installed and running [Download Ollama](https://ollama.com/)
+  - Required Models: `ollama pull llama3.1:8b` and `ollama pull qwen2.5:3b`
 - **GPU (Optional but Recommended)**: NVIDIA GPU with CUDA support for faster embeddings
 
 ### 2. Automated Setup (Recommended)
@@ -69,7 +73,11 @@ pip install -r requirements.txt
 
    ```powershell
    # Place resume files (PDF/DOCX/TXT) in data/resumes/
+   # Standard run (Incremental - skips existing):
    .\venv\Scripts\python scripts/ingest_resumes.py --dir data/resumes --batch-size 5
+
+   # Force re-ingestion of all files:
+   .\venv\Scripts\python scripts/ingest_resumes.py --dir data/resumes --force
 ````
 
 4. **Run API Server**:
@@ -205,9 +213,11 @@ docker-compose logs postgres
 ### Ollama Issues
 
 ```powershell
-# Check model
+# Check models
 ollama list
-ollama pull qwen2.5:7b
+# Pull required models
+ollama pull llama3.1:8b
+ollama pull qwen2.5:3b
 ```
 
 ## License
