@@ -48,3 +48,13 @@
 
 - **Missing DLLs**: If you get import errors for `torch` or `pydantic`, ensure the virtual environment is activated.
 - **Database Connection**: Check Docker logs (`docker-compose logs postgres`) if valid connection fails.
+
+## Important Note on Copying/Moving the Project
+
+If you copy this project folder to a new location (even on the same machine):
+
+1.  **Virtual Environments**: You MUST delete `venv` and `venv312` and run `setup_env.bat` again. They are not portable.
+2.  **Database State (Critical)**:
+    - **PostgreSQL**: Docker volumes are based on the folder name. A copy will start with an **EMPTY** vector database.
+    - **Neo4j**: If running locally (default), it shares the **SAME** graph database.
+    - **Risk**: This creates a mismatch (empty vectors vs. populated graph). You should reset the databases or use distinct ports in `.env` for the new copy.
