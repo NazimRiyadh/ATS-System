@@ -211,6 +211,78 @@ NEO4J_PASSWORD=<your-password>
 
 ## Contact & Notes
 
-**Last Updated**: 2025-12-11  
-**Status**: Production-ready with `naive` mode recommendation  
-**Next Review**: After full data ingestion
+**Last Updated**: 2025-12-13  
+**Status**: Mix mode implemented with automatic fallback  
+**Next Review**: After storage cleanup and re-ingestion
+
+---
+
+## Recent Updates (2025-12-13)
+
+### ✅ Mix Mode Implementation
+
+**Goal**: Enable LightRAG mix mode (KG + Vector) with robust error handling
+
+**Changes Made**:
+
+1. **Storage Cleanup Script** (`clean_rag_storage.py`)
+
+   - Comprehensive cleanup of PostgreSQL tables
+   - Neo4j graph database clearing
+   - Local JSON file removal in `rag_storage/`
+   - Safety prompts to prevent accidental data loss
+
+2. **API Enhancement** (`main.py`)
+
+   - Added `mode` parameter to `JobChatRequest` model
+   - Default: `"mix"` (can be overridden per request)
+   - Supports: `naive`, `local`, `global`, `hybrid`, `mix`
+
+3. **Intelligent Fallback** (`src/job_manager.py`)
+
+   - Automatic fallback from mix → naive if mix fails
+   - Detailed logging with emojis for debugging
+   - Graceful error handling with user-friendly messages
+
+4. **Mode Validation** (`validate_modes.py`)
+
+   - Tests all 5 retrieval modes
+   - Shows success/failure for each mode
+   - Provides troubleshooting guidance
+
+5. **Documentation** (`API_DOCUMENTATION.md`, `MIX_MODE_GUIDE.md`)
+   - Complete API documentation for mode parameter
+   - Step-by-step usage guide
+   - Troubleshooting section
+
+**Usage**:
+
+```python
+# API request with mix mode
+{
+  "job_id": "JOB_001",
+  "message": "Who has AWS experience?",
+  "mode": "mix"  # Automatic fallback to naive if needed
+}
+```
+
+**Workflow**:
+
+1. Run: `python clean_rag_storage.py` (clean everything)
+2. Run: `python batch_ingest.py --dir ./resumes --batch 10` (re-ingest)
+3. Test: `python validate_modes.py` (verify modes)
+4. Start: `python main.py` (run API)
+
+**Benefits**:
+
+- ✅ Mix mode now properly supported
+- ✅ Automatic fallback ensures no crashes
+- ✅ User can choose retrieval strategy
+- ✅ Better observability with detailed logs
+- ✅ Fresh schema after cleanup
+
+**Known Behavior**:
+
+- Mix/hybrid modes may still fail on some LightRAG versions
+- Fallback to naive mode is automatic and transparent
+- Naive mode is recommended for production stability
